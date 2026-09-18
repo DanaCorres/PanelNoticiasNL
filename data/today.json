@@ -1,8 +1,16 @@
 {
   "date": "2026-09-17",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan presunto feminicida de estudiante española Claudia Tacoronte",
+        "summary": "Detienen a sospechoso en Morelos por el homicidio de la joven española estudiante en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nacional/detienen-a-el-trompas-presunto-feminicida-de-claudia-tacoronte/2637671363",
+        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+      },
       {
         "title": "Decomiso récord de 59 millones de litros de huachicol",
         "summary": "Autoridades aseguran la mayor cantidad de combustible robado durante la administración actual en operativo en Nuevo León.",
@@ -102,6 +110,62 @@
     ],
     "politica": [
       {
+        "title": "Herrera critica presunto abandono de De la Garza al sistema de cuidados",
+        "summary": "Funcionario estatal apunta contra colega por falta de atención a política social en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/herrera-apunta-contra-de-la-garza-por-presunto-abandono-al-sistema-de-cuidados-6301/",
+        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+      },
+      {
+        "title": "Beto Anaya muestra sintonía con Dante tras ausentarse de destapes",
+        "summary": "Diputado de Morena manifiesta alineamiento con gobernador pese a no participar en convocatorias partidistas.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/tras-ausentarse-en-los-destapes-de-morena-beto-anaya-muestra-sintonia-con-dante-en-nl-4608/",
+        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+      },
+      {
+        "title": "Somos y Vida NL sondean a Idelfonso Guajardo para candidatura",
+        "summary": "Partidos político-electorales evalúan postulación de empresario para elección de gobernador.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/somos-y-vida-nl-sondean-a-idelfonso-guajardo-para-la-candidatura-a-la-gubernatura/",
+        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+      },
+      {
+        "title": "Samuel revoca medida de Pase Turístico tras polémica",
+        "summary": "Gobernador retira decisión sobre cobro a visitantes tras crítica generalizada, ofrece más facilidades.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/tras-polemica-samuel-revoca-la-medida-del-pase-turistico-daremos-mas-facilidades-6850/",
+        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+      },
+      {
+        "title": "PRI-PAN insiste en 'blindar finanzas' de Agua y Drenaje",
+        "summary": "Alianza opositora busca asegurar autonomía presupuestaria del organismo municipal.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-frente-pri-pan-insiste-en-blindar-finanzas-de-agua-y-drenaje-1573/",
+        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+      },
+      {
+        "title": "PT insiste en candidatura independiente para gobernatura 2027",
+        "summary": "Partido demanda ir en solitario sin coalición y pide candidato propio para próximas elecciones.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-pt-insiste-en-ir-en-solitario-en-nuevo-leon-y-pide-otra-gubernatura-en-el-2027-9807/",
+        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+      },
+      {
+        "title": "Fasci ratifica denuncia contra UANL; PRI-PAN abre frente con MC",
+        "summary": "Congresista mantiene acusaciones contra universidad; alianza opositora enfrenta conflicto con Movimiento Ciudadano.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/fasci-ratifico-su-denuncia-contra-la-uanl-y-el-pri-pan-abre-frente-contra-mc-8339/",
+        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+      },
+      {
         "title": "Samuel convoca a unidad entre Congreso y municipios",
         "summary": "Gobernador exhorta a autoridades locales y legislativas a trabajar coordinadamente.",
         "zona": "Nuevo León",
@@ -196,6 +260,30 @@
     ],
     "sociedad": [
       {
+        "title": "Refinería de Cadereyta: sin resultados tras inspección por olores",
+        "summary": "Autoridades aún esperan reportes finales de evaluación ambiental sobre contaminación reportada.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/refineria-de-cadereyta-aun-no-hay-resultados-sobre-olores",
+        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+      },
+      {
+        "title": "PAN propone Hipoteca Inversa para adultos mayores en NL",
+        "summary": "Partido busca permitir a jubilados monetizar vivienda para generar ingresos en vejez.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/nuevo-leon-pan-propone-hipoteca-inversa-para-adultos-mayores",
+        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+      },
+      {
+        "title": "Especialistas de UANL piden no normalizar la migraña",
+        "summary": "Médicos advierten sobre automedicación y llaman a atención profesional para padecimiento frecuente.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/ciencia-y-salud/piden-especialistas-uanl-no-normalizar-migrana-ni-automedicarse",
+        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+      },
+      {
         "title": "SET investiga escuelas militarizadas irregulares",
         "summary": "Secretaría de Educación actúa contra planteles que funcionan sin autorización oficial en la entidad.",
         "zona": "Nuevo León",
@@ -245,5 +333,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-17T18:45:56.632116-06:00"
+  "last_updated": "2026-09-17T19:15:55.755339-06:00"
 }
