@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Panel de noticias — Nuevo León</title>
+<style>
+  :root{
+    --bg:#f6f5f1; --card:#ffffff; --border:#e3e1d8;
+    --text:#1c1c1a; --muted:#6b6a63; --hint:#96958c;
+    --seguridad:#a32d2d; --politica:#185fa5; --economia:#3b6d11; --sociedad:#534ab7;
+    --eventos:#a8631a;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#141412; --card:#1e1e1b; --border:#33322c;
+      --text:#f1efe8; --muted:#b4b2a9; --hint:#888780;
+    }
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; padding:2rem 1rem 4rem; background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  .wrap{max-width:800px; margin:0 auto;}
+  header{display:flex; justify-content:space-between; align-items:baseline; flex-wrap:wrap; gap:8px; margin-bottom:1.75rem;}
+  h1{font-size:22px; font-weight:600; margin:0;}
+  .sub{font-size:13px; color:var(--muted); margin:4px 0 0;}
+  .stats{display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr)); gap:12px; margin-bottom:2rem;}
+  .stat{background:var(--card); border:1px solid var(--border); border-radius:10px; padding:1rem;}
+  .stat p:first-child{font-size:12.5px; color:var(--muted); margin:0 0 4px;}
+  .stat p:last-child{font-size:22px; font-weight:600; margin:0;}
+  section{margin-bottom:2rem;}
+  .section-title{display:flex; align-items:center; gap:8px; margin:0 0 10px;}
+  .section-title h2{font-size:16px; font-weight:600; margin:0;}
+  .dot{width:10px; height:10px; border-radius:50%;}
+  .card{background:var(--card); border:1px solid var(--border); border-left-width:3px; border-radius:6px; padding:10px 14px; margin-bottom:8px;}
+  .card h3{font-size:14.5px; font-weight:600; margin:0 0 4px;}
+  .card p{font-size:13px; color:var(--muted); margin:0 0 4px; line-height:1.5;}
+  .card .src{font-size:11.5px; color:var(--hint); margin:0;}
+  .seguridad{border-left-color:var(--seguridad);}
+  .politica{border-left-color:var(--politica);}
+  .economia{border-left-color:var(--economia);}
+  .sociedad{border-left-color:var(--sociedad);}
+  .eventos{border-left-color:var(--eventos);}
+  footer{font-size:11.5px; color:var(--hint); border-top:1px solid var(--border); padding-top:1rem; margin-top:1rem;}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div>
+      <h1>Nuevo León — panel de noticias</h1>
+      <p class="sub">Actualizado automáticamente: 17 de September de 2026, 18:36 (hora de Monterrey)</p>
+    </div>
+  </header>
+
+  <div class="stats">
+    <div class="stat"><p>Seguridad</p><p>7 notas</p></div>
+<div class="stat"><p>Política y gobierno</p><p>3 notas</p></div>
+<div class="stat"><p>Economía</p><p>3 notas</p></div>
+<div class="stat"><p>Eventos y cultura</p><p>4 notas</p></div>
+<div class="stat"><p>Sociedad y deportes</p><p>4 notas</p></div>
+  </div>
+
+  <section>
+<div class="section-title"><span class="dot" style="background:var(--seguridad)"></span><h2>Seguridad</h2></div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.posta.com.mx/mexico/detienen-al-presunto-feminicida-de-claudia-tacoronte-joven-espanola-en-cuautla/vl2255941" style="color:inherit;text-decoration:none">Capturan a sospechoso de feminicidio de Claudia Tacoronte</a></h3>
+  <p>Detienen a Javier "N" como presunto responsable del homicidio de la joven española en Cuautla.</p>
+  <p class="src">Posta · Nuevo León</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.milenio.com/policia/caen-el-fiera-y-coreano-por-extorsionar-a-77-negocios-carnicos" style="color:inherit;text-decoration:none">Extorsionadores operaban en negocios cárnicos del área</a></h3>
+  <p>Capturan a 'El Fiera' y 'El Coreano' por extorsionar a 77 negocios de venta de carne en la zona.</p>
+  <p class="src">Milenio Monterrey · Monterrey</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.telediario.mx/policia/general-bravo-nuevo-leon-banda-de-robacoches-cae-tras-persecusion" style="color:inherit;text-decoration:none">Banda de robacoches cae tras persecución en General Bravo</a></h3>
+  <p>Capturan a integrantes de grupo dedicado al robo de vehículos tras operativo y persecución.</p>
+  <p class="src">Telediario Monterrey · Nuevo León</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.tvazteca.com/aztecanoticias/fotos-cae-en-hidalgo-nuevo-leon-sicarios-del-cdn-arsenal-del-ejercito-y-fusil" style="color:inherit;text-decoration:none">Operativo contra sicarios del Cártel del Noreste</a></h3>
+  <p>Capturan a presuntos sicarios con arsenal militar y fusil para derribar aeronaves en Hidalgo.</p>
+  <p class="src">TV Azteca · Nuevo León</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.milenio.com/estados/muere-bebe-golpe-cabeza-catean-vivienda-zuazua-nuevo-leon" style="color:inherit;text-decoration:none">Catean casa tras muerte de bebé en Zuazua</a></h3>
+  <p>Investigan muerte de menor por golpe en la cabeza; realizan allanamiento en vivienda del municipio.</p>
+  <p class="src">Milenio Monterrey · Nuevo León</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://www.telediario.mx/policia/apodaca-hombres-armados-desatan-persecucion-y-balacera" style="color:inherit;text-decoration:none">Persecución y balacera en Apodaca deja hombres armados</a></h3>
+  <p>Hombres armados desatan persecución y tiroteo; logran escapar tras enfrentamiento.</p>
+  <p class="src">Telediario Monterrey · Área metropolitana</p>
+</div>
+
+<div class="card seguridad">
+  <h3><a href="https://elporvenir.mx/justicia/vinculan-a-proceso-a-policia-de-zuazua-por-agresion-a-mujer-detenida/1025954" style="color:inherit;text-decoration:none">Policía vinculado a proceso por agresión en Zuazua</a></h3>
+  <p>Elemento de seguridad local enfrenta cargos por violencia contra mujer detenida.</p>
+  <p class="src">El Porvenir · Nuevo León</p>
+</div>
+</section>
+<section>
+<div class="section-title"><span class="dot" style="background:var(--politica)"></span><h2>Política y gobierno</h2></div>
+
+<div class="card politica">
+  <h3><a href="https://elporvenir.mx/local/llama-samuel-a-congreso-y-municipios-a-apostar-por-la-unidad/1026080" style="color:inherit;text-decoration:none">Samuel convoca a unidad entre Congreso y municipios</a></h3>
+  <p>Gobernador exhorta a autoridades locales y legislativas a trabajar coordinadamente.</p>
+  <p class="src">El Porvenir · Nuevo León</p>
+</div>
+
+<div class="card politica">
+  <h3><a href="https://www.telediario.mx/politica/nuevo-leon-pan-propone-hipoteca-inversa-para-adultos-mayores" style="color:inherit;text-decoration:none">PAN propone hipoteca inversa para adultos mayores</a></h3>
+  <p>Partido presenta iniciativa que permitiría a ancianos monetizar su vivienda en Nuevo León.</p>
+  <p class="src">Telediario Monterrey · Nuevo León</p>
+</div>
+
+<div class="card politica">
+  <h3><a href="https://www.telediario.mx/politica/daniel-carrillo-amplia-denuncia-contra-icv-y-busca-eliminar-refrendo" style="color:inherit;text-decoration:none">Carrillo amplía denuncia contra ICV por refrendo</a></h3>
+  <p>Funcionario busca eliminar cobro del refrendo vehicular en la entidad.</p>
+  <p class="src">Telediario Monterrey · Nuevo León</p>
+</div>
+</section>
+<section>
+<div class="section-title"><span class="dot" style="background:var(--economia)"></span><h2>Economía</h2></div>
+
+<div class="card economia">
+  <h3><a href="https://www.tvazteca.com/aztecanoticias/expo-pyme-nuevo-leon-primer-lugar-en-exportaciones-y-seguridad-hidrica-futuras-sequias/" style="color:inherit;text-decoration:none">Nuevo León lidera exportaciones nacionales y busca seguridad hídrica</a></h3>
+  <p>Estado reafirma posición como motor económico; impulsa estrategias ante crisis de agua.</p>
+  <p class="src">TV Azteca · Nuevo León</p>
+</div>
+
+<div class="card economia">
+  <h3><a href="https://www.milenio.com/comunidad/van-nueva-norma-mejorar-calidad-gasolinas-nuevo-leon" style="color:inherit;text-decoration:none">Nueva norma mejorará calidad de gasolinas en Nuevo León</a></h3>
+  <p>Gobierno alista regulación para optimizar estándares de combustibles en la entidad.</p>
+  <p class="src">Milenio Monterrey · Nuevo León</p>
+</div>
+
+<div class="card economia">
+  <h3><a href="https://oem.com.mx/elsoldemexico/mexico/suman-mas-de-mil-millones-de-pesos-en-el-fraude-inmobiliario-de-monterrey-31025828" style="color:inherit;text-decoration:none">Fraude inmobiliario suma más de mil millones de pesos</a></h3>
+  <p>Fiscalía asegura cuentas bancarias de empresa tras estafa a compradores de propiedades.</p>
+  <p class="src">El Sol de México · Monterrey</p>
+</div>
+</section>
+<section>
+<div class="section-title"><span class="dot" style="background:var(--eventos)"></span><h2>Eventos y cultura</h2></div>
+
+<div class="card eventos">
+  <h3><a href="https://www.info7.mx/resultado?query=Iniciar%C3%A1%20la%20UANL%20nuevo%20ciclo%20con%20m%C3%A1s%20de%20220%20mil%20estudiantes" style="color:inherit;text-decoration:none">UANL inicia semestre con más de 220 mil estudiantes</a></h3>
+  <p>Universidad autónoma abre nuevo ciclo académico con matrícula récord.</p>
+  <p class="src">INFO7 · Monterrey</p>
+</div>
+
+<div class="card eventos">
+  <h3><a href="https://horacero.com.mx/nuevo-leon/inicia-uanl-construccion-de-unidad-academica-en-cienega-de-flores" style="color:inherit;text-decoration:none">UANL construye unidad académica en Ciénega de Flores</a></h3>
+  <p>Universidad inicia obras de nueva instalación en municipio de Nuevo León.</p>
+  <p class="src">Hora Cero · Nuevo León</p>
+</div>
+
+<div class="card eventos">
+  <h3><a href="https://www.elhorizonte.mx/resultado?query=SET+va+contra+escuelas%C2%A0militarizadas+irregulares&select=todas" style="color:inherit;text-decoration:none">SET va contra escuelas militarizadas irregulares</a></h3>
+  <p>Secretaría de Educación fiscaliza instituciones no autorizadas con régimen militar.</p>
+  <p class="src">El Horizonte · Nuevo León</p>
+</div>
+
+<div class="card eventos">
+  <h3><a href="https://www.tvazteca.com/aztecanoticias/pase-turistico-nuevo-leon-2026-fecha-inicio-requisitos-y-como-tramitarlo-en-linea/" style="color:inherit;text-decoration:none">Pase Turístico Nuevo León disponible desde octubre</a></h3>
+  <p>Entidad ofrece pase con acceso a atracciones turísticas; abre trámites en línea.</p>
+  <p class="src">TV Azteca · Nuevo León</p>
+</div>
+</section>
+<section>
+<div class="section-title"><span class="dot" style="background:var(--sociedad)"></span><h2>Sociedad y deportes</h2></div>
+
+<div class="card sociedad">
+  <h3><a href="https://www.tvazteca.com/aztecanoticias/preescolar-en-nuevo-leon-solo-61-los-ninos-asistio-al-kinder-y-crece-rezago-educativo/" style="color:inherit;text-decoration:none">Crisis educativa: solo 61% asistió a preescolar</a></h3>
+  <p>Rezago en matrículas de kínder crea riesgo de atraso académico en primaria.</p>
+  <p class="src">TV Azteca · Nuevo León</p>
+</div>
+
+<div class="card sociedad">
+  <h3><a href="https://www.tvazteca.com/aztecanoticias/nuevo-leon-escuela-sin-luz-en-montemorelos-maestra-lupita-lleva-60-anos/" style="color:inherit;text-decoration:none">Maestra Lupita pide electricidad para escuela en Montemorelos</a></h3>
+  <p>Docente de 60 años lidera lucha por dotar de energía eléctrica a su institución.</p>
+  <p class="src">TV Azteca · Nuevo León</p>
+</div>
+
+<div class="card sociedad">
+  <h3><a href="https://elporvenir.mx/local/amplian-programa-monterrey-se-ve-mejor-sin-cataratas/1026092" style="color:inherit;text-decoration:none">Ampliación de programa oftalmológico gratuito en Monterrey</a></h3>
+  <p>Gobierno expande iniciativa 'Monterrey se ve Mejor Sin Cataratas' para más beneficiarios.</p>
+  <p class="src">El Porvenir · Monterrey</p>
+</div>
+
+<div class="card sociedad">
+  <h3><a href="https://info7.mx/nuevoleon/cfe-suspendera-luz-en-cuatro-municipios-de-nuevo-leon/1298746665" style="color:inherit;text-decoration:none">CFE suspenderá servicio eléctrico en cuatro municipios</a></h3>
+  <p>Compañía anuncia cortes programados de energía en localidades de Nuevo León.</p>
+  <p class="src">INFO7 · Nuevo León</p>
+</div>
+</section>
+
+  <footer>
+    Se acumulan las notas relevantes de todo el día (se reinicia a medianoche, hora de
+    Monterrey) — cada 3 horas se revisan las fuentes y se agregan solo notas nuevas,
+    sin borrar las anteriores. Curado con Claude. Este panel se genera por software y puede
+    contener errores o notas fuera de contexto; verifica siempre en la fuente original antes
+    de tomar decisiones basadas en esta información.
+  </footer>
+
+</div>
+</body>
+</html>
