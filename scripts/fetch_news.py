@@ -9,8 +9,13 @@ Cada fuente se declara una sola vez en SOURCES. Para cada una:
 - Si no hay RSS, se scrapea el home (más frágil: puede romperse si el
   medio cambia su HTML).
 
-Facebook / Instagram no se incluyen: requieren login, no son accesibles
-vía script. Ver notas_manuales.json si quieres meter algo a mano.
+Facebook, Instagram y X/Twitter no se incluyen: requieren login, no son
+accesibles vía script. X en particular cerró su API pública y bloquea el
+scraping; no hay forma de leer un timeline desde aquí, y los espejos tipo
+Nitter ya no son confiables. Eso deja fuera a columnistas y cuentas que solo
+publican ahí (Multimedios, MVS Monterrey, Aranda Tamayo, Noticias 28): es un
+hueco real de este panel, no un pendiente. Ver notas_manuales.json si quieres
+meter algo a mano.
 
 Salida: raw_items.json con una lista de {source, title, url, published}
 
@@ -54,6 +59,13 @@ HEADERS = {
 
 SOURCES = [
     # --- Medios con foco político (prioridad editorial) ---
+    # La Política Online: cobertura política profesional con sección propia de
+    # Nuevo León. Es la fuente más directa para la categoría de política.
+    {"name": "La Política Online (NL)",
+     "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/",
+     "zona": "Nuevo León"},
+    {"name": "Informe Regio", "url": "https://informeregio.com/",
+     "zona": "Nuevo León"},
     # Código Magenta: medio digital de análisis político fundado por Ramón
     # Alberto Garza (ex director editorial de El Norte y Reforma). Es la
     # fuente más cercana a lo que te interesa.
@@ -113,6 +125,10 @@ SOURCES = [
      "zona": "Nuevo León"},
 
     # Etiqueta de Monterrey en la Organización Editorial Mexicana.
+    {"name": "Radio Fórmula Monterrey",
+     "url": "https://www.radioformula.com.mx/monterrey",
+     "scrape_only": True, "zona": "Monterrey"},
+
     {"name": "El Sol de México (Monterrey)",
      "url": "https://oem.com.mx/elsoldemexico/tags/temas/monterrey",
      "scrape_only": True, "zona": "Monterrey"},
