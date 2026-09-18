@@ -59,8 +59,9 @@ SOURCES = [
     # fuente más cercana a lo que te interesa.
     {"name": "Código Magenta", "url": "https://codigomagenta.com.mx/",
      "zona": "Nuevo León"},
-    {"name": "Reporte Índigo", "url": "https://www.reporteindigo.com/",
-     "zona": "Nuevo León"},
+    # Reporte Índigo FUERA: 403 por IP de datacenter, no se arregla con headers.
+    # {"name": "Reporte Índigo", "url": "https://www.reporteindigo.com/",
+    #  "zona": "Nuevo León"},
 
     # --- Diarios y portales locales ---
     {"name": "El Horizonte", "url": "https://www.elhorizonte.mx/",
@@ -77,8 +78,10 @@ SOURCES = [
     # --- Televisión ---
     # Canal 28, televisión pública del gobierno del estado. Útil para saber
     # qué está comunicando el gobierno, no como contrapeso.
-    {"name": "Canal 28 (SRTVNL)", "url": "https://www.srtvnl.com/",
-     "zona": "Nuevo León"},
+    # Canal 28 FUERA: responde 200 pero no trae titulares en el HTML (sitio
+    # armado con JavaScript). No se puede scrapear así.
+    # {"name": "Canal 28 (SRTVNL)", "url": "https://www.srtvnl.com/",
+    #  "zona": "Nuevo León"},
 
     # --- Secciones de medios nacionales (sin RSS por sección: se scrapean) ---
     # Estas son páginas de tema, no portadas, así que ya vienen filtradas
@@ -100,9 +103,14 @@ SOURCES = [
      "scrape_only": True, "zona": "Nuevo León"},
 
     # EIT Media: periódico digital regio que hace investigación con solicitudes
-    # de transparencia. Tiene dos dominios activos; si este no trae nada,
-    # probar https://eitmedia.tech/ (parece WordPress, con /category/local/).
-    {"name": "EIT Media", "url": "https://www.eitmedia.mx/", "zona": "Monterrey"},
+    # de transparencia. Tiene dos dominios y solo uno sirve: eitmedia.mx no
+    # suelta titulares en el HTML (probado: 0 notas, sin error), mientras que
+    # eitmedia.tech es WordPress con HTML normal y sí funciona. Se apunta a sus
+    # dos categorías útiles en lugar del home.
+    {"name": "EIT Media (local)", "url": "https://eitmedia.tech/category/local/",
+     "zona": "Monterrey"},
+    {"name": "EIT Media (política)", "url": "https://eitmedia.tech/category/politica/",
+     "zona": "Nuevo León"},
 
     # Etiqueta de Monterrey en la Organización Editorial Mexicana.
     {"name": "El Sol de México (Monterrey)",
