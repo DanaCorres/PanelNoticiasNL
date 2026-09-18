@@ -1,8 +1,48 @@
 {
   "date": "2026-09-17",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Decomiso récord de 59 millones de litros de huachicol",
+        "summary": "Autoridades aseguran la mayor cantidad de combustible robado durante la administración actual en operativo en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/59-millones-de-litros-el-mayor-decomiso-de-huachicol-en-la-4t/",
+        "_added_at": "2026-09-17T18:45:56.632116-06:00"
+      },
+      {
+        "title": "Capturan a presunto feminicida de Claudia Tacoronte",
+        "summary": "Detienen a Javier 'N' por el homicidio de la joven española en Cuautla; caso bajo investigación fiscal.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/resultado?query=Trump+abre+negociaci%C3%B3n+con+Ir%C3%A1n%3B+inician+pl%C3%A1ticas+este+lunes&select=todas",
+        "_added_at": "2026-09-17T18:45:56.632116-06:00"
+      },
+      {
+        "title": "Capturan a 'El Ciego' del Cártel de Sinaloa",
+        "summary": "Autoridades detienen a miembro de organización delictiva vinculada al grupo criminal en operativo en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/09/17/capturan-a-el-ciego-integrante-de-grupo-vinculado-al-cartel-de-sinaloa/",
+        "_added_at": "2026-09-17T18:45:56.632116-06:00"
+      },
+      {
+        "title": "Catean inmueble en Juárez por robo de cobre",
+        "summary": "Operativo realizado en Montebello investiga sustracción de seis millones de pesos en material metálico.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/catean-inmueble-en-juarez-por-robo-de-6-millones-en-cobre/4355955500",
+        "_added_at": "2026-09-17T18:45:56.632116-06:00"
+      },
+      {
+        "title": "Capturan banda especializada en robo de vehículos",
+        "summary": "Tras persecución en General Bravo detienen a tres sujetos con historial de asaltos vehiculares.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/capturan-a-tres-tras-persecucion-y-balacera-en-general-bravo/v3156091839",
+        "_added_at": "2026-09-17T18:45:56.632116-06:00"
+      },
       {
         "title": "Capturan a sospechoso de feminicidio de Claudia Tacoronte",
         "summary": "Detienen a Javier \"N\" como presunto responsable del homicidio de la joven española en Cuautla.",
@@ -114,6 +154,14 @@
     ],
     "eventos": [
       {
+        "title": "Regios disfrutan desfile cívico-militar por patria",
+        "summary": "Miles participan en celebración de independencia con marchas institucionales en municipios de la entidad.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/disfrutan-regios-del-desfile-civico--militar/1026082",
+        "_added_at": "2026-09-17T18:45:56.632116-06:00"
+      },
+      {
         "title": "UANL inicia semestre con más de 220 mil estudiantes",
         "summary": "Universidad autónoma abre nuevo ciclo académico con matrícula récord.",
         "zona": "Monterrey",
@@ -148,6 +196,22 @@
     ],
     "sociedad": [
       {
+        "title": "SET investiga escuelas militarizadas irregulares",
+        "summary": "Secretaría de Educación actúa contra planteles que funcionan sin autorización oficial en la entidad.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/resultado?query=SET+va+contra+escuelas%C2%A0militarizadas+irregulares&select=todas",
+        "_added_at": "2026-09-17T18:45:56.632116-06:00"
+      },
+      {
+        "title": "Oso merodeador causa alarma en zonas urbanas",
+        "summary": "Animal atraído por basura ingresa a domicilios y causa heridas; autoridades atienden incidentes recurrentes.",
+        "zona": "Monterrey",
+        "source": "TV Azteca Nuevo León",
+        "url": "https://www.tvazteca.com/aztecanoticias/oso-come-bolsas-plastico-y-sufre-vomito-basura-lo-atrae-a-zonas-urbanas-nuevo-leon/",
+        "_added_at": "2026-09-17T18:45:56.632116-06:00"
+      },
+      {
         "title": "Crisis educativa: solo 61% asistió a preescolar",
         "summary": "Rezago en matrículas de kínder crea riesgo de atraso académico en primaria.",
         "zona": "Nuevo León",
@@ -181,5 +245,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-17T18:36:11.842546-06:00"
+  "last_updated": "2026-09-17T18:45:56.632116-06:00"
 }
