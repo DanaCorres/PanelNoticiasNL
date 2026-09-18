@@ -1,8 +1,56 @@
 {
   "date": "2026-09-18",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Exdirectivo de supermercados procesado por fraude de 57 millones",
+        "summary": "Vinculan a directivo por presunto fraude millonario en cadena de supermercados en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/fraude-de-mas-de-57-mdp-en-nl",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Hombre asesinado en ataque a balazos en Monterrey",
+        "summary": "Víctima fallece tras ser atacada en el cruce de Almazán y Rodrigo Gómez durante traslado al hospital.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/ataque-a-balazos-deja-a-un-hombre-sin-vida-en-monterrey/v7535864636",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Detienen presunto integrante del CDN con drogas en NL",
+        "summary": "Capturan a 'El Chiquitín', presunto miembro del Cártel del Noreste, con narcóticos en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/video-el-chiquitin-detienen-en-nuevo-leon-a-presunto-integrante-del-cdn-por-narcoticos/v-vl2256224",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Desaparece madre y dos hijas en Guadalupe",
+        "summary": "Se reporta la desaparición de una mujer adulta y sus dos hijas menores en municipio del área metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/desaparece-madre-y-guadalupe",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Fiscalía investiga discriminación en antro de San Pedro",
+        "summary": "Se abre investigación por denuncia de trato discriminatorio a clientes basado en características físicas en establecimiento nocturno.",
+        "zona": "Área metropolitana",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/video-fiscalia-de-nuevo-leon-investiga-presunta-discriminacion-en-antro-de-san-pedro/v-vl2256246",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Hombre condenado a 30 años por violencia contra mujer",
+        "summary": "Sentencian a 30 años de prisión a responsable de violencia intrafamiliar grave en Juárez.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/hombre-recibe-30-anos-prision-violencia-mujer-nl",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
       {
         "title": "Capturan a presuntos responsables de feminicidios en Nuevo León",
         "summary": "Autoridades confirman detención de sospechosos relacionados con casos de feminicidio, con investigación en curso sobre los implicados.",
@@ -74,41 +122,25 @@
         "source": "El Porvenir",
         "url": "https://elporvenir.mx/justicia/capturan-a-tres-por-robo-violento-de-una-camioneta/1026347",
         "_added_at": "2026-09-18T00:24:08.306215-06:00"
-      },
-      {
-        "title": "Presunto atacante capturado tras herir a tres con armas de fuego",
-        "summary": "Detienen a responsable de ataque armado que dejó múltiples víctimas heridas.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/cae-presunto-responsable-de-ataque-a-balazos-que-dejo-tres-heridos/1026317",
-        "_added_at": "2026-09-18T00:24:08.306215-06:00"
-      },
-      {
-        "title": "Joven detenido por herir a menor con arma blanca",
-        "summary": "Capturan a agresor que lesionó a menores de edad usando cuchillo en Guadalupe.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/guadalupe-detienen-a-joven-por-herir-a-menor-con-arma-blanca",
-        "_added_at": "2026-09-18T00:24:08.306215-06:00"
-      },
-      {
-        "title": "Evacuan 209 personas de oficinas del SAT en Monterrey",
-        "summary": "Desalojo de dependencia federal en la capital por reporte de seguridad.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/evacuan-a-209-de-oficinas-del-sat-en-monterrey/1026353",
-        "_added_at": "2026-09-18T00:24:08.306215-06:00"
-      },
-      {
-        "title": "Tres hombres vinculados a proceso por ataque armado",
-        "summary": "Autoridades formalizan imputación contra detenidos por enfrentamiento en General Treviño.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/general-trevino-tres-hombres-son-vinculados-por-ataque-armado",
-        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       }
     ],
     "politica": [
+      {
+        "title": "Piden incluir cuatro municipios en nuevos corredores económicos",
+        "summary": "Solicitan expansión de iniciativa de corredores económicos para beneficiar a municipios adicionales de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/piden-incluir-en-nuevos-corredores-economicos-a-cuatro-municipios/1026395",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Oficializan derogación del Pase Turístico en Nuevo León",
+        "summary": "Se hace efectiva la eliminación del Pase Turístico como requisito de acceso a sitios de interés estatal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/oficializan-la-derogacion-del-pase-turistico/1026396",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
       {
         "title": "Tesorería de NL pide cuentas a municipios por fondos federales",
         "summary": "Administración estatal solicita reportes a alcaldes sobre ejercicio de recursos del FEIEF.",
@@ -168,6 +200,22 @@
     ],
     "economia": [
       {
+        "title": "Colosio exige modernización ambiental de refinería de Cadereyta",
+        "summary": "Funcionario demanda actualización de instalaciones petroleras en municipio de Nuevo León bajo estándares ecológicos.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/luis-donaldo-colosio-exige-modernizar-refineria-cadereyta",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Nuevo León lanza trámite digital de cambio de propietario vehicular",
+        "summary": "Gobierno estatal implementa sistema en línea para agilizar registro de transferencia de vehículos.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/lanza-nuevo-leon-tramite-digital-de-cambio-de-propietario-de-auto/1934375354",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
         "title": "Danfoss anuncia nueva línea de producción en Apodaca",
         "summary": "Empresa de tecnología eleva ventas por demanda de centros de datos e invierte en expansión local.",
         "zona": "Área metropolitana",
@@ -194,6 +242,14 @@
     ],
     "eventos": [
       {
+        "title": "Grutas de García anuncia cierre temporal del teleférico",
+        "summary": "Sitio turístico reporta suspensión temporal de servicio aéreo para mantenimiento y reparaciones.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/grutas-de-garcia-cierre-del-teleferico-razon-y-fechas",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
         "title": "Agenda de actividades para el fin de semana en Monterrey",
         "summary": "Teatro, cine, exposiciones y conciertos forman las opciones de entretenimiento en la ciudad este fin de semana.",
         "zona": "Monterrey",
@@ -211,6 +267,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Preparan dos nuevas estaciones de monitoreo ambiental en NL",
+        "summary": "Gobierno estatal instala infraestructura adicional para vigilancia de calidad del aire en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/alista-nl-dos-nuevas-estaciones-de-monitoreo-ambiental/1026400",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Denuncian discriminación contra niños en liga de béisbol",
+        "summary": "Padres reportan trato discriminatorio y represalias contra menores en competencia deportiva de Monterrey.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/18/denuncian-discriminacion-y-represalias-contra-ninos-en-liga-de-beisbol-en-monterrey-290028.html",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Piden garantizar abasto de agua ante sequía en Nuevo León",
+        "summary": "Funcionario solicita al gobierno estatal medidas para asegurar suministro hídrico durante períodos de escasez.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/pide-heriberto-trevino-agua-nl",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Mujer hospitalizada tras mordedura de araña viuda negra",
+        "summary": "Paciente recibe atención médica tras picadura de araña venenosa en zona de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/9/18/hospitalizan-a-mujer-tras-ser-mordida-por-arana-viuda-negra-en-nuevo-leon-290003.html",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Retiran 15 toneladas de basura en La Alianza, Monterrey",
+        "summary": "Municipio de Monterrey realiza operativo de limpieza para remover escombros y cacharros acumulados.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/retira-monterrey-15-toneladas-de-basura-y-cacharros-en-la-alianza/1026388",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
+      {
+        "title": "Fiscalía revela causa de muerte de bebé en Zuazua",
+        "summary": "Autoridades divulgan resultado de investigación sobre fallecimiento de menor en municipio de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/fiscalia-nuevo-leon-revela-causa-muerte-bebe-11-meses-en-zuazua",
+        "_added_at": "2026-09-18T16:58:04.373216-06:00"
+      },
       {
         "title": "Monterrey analiza nuevas regulaciones para scooters",
         "summary": "Autoridades evalúan normas de circulación y estacionamiento para vehículos de movilidad personal.",
@@ -261,5 +365,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-18T12:01:39.288128-06:00"
+  "last_updated": "2026-09-18T16:58:04.373216-06:00"
 }
