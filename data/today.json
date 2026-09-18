@@ -1,337 +1,136 @@
 {
-  "date": "2026-09-17",
-  "run_count": 3,
+  "date": "2026-09-18",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Capturan presunto feminicida de estudiante española Claudia Tacoronte",
-        "summary": "Detienen a sospechoso en Morelos por el homicidio de la joven española estudiante en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nacional/detienen-a-el-trompas-presunto-feminicida-de-claudia-tacoronte/2637671363",
-        "_added_at": "2026-09-17T19:15:55.755339-06:00"
-      },
-      {
-        "title": "Decomiso récord de 59 millones de litros de huachicol",
-        "summary": "Autoridades aseguran la mayor cantidad de combustible robado durante la administración actual en operativo en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/59-millones-de-litros-el-mayor-decomiso-de-huachicol-en-la-4t/",
-        "_added_at": "2026-09-17T18:45:56.632116-06:00"
-      },
-      {
-        "title": "Capturan a presunto feminicida de Claudia Tacoronte",
-        "summary": "Detienen a Javier 'N' por el homicidio de la joven española en Cuautla; caso bajo investigación fiscal.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/resultado?query=Trump+abre+negociaci%C3%B3n+con+Ir%C3%A1n%3B+inician+pl%C3%A1ticas+este+lunes&select=todas",
-        "_added_at": "2026-09-17T18:45:56.632116-06:00"
-      },
-      {
-        "title": "Capturan a 'El Ciego' del Cártel de Sinaloa",
-        "summary": "Autoridades detienen a miembro de organización delictiva vinculada al grupo criminal en operativo en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/09/17/capturan-a-el-ciego-integrante-de-grupo-vinculado-al-cartel-de-sinaloa/",
-        "_added_at": "2026-09-17T18:45:56.632116-06:00"
-      },
-      {
-        "title": "Catean inmueble en Juárez por robo de cobre",
-        "summary": "Operativo realizado en Montebello investiga sustracción de seis millones de pesos en material metálico.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/catean-inmueble-en-juarez-por-robo-de-6-millones-en-cobre/4355955500",
-        "_added_at": "2026-09-17T18:45:56.632116-06:00"
-      },
-      {
-        "title": "Capturan banda especializada en robo de vehículos",
-        "summary": "Tras persecución en General Bravo detienen a tres sujetos con historial de asaltos vehiculares.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/capturan-a-tres-tras-persecucion-y-balacera-en-general-bravo/v3156091839",
-        "_added_at": "2026-09-17T18:45:56.632116-06:00"
-      },
-      {
-        "title": "Capturan a sospechoso de feminicidio de Claudia Tacoronte",
-        "summary": "Detienen a Javier \"N\" como presunto responsable del homicidio de la joven española en Cuautla.",
-        "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/mexico/detienen-al-presunto-feminicida-de-claudia-tacoronte-joven-espanola-en-cuautla/vl2255941",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      },
-      {
-        "title": "Extorsionadores operaban en negocios cárnicos del área",
-        "summary": "Capturan a 'El Fiera' y 'El Coreano' por extorsionar a 77 negocios de venta de carne en la zona.",
+        "title": "Detienen a presunto líder de célula delictiva en Monterrey",
+        "summary": "Autoridades capturan a un presunto jefe de organización criminal en la capital del estado.",
         "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/caen-el-fiera-y-coreano-por-extorsionar-a-77-negocios-carnicos",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      },
-      {
-        "title": "Banda de robacoches cae tras persecución en General Bravo",
-        "summary": "Capturan a integrantes de grupo dedicado al robo de vehículos tras operativo y persecución.",
-        "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/general-bravo-nuevo-leon-banda-de-robacoches-cae-tras-persecusion",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
+        "url": "https://www.telediario.mx/policia/monterrey-detienen-a-presunto-lider-de-celula-delictiva",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       },
       {
-        "title": "Operativo contra sicarios del Cártel del Noreste",
-        "summary": "Capturan a presuntos sicarios con arsenal militar y fusil para derribar aeronaves en Hidalgo.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/fotos-cae-en-hidalgo-nuevo-leon-sicarios-del-cdn-arsenal-del-ejercito-y-fusil",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
+        "title": "Influencer 'La Barbie de la Alianza' detenida con armas y drogas",
+        "summary": "Capturan a influencer en Monterrey con posesión de armas y estupefacientes, vínculos delictivos confirmados.",
+        "zona": "Monterrey",
+        "source": "TV Azteca Nuevo León",
+        "url": "https://www.tvazteca.com/aztecanoticias/influencer-la-barbie-la-alianza-fue-detenida-en-monterrey-armas-drogas-y-vinculos-grupo-delictivo/",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       },
       {
-        "title": "Catean casa tras muerte de bebé en Zuazua",
-        "summary": "Investigan muerte de menor por golpe en la cabeza; realizan allanamiento en vivienda del municipio.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/estados/muere-bebe-golpe-cabeza-catean-vivienda-zuazua-nuevo-leon",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      },
-      {
-        "title": "Persecución y balacera en Apodaca deja hombres armados",
-        "summary": "Hombres armados desatan persecución y tiroteo; logran escapar tras enfrentamiento.",
+        "title": "Catean finca en Juárez vinculada a robo millonario de cobre",
+        "summary": "Operativo en inmueble de Juárez relacionado con sustracción de metales de alto valor.",
         "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/apodaca-hombres-armados-desatan-persecucion-y-balacera",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/catean-finca-en-juarez-relacionada-con-robo-millonario-de-cobre/1026351",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       },
       {
-        "title": "Policía vinculado a proceso por agresión en Zuazua",
-        "summary": "Elemento de seguridad local enfrenta cargos por violencia contra mujer detenida.",
+        "title": "Capturan a tres por robo violento de camioneta",
+        "summary": "Tres sujetos detenidos tras asalto a mano armada de vehículo en Nuevo León.",
         "zona": "Nuevo León",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/vinculan-a-proceso-a-policia-de-zuazua-por-agresion-a-mujer-detenida/1025954",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
+        "url": "https://elporvenir.mx/justicia/capturan-a-tres-por-robo-violento-de-una-camioneta/1026347",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
+      },
+      {
+        "title": "Presunto atacante capturado tras herir a tres con armas de fuego",
+        "summary": "Detienen a responsable de ataque armado que dejó múltiples víctimas heridas.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/cae-presunto-responsable-de-ataque-a-balazos-que-dejo-tres-heridos/1026317",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
+      },
+      {
+        "title": "Joven detenido por herir a menor con arma blanca",
+        "summary": "Capturan a agresor que lesionó a menores de edad usando cuchillo en Guadalupe.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/guadalupe-detienen-a-joven-por-herir-a-menor-con-arma-blanca",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
+      },
+      {
+        "title": "Evacuan 209 personas de oficinas del SAT en Monterrey",
+        "summary": "Desalojo de dependencia federal en la capital por reporte de seguridad.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/evacuan-a-209-de-oficinas-del-sat-en-monterrey/1026353",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
+      },
+      {
+        "title": "Tres hombres vinculados a proceso por ataque armado",
+        "summary": "Autoridades formalizan imputación contra detenidos por enfrentamiento en General Treviño.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/general-trevino-tres-hombres-son-vinculados-por-ataque-armado",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Herrera critica presunto abandono de De la Garza al sistema de cuidados",
-        "summary": "Funcionario estatal apunta contra colega por falta de atención a política social en Nuevo León.",
+        "title": "García remite derogación del Pase Turístico al Congreso",
+        "summary": "Gobernador envía iniciativa para eliminar impuesto turístico; Congreso analizará propuesta.",
         "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/herrera-apunta-contra-de-la-garza-por-presunto-abandono-al-sistema-de-cuidados-6301/",
-        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/samuel-garcia-remite-congreso-nl-derogacion-pase-turistico",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       },
       {
-        "title": "Beto Anaya muestra sintonía con Dante tras ausentarse de destapes",
-        "summary": "Diputado de Morena manifiesta alineamiento con gobernador pese a no participar en convocatorias partidistas.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/tras-ausentarse-en-los-destapes-de-morena-beto-anaya-muestra-sintonia-con-dante-en-nl-4608/",
-        "_added_at": "2026-09-17T19:15:55.755339-06:00"
-      },
-      {
-        "title": "Somos y Vida NL sondean a Idelfonso Guajardo para candidatura",
-        "summary": "Partidos político-electorales evalúan postulación de empresario para elección de gobernador.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/somos-y-vida-nl-sondean-a-idelfonso-guajardo-para-la-candidatura-a-la-gubernatura/",
-        "_added_at": "2026-09-17T19:15:55.755339-06:00"
-      },
-      {
-        "title": "Samuel revoca medida de Pase Turístico tras polémica",
-        "summary": "Gobernador retira decisión sobre cobro a visitantes tras crítica generalizada, ofrece más facilidades.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/tras-polemica-samuel-revoca-la-medida-del-pase-turistico-daremos-mas-facilidades-6850/",
-        "_added_at": "2026-09-17T19:15:55.755339-06:00"
-      },
-      {
-        "title": "PRI-PAN insiste en 'blindar finanzas' de Agua y Drenaje",
-        "summary": "Alianza opositora busca asegurar autonomía presupuestaria del organismo municipal.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-frente-pri-pan-insiste-en-blindar-finanzas-de-agua-y-drenaje-1573/",
-        "_added_at": "2026-09-17T19:15:55.755339-06:00"
-      },
-      {
-        "title": "PT insiste en candidatura independiente para gobernatura 2027",
-        "summary": "Partido demanda ir en solitario sin coalición y pide candidato propio para próximas elecciones.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-pt-insiste-en-ir-en-solitario-en-nuevo-leon-y-pide-otra-gubernatura-en-el-2027-9807/",
-        "_added_at": "2026-09-17T19:15:55.755339-06:00"
-      },
-      {
-        "title": "Fasci ratifica denuncia contra UANL; PRI-PAN abre frente con MC",
-        "summary": "Congresista mantiene acusaciones contra universidad; alianza opositora enfrenta conflicto con Movimiento Ciudadano.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/fasci-ratifico-su-denuncia-contra-la-uanl-y-el-pri-pan-abre-frente-contra-mc-8339/",
-        "_added_at": "2026-09-17T19:15:55.755339-06:00"
-      },
-      {
-        "title": "Samuel convoca a unidad entre Congreso y municipios",
-        "summary": "Gobernador exhorta a autoridades locales y legislativas a trabajar coordinadamente.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/llama-samuel-a-congreso-y-municipios-a-apostar-por-la-unidad/1026080",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      },
-      {
-        "title": "PAN propone hipoteca inversa para adultos mayores",
-        "summary": "Partido presenta iniciativa que permitiría a ancianos monetizar su vivienda en Nuevo León.",
+        "title": "Congreso inicia jornadas de reforma de transparencia",
+        "summary": "Comisiones legislativas abren proceso de análisis sobre reforma de acceso a información pública.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/nuevo-leon-pan-propone-hipoteca-inversa-para-adultos-mayores",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
+        "url": "https://www.telediario.mx/politica/nuevo-leon-congreso-inicia-jornadas-por-reforma-de-transparencia",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       },
       {
-        "title": "Carrillo amplía denuncia contra ICV por refrendo",
-        "summary": "Funcionario busca eliminar cobro del refrendo vehicular en la entidad.",
+        "title": "MC espera diálogo con gobierno por fondos pendientes",
+        "summary": "Movimiento Ciudadano solicita reunión para resolver adeudos a organizaciones civiles.",
         "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/daniel-carrillo-amplia-denuncia-contra-icv-y-busca-eliminar-refrendo",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/18/mc-espera-dialogo-entre-gobierno-de-nl-y-ong-por-fondos-pendientes-289965.html",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       }
     ],
     "economia": [
       {
-        "title": "Nuevo León lidera exportaciones nacionales y busca seguridad hídrica",
-        "summary": "Estado reafirma posición como motor económico; impulsa estrategias ante crisis de agua.",
+        "title": "NL fortalece condiciones para atraer inversiones",
+        "summary": "Autoridades estatales reportan mejoras en marco para impulsar proyectos empresariales.",
         "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/expo-pyme-nuevo-leon-primer-lugar-en-exportaciones-y-seguridad-hidrica-futuras-sequias/",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      },
-      {
-        "title": "Nueva norma mejorará calidad de gasolinas en Nuevo León",
-        "summary": "Gobierno alista regulación para optimizar estándares de combustibles en la entidad.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/van-nueva-norma-mejorar-calidad-gasolinas-nuevo-leon",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      },
-      {
-        "title": "Fraude inmobiliario suma más de mil millones de pesos",
-        "summary": "Fiscalía asegura cuentas bancarias de empresa tras estafa a compradores de propiedades.",
-        "zona": "Monterrey",
-        "source": "El Sol de México",
-        "url": "https://oem.com.mx/elsoldemexico/mexico/suman-mas-de-mil-millones-de-pesos-en-el-fraude-inmobiliario-de-monterrey-31025828",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      }
-    ],
-    "eventos": [
-      {
-        "title": "Regios disfrutan desfile cívico-militar por patria",
-        "summary": "Miles participan en celebración de independencia con marchas institucionales en municipios de la entidad.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/disfrutan-regios-del-desfile-civico--militar/1026082",
-        "_added_at": "2026-09-17T18:45:56.632116-06:00"
-      },
-      {
-        "title": "UANL inicia semestre con más de 220 mil estudiantes",
-        "summary": "Universidad autónoma abre nuevo ciclo académico con matrícula récord.",
-        "zona": "Monterrey",
         "source": "INFO7",
-        "url": "https://www.info7.mx/resultado?query=Iniciar%C3%A1%20la%20UANL%20nuevo%20ciclo%20con%20m%C3%A1s%20de%20220%20mil%20estudiantes",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      },
-      {
-        "title": "UANL construye unidad académica en Ciénega de Flores",
-        "summary": "Universidad inicia obras de nueva instalación en municipio de Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/inicia-uanl-construccion-de-unidad-academica-en-cienega-de-flores",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      },
-      {
-        "title": "SET va contra escuelas militarizadas irregulares",
-        "summary": "Secretaría de Educación fiscaliza instituciones no autorizadas con régimen militar.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/resultado?query=SET+va+contra+escuelas%C2%A0militarizadas+irregulares&select=todas",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      },
-      {
-        "title": "Pase Turístico Nuevo León disponible desde octubre",
-        "summary": "Entidad ofrece pase con acceso a atracciones turísticas; abre trámites en línea.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/pase-turistico-nuevo-leon-2026-fecha-inicio-requisitos-y-como-tramitarlo-en-linea/",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
+        "url": "https://info7.mx/nuevoleon/nl-fortalece-condiciones-para-atraer-inversiones-miguel-flores/4432576635",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       }
     ],
+    "eventos": [],
     "sociedad": [
       {
-        "title": "Refinería de Cadereyta: sin resultados tras inspección por olores",
-        "summary": "Autoridades aún esperan reportes finales de evaluación ambiental sobre contaminación reportada.",
+        "title": "Latidos por México suma apoyos en Nuevo León",
+        "summary": "Programa de atención cardíaca ha beneficiado a 400 pacientes en el estado.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/refineria-de-cadereyta-aun-no-hay-resultados-sobre-olores",
-        "_added_at": "2026-09-17T19:15:55.755339-06:00"
+        "url": "https://www.telediario.mx/comunidad/nuevo-leon-latidos-por-mexico-ha-atendido-a-400-pacientes",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       },
       {
-        "title": "PAN propone Hipoteca Inversa para adultos mayores en NL",
-        "summary": "Partido busca permitir a jubilados monetizar vivienda para generar ingresos en vejez.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/nuevo-leon-pan-propone-hipoteca-inversa-para-adultos-mayores",
-        "_added_at": "2026-09-17T19:15:55.755339-06:00"
-      },
-      {
-        "title": "Especialistas de UANL piden no normalizar la migraña",
-        "summary": "Médicos advierten sobre automedicación y llaman a atención profesional para padecimiento frecuente.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/ciencia-y-salud/piden-especialistas-uanl-no-normalizar-migrana-ni-automedicarse",
-        "_added_at": "2026-09-17T19:15:55.755339-06:00"
-      },
-      {
-        "title": "SET investiga escuelas militarizadas irregulares",
-        "summary": "Secretaría de Educación actúa contra planteles que funcionan sin autorización oficial en la entidad.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/resultado?query=SET+va+contra+escuelas%C2%A0militarizadas+irregulares&select=todas",
-        "_added_at": "2026-09-17T18:45:56.632116-06:00"
-      },
-      {
-        "title": "Oso merodeador causa alarma en zonas urbanas",
-        "summary": "Animal atraído por basura ingresa a domicilios y causa heridas; autoridades atienden incidentes recurrentes.",
-        "zona": "Monterrey",
-        "source": "TV Azteca Nuevo León",
-        "url": "https://www.tvazteca.com/aztecanoticias/oso-come-bolsas-plastico-y-sufre-vomito-basura-lo-atrae-a-zonas-urbanas-nuevo-leon/",
-        "_added_at": "2026-09-17T18:45:56.632116-06:00"
-      },
-      {
-        "title": "Crisis educativa: solo 61% asistió a preescolar",
-        "summary": "Rezago en matrículas de kínder crea riesgo de atraso académico en primaria.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/preescolar-en-nuevo-leon-solo-61-los-ninos-asistio-al-kinder-y-crece-rezago-educativo/",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      },
-      {
-        "title": "Maestra Lupita pide electricidad para escuela en Montemorelos",
-        "summary": "Docente de 60 años lidera lucha por dotar de energía eléctrica a su institución.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/nuevo-leon-escuela-sin-luz-en-montemorelos-maestra-lupita-lleva-60-anos/",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
-      },
-      {
-        "title": "Ampliación de programa oftalmológico gratuito en Monterrey",
-        "summary": "Gobierno expande iniciativa 'Monterrey se ve Mejor Sin Cataratas' para más beneficiarios.",
+        "title": "Investigan a padres de bebé fallecido en Materno Infantil",
+        "summary": "Autoridades abren investigación por muerte de menor en hospital de la capital.",
         "zona": "Monterrey",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/amplian-programa-monterrey-se-ve-mejor-sin-cataratas/1026092",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
+        "url": "https://elporvenir.mx/nacional/investigan-a-padres-de-bebe-que-muere-en-el-materno-infantil/1026346",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       },
       {
-        "title": "CFE suspenderá servicio eléctrico en cuatro municipios",
-        "summary": "Compañía anuncia cortes programados de energía en localidades de Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/cfe-suspendera-luz-en-cuatro-municipios-de-nuevo-leon/1298746665",
-        "_added_at": "2026-09-17T18:36:11.842546-06:00"
+        "title": "Huellitas de Amor ofrece servicios veterinarios gratuitos en Guadalupe",
+        "summary": "Programa de atención a mascotas llega a municipio con campaña de servicios sin costo.",
+        "zona": "Área metropolitana",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/huellitas-de-amor-servicios-veterinarios-gratuitos-en-guadalupe/vl2255963",
+        "_added_at": "2026-09-18T00:24:08.306215-06:00"
       }
     ]
   },
-  "last_updated": "2026-09-17T19:15:55.755339-06:00"
+  "last_updated": "2026-09-18T00:24:08.306215-06:00"
 }
