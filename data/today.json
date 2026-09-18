@@ -1,8 +1,48 @@
 {
   "date": "2026-09-18",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan a presuntos responsables de feminicidios en Nuevo León",
+        "summary": "Autoridades confirman detención de sospechosos relacionados con casos de feminicidio, con investigación en curso sobre los implicados.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/mexico/harfuch-confirma-captura-de-feminicidas-de-claudia-y-karla/",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
+        "title": "Fuerza Civil reporta 98 detenciones en operativos semanales",
+        "summary": "Corporación realiza detenciones que incluyen a implicado en desaparición de agente; continúan labores de seguridad.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/fuerza-civil-reporta-detenciones-semana",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
+        "title": "Samuel García reporta caída del 90% en homicidios dolosos",
+        "summary": "Gobernador anuncia reducción significativa de homicidios en Nuevo León como parte de política de seguridad.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/18/samuel-garcia-reporta-caida-del-90-en-homicidios-dolosos-en-nuevo-leon-290004.html",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
+        "title": "Localizan 9 migrantes dentro de tractocamión en Sabinas Hidalgo",
+        "summary": "Operativo asegura a migrantes siendo transportados irregularmente en vehículo de carga.",
+        "zona": "Nuevo León",
+        "source": "Telediario",
+        "url": "https://www.telediario.mx/policia/sabinas-hidalgo-nl-detienen-hombre-trasladaba-9-migrantes",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
+        "title": "Riña entre familias en Escobedo deja cuatro detenidos",
+        "summary": "Enfrentamiento familiar genera destrozos y lesionados; autoridades aseguran a cuatro participantes.",
+        "zona": "Área metropolitana",
+        "source": "Telediario",
+        "url": "https://www.telediario.mx/policia/escobedo-nl-rina-familiar-deja-cuatro-detenidos-y-lesionados-alianza",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
       {
         "title": "Detienen a presunto líder de célula delictiva en Monterrey",
         "summary": "Autoridades capturan a un presunto jefe de organización criminal en la capital del estado.",
@@ -70,6 +110,38 @@
     ],
     "politica": [
       {
+        "title": "Tesorería de NL pide cuentas a municipios por fondos federales",
+        "summary": "Administración estatal solicita reportes a alcaldes sobre ejercicio de recursos del FEIEF.",
+        "zona": "Nuevo León",
+        "source": "Telediario",
+        "url": "https://www.telediario.mx/politica/tesoreria-nuevo-leon-busca-liberar-recursos-feief-municipios",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
+        "title": "Morena mantiene denuncias ante FGR por presunta corrupción",
+        "summary": "Partido político reafirma acusaciones de actos corruptos en instituciones de Nuevo León ante autoridades federales.",
+        "zona": "Nuevo León",
+        "source": "Telediario",
+        "url": "https://www.telediario.mx/politica/morena-mantiene-denuncias-fgr-presunta-corrupcion-nl",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
+        "title": "Diputada propone eliminar el pago del refrendo vehicular",
+        "summary": "Legisladora presenta iniciativa para derogar cobro del refrendo de autos en el estado.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/presentara-carrillo-iniciativa-para-eliminar-cobro-del-refrendo/1026399",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
+        "title": "Colosio exige modernización de refinería en Cadereyta",
+        "summary": "Funcionario demanda actualización de instalación petrolera estatal como prioridad de gobierno.",
+        "zona": "Nuevo León",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/politica/luis-donaldo-colosio-exige-modernizacion-refineria-cadereyta-nl",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
         "title": "García remite derogación del Pase Turístico al Congreso",
         "summary": "Gobernador envía iniciativa para eliminar impuesto turístico; Congreso analizará propuesta.",
         "zona": "Nuevo León",
@@ -96,6 +168,22 @@
     ],
     "economia": [
       {
+        "title": "Danfoss anuncia nueva línea de producción en Apodaca",
+        "summary": "Empresa de tecnología eleva ventas por demanda de centros de datos e invierte en expansión local.",
+        "zona": "Área metropolitana",
+        "source": "Telediario",
+        "url": "https://www.telediario.mx/economia/danfoss-eleva-ventas-centros-datos-anuncia-linea-apodaca",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
+        "title": "Piden incluir municipios en nuevos corredores económicos",
+        "summary": "Solicitan al gobierno estatal incorporar cuatro municipios en proyectos de desarrollo económico planificados.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/piden-incluir-en-nuevos-corredores-economicos-a-cuatro-municipios/1026395",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
         "title": "NL fortalece condiciones para atraer inversiones",
         "summary": "Autoridades estatales reportan mejoras en marco para impulsar proyectos empresariales.",
         "zona": "Nuevo León",
@@ -104,8 +192,49 @@
         "_added_at": "2026-09-18T00:24:08.306215-06:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Agenda de actividades para el fin de semana en Monterrey",
+        "summary": "Teatro, cine, exposiciones y conciertos forman las opciones de entretenimiento en la ciudad este fin de semana.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/que-hacer-en-monterrey-este-fin-de-semana-guia/4865806071",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
+        "title": "Oficializan la derogación del Pase Turístico en Nuevo León",
+        "summary": "Gobierno estatal deroga formalmente el documento de acceso a atractivos turísticos.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/oficializan-la-derogacion-del-pase-turistico/1026396",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Monterrey analiza nuevas regulaciones para scooters",
+        "summary": "Autoridades evalúan normas de circulación y estacionamiento para vehículos de movilidad personal.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/18/adios-a-los-scooters-monterrey-analiza-nuevas-reglas-para-su-uso-289980.html",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
+        "title": "Oso atropellado y herido en La Estanzuela",
+        "summary": "Animal silvestre resulta lesionado tras ser golpeado por vehículo en zona urbana de Monterrey.",
+        "zona": "Monterrey",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/estados/oso-atropellado-camioneta-colonia-estanzuela-monterrey",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
+      {
+        "title": "Llevan atención médica gratuita a 400 pacientes",
+        "summary": "Fundación de cardiología ofrece servicios de salud sin costo a comunidad de San Pedro.",
+        "zona": "Área metropolitana",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/comunidad/latidos-por-mexico-fundacion-cardiologia-san-pedro-donaciones",
+        "_added_at": "2026-09-18T12:01:39.288128-06:00"
+      },
       {
         "title": "Latidos por México suma apoyos en Nuevo León",
         "summary": "Programa de atención cardíaca ha beneficiado a 400 pacientes en el estado.",
@@ -132,5 +261,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-18T00:24:08.306215-06:00"
+  "last_updated": "2026-09-18T12:01:39.288128-06:00"
 }
