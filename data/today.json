@@ -1,8 +1,40 @@
 {
   "date": "2026-09-19",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Operativo Muralla abate a cuatro presuntos agresores en Los Aldama",
+        "summary": "Cuatro delincuentes fueron abatidos durante enfrentamiento con fuerzas de seguridad en Los Aldama durante operativo de seguridad.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/9/19/abaten-a-cuatro-presuntos-agresores-durante-operativo-muralla-en-los-aldama-290081.html",
+        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+      },
+      {
+        "title": "Detienen a hombre por extorsión a empresa de transporte en Reynosa",
+        "summary": "Autoridades capturaron a un sospechoso de extorsionar a una empresa transportista en Reynosa.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/reynosa/detienen-a-hombre-extorsion",
+        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+      },
+      {
+        "title": "Cateos en bares del centro de Monterrey por incumplimiento normativo",
+        "summary": "Autoridades realizaron inspecciones en establecimientos nocturnos del centro capitalino.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/catean-bares-del-centro-de-monterrey/1026857",
+        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+      },
+      {
+        "title": "Detienen a presunto líder criminal prófugo de la ley",
+        "summary": "Capturan a sospechoso de ser cabecilla de organización delictiva buscado por autoridades.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/detienen-supuesto-lider-criminal-profugo-de-la-ley/1026556",
+        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+      },
       {
         "title": "Operativo federal en bares de Monterrey y San Pedro",
         "summary": "Autoridades realizan cateos en establecimientos del centro, San Pedro y Zona Tec como parte de operativo de seguridad.",
@@ -62,6 +94,14 @@
     ],
     "politica": [
       {
+        "title": "Gobernador llama a mantener blindaje de seguridad en Nuevo León",
+        "summary": "El ejecutivo estatal reafirma compromiso con estrategias de seguridad pública en la entidad.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/llama-gobernador-a-mantener-blindaje-de-nuevo-leon/1026901",
+        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+      },
+      {
         "title": "Samuel García alista regularización de autos foráneos",
         "summary": "Gobernador prepara programa para legalizar 600 mil vehículos del extranjero en Nuevo León.",
         "zona": "Nuevo León",
@@ -88,6 +128,22 @@
     ],
     "economia": [
       {
+        "title": "Samuel alista descuentos para regularizar 600 mil autos foráneos",
+        "summary": "Gobierno de Nuevo León prepara programa de incentivos para cambio de propietario de vehículos.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/nuevo-leon-samuel-garcia-alista-descuentos-para-autos-foraneos",
+        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+      },
+      {
+        "title": "Cambio de propietario vehicular disponible en línea en Nuevo León",
+        "summary": "Autoridades estatales lanzan trámite digital para transferencia de automóviles.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/podra-realizarse-cambio-de-propietario-vehicular-en-linea/1026899",
+        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+      },
+      {
         "title": "Nuevo León entrega proyectos productivos a emprendedores",
         "summary": "Gobierno estatal apoya a emprendedores locales con inversión en iniciativas de negocio.",
         "zona": "Nuevo León",
@@ -105,6 +161,14 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Mercado 'Hecho en NL' abre en Parque Fundidora con emprendedoras",
+        "summary": "Se inaugura espacio comercial para promoción de productos y emprendimientos locales.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/monterrey-inicia-mercado-hecho-en-nl-mujeres-que-inspiran-fundidora",
+        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+      },
       {
         "title": "Conmemoran Día Nacional de Protección Civil en Monterrey",
         "summary": "Nuevas León rinde homenaje a víctimas de sismos de 1985 y 2017 en Explanada de Héroes.",
@@ -139,6 +203,30 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Más de 391 mil personas participan en Segundo Simulacro Nacional",
+        "summary": "Nuevo León registra amplia participación en ejercicio de protección civil y evacuación.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/segundo-simulacro-nacional",
+        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+      },
+      {
+        "title": "Reducen tiempos de evacuación en dependencias durante simulacro",
+        "summary": "Instituciones estatales logran mejoras en procedimientos de respuesta ante emergencias.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/nuevo-leon-reduce-tiempos-evacuacion-simulacro-nacional-2026",
+        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+      },
+      {
+        "title": "Brigada de Testamentos Gratuitos 2026 abre convocatoria en estado",
+        "summary": "Gobierno estatal ofrece servicio legal gratuito para que ciudadanos realicen sus testamentos.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/invita-estado-a-poblacion-a-la-brigada-de-testamentos-gratuitos-2026/1026878",
+        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+      },
       {
         "title": "DIF lanza programa MAPA para prevenir adicciones juveniles",
         "summary": "Ale Morales presenta estrategia de prevención de drogas enfocada en jóvenes de Nuevo León.",
@@ -189,5 +277,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-19T11:42:10.239416-06:00"
+  "last_updated": "2026-09-19T16:37:30.544604-06:00"
 }
