@@ -1,281 +1,97 @@
 {
-  "date": "2026-09-19",
-  "run_count": 3,
+  "date": "2026-09-20",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Operativo Muralla abate a cuatro presuntos agresores en Los Aldama",
-        "summary": "Cuatro delincuentes fueron abatidos durante enfrentamiento con fuerzas de seguridad en Los Aldama durante operativo de seguridad.",
-        "zona": "Nuevo León",
+        "title": "Tres detenidos con armas y droga en centro de Monterrey",
+        "summary": "Autoridades capturan a tres sujetos con armas, drogas y más de 200 mil pesos en operativo en el centro de la ciudad.",
+        "zona": "Monterrey",
         "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/seguridad/2026/9/19/abaten-a-cuatro-presuntos-agresores-durante-operativo-muralla-en-los-aldama-290081.html",
-        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+        "url": "https://abcnoticias.mx/seguridad/2026/9/20/caen-tres-con-armas-droga-y-mas-de-200-mil-pesos-en-el-centro-de-monterrey-290114.html",
+        "_added_at": "2026-09-20T00:45:08.698943-06:00"
       },
       {
-        "title": "Detienen a hombre por extorsión a empresa de transporte en Reynosa",
-        "summary": "Autoridades capturaron a un sospechoso de extorsionar a una empresa transportista en Reynosa.",
+        "title": "Cuatro delincuentes abatidos en enfrentamiento Los Aldamas",
+        "summary": "Operativo de seguridad en Los Aldamas resulta en cuatro delincuentes muertos y aseguramiento de arsenal.",
         "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/reynosa/detienen-a-hombre-extorsion",
-        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/los-aldamas-nl-enfrentamiento-deja-4-abatidos",
+        "_added_at": "2026-09-20T00:45:08.698943-06:00"
       },
       {
-        "title": "Cateos en bares del centro de Monterrey por incumplimiento normativo",
-        "summary": "Autoridades realizaron inspecciones en establecimientos nocturnos del centro capitalino.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/catean-bares-del-centro-de-monterrey/1026857",
-        "_added_at": "2026-09-19T16:37:30.544604-06:00"
-      },
-      {
-        "title": "Detienen a presunto líder criminal prófugo de la ley",
-        "summary": "Capturan a sospechoso de ser cabecilla de organización delictiva buscado por autoridades.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/detienen-supuesto-lider-criminal-profugo-de-la-ley/1026556",
-        "_added_at": "2026-09-19T16:37:30.544604-06:00"
-      },
-      {
-        "title": "Operativo federal en bares de Monterrey y San Pedro",
-        "summary": "Autoridades realizan cateos en establecimientos del centro, San Pedro y Zona Tec como parte de operativo de seguridad.",
-        "zona": "Monterrey",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/realizan-operativo-federal",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Gobernador pide mantener blindaje de seguridad en NL",
-        "summary": "Samuel García llama a reforzar medidas de seguridad y protección en la entidad.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/llama-gobernador-a-mantener-blindaje-de-nuevo-leon/1026901",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Detectan 1.3 toneladas de metanfetamina en aduana",
-        "summary": "Perro adiestrado 'Rini' localiza droga en operativo de control fronterizo.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nacional/perro-rini-detecta-toneladas",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Buscan a joven desaparecido en el centro de Monterrey",
-        "summary": "Autoridades localizan a persona extraviada en zona céntrica de la ciudad.",
-        "zona": "Monterrey",
+        "title": "Trabajador sufre quemaduras por descarga eléctrica en Apodaca",
+        "summary": "Empleado de negocio sufre quemaduras en 40% del cuerpo durante labores de mantenimiento en clima.",
+        "zona": "Área metropolitana",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/buscan-a-joven-que-desaparecio-en-el-centro-de-monterrey/5589440668",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
+        "url": "https://info7.mx/nuevoleon/sufre-quemaduras-por-descarga-joven-trabajador-en-apodaca/v2697965260",
+        "_added_at": "2026-09-20T00:45:08.698943-06:00"
       },
       {
-        "title": "Vinculan a 'El Trompas' a proceso por feminicidio de Claudia Tacoronte",
-        "summary": "Juez dicta vinculación a proceso contra presunto responsable del feminicidio agravado de la estudiante española ocurrido en Cuautla.",
+        "title": "Joven fallece atropellado por camioneta en Juárez",
+        "summary": "Accidente vial fatal en Juárez deja un joven sin vida tras ser arrollado.",
         "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/mexico/vinculan-a-proceso-a-el-trompas-por-el-feminicidio-de-claudia-tacoronte-en-cuautla/vl2256389",
-        "_added_at": "2026-09-19T00:22:14.819991-06:00"
-      },
-      {
-        "title": "Capturan en Monterrey a acusado de acosar a estudiante",
-        "summary": "Autoridades locales detienen a sujeto sindicado de acoso a estudiante en operativo realizado en la zona regia.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/capturan-en-monterrey-a-acusado-de-acosar-a-estudiante/v1759843092",
-        "_added_at": "2026-09-19T00:22:14.819991-06:00"
-      },
-      {
-        "title": "Cateo en Monterrey: detienen sujeto con marihuana",
-        "summary": "Fiscalía de Nuevo León realiza cateo en centro regio y asegura drogas durante operativo de seguridad.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/realizan-cateo-en-monterrey-y-detienen-a-hombre/5339691688",
-        "_added_at": "2026-09-19T00:22:14.819991-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/juarez-nl-joven-muere-tras-ser-atropellado-por-camioneta",
+        "_added_at": "2026-09-20T00:45:08.698943-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Gobernador llama a mantener blindaje de seguridad en Nuevo León",
-        "summary": "El ejecutivo estatal reafirma compromiso con estrategias de seguridad pública en la entidad.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/llama-gobernador-a-mantener-blindaje-de-nuevo-leon/1026901",
-        "_added_at": "2026-09-19T16:37:30.544604-06:00"
-      },
-      {
-        "title": "Samuel García alista regularización de autos foráneos",
-        "summary": "Gobernador prepara programa para legalizar 600 mil vehículos del extranjero en Nuevo León.",
+        "title": "Corcholatas de Morena respaldan a Ariadna Montiel",
+        "summary": "Precandidatos de Nuevo León cierran filas tras roces internos en apoyo a candidata.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/nuevo-leon-samuel-garcia-alista-descuentos-para-autos-foraneos",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
+        "url": "https://www.telediario.mx/politica/nuevo-leon-corcholatas-de-morena-cierran-filas-tras-roces-internos",
+        "_added_at": "2026-09-20T00:45:08.698943-06:00"
       },
       {
-        "title": "Analizan Presupuesto de Egresos 2027 en congreso local",
-        "summary": "Representantes revisan proyecto de presupuesto para el próximo ejercicio fiscal.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/analizan-presupuesto-de-egresos-2027-en-reunion-de-representantes/1026386",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Ariadna realiza gira en Nuevo León e incrementa incertidumbre interna",
-        "summary": "Candidata recorre estado generando debate sobre el proceso de selección dentro de su movimiento político.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/ariadna-realiza-gira-en-nuevo-leon-y-eleva-la-incertidumbre-del-proceso-interno-67/",
-        "_added_at": "2026-09-19T00:22:14.819991-06:00"
+        "title": "Palacio de Gobierno participa en simulacro nacional",
+        "summary": "Evacuación de Palacio de Gobierno como parte de ejercicio de protección civil a nivel nacional.",
+        "zona": "Monterrey",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/evacuan-palacio-de-gobierno-en-simulacro-nacional/v3584194365",
+        "_added_at": "2026-09-20T00:45:08.698943-06:00"
       }
     ],
     "economia": [
       {
-        "title": "Samuel alista descuentos para regularizar 600 mil autos foráneos",
-        "summary": "Gobierno de Nuevo León prepara programa de incentivos para cambio de propietario de vehículos.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/nuevo-leon-samuel-garcia-alista-descuentos-para-autos-foraneos",
-        "_added_at": "2026-09-19T16:37:30.544604-06:00"
-      },
-      {
-        "title": "Cambio de propietario vehicular disponible en línea en Nuevo León",
-        "summary": "Autoridades estatales lanzan trámite digital para transferencia de automóviles.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/podra-realizarse-cambio-de-propietario-vehicular-en-linea/1026899",
-        "_added_at": "2026-09-19T16:37:30.544604-06:00"
-      },
-      {
-        "title": "Nuevo León entrega proyectos productivos a emprendedores",
-        "summary": "Gobierno estatal apoya a emprendedores locales con inversión en iniciativas de negocio.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/entrega-nuevo-leon-proyectos-productivos-a-emprendedores/1026876",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Infraestructura eléctrica avanza al 79 por ciento",
-        "summary": "Mantenimiento de red eléctrica en el estado marcha según cronograma establecido.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/tiene-un-79-de-avance-mantenimiento-de-infraestructura-electrica/1026900",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
+        "title": "Mariana Rodríguez promueve emprendedurismo en Mercado Hecho en NL",
+        "summary": "Gobernadora dirige mensaje a emprendedoras para continuar persiguiendo sus objetivos económicos.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/video-mariana-rodriguez-llama-a-emprendedoras-a-no-renunciar-a-sus-suenos-en-mercado-hecho-en-nuevo-leon/v-vl2256569",
+        "_added_at": "2026-09-20T00:45:08.698943-06:00"
       }
     ],
     "eventos": [
       {
-        "title": "Mercado 'Hecho en NL' abre en Parque Fundidora con emprendedoras",
-        "summary": "Se inaugura espacio comercial para promoción de productos y emprendimientos locales.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/monterrey-inicia-mercado-hecho-en-nl-mujeres-que-inspiran-fundidora",
-        "_added_at": "2026-09-19T16:37:30.544604-06:00"
-      },
-      {
-        "title": "Conmemoran Día Nacional de Protección Civil en Monterrey",
-        "summary": "Nuevas León rinde homenaje a víctimas de sismos de 1985 y 2017 en Explanada de Héroes.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/nuevo-leon-conmemoran-el-dia-nacional-de-proteccion-civil",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Invitan a Mega Jornada de Limpieza de Ríos 2026",
-        "summary": "Conagua convoca a ciudadanos a participar en jornada de limpieza en cuerpos de agua.",
+        "title": "Nuevo León conmemora Día de Protección Civil",
+        "summary": "Estado celebra jornada dedicada a la protección civil con actividades conmemorativas.",
         "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/invita-conagua-a-mega-jornada-de-limpieza-de-rios-2026/1026902",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Brigada de Testamentos Gratuitos inicia en Nuevo León",
-        "summary": "Gobierno estatal ofrece servicio de orientación y trámite de testamentos sin costo.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/invita-estado-a-poblacion-a-la-brigada-de-testamentos-gratuitos-2026/1026878",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Implementan cierres viales por carrera Fundación de Monterrey",
-        "summary": "Autoridades coordinan afectaciones al tráfico vehicular para evento deportivo de la fundación en la ciudad.",
-        "zona": "Monterrey",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/implementaran-cierres-viales-por-carrera-fundacion-de-monterrey/5172049928",
-        "_added_at": "2026-09-19T00:22:14.819991-06:00"
+        "url": "https://info7.mx/nuevoleon/conmemora-nuevo-leon-el-dia-de-proteccion-civil/v8513560573",
+        "_added_at": "2026-09-20T00:45:08.698943-06:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Más de 391 mil personas participan en Segundo Simulacro Nacional",
-        "summary": "Nuevo León registra amplia participación en ejercicio de protección civil y evacuación.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/segundo-simulacro-nacional",
-        "_added_at": "2026-09-19T16:37:30.544604-06:00"
-      },
-      {
-        "title": "Reducen tiempos de evacuación en dependencias durante simulacro",
-        "summary": "Instituciones estatales logran mejoras en procedimientos de respuesta ante emergencias.",
+        "title": "Trabajador muere por descarga en horno industrial Salinas Victoria",
+        "summary": "Fallecimiento de trabajador tras accidente con descarga eléctrica en faena laboral.",
         "zona": "Nuevo León",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/nuevo-leon-reduce-tiempos-evacuacion-simulacro-nacional-2026",
-        "_added_at": "2026-09-19T16:37:30.544604-06:00"
+        "url": "https://www.milenio.com/estados/hombre-muere-sufrir-descarga-horno-industrial-salinas-victoria-nl",
+        "_added_at": "2026-09-20T00:45:08.698943-06:00"
       },
       {
-        "title": "Brigada de Testamentos Gratuitos 2026 abre convocatoria en estado",
-        "summary": "Gobierno estatal ofrece servicio legal gratuito para que ciudadanos realicen sus testamentos.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/invita-estado-a-poblacion-a-la-brigada-de-testamentos-gratuitos-2026/1026878",
-        "_added_at": "2026-09-19T16:37:30.544604-06:00"
-      },
-      {
-        "title": "DIF lanza programa MAPA para prevenir adicciones juveniles",
-        "summary": "Ale Morales presenta estrategia de prevención de drogas enfocada en jóvenes de Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/dif-nuevo-leon-protege-a-los-jovenes-con-la-nueva-campana-mapa-de-prevencion-de-adicciones/vl2256499",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Cambio de propietario vehicular ahora se realiza en línea",
-        "summary": "Nuevo León implementa trámite digital para facilitar transferencias de autos.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/podra-realizarse-cambio-de-propietario-vehicular-en-linea/1026899",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Ejecutan obras de limpieza en diversas zonas de Escobedo",
-        "summary": "Municipio realiza trabajos de desazolve y limpieza en colonias.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/realiza-escobedo-limpieza-en-diversas-zonas/1026387",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Concluyen limpieza en Las Sabinitas",
-        "summary": "Medio Ambiente finaliza trabajos de remediación en zona de Monterrey.",
+        "title": "Choque entre automóvil y camión deja seis lesionados",
+        "summary": "Accidente vial en Monterrey resulta en múltiples heridos tras colisión vehicular.",
         "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/esta-medio-ambiente-por-concluir-limpieza-en-las-sabinitas/1026385",
-        "_added_at": "2026-09-19T11:42:10.239416-06:00"
-      },
-      {
-        "title": "Monterrey prepara reglamento para uso de scooters eléctricos",
-        "summary": "Municipio desarrolla normativa para regular operación de scooters con criterios similares a motocicletas.",
-        "zona": "Monterrey",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/regularia-monterrey-scooters-con-reglas-similares-a-motocicletas/9638048828",
-        "_added_at": "2026-09-19T00:22:14.819991-06:00"
-      },
-      {
-        "title": "Programa ambiental supera el millón de árboles sembrados",
-        "summary": "Secretaría de Medio Ambiente Nuevo León alcanza meta de un millón de ejemplares en zonas urbanas.",
-        "zona": "Nuevo León",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/supera-programa-ambiental-el-millon-de-arboles/7286894890",
-        "_added_at": "2026-09-19T00:22:14.819991-06:00"
+        "url": "https://info7.mx/nuevoleon/choque-entre-automovil-y-camion-deja-seis-lesionados-en-monterrey/v6670629346",
+        "_added_at": "2026-09-20T00:45:08.698943-06:00"
       }
     ]
   },
-  "last_updated": "2026-09-19T16:37:30.544604-06:00"
+  "last_updated": "2026-09-20T00:45:08.698943-06:00"
 }
