@@ -1,8 +1,40 @@
 {
   "date": "2026-09-20",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fuerza Civil abate a cuatro sujetos en Los Aldamas",
+        "summary": "Operativo de seguridad en Los Aldamas resulta en cuatro personas abatidas tras enfrentamiento con elementos de la Fuerza Civil estatal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/abate-fuerza-civil-a-cuatro-en-los-aldamas/1027104",
+        "_added_at": "2026-09-20T16:54:07.481287-06:00"
+      },
+      {
+        "title": "Aseguran cuatro gasolineras en Montemorelos por irregularidades",
+        "summary": "Operativo federal incauta establecimientos de combustible en Montemorelos por presuntas irregularidades en venta de gasolina.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/operativo-federal-deja-cuatro-gasolineras-aseguradas-en-nl/3973697231",
+        "_added_at": "2026-09-20T16:54:07.481287-06:00"
+      },
+      {
+        "title": "Vinculan a proceso a exdirectivo de Soriana por fraude",
+        "summary": "Exfuncionario de empresa comercial enfrenta proceso legal acusado de fraude superior a 57 millones de pesos en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/video-vinculan-a-proceso-a-exdirectivo-de-soriana-acusado-de-fraude-por-mas-de-57-mdp-en-nuevo-leon/v-vl2256847",
+        "_added_at": "2026-09-20T16:54:07.481287-06:00"
+      },
+      {
+        "title": "Detienen pareja generadora de violencia en Guadalupe",
+        "summary": "Autoridades capturan a pareja acusada de cometer actos violentos en la zona de Guadalupe, área metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/capturan-a-pareja-generadora-de-violencia-en-guadalupe/1027253",
+        "_added_at": "2026-09-20T16:54:07.481287-06:00"
+      },
       {
         "title": "Fuerza Civil abate a cuatro sujetos en Los Aldama",
         "summary": "Enfrentamiento en Los Aldama deja cuatro personas abatidas tras operativo de Fuerza Civil.",
@@ -86,6 +118,22 @@
     ],
     "politica": [
       {
+        "title": "Samuel García propone Línea 5 del Metro para el sur",
+        "summary": "Gobernador solicita intervención con nueva línea de transporte para mejorar conectividad en zona sur de Monterrey.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/20/samuel-garcia-pide-intervenir-el-sur-de-monterrey-con-la-linea-5-del-metro-290157.html",
+        "_added_at": "2026-09-20T16:54:07.481287-06:00"
+      },
+      {
+        "title": "García invita alcaldes a Palacio para definir Presupuesto 2027",
+        "summary": "Gobernador convoca a 51 presidentes municipales para diálogos directos sobre paquete fiscal del próximo año.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/20/invita-samuel-a-alcaldes-a-palacio-para-definir-presupuesto-2027-290162.html",
+        "_added_at": "2026-09-20T16:54:07.481287-06:00"
+      },
+      {
         "title": "Mijes cuestiona avances en puente La Unidad",
         "summary": "Funcionario expresa dudas sobre progreso de obra infraestructural importante.",
         "zona": "Nuevo León",
@@ -138,6 +186,30 @@
     ],
     "eventos": [
       {
+        "title": "Arranca segunda edición de Mercado Hecho en Nuevo León",
+        "summary": "Inicia nueva edición de expo comercial que promueve productos y negocios locales del estado.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/arranca-la-segunda-edicion-del-mercado-hecho-en-nuevo-leon/1027116",
+        "_added_at": "2026-09-20T16:54:07.481287-06:00"
+      },
+      {
+        "title": "Monterrey conmemora 430 años de su fundación",
+        "summary": "Celebraciones y actos protocolarios marcan aniversario de la fundación de la ciudad en el Obelisco.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/conemora-monterrey-430-anos",
+        "_added_at": "2026-09-20T16:54:07.481287-06:00"
+      },
+      {
+        "title": "Participa Brugada en Foro Urban20 en Nueva York",
+        "summary": "Jefa de gobierno capitalino presenta propuestas de alianza global de ciudades para vivienda, clima y migración.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nacional/clara-brugada-participa-junto-a-mamdani-en-foro-urban20-2026/5365868964",
+        "_added_at": "2026-09-20T16:54:07.481287-06:00"
+      },
+      {
         "title": "Monterrey conmemora 430 años de su fundación",
         "summary": "Ciudad celebra aniversario con ceremonias y actividades en honor a su historia.",
         "zona": "Monterrey",
@@ -163,6 +235,14 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Muere Conde de Agualeguas, historiador y comediante",
+        "summary": "Fallece personaje emblemático de Nuevo León reconocido por labor histórica y artística en la entidad.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/20/muere-el-conde-de-agualeguas-comediante-e-historiador-de-nl-290129.html",
+        "_added_at": "2026-09-20T16:54:07.481287-06:00"
+      },
       {
         "title": "Segundo Simulacro Nacional se realiza en Nuevo León",
         "summary": "Estado participa en ejercicio de prevención ante posibles sismos con coordinación estatal.",
@@ -213,5 +293,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-20T11:53:07.445072-06:00"
+  "last_updated": "2026-09-20T16:54:07.481287-06:00"
 }
