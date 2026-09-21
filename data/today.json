@@ -1,297 +1,96 @@
 {
-  "date": "2026-09-20",
-  "run_count": 3,
+  "date": "2026-09-21",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Fuerza Civil abate a cuatro sujetos en Los Aldamas",
-        "summary": "Operativo de seguridad en Los Aldamas resulta en cuatro personas abatidas tras enfrentamiento con elementos de la Fuerza Civil estatal.",
+        "title": "Operativo federal asegura gasolineras en Montemorelos",
+        "summary": "Autoridades federales suspendieron operaciones en bombas de gasolina de Montemorelos como parte de un operativo contra delincuencia organizada.",
         "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/abate-fuerza-civil-a-cuatro-en-los-aldamas/1027104",
-        "_added_at": "2026-09-20T16:54:07.481287-06:00"
-      },
-      {
-        "title": "Aseguran cuatro gasolineras en Montemorelos por irregularidades",
-        "summary": "Operativo federal incauta establecimientos de combustible en Montemorelos por presuntas irregularidades en venta de gasolina.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/operativo-federal-deja-cuatro-gasolineras-aseguradas-en-nl/3973697231",
-        "_added_at": "2026-09-20T16:54:07.481287-06:00"
-      },
-      {
-        "title": "Vinculan a proceso a exdirectivo de Soriana por fraude",
-        "summary": "Exfuncionario de empresa comercial enfrenta proceso legal acusado de fraude superior a 57 millones de pesos en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/video-vinculan-a-proceso-a-exdirectivo-de-soriana-acusado-de-fraude-por-mas-de-57-mdp-en-nuevo-leon/v-vl2256847",
-        "_added_at": "2026-09-20T16:54:07.481287-06:00"
-      },
-      {
-        "title": "Detienen pareja generadora de violencia en Guadalupe",
-        "summary": "Autoridades capturan a pareja acusada de cometer actos violentos en la zona de Guadalupe, área metropolitana.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/capturan-a-pareja-generadora-de-violencia-en-guadalupe/1027253",
-        "_added_at": "2026-09-20T16:54:07.481287-06:00"
-      },
-      {
-        "title": "Fuerza Civil abate a cuatro sujetos en Los Aldama",
-        "summary": "Enfrentamiento en Los Aldama deja cuatro personas abatidas tras operativo de Fuerza Civil.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/abate-fuerza-civil-a-cuatro-en-los-aldama/1027104",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Ejecutan a dueño de casa de cambio en Cumbres",
-        "summary": "Hombre asesinado a balazos en Cumbres, Monterrey; ocurrió en calle Fray Marcos de Niza.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/ejecutan-a-dueno-de-casa-de-cambio-en-cumbres/v6835665954",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Detienen a tres por robo en casa de cambio de Monterrey",
-        "summary": "Tres hombres arrestados tras asalto a establecimiento de cambio en la ciudad.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/monterrey-detienen-a-3-ligados-a-robo-en-casa-de-cambio",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Peatón muere al ser arrollado y caer de puente",
-        "summary": "Persona fallece tras ser atropellada y precipitarse desde una estructura vial.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/muere-peaton-al-ser-arrollado-y-caer-de-un-puente/1027107",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Estafan a empleada doméstica con más de 300 mil pesos",
-        "summary": "Delito de fraude deja pérdidas significativas a trabajadora del hogar.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/estafan-con-mas-de-300-mil-a-empleada-domestica/1027108",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Detenidos con armas, droga y más de 200 mil pesos",
-        "summary": "Captura de sujetos que portaban armamento, estupefacientes y dinero en efectivo.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/detenidos-con-armas-droga-y-mas-de-200-mil-pesos/1027208",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Tres detenidos con armas y droga en centro de Monterrey",
-        "summary": "Autoridades capturan a tres sujetos con armas, drogas y más de 200 mil pesos en operativo en el centro de la ciudad.",
-        "zona": "Monterrey",
         "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/seguridad/2026/9/20/caen-tres-con-armas-droga-y-mas-de-200-mil-pesos-en-el-centro-de-monterrey-290114.html",
-        "_added_at": "2026-09-20T00:45:08.698943-06:00"
+        "url": "https://abcnoticias.mx/local/2026/9/21/suspenden-bombas-de-gasolina-en-montemorelos-tras-operativo-federal-290181.html",
+        "_added_at": "2026-09-21T00:51:03.877455-06:00"
       },
       {
-        "title": "Cuatro delincuentes abatidos en enfrentamiento Los Aldamas",
-        "summary": "Operativo de seguridad en Los Aldamas resulta en cuatro delincuentes muertos y aseguramiento de arsenal.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/los-aldamas-nl-enfrentamiento-deja-4-abatidos",
-        "_added_at": "2026-09-20T00:45:08.698943-06:00"
-      },
-      {
-        "title": "Trabajador sufre quemaduras por descarga eléctrica en Apodaca",
-        "summary": "Empleado de negocio sufre quemaduras en 40% del cuerpo durante labores de mantenimiento en clima.",
+        "title": "Cae pareja vinculada a crimen organizado en Guadalupe",
+        "summary": "Detienen a pareja señalada como generadora de violencia en la zona de Faisanes, Guadalupe; material incautado fue remitido a autoridades federales.",
         "zona": "Área metropolitana",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/sufre-quemaduras-por-descarga-joven-trabajador-en-apodaca/v2697965260",
-        "_added_at": "2026-09-20T00:45:08.698943-06:00"
+        "url": "https://info7.mx/nuevoleon/cae-pareja-ligada-al-crimen-organizado-en-guadalupe/5383500838",
+        "_added_at": "2026-09-21T00:51:03.877455-06:00"
       },
       {
-        "title": "Joven fallece atropellado por camioneta en Juárez",
-        "summary": "Accidente vial fatal en Juárez deja un joven sin vida tras ser arrollado.",
+        "title": "Catean vivienda por investigación de asesinatos",
+        "summary": "Autoridades allanaron domicilio en Monterrey como parte de investigación por dos casos de homicidio.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/catean-vivienda-relacionada-a-asesinatos-en-monterrey",
+        "_added_at": "2026-09-21T00:51:03.877455-06:00"
+      },
+      {
+        "title": "Joven atropellado en Juárez por conductor en estado de ebriedad",
+        "summary": "Israel David falleció tras ser atropellado en paso elevado de Juárez; familiares buscan testigos y temen por liberación del responsable.",
         "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/juarez-nl-joven-muere-tras-ser-atropellado-por-camioneta",
-        "_added_at": "2026-09-20T00:45:08.698943-06:00"
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/identifican-a-joven-atropellado-en-juarez-por-conductor-ebrio/2496138599",
+        "_added_at": "2026-09-21T00:51:03.877455-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Samuel García propone Línea 5 del Metro para el sur",
-        "summary": "Gobernador solicita intervención con nueva línea de transporte para mejorar conectividad en zona sur de Monterrey.",
+        "title": "Samuel García conmemora Batalla de Monterrey",
+        "summary": "Gobernador Samuel García encabeza ceremonia conmemorativa de la Batalla de Monterrey y habla de continuar el legado de Nuevo León.",
         "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/20/samuel-garcia-pide-intervenir-el-sur-de-monterrey-con-la-linea-5-del-metro-290157.html",
-        "_added_at": "2026-09-20T16:54:07.481287-06:00"
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/samuel-conmemora-la-batalla-de-monterrey-el-legado-de-nl-ya-comenzo-y-toca-continuarlo/",
+        "_added_at": "2026-09-21T00:51:03.877455-06:00"
       },
       {
-        "title": "García invita alcaldes a Palacio para definir Presupuesto 2027",
-        "summary": "Gobernador convoca a 51 presidentes municipales para diálogos directos sobre paquete fiscal del próximo año.",
-        "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/20/invita-samuel-a-alcaldes-a-palacio-para-definir-presupuesto-2027-290162.html",
-        "_added_at": "2026-09-20T16:54:07.481287-06:00"
-      },
-      {
-        "title": "Mijes cuestiona avances en puente La Unidad",
-        "summary": "Funcionario expresa dudas sobre progreso de obra infraestructural importante.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/cuestiona-mijes-avances-en-puente-la-unidad/1027188",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Corcholatas de Morena respaldan a Ariadna Montiel",
-        "summary": "Precandidatos de Nuevo León cierran filas tras roces internos en apoyo a candidata.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/nuevo-leon-corcholatas-de-morena-cierran-filas-tras-roces-internos",
-        "_added_at": "2026-09-20T00:45:08.698943-06:00"
-      },
-      {
-        "title": "Palacio de Gobierno participa en simulacro nacional",
-        "summary": "Evacuación de Palacio de Gobierno como parte de ejercicio de protección civil a nivel nacional.",
+        "title": "García pide diálogo directo sobre Presupuesto estatal",
+        "summary": "Gobernador Samuel García solicita negociaciones sin intermediarios para definir el presupuesto de Nuevo León.",
         "zona": "Monterrey",
         "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/evacuan-palacio-de-gobierno-en-simulacro-nacional/v3584194365",
-        "_added_at": "2026-09-20T00:45:08.698943-06:00"
+        "url": "https://www.elhorizonte.mx/nuevoleon/pide-samuel-garcia-dialogar-sin-terceros-sobre-presupuesto/6047833037",
+        "_added_at": "2026-09-21T00:51:03.877455-06:00"
       }
     ],
     "economia": [
       {
-        "title": "Segunda edición de Mercado Hecho en Nuevo León arranca",
-        "summary": "Inicia evento de promoción de productos y negocios locales del estado.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/arranca-la-segunda-edicion-del-mercado-hecho-en-nuevo-leon/1027116",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
+        "title": "Conagua prioriza agua para Monterrey antes de trasvase",
+        "summary": "Conagua garantiza el derecho humano al agua en Monterrey antes de resolver asuntos sobre presa El Cuchillo y posible trasvase.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/conagua-priorizara-agua-de-monterrey-en-trasvase-de-el-cuchillo",
+        "_added_at": "2026-09-21T00:51:03.877455-06:00"
       },
       {
-        "title": "Precios de gas LP para la semana 20-26 de septiembre",
-        "summary": "Se publican tarifas actuales del combustible para usuarios residenciales.",
+        "title": "Concesión del río Pánuco y ampliación sigue en espera",
+        "summary": "Nuevo León pendiente de aprobación de cuota de garantía para concesión del río Pánuco y ampliación de presa El Cuchillo.",
         "zona": "Nuevo León",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/negocios/nuevo-leon-precio-gas-lp-del-20-al-26-septiembre-2026",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
+        "url": "https://www.milenio.com/comunidad/nuevo-leon-pendiente-pago-cuota-garantia-concesion-agua-rio-panuco",
+        "_added_at": "2026-09-21T00:51:03.877455-06:00"
       },
       {
-        "title": "Mariana Rodríguez promueve emprendedurismo en Mercado Hecho en NL",
-        "summary": "Gobernadora dirige mensaje a emprendedoras para continuar persiguiendo sus objetivos económicos.",
-        "zona": "Monterrey",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/video-mariana-rodriguez-llama-a-emprendedoras-a-no-renunciar-a-sus-suenos-en-mercado-hecho-en-nuevo-leon/v-vl2256569",
-        "_added_at": "2026-09-20T00:45:08.698943-06:00"
-      }
-    ],
-    "eventos": [
-      {
-        "title": "Arranca segunda edición de Mercado Hecho en Nuevo León",
-        "summary": "Inicia nueva edición de expo comercial que promueve productos y negocios locales del estado.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/arranca-la-segunda-edicion-del-mercado-hecho-en-nuevo-leon/1027116",
-        "_added_at": "2026-09-20T16:54:07.481287-06:00"
-      },
-      {
-        "title": "Monterrey conmemora 430 años de su fundación",
-        "summary": "Celebraciones y actos protocolarios marcan aniversario de la fundación de la ciudad en el Obelisco.",
-        "zona": "Monterrey",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/conemora-monterrey-430-anos",
-        "_added_at": "2026-09-20T16:54:07.481287-06:00"
-      },
-      {
-        "title": "Participa Brugada en Foro Urban20 en Nueva York",
-        "summary": "Jefa de gobierno capitalino presenta propuestas de alianza global de ciudades para vivienda, clima y migración.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nacional/clara-brugada-participa-junto-a-mamdani-en-foro-urban20-2026/5365868964",
-        "_added_at": "2026-09-20T16:54:07.481287-06:00"
-      },
-      {
-        "title": "Monterrey conmemora 430 años de su fundación",
-        "summary": "Ciudad celebra aniversario con ceremonias y actividades en honor a su historia.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/conmemoran-430-aniversario-fundacion-monterrey-guardia-honor-obelisco",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Bobby Pulido ofrece último concierto en México en NL",
-        "summary": "Artista anuncia presentación final en festival a realizarse en el estado.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/espectaculos/musica/bobby-pulido-ultimo-concierto-mexico-festival-santiago-nuevo-leon",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Nuevo León conmemora Día de Protección Civil",
-        "summary": "Estado celebra jornada dedicada a la protección civil con actividades conmemorativas.",
+        "title": "Ofrecen apoyos a mujeres emprendedoras en Nuevo León",
+        "summary": "Gobierno ofrece programas de apoyo para impulsar negocios liderados por mujeres emprendedoras en la entidad.",
         "zona": "Nuevo León",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/conmemora-nuevo-leon-el-dia-de-proteccion-civil/v8513560573",
-        "_added_at": "2026-09-20T00:45:08.698943-06:00"
+        "url": "https://info7.mx/nuevoleon/ofrecen-apoyos-a-mujeres-emprendedoras-en-nuevo-leon/9891704492",
+        "_added_at": "2026-09-21T00:51:03.877455-06:00"
       }
     ],
+    "eventos": [],
     "sociedad": [
       {
-        "title": "Muere Conde de Agualeguas, historiador y comediante",
-        "summary": "Fallece personaje emblemático de Nuevo León reconocido por labor histórica y artística en la entidad.",
+        "title": "Fuerza Regia vence a Correcaminos en serie de playoffs",
+        "summary": "Quinteta regiomontana gana primer juego ante UAT Correcaminos 94-83 en Reynosa, tomando ventaja en la serie.",
         "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/20/muere-el-conde-de-agualeguas-comediante-e-historiador-de-nl-290129.html",
-        "_added_at": "2026-09-20T16:54:07.481287-06:00"
-      },
-      {
-        "title": "Segundo Simulacro Nacional se realiza en Nuevo León",
-        "summary": "Estado participa en ejercicio de prevención ante posibles sismos con coordinación estatal.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/se-suma-nl-al-segundo-simulacro-nacional/1027118",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Rescatan a niña de 6 años tras ahogamiento en alberca",
-        "summary": "Menores salvada por rescatistas después de incidente en Santa Catarina.",
-        "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/estados/rescatan-menor-ahogamiento-alberca-santa-catarina-nuevo-leon",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Limpian 1.2 kilómetros del Río Pesquería",
-        "summary": "Más de 500 personas participan en jornada de limpieza de área natural.",
-        "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/20/limpian-12-kilometros-del-rio-pesqueria-290137.html",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Entregan aparatos de movilidad y kits escolares",
-        "summary": "Se distribuyen recursos y dispositivos de apoyo a comunidades del estado.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/entregan-aparatos-de-movilidad-y-kits-escolares/1027112",
-        "_added_at": "2026-09-20T11:53:07.445072-06:00"
-      },
-      {
-        "title": "Trabajador muere por descarga en horno industrial Salinas Victoria",
-        "summary": "Fallecimiento de trabajador tras accidente con descarga eléctrica en faena laboral.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/estados/hombre-muere-sufrir-descarga-horno-industrial-salinas-victoria-nl",
-        "_added_at": "2026-09-20T00:45:08.698943-06:00"
-      },
-      {
-        "title": "Choque entre automóvil y camión deja seis lesionados",
-        "summary": "Accidente vial en Monterrey resulta en múltiples heridos tras colisión vehicular.",
-        "zona": "Monterrey",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/choque-entre-automovil-y-camion-deja-seis-lesionados-en-monterrey/v6670629346",
-        "_added_at": "2026-09-20T00:45:08.698943-06:00"
+        "url": "https://info7.mx/deportes/vence-fuerza-regia-a-correcaminos-en-reynosa-por-94-a-83/9596423867",
+        "_added_at": "2026-09-21T00:51:03.877455-06:00"
       }
     ]
   },
-  "last_updated": "2026-09-20T16:54:07.481287-06:00"
+  "last_updated": "2026-09-21T00:51:03.877455-06:00"
 }
