@@ -1,8 +1,16 @@
 {
   "date": "2026-09-21",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a fugitivo buscado desde 2004 en Nuevo León",
+        "summary": "Presunto delincuente que vivía como carpintero en el estado fue capturado tras más de dos décadas prófugo.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/fugitivo-buscado-desde-2004-detienen-a-luis-s-en-nuevo-leon/v-vl2257237",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
       {
         "title": "San Pedro Garza García: zona exclusiva se convierte en refugio de criminales",
         "summary": "Presuntos huachicoleros y capos encuentran refugio en San Pedro Garza García, transformando la zona exclusiva en punto de operaciones delictivas.",
@@ -78,6 +86,46 @@
     ],
     "politica": [
       {
+        "title": "Morena denuncia a Samuel García por enriquecimiento ilícito",
+        "summary": "El partido político interpone denuncia contra el gobernador y allegados por presuntas irregularidades patrimoniales.",
+        "zona": "Nuevo León",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/morena-denuncia-a-samuel-garcia-y-mariana-rodriguez-por-enriquecimiento-ilicito/",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "Diputados rechazan acudir a reunión presupuestal con Tesorería",
+        "summary": "Legisladores cuestionan a la administración de hacienda sobre la exclusión en diálogos del presupuesto.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/diputados-rechazan-reunion-presupuestal-tesoreria-nl",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "PAN propone pago de predial en mensualidades en Nuevo León",
+        "summary": "El partido legislativo presenta iniciativa para facilitar el pago de impuestos inmobiliarios a los ciudadanos.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/pan-presenta-propuesta-para-pago-del-predial",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "Morena propone limitar uso electoral de recursos públicos",
+        "summary": "El partido de gobierno presenta medida legislativa para regular la utilización de fondos estatales en campañas.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/morena-propone-evitar-electoral-recursos-congreso-nl",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "Congreso aprueba comisión para infraestructura eléctrica",
+        "summary": "Legisladores establecen órgano especial para dar seguimiento a proyectos de energía en la entidad.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/aprueba-congreso-infraestructura-electrica-nl",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
         "title": "Morena acusa a Samuel de enriquecimiento ilícito y triangulaciones",
         "summary": "Morena NL denuncia presuntas triangulaciones y enriquecimiento ilícito del gobernador Samuel García; él responde con burla.",
         "zona": "Nuevo León",
@@ -128,6 +176,30 @@
     ],
     "economia": [
       {
+        "title": "Nuevo León destaca como líder en innovación nacional",
+        "summary": "La entidad es reconocida por su capacidad y desarrollo en sectores de tecnología y emprendimiento.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/destacan-a-nuevo-leon-como-lider-en-innovacion-a-nivel-nacional/9571173552",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "Zinc Nacional transforma acerías para impulsar economía",
+        "summary": "Empresa aprovecha residuos de la industria siderúrgica para crear nuevos productos.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/zinc-nacional-transforma-acerias-generadas-mexico",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "CRT reactiva líneas telefónicas suspendidas en la región",
+        "summary": "Compañía de telecomunicaciones restablece servicio a 1.2 millones de clientes con adeudos.",
+        "zona": "Nuevo León",
+        "source": "El Sol de México",
+        "url": "https://oem.com.mx/elsoldemexico/finanzas/crt-reactiva-1-2-millones-de-lineas-telefonicas-suspendidas-siguiente-corte-es-el-30-de-septiembre-32182809",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
         "title": "Gobierno federal plantea homologar catastros para agilizar trámites",
         "summary": "Propuesta para unificar catastros y registros públicos con folio único nacional mejora procesos inmobiliarios.",
         "zona": "Nuevo León",
@@ -170,6 +242,38 @@
     ],
     "eventos": [
       {
+        "title": "Jardín de Niños Miguel Hidalgo celebra cien años",
+        "summary": "Institución educativa de Monterrey conmemora su centenario con trayectoria en generaciones.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/jardin-ninos-miguel-hidalgo-llega-centenario-monterrey",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "Memorial honra a víctimas de COVID-19 en Monterrey",
+        "summary": "Se inaugura espacio de remembranza en el corazón de la ciudad para homenajear a fallecidos.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/homenaje-a-las-victimas-del-covid-19-en-monterrey-memorial-inaugurado/v-vl2257207",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "La Milarca será gratuita en memoria de Mauricio Fernández",
+        "summary": "Tradicional carrera de montaña se realizará sin costo como homenaje al exgobernador.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/la-milarca-gratis",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "Mercado Sonora alista baile sonidero para aniversario 69",
+        "summary": "Emblemático comercio de Monterrey prepara celebración con música y convivencia.",
+        "zona": "Monterrey",
+        "source": "El Sol de México",
+        "url": "https://oem.com.mx/elsoldemexico/metropoli/mercado-sonora-alista-baile-sonidero-para-su-aniversario-69-invitados-y-horario-32163059",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
         "title": "Parque de las Calabazas llega a Monterrey y San Pedro",
         "summary": "Nuevo espacio temático de diversión familiar se inaugura en zona metropolitana con actividades de temporada.",
         "zona": "Área metropolitana",
@@ -179,6 +283,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Diputada impulsa atención consular ante repatriaciones de migrantes",
+        "summary": "Legisladora propone fortalecer servicios consulares para respaldar a mexicanos retornados del extranjero.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/09/21/diputada-plantea-fortalecer-atencion-consular-ante-repatriaciones-y-rescates-de-migrantes/",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "Prohíben celulares en aulas; nuevas reglas entran en vigor",
+        "summary": "Normativa estatal restringe el uso de dispositivos móviles en escuelas a partir de noviembre.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/09/21/adios-al-celular-en-las-aulas-nuevas-reglas-para-estudiantes-entraran-en-vigor-en-noviembre/",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "Club Rotario Reynosa impulsa salud mental con TransformArte",
+        "summary": "Organización cívica implementa iniciativa cultural para mejorar bienestar emocional.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/reynosa/club-rotario-reynosa-salud-mental",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "Buscan regular explotación económica de menores en redes",
+        "summary": "Legisladores presentan iniciativa para proteger a niños contra abuso laboral en plataformas digitales.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/09/21/buscan-regular-explotacion-economica-de-menores-mediante-redes-sociales/",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "Monterrey necesita ser ciudad más vivible, advierten",
+        "summary": "Cronistas e intelectuales hacen llamado a mejorar calidad de vida urbana.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/cronistas-llaman-a-construir-un-monterrey-mas-vivible",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
+      {
+        "title": "Buscan mejorar oportunidades de empleo para jóvenes",
+        "summary": "Iniciativas locales se enfocan en preparación y colocación laboral de población joven.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/buscan-mejorar-oportunidades-de-empleo-para-jovenes/1027185",
+        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+      },
       {
         "title": "SEP restringe uso de celulares en primarias y secundarias desde noviembre",
         "summary": "Sheinbaum anuncia prohibición de teléfonos móviles en aulas de educación básica; medida entra en vigor próximo mes.",
@@ -221,5 +373,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-21T13:50:46.036287-06:00"
+  "last_updated": "2026-09-21T17:46:46.024781-06:00"
 }
