@@ -1,8 +1,48 @@
 {
   "date": "2026-09-21",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "San Pedro Garza García: zona exclusiva se convierte en refugio de criminales",
+        "summary": "Presuntos huachicoleros y capos encuentran refugio en San Pedro Garza García, transformando la zona exclusiva en punto de operaciones delictivas.",
+        "zona": "Área metropolitana",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/san-pedro-garza-garcia-refugio-alto-nivel-huachicoleros-delincuentes",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
+        "title": "FGR asegura cuatro gasolineras en operativo contra huachicol",
+        "summary": "Autoridades federales aseguran cuatro gasolineras en zona citrícola como parte de operativo contra tráfico ilegal de combustible.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/asegura-fgr-cuatro-gasolineras-en-zona-citricola/1027375",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
+        "title": "Delincuentes irrumpen en vivienda y roban a familia en García",
+        "summary": "Criminales armados asaltan casa en García sustrayendo miles de pesos y joyas tras someter a los habitantes.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/garcia-nl-asaltan-familia-casa-roban-miles-pesos",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
+        "title": "Detienen a cuatro delincuentes tras asalto en Guadalupe",
+        "summary": "Autoridades capturan a cuatro sujetos acusados de asaltar a un hombre en la vía pública en Guadalupe.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/guadalupe-detienen-a-cuatro-delincuentes-asalto-plaza-publica",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
+        "title": "Recuperan 235 mil pesos en operativo de Centro de Monterrey",
+        "summary": "Tres hombres detenidos en Centro; se aseguran dos armas, droga, efectivo y celular robado de víctima.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/recuperan-mas-de-235-mil-pesos-tras-robo-detienen-a-tres/v6087995858",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
       {
         "title": "Operativo federal asegura gasolineras en Montemorelos",
         "summary": "Autoridades federales suspendieron operaciones en bombas de gasolina de Montemorelos como parte de un operativo contra delincuencia organizada.",
@@ -38,6 +78,38 @@
     ],
     "politica": [
       {
+        "title": "Morena acusa a Samuel de enriquecimiento ilícito y triangulaciones",
+        "summary": "Morena NL denuncia presuntas triangulaciones y enriquecimiento ilícito del gobernador Samuel García; él responde con burla.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/morena-nl-insiste-en-su-frente-contra-samuel-y-denuncian-presuntas-triangulaciones-8591/",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
+        "title": "Samuel convoca a alcaldes para analizar Presupuesto 2027",
+        "summary": "Gobernador invita a los 51 alcaldes a discutir presupuesto estatal sin intermediarios; busca diálogo directo.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/invita-gobernador-a-los-51-alcaldes-a-analizar-presupuesto-2027/1027378",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
+        "title": "Samuel retoma proyecto de L5 del Metro para zona sur",
+        "summary": "Gobernador reactiva iniciativa de la línea 5 del Metro como solución al congestionamiento en sur de Monterrey.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/revive-samuel-la-l5-del-metro-para-solucionar-trafico-en-la-zona-sur/1027377",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
+        "title": "Alcalde de San Nicolás propone eliminar refrendo vehicular",
+        "summary": "Edil plantea reforma para suprimir el trámite de refrendo anual de vehículos en Nuevo León.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/propone-alcalde-de-san-nicolas-refrendo",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
         "title": "Samuel García conmemora Batalla de Monterrey",
         "summary": "Gobernador Samuel García encabeza ceremonia conmemorativa de la Batalla de Monterrey y habla de continuar el legado de Nuevo León.",
         "zona": "Monterrey",
@@ -55,6 +127,22 @@
       }
     ],
     "economia": [
+      {
+        "title": "Gobierno federal plantea homologar catastros para agilizar trámites",
+        "summary": "Propuesta para unificar catastros y registros públicos con folio único nacional mejora procesos inmobiliarios.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/homologacion-catastros-busca-agilizar-tramites-inmobiliarios",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
+        "title": "Pedreras de Nuevo León reducen 60% sus emisiones contaminantes",
+        "summary": "Industria minera local logra disminución significativa en contaminación atmosférica mediante nuevas tecnologías.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/pedreras-nuevo-leon-bajan-60-ciento-emisiones",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
       {
         "title": "Conagua prioriza agua para Monterrey antes de trasvase",
         "summary": "Conagua garantiza el derecho humano al agua en Monterrey antes de resolver asuntos sobre presa El Cuchillo y posible trasvase.",
@@ -80,8 +168,49 @@
         "_added_at": "2026-09-21T00:51:03.877455-06:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Parque de las Calabazas llega a Monterrey y San Pedro",
+        "summary": "Nuevo espacio temático de diversión familiar se inaugura en zona metropolitana con actividades de temporada.",
+        "zona": "Área metropolitana",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/parque-de-las-calabazas-2026-monterrey-donde-esta-precios-fechas",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "SEP restringe uso de celulares en primarias y secundarias desde noviembre",
+        "summary": "Sheinbaum anuncia prohibición de teléfonos móviles en aulas de educación básica; medida entra en vigor próximo mes.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nacional/sep-limitara-uso-de-celulares-en-escuelas-a-partir-de-noviembre/v6593247804",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
+        "title": "Escobedo rehabilita principales arterias viales de la ciudad",
+        "summary": "Municipio anuncia plan de mejoras en calles y avenidas principales para optimizar circulación.",
+        "zona": "Área metropolitana",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/anuncia-escobedo-rehabilitaciones-de-principales-arterias",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
+        "title": "IMSS Nuevo León entrega cinco nuevas ambulancias",
+        "summary": "Instituto de Salud pone en servicio unidades de transporte sanitario para mejorar atención de emergencias.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/mss-cinco-nuevas-ambulancias",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
+      {
+        "title": "Escobedo impulsa campaña de prevención del suicidio",
+        "summary": "Municipio desarrolla acciones de sensibilización y apoyo psicológico en materia de salud mental.",
+        "zona": "Área metropolitana",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/promueve-escobedo-prevencion-del-suicidio-con-acciones-de-sensibilizacion/",
+        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+      },
       {
         "title": "Fuerza Regia vence a Correcaminos en serie de playoffs",
         "summary": "Quinteta regiomontana gana primer juego ante UAT Correcaminos 94-83 en Reynosa, tomando ventaja en la serie.",
@@ -92,5 +221,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-21T00:51:03.877455-06:00"
+  "last_updated": "2026-09-21T13:50:46.036287-06:00"
 }
