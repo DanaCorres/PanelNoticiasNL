@@ -1,8 +1,32 @@
 {
   "date": "2026-09-22",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Primera sentencia por homicidio de persona trans en NL",
+        "summary": "Tribunal condena a responsable a 96 años de prisión en caso histórico de crimen de odio en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/dictan-primera-sentencia-homicidio-trans",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Juicio contra Dámaso N podría extenderse varios días",
+        "summary": "Proceso judicial contra narcotraficante Dámaso N se prolongará más de lo previsto inicialmente.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/juicio-contra-damaso-n-podria-extenderse-varios-dias/1550571796",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Capturan sicarios del Cártel del Noreste en Nuevo León",
+        "summary": "Autoridades aseguran a miembros de CDN con arsenal militar y fusil especializado en operativo en Hidalgo.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/fotos-cae-en-hidalgo-nuevo-leon-sicarios-del-cdn-arsenal-del-ejercito-y-fusil",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
       {
         "title": "Fuerza Civil investiga altercado con residentes en Monterrey",
         "summary": "Se registró enfrentamiento entre elementos de Fuerza Civil y vecinos que dejó herida a una bebé recién nacida en el municipio.",
@@ -53,6 +77,38 @@
       }
     ],
     "politica": [
+      {
+        "title": "Congreso propone Distrito de Memoria en Topo Chico",
+        "summary": "Iniciativa busca declarar zona histórica como espacio de patrimonio cívico y cultural.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/congreso-propone-declarar-distrito-topo-chico00",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Gobierno anuncia descuentos para regularizar placas foráneas",
+        "summary": "Nuevo León ofrece 100% de descuento en trámite de cambio de placas de otros estados.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/ofrecera-nl-descuentos-del-100-en-cambio-de-placas-foraneas/1027737",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Herrera cuestiona a De la Garza por sistema de cuidados",
+        "summary": "Funcionario señala presunto abandono gubernamental en política de atención a dependientes.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/herrera-apunta-contra-de-la-garza-por-presunto-abandono-al-sistema-de-cuidados-6301/",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Carrillo destaca seguridad y desarrollo en segundo informe",
+        "summary": "Gobernador subraya avances en orden público e infraestructura durante su administración.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/destaca-carrillo-seguridad-y-desarrollo-en-segundo-informe/1027719",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
       {
         "title": "Morena proyecta candidaturas fuertes para elecciones 2027 en NL",
         "summary": "Dirigencia estatal de Morena analiza estrategia electoral para próximas elecciones en Nuevo León con expectativas de competitividad.",
@@ -112,6 +168,38 @@
     ],
     "economia": [
       {
+        "title": "Nuevo León segundo lugar en consumo de electricidad nacional",
+        "summary": "Estado mantiene posición como segundo mayor consumidor de energía eléctrica en México.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/nuevo-leon-segundo-lugar-consumo-electricidad-cfe-cluster-energetico",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "NL apuesta por proyectos costosos para seguridad hídrica",
+        "summary": "Gobierno invierte en planes complejos para garantizar suministro de agua ante futuras sequías.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/plan-hidrico-2050-nuevo-leon-proyectos-costosos-agua-monterrey-famm",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Pedreras invierten más de mil 500 millones en ambiente",
+        "summary": "Sector minero de Nuevo León destinó recursos significativos a acciones ambientales.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/pedreras-leon-reportan-inversion-mil-500-mdp",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Nuevo León líder en exportaciones y seguridad hídrica",
+        "summary": "Estado destaca como motor económico de México con exportaciones récord y planes de agua.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/expo-pyme-nuevo-leon-primer-lugar-en-exportaciones-y-seguridad-hidrica-futuras-sequias/",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
         "title": "Restaurantes de Nuevo León enfrentan alza en precio de carnes",
         "summary": "Incremento en costos de materia prima presiona márgenes de ganancia de establecimientos gastronómicos en el estado.",
         "zona": "Nuevo León",
@@ -130,6 +218,30 @@
     ],
     "eventos": [
       {
+        "title": "UANL inicia ciclo con más de 220 mil estudiantes",
+        "summary": "Universidad Autónoma de Nuevo León abre semestre con matrícula completa de alumnos.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://www.info7.mx/resultado?query=Iniciar%C3%A1%20la%20UANL%20nuevo%20ciclo%20con%20m%C3%A1s%20de%20220%20mil%20estudiantes",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Pase Turístico Nuevo León disponible desde octubre",
+        "summary": "Gobierno anuncia inicio de trámites para acceso a atractivos turísticos con descuentos.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/pase-turistico-nuevo-leon-2026-fecha-inicio-requisitos-y-como-tramitarlo-en-linea/",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Monterrey ofrece cursos gratis de manejo seguro en moto",
+        "summary": "Ciudad lanza programa de capacitación para motociclistas con equipo de protección incluido.",
+        "zona": "Monterrey",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/cursos-gratis-manejo-seguro-para-motociclistas-en-monterrey/",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
         "title": "Cox y CONALEP unen esfuerzos en reforestación de Nuevo León",
         "summary": "Organismos públicos y privados colaboran en proyecto ambiental para aumentar cobertura verde estatal.",
         "zona": "Nuevo León",
@@ -139,6 +251,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Crisis educativa: solo 61% asistió a preescolar en NL",
+        "summary": "Grave rezago en inscripciones a kínder amenaza continuidad educativa de menores.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/preescolar-en-nuevo-leon-solo-61-los-ninos-asistio-al-kinder-y-crece-rezago-educativo/",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Escuela en Montemorelos lleva 60 años sin electricidad",
+        "summary": "Maestra Lupita pide urgentemente conexión de energía para institución educativa rural.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/nuevo-leon-escuela-sin-luz-en-montemorelos-maestra-lupita-lleva-60-anos/",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Convocan marcha por justicia por Viviana atropellada",
+        "summary": "Monterrey se moviliza para exigir castigo a responsables de muerte de madre.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/22/marcharan-en-monterrey-para-exigir-justicia-por-viviana-mama-atropellada-290282.html",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Feministas insisten en despenalizar aborto en NL",
+        "summary": "Activistas presionan a diputados para modificar legislación sobre interrupción del embarazo.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/despenalizar-el-aborto-nuevo-leon",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Transporte en Monterrey: filas, esperas y saturación",
+        "summary": "Sistema de buses enfrenta crisis de capacidad con usuarios reportando largas demoras.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/22/filas-esperas-y-camiones-saturados-el-viacrucis-diario-del-transporte-en-monterrey-290278.html",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
+      {
+        "title": "Oso reaparece en zonas urbanas de Nuevo León",
+        "summary": "Animal atrapado por basura come plásticos y se acerca a colonias en busca de alimento.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/oso-come-bolsas-plastico-y-sufre-vomito-basura-lo-atrae-a-zonas-urbanas-nuevo-leon/",
+        "_added_at": "2026-09-22T12:27:52.292721-06:00"
+      },
       {
         "title": "Salud exhorta legislar cobertura universal contra cáncer de mama",
         "summary": "Secretaría estatal pide al Congreso aprobar programa integral de atención y prevención de cáncer mamario.",
@@ -205,5 +365,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-22T00:37:54.695629-06:00"
+  "last_updated": "2026-09-22T12:27:52.292721-06:00"
 }
