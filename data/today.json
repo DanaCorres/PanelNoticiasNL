@@ -1,377 +1,209 @@
 {
-  "date": "2026-09-21",
-  "run_count": 3,
+  "date": "2026-09-22",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen a fugitivo buscado desde 2004 en Nuevo León",
-        "summary": "Presunto delincuente que vivía como carpintero en el estado fue capturado tras más de dos décadas prófugo.",
-        "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/fugitivo-buscado-desde-2004-detienen-a-luis-s-en-nuevo-leon/v-vl2257237",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+        "title": "Fuerza Civil investiga altercado con residentes en Monterrey",
+        "summary": "Se registró enfrentamiento entre elementos de Fuerza Civil y vecinos que dejó herida a una bebé recién nacida en el municipio.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/monterrey-enfrentamiento-armado-deja-a-recien-nacida-lastimada",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "San Pedro Garza García: zona exclusiva se convierte en refugio de criminales",
-        "summary": "Presuntos huachicoleros y capos encuentran refugio en San Pedro Garza García, transformando la zona exclusiva en punto de operaciones delictivas.",
-        "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/san-pedro-garza-garcia-refugio-alto-nivel-huachicoleros-delincuentes",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
-      },
-      {
-        "title": "FGR asegura cuatro gasolineras en operativo contra huachicol",
-        "summary": "Autoridades federales aseguran cuatro gasolineras en zona citrícola como parte de operativo contra tráfico ilegal de combustible.",
+        "title": "Capturan cuatro asaltantes mediante operativo con drones",
+        "summary": "Policía estatal logró detener a cuatro presuntos delincuentes dedicados al robo utilizando tecnología de dronaje en operativo nocturno.",
         "zona": "Nuevo León",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/asegura-fgr-cuatro-gasolineras-en-zona-citricola/1027375",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+        "url": "https://elporvenir.mx/justicia/captura-policia-a-cuatro-asaltantes-a-traves-de-drones/1027667",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Delincuentes irrumpen en vivienda y roban a familia en García",
-        "summary": "Criminales armados asaltan casa en García sustrayendo miles de pesos y joyas tras someter a los habitantes.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/garcia-nl-asaltan-familia-casa-roban-miles-pesos",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
-      },
-      {
-        "title": "Detienen a cuatro delincuentes tras asalto en Guadalupe",
-        "summary": "Autoridades capturan a cuatro sujetos acusados de asaltar a un hombre en la vía pública en Guadalupe.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/guadalupe-detienen-a-cuatro-delincuentes-asalto-plaza-publica",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
-      },
-      {
-        "title": "Recuperan 235 mil pesos en operativo de Centro de Monterrey",
-        "summary": "Tres hombres detenidos en Centro; se aseguran dos armas, droga, efectivo y celular robado de víctima.",
+        "title": "Detienen sujeto por presunto abuso sexual contra menor",
+        "summary": "Autoridades aseguran a hombre acusado de abuso sexual infantil en Monterrey tras denuncia de familiares de la víctima.",
         "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/recuperan-mas-de-235-mil-pesos-tras-robo-detienen-a-tres/v6087995858",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/monterrey-detienen-hombre-presunto-abuso-a-menor-camion",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Operativo federal asegura gasolineras en Montemorelos",
-        "summary": "Autoridades federales suspendieron operaciones en bombas de gasolina de Montemorelos como parte de un operativo contra delincuencia organizada.",
-        "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/21/suspenden-bombas-de-gasolina-en-montemorelos-tras-operativo-federal-290181.html",
-        "_added_at": "2026-09-21T00:51:03.877455-06:00"
-      },
-      {
-        "title": "Cae pareja vinculada a crimen organizado en Guadalupe",
-        "summary": "Detienen a pareja señalada como generadora de violencia en la zona de Faisanes, Guadalupe; material incautado fue remitido a autoridades federales.",
+        "title": "Ejecutan a balazos a hombre en calles de Escobedo",
+        "summary": "Sujeto fue asesinado por disparos de arma de fuego en vía pública de Escobedo; autoridades investigan motivos del crimen.",
         "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/cae-pareja-ligada-al-crimen-organizado-en-guadalupe/5383500838",
-        "_added_at": "2026-09-21T00:51:03.877455-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/ejecutan-a-balazos-a-hombre-en-calles-de-escobedo/1027418",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Catean vivienda por investigación de asesinatos",
-        "summary": "Autoridades allanaron domicilio en Monterrey como parte de investigación por dos casos de homicidio.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/catean-vivienda-relacionada-a-asesinatos-en-monterrey",
-        "_added_at": "2026-09-21T00:51:03.877455-06:00"
-      },
-      {
-        "title": "Joven atropellado en Juárez por conductor en estado de ebriedad",
-        "summary": "Israel David falleció tras ser atropellado en paso elevado de Juárez; familiares buscan testigos y temen por liberación del responsable.",
+        "title": "Comando asalta domicilio y roba efectivo y joyería",
+        "summary": "Grupo delictivo ingresó a vivienda y sustrajo quince mil pesos junto con objetos de valor durante asalto a mano armada.",
         "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/identifican-a-joven-atropellado-en-juarez-por-conductor-ebrio/2496138599",
-        "_added_at": "2026-09-21T00:51:03.877455-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/asalta-comando-domicilio-roban-15-mil-y-joyeria/1027656",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
+      },
+      {
+        "title": "Detienen a tres sujetos con cristal para vender",
+        "summary": "Autoridades aseguran a presuntos narcomenudistas con veintidós envoltorios de droga cristal durante operativo.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/caen-tres-sujetos-con-22-envoltorios-de-supuesto-cristal/1027669",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Morena denuncia a Samuel García por enriquecimiento ilícito",
-        "summary": "El partido político interpone denuncia contra el gobernador y allegados por presuntas irregularidades patrimoniales.",
+        "title": "Morena proyecta candidaturas fuertes para elecciones 2027 en NL",
+        "summary": "Dirigencia estatal de Morena analiza estrategia electoral para próximas elecciones en Nuevo León con expectativas de competitividad.",
         "zona": "Nuevo León",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/morena-denuncia-a-samuel-garcia-y-mariana-rodriguez-por-enriquecimiento-ilicito/",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/22/proyectan-humo-blanco-de-morena-en-nl-para-el-arranque-electoral-290266.html",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Diputados rechazan acudir a reunión presupuestal con Tesorería",
-        "summary": "Legisladores cuestionan a la administración de hacienda sobre la exclusión en diálogos del presupuesto.",
+        "title": "PAN busca frenar a Morena en Nuevo León para 2027",
+        "summary": "Líder nacional del PAN concentra esfuerzos en Nuevo León para contener avance de Morena en próximas contiendas electorales.",
         "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/diputados-rechazan-reunion-presupuestal-tesoreria-nl",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/22/elecciones-2027-lider-nacional-del-pan-busca-frenar-a-morena-en-nl-290273.html",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "PAN propone pago de predial en mensualidades en Nuevo León",
-        "summary": "El partido legislativo presenta iniciativa para facilitar el pago de impuestos inmobiliarios a los ciudadanos.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/pan-presenta-propuesta-para-pago-del-predial",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
-      },
-      {
-        "title": "Morena propone limitar uso electoral de recursos públicos",
-        "summary": "El partido de gobierno presenta medida legislativa para regular la utilización de fondos estatales en campañas.",
+        "title": "Diputados rechazan reunión sobre Paquete Económico Federal",
+        "summary": "Legisladores locales faltan a sesión para analizar presupuesto federal, generando conflicto con mesa directiva del Congreso.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/morena-propone-evitar-electoral-recursos-congreso-nl",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+        "url": "https://www.telediario.mx/politica/diputados-locales-faltan-a-reunion-spbre-el-paquete-economico-federal",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Congreso aprueba comisión para infraestructura eléctrica",
-        "summary": "Legisladores establecen órgano especial para dar seguimiento a proyectos de energía en la entidad.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/aprueba-congreso-infraestructura-electrica-nl",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
-      },
-      {
-        "title": "Morena acusa a Samuel de enriquecimiento ilícito y triangulaciones",
-        "summary": "Morena NL denuncia presuntas triangulaciones y enriquecimiento ilícito del gobernador Samuel García; él responde con burla.",
+        "title": "Lorena pide liquidar adeudos antes de negociar con gobierno",
+        "summary": "Diputada exige al gobierno estatal saldos pendientes y designación de tesorero como condición previa para diálogos fiscales.",
         "zona": "Nuevo León",
         "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/morena-nl-insiste-en-su-frente-contra-samuel-y-denuncian-presuntas-triangulaciones-8591/",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/lorena-pide-a-gobierno-nl-liquidar-adeudos-y-nombrar-tesorero-previo-a-negociaciones-7995/",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Samuel convoca a alcaldes para analizar Presupuesto 2027",
-        "summary": "Gobernador invita a los 51 alcaldes a discutir presupuesto estatal sin intermediarios; busca diálogo directo.",
+        "title": "Carrillo propone eliminar cobro del refrendo vehicular en NL",
+        "summary": "Funcionario estatal presenta iniciativa para suprimir refrendo anual, buscando beneficiar a automovilistas con reducción de costos.",
         "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/invita-gobernador-a-los-51-alcaldes-a-analizar-presupuesto-2027/1027378",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/daniel-carrillo-propone-eliminar-cobro-refrendo-vehicular-en-nl",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Samuel retoma proyecto de L5 del Metro para zona sur",
-        "summary": "Gobernador reactiva iniciativa de la línea 5 del Metro como solución al congestionamiento en sur de Monterrey.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/revive-samuel-la-l5-del-metro-para-solucionar-trafico-en-la-zona-sur/1027377",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+        "title": "Diputados analizan regulación de scooters y bicicletas eléctricas",
+        "summary": "Congreso estatal inicia trabajo legislativo para establecer normas de uso y circulación de vehículos de movilidad alterna.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/22/iniciaran-diputados-de-nl-analisis-para-regular-scooters-y-bicicletas-electricas-290264.html",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Alcalde de San Nicolás propone eliminar refrendo vehicular",
-        "summary": "Edil plantea reforma para suprimir el trámite de refrendo anual de vehículos en Nuevo León.",
-        "zona": "Área metropolitana",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/propone-alcalde-de-san-nicolas-refrendo",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
-      },
-      {
-        "title": "Samuel García conmemora Batalla de Monterrey",
-        "summary": "Gobernador Samuel García encabeza ceremonia conmemorativa de la Batalla de Monterrey y habla de continuar el legado de Nuevo León.",
-        "zona": "Monterrey",
+        "title": "Félix Arratia lleva programas sociales a 13 municipios del estado",
+        "summary": "Funcionario estatal acerca beneficios de gobierno a comunidades rurales e intermedias en gira de trabajo territorial.",
+        "zona": "Nuevo León",
         "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/samuel-conmemora-la-batalla-de-monterrey-el-legado-de-nl-ya-comenzo-y-toca-continuarlo/",
-        "_added_at": "2026-09-21T00:51:03.877455-06:00"
-      },
-      {
-        "title": "García pide diálogo directo sobre Presupuesto estatal",
-        "summary": "Gobernador Samuel García solicita negociaciones sin intermediarios para definir el presupuesto de Nuevo León.",
-        "zona": "Monterrey",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/pide-samuel-garcia-dialogar-sin-terceros-sobre-presupuesto/6047833037",
-        "_added_at": "2026-09-21T00:51:03.877455-06:00"
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/felix-arratia-acerca-programas-sociales-a-13-municipios-9753/",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       }
     ],
     "economia": [
       {
-        "title": "Nuevo León destaca como líder en innovación nacional",
-        "summary": "La entidad es reconocida por su capacidad y desarrollo en sectores de tecnología y emprendimiento.",
+        "title": "Restaurantes de Nuevo León enfrentan alza en precio de carnes",
+        "summary": "Incremento en costos de materia prima presiona márgenes de ganancia de establecimientos gastronómicos en el estado.",
         "zona": "Nuevo León",
         "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/destacan-a-nuevo-leon-como-lider-en-innovacion-a-nivel-nacional/9571173552",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+        "url": "https://www.elhorizonte.mx/finanzas/se-comen-restaurantes-de-nuevo-leon-alza-de-la-carne/4772054687",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Zinc Nacional transforma acerías para impulsar economía",
-        "summary": "Empresa aprovecha residuos de la industria siderúrgica para crear nuevos productos.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/negocios/zinc-nacional-transforma-acerias-generadas-mexico",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
-      },
-      {
-        "title": "CRT reactiva líneas telefónicas suspendidas en la región",
-        "summary": "Compañía de telecomunicaciones restablece servicio a 1.2 millones de clientes con adeudos.",
-        "zona": "Nuevo León",
-        "source": "El Sol de México",
-        "url": "https://oem.com.mx/elsoldemexico/finanzas/crt-reactiva-1-2-millones-de-lineas-telefonicas-suspendidas-siguiente-corte-es-el-30-de-septiembre-32182809",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
-      },
-      {
-        "title": "Gobierno federal plantea homologar catastros para agilizar trámites",
-        "summary": "Propuesta para unificar catastros y registros públicos con folio único nacional mejora procesos inmobiliarios.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/economia/homologacion-catastros-busca-agilizar-tramites-inmobiliarios",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
-      },
-      {
-        "title": "Pedreras de Nuevo León reducen 60% sus emisiones contaminantes",
-        "summary": "Industria minera local logra disminución significativa en contaminación atmosférica mediante nuevas tecnologías.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/pedreras-nuevo-leon-bajan-60-ciento-emisiones",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
-      },
-      {
-        "title": "Conagua prioriza agua para Monterrey antes de trasvase",
-        "summary": "Conagua garantiza el derecho humano al agua en Monterrey antes de resolver asuntos sobre presa El Cuchillo y posible trasvase.",
+        "title": "Dólar supera los 17.20 pesos en México",
+        "summary": "Moneda estadounidense registra nuevo máximo al cerrar jornada arriba de 17.20 pesos mexicanos.",
         "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/conagua-priorizara-agua-de-monterrey-en-trasvase-de-el-cuchillo",
-        "_added_at": "2026-09-21T00:51:03.877455-06:00"
-      },
-      {
-        "title": "Concesión del río Pánuco y ampliación sigue en espera",
-        "summary": "Nuevo León pendiente de aprobación de cuota de garantía para concesión del río Pánuco y ampliación de presa El Cuchillo.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/nuevo-leon-pendiente-pago-cuota-garantia-concesion-agua-rio-panuco",
-        "_added_at": "2026-09-21T00:51:03.877455-06:00"
-      },
-      {
-        "title": "Ofrecen apoyos a mujeres emprendedoras en Nuevo León",
-        "summary": "Gobierno ofrece programas de apoyo para impulsar negocios liderados por mujeres emprendedoras en la entidad.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/ofrecen-apoyos-a-mujeres-emprendedoras-en-nuevo-leon/9891704492",
-        "_added_at": "2026-09-21T00:51:03.877455-06:00"
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/negocios/2026/9/22/precio-del-dolar-hoy-en-mexico-el-billete-verde-sube-y-supera-los-1720-pesos-290252.html",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       }
     ],
     "eventos": [
       {
-        "title": "Jardín de Niños Miguel Hidalgo celebra cien años",
-        "summary": "Institución educativa de Monterrey conmemora su centenario con trayectoria en generaciones.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/jardin-ninos-miguel-hidalgo-llega-centenario-monterrey",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
-      },
-      {
-        "title": "Memorial honra a víctimas de COVID-19 en Monterrey",
-        "summary": "Se inaugura espacio de remembranza en el corazón de la ciudad para homenajear a fallecidos.",
-        "zona": "Monterrey",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/homenaje-a-las-victimas-del-covid-19-en-monterrey-memorial-inaugurado/v-vl2257207",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
-      },
-      {
-        "title": "La Milarca será gratuita en memoria de Mauricio Fernández",
-        "summary": "Tradicional carrera de montaña se realizará sin costo como homenaje al exgobernador.",
-        "zona": "Monterrey",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/la-milarca-gratis",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
-      },
-      {
-        "title": "Mercado Sonora alista baile sonidero para aniversario 69",
-        "summary": "Emblemático comercio de Monterrey prepara celebración con música y convivencia.",
-        "zona": "Monterrey",
-        "source": "El Sol de México",
-        "url": "https://oem.com.mx/elsoldemexico/metropoli/mercado-sonora-alista-baile-sonidero-para-su-aniversario-69-invitados-y-horario-32163059",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
-      },
-      {
-        "title": "Parque de las Calabazas llega a Monterrey y San Pedro",
-        "summary": "Nuevo espacio temático de diversión familiar se inaugura en zona metropolitana con actividades de temporada.",
-        "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/parque-de-las-calabazas-2026-monterrey-donde-esta-precios-fechas",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+        "title": "Cox y CONALEP unen esfuerzos en reforestación de Nuevo León",
+        "summary": "Organismos públicos y privados colaboran en proyecto ambiental para aumentar cobertura verde estatal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/unen-fuerzas-cox-y-conalep-para-reforestar-nuevo-leon/1027576",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Diputada impulsa atención consular ante repatriaciones de migrantes",
-        "summary": "Legisladora propone fortalecer servicios consulares para respaldar a mexicanos retornados del extranjero.",
+        "title": "Salud exhorta legislar cobertura universal contra cáncer de mama",
+        "summary": "Secretaría estatal pide al Congreso aprobar programa integral de atención y prevención de cáncer mamario.",
         "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/09/21/diputada-plantea-fortalecer-atencion-consular-ante-repatriaciones-y-rescates-de-migrantes/",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/salud-pide-al-congreso-de-nl-legislar-programa-contra-cancer-de-mama",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Prohíben celulares en aulas; nuevas reglas entran en vigor",
-        "summary": "Normativa estatal restringe el uso de dispositivos móviles en escuelas a partir de noviembre.",
-        "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/09/21/adios-al-celular-en-las-aulas-nuevas-reglas-para-estudiantes-entraran-en-vigor-en-noviembre/",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+        "title": "Diputada entrega mochilas transparentes en secundaria de Escobedo",
+        "summary": "Legisladora imparte pláticas de seguridad y prevención del delito mientras distribuye útiles escolares a estudiantes.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/diputada-entrega-mochilas-transparentes-a-estudiantes-en-escobedo",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Club Rotario Reynosa impulsa salud mental con TransformArte",
-        "summary": "Organización cívica implementa iniciativa cultural para mejorar bienestar emocional.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/reynosa/club-rotario-reynosa-salud-mental",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+        "title": "Carrillo destaca seguridad y movilidad en segundo informe de San Nicolás",
+        "summary": "Presidente municipal reporta avances en temas de orden público y transporte durante acto de rendición de cuentas.",
+        "zona": "Área metropolitana",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/seguridad-y-movilidad-en-san-nicolas-informe-de-daniel-carrillo/v-vl2257298",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Buscan regular explotación económica de menores en redes",
-        "summary": "Legisladores presentan iniciativa para proteger a niños contra abuso laboral en plataformas digitales.",
-        "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/09/21/buscan-regular-explotacion-economica-de-menores-mediante-redes-sociales/",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+        "title": "Gobierno reconoce daños en pluviales del Metro líneas 4 y 6",
+        "summary": "Autoridades estatal admite afectaciones en sistemas de drenaje por construcción de ampliación del Metrorrey.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/reconoce-nl-afectaciones-pluviales-lineas-4-6-metro",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Monterrey necesita ser ciudad más vivible, advierten",
-        "summary": "Cronistas e intelectuales hacen llamado a mejorar calidad de vida urbana.",
+        "title": "Nuevo León proyecta reparación de pluviales afectados por Metro",
+        "summary": "Estado anuncia plan de rehabilitación de infraestructura de drenaje dañada durante expansión de transporte masivo.",
         "zona": "Monterrey",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/cronistas-llaman-a-construir-un-monterrey-mas-vivible",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+        "url": "https://www.telediario.mx/politica/nuevo-leon-proyecta-reparar-pluviales-por-lineas-4-y-6-del-metro",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "Buscan mejorar oportunidades de empleo para jóvenes",
-        "summary": "Iniciativas locales se enfocan en preparación y colocación laboral de población joven.",
+        "title": "Calidad del aire en Nuevo León mejora con monitoreo y reforestación",
+        "summary": "Análisis ambiental muestra mejoría en indicadores de contaminación gracias a programas de vigilancia y forestación.",
         "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/buscan-mejorar-oportunidades-de-empleo-para-jovenes/1027185",
-        "_added_at": "2026-09-21T17:46:46.024781-06:00"
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/calidad-del-aire-en-nuevo-leon-monitoreo-y-reforestacion/v-vl2257325",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "SEP restringe uso de celulares en primarias y secundarias desde noviembre",
-        "summary": "Sheinbaum anuncia prohibición de teléfonos móviles en aulas de educación básica; medida entra en vigor próximo mes.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nacional/sep-limitara-uso-de-celulares-en-escuelas-a-partir-de-noviembre/v6593247804",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
-      },
-      {
-        "title": "Escobedo rehabilita principales arterias viales de la ciudad",
-        "summary": "Municipio anuncia plan de mejoras en calles y avenidas principales para optimizar circulación.",
+        "title": "Vecinos exigen justicia tras muerte de joven en Juárez",
+        "summary": "Comunidad se moviliza en demanda de esclarecimiento en caso de persona fallecida por atropellamiento.",
         "zona": "Área metropolitana",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/anuncia-escobedo-rehabilitaciones-de-principales-arterias",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/vecinos-juarez-marchan-muerte-joven-atropellado",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       },
       {
-        "title": "IMSS Nuevo León entrega cinco nuevas ambulancias",
-        "summary": "Instituto de Salud pone en servicio unidades de transporte sanitario para mejorar atención de emergencias.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/mss-cinco-nuevas-ambulancias",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
-      },
-      {
-        "title": "Escobedo impulsa campaña de prevención del suicidio",
-        "summary": "Municipio desarrolla acciones de sensibilización y apoyo psicológico en materia de salud mental.",
+        "title": "Recorridos sociales continúan en Santa Catarina a dos años de gestión",
+        "summary": "Autoridad municipal mantiene visitas a colonias para identificar necesidades comunitarias y dar seguimiento.",
         "zona": "Área metropolitana",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/promueve-escobedo-prevencion-del-suicidio-con-acciones-de-sensibilizacion/",
-        "_added_at": "2026-09-21T13:50:46.036287-06:00"
-      },
-      {
-        "title": "Fuerza Regia vence a Correcaminos en serie de playoffs",
-        "summary": "Quinteta regiomontana gana primer juego ante UAT Correcaminos 94-83 en Reynosa, tomando ventaja en la serie.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/deportes/vence-fuerza-regia-a-correcaminos-en-reynosa-por-94-a-83/9596423867",
-        "_added_at": "2026-09-21T00:51:03.877455-06:00"
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/22/mantienen-recorridos-sociales-en-santa-catarina-a-2-anos-de-gestion-de-jesus-nava-290265.html",
+        "_added_at": "2026-09-22T00:37:54.695629-06:00"
       }
     ]
   },
-  "last_updated": "2026-09-21T17:46:46.024781-06:00"
+  "last_updated": "2026-09-22T00:37:54.695629-06:00"
 }
