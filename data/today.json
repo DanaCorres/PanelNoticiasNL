@@ -1,8 +1,72 @@
 {
   "date": "2026-09-23",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Nuevo León lidera delitos de pornografía infantil en país con 91 casos",
+        "summary": "El estado concentra el mayor número de denuncias por pornografía infantil en México durante 2026, situación que requiere atención de autoridades.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/nuevo-leon-lidera-delitos-pornografia-infantil-mexico",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Sentencian a 102 años de prisión por delitos sexuales contra niña",
+        "summary": "Un hombre recibe condena por violación equiparada, abuso sexual y corrupción de menores en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/sentencian-a-102-anos-prision",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Detienen a pareja por asesinato de bebé en Zuazua",
+        "summary": "Capturan a dos personas acusadas de matar a golpes a un menor; decían practicar curaciones por brujería.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/detienen-a-pareja-asesinato-bebe",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Investigan a 5 policías por abuso de autoridad en Monterrey",
+        "summary": "Elementos de Fuerza Civil son investigados tras confrontación con ciudadanos en Alfonso Reyes.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/investigan-policias-confrontacion-vecinos-alfonso-reyes-monterrey",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Detienen a influencer 'La Barbie de la Alianza' con armas y drogas",
+        "summary": "Capturan a mujer con vínculos a grupo delictivo en posesión de armas, droga y efectivo en Monterrey.",
+        "zona": "Monterrey",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/influencer-la-barbie-la-alianza-fue-detenida-en-monterrey-armas-drogas-y-vinculos-grupo-delictivo/",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Samuel García reporta reducción del 90% en homicidios de septiembre",
+        "summary": "Gobernador presume cifras a la baja en homicidios dolosos y otros delitos de alto impacto.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/samuel-garcia-destaca-disminucion-delitos-alto-impacto-nl",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Fiscalía asegura cuentas bancarias de inmobiliaria por fraude",
+        "summary": "Autoridades incautan fondos de empresa tras denuncias de estafa a compradores de propiedades.",
+        "zona": "Monterrey",
+        "source": "El Sol de México",
+        "url": "https://oem.com.mx/elsoldemexico/mexico/fiscalia-de-nuevo-leon-asegura-cuentas-bancarias-de-inmobiliaria-tras-fraude-a-compradores-31352430",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Fraude inmobiliario en Monterrey suma más de mil millones de pesos",
+        "summary": "Operación de familias detrás de estafa masiva a compradores de propiedades en la ciudad.",
+        "zona": "Monterrey",
+        "source": "El Sol de México",
+        "url": "https://oem.com.mx/elsoldemexico/mexico/suman-mas-de-mil-millones-de-pesos-en-el-fraude-inmobiliario-de-monterrey-31025828",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
       {
         "title": "Detienen a cuatro con droga en operativos en Escobedo",
         "summary": "Autoridades capturaron a tres adultos y un menor con más de 80 envoltorios de cristal y marihuana, además de dinero en efectivo.",
@@ -30,6 +94,46 @@
     ],
     "politica": [
       {
+        "title": "PAN definirá en noviembre su candidato a gubernatura",
+        "summary": "Partido anuncia proceso de selección de aspirante para las elecciones de 2027.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/definira-pan-en-noviembre-su-candidato-a-la-gubernatura/1027962",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Morena definirá el 6 de octubre su candidato a gubernatura",
+        "summary": "Partido de Morena fija fecha para elegir su aspirante en carrera hacia 2027.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/definirian-morenistas-el-6-de-octubre-a-su-candidato-a-gubernartura/1027753",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Congreso rinde homenaje a Mauricio Fernández con aplausos",
+        "summary": "Legislatura local dedica minuto de aplausos al exgobernador en sesión de congreso.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/congreso-nuevo-leon-rinde-homenaje-mauricio-fernandez",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Cámaras empresariales actualizan iniciativa de reforma judicial",
+        "summary": "Sectores empresariales y sociedad civil presentan cambios a propuesta de reforma judicial en NL.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/empresarios-y-sociedad-civil-presentan-cambios-en-reforma-judicial-nl",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Morena pide investigar movimiento de recursos públicos",
+        "summary": "Partido solicita a autoridades revisar uso y destino de fondos estatales.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/pide-morena-investigar-movimiento-de-recursos-publicos/1027752",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
         "title": "Lorena se acerca al PAN con reunión con líderes panistas",
         "summary": "Gobernadora muestra alineamiento político con el PAN al reunirse con Romero y Policarpo en gestos de coordinación.",
         "zona": "Nuevo León",
@@ -56,6 +160,38 @@
     ],
     "economia": [
       {
+        "title": "Tren del Norte registra 10% de avance en construcción",
+        "summary": "Proyecto de infraestructura entre Saltillo y Nuevo Laredo continúa con avances graduales.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/tren-del-norte-registra-10-de-avance-en-su-construccion/v7158954733",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Tren Saltillo-Nuevo Laredo tendrá 40 km de viaducto en Monterrey",
+        "summary": "Proyecto de ferrocarril diseña viaductos elevados para atravesar la zona metropolitana.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/23/tren-saltillo-nuevo-laredo-tendra-40-km-de-viaducto-elevado-en-monterrey-290373.html",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Chipotle abre su primer restaurante en México",
+        "summary": "Cadena estadounidense de comida rápida inaugura sucursal en territorio nacional.",
+        "zona": "Monterrey",
+        "source": "El Sol de México",
+        "url": "https://oem.com.mx/elsoldemexico/finanzas/chipotle-abre-su-primer-restaurante-en-mexico-31135022",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Monterrey ofrecerá descuentos del 100% en recargos y multas",
+        "summary": "Municipio lanza programa de condonación fiscal para contribuyentes.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/ofrecera-monterrey-descuentos-del-100-en-recargos-y-multas/1027970",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
         "title": "Nuevo León cae a tercer lugar con menor tasa de nacimientos",
         "summary": "INEGI reporta que la entidad desciende en rankings nacionales de natalidad, reflejando tendencia demográfica del estado.",
         "zona": "Nuevo León",
@@ -72,8 +208,81 @@
         "_added_at": "2026-09-23T00:25:34.237079-06:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Selección Mexicana regresa a Monterrey; venta de boletos próxima",
+        "summary": "Equipo nacional de futbol jugará en estadio de Monterrey para la Nations League.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/deportes/2026/9/23/la-seleccion-mexicana-regresa-a-monterrey-cuando-salen-a-la-venta-los-boletos-290398.html",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Colegio Nacional es invitado de honor en FIL Monterrey",
+        "summary": "Institución participa como huésped especial en Feria Internacional del Libro.",
+        "zona": "Monterrey",
+        "source": "El Sol de México",
+        "url": "https://oem.com.mx/elsoldemexico/cultura/colegio-nacional-llevara-grandes-conferencias-de-sus-miembros-a-la-fil-de-monterrey-30848936",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Exigen solución a zanjas y obras olvidadas en Santa Catarina",
+        "summary": "Ciudadanos reclaman finalización de proyectos inconclusos en municipio del área metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "Informe Regio",
+        "url": "https://informeregio.com/exigen-solucion-inmediata-a-zanjas-y-obras-olvidadas-en-santa-catarina/",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Reconfigurará Estado rutas urbanas y transmetro de Miguel Alemán",
+        "summary": "Gobierno anuncia reordenamiento del transporte en importante avenida de Monterrey.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/reconfiguraran-rutas-urbanas-y-transmetro-de-avenida-miguel-aleman/1027966",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Lanza NL Distintivo Estatal de Sustentabilidad",
+        "summary": "Gobierno presenta programa de reconocimiento a empresas y organizaciones sostenibles.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/lanza-nl-el-distintivo-estatal-de-sustentabilidad/1027918",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "IMSS Nuevo León recibe cinco nuevas ambulancias",
+        "summary": "Instituto adquiere unidades para mejorar servicios de traslado de pacientes.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/recibe-imss-nl-cinco-nuevas-ambulancias/1027748",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Jubilados de Sección 50 reclaman bono y servicio médico a ISSSTELEÓN",
+        "summary": "Grupo de pensionados exige pago de prestaciones pendientes al instituto de seguridad.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/jubilados-de-la-seccion-50-reclaman",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Marchan en Monterrey por feminicidio de Pamela Yahira",
+        "summary": "Ciudadanos protestan por muerte de mujer víctima de ataque con gasolina.",
+        "zona": "Monterrey",
+        "source": "El Sol de México",
+        "url": "https://oem.com.mx/elsoldemexico/mexico/marchan-en-monterrey-por-feminicidio-de-pamela-yahira-victima-de-ataque-con-gasolina-31316937",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
+      {
+        "title": "Estado se deslinda de emisiones de refinería de Cadereyta",
+        "summary": "Gobierno señala a Semarnat responsable de regular contaminación industrial.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/refineria-de-cadereyta-estado-se-deslinda-informar-de-emisiones",
+        "_added_at": "2026-09-23T12:47:19.604901-06:00"
+      },
       {
         "title": "Regenerarán espacios urbanos en corredores L4 y L6",
         "summary": "Proyecto de mejora urbana enfocado en los corredores de las líneas 4 y 6 del metro de Monterrey.",
@@ -100,5 +309,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-23T00:25:34.237079-06:00"
+  "last_updated": "2026-09-23T12:47:19.604901-06:00"
 }
