@@ -1,8 +1,32 @@
 {
   "date": "2026-09-23",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Pareja detenida por muerte de bebé en Zuazua",
+        "summary": "Vinculan a proceso a dos personas por la muerte de una criatura de 11 meses en el municipio.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/zuazua-nuevo-leon-detienen-a-pareja-muerte-de-bebe",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
+      {
+        "title": "Detienen a operador de tráfico de fentanilo 'El Flaco'",
+        "summary": "Capturan a José Ángel N, principal operador de El Mayo y objetivo de EU por narcotráfico.",
+        "zona": "Nuevo León",
+        "source": "El Sol de México",
+        "url": "https://oem.com.mx/elsoldemexico/mexico/detienen-a-jose-angel-n-el-flaco-principal-operador-de-el-mayo-y-objetivo-de-eu-por-trafico-de-fentanilo-32215064",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
+      {
+        "title": "Investigan a cinco policías por abuso de autoridad",
+        "summary": "Fiscalía abre investigación contra elementos tras confrontación con ciudadanos.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/nl-policias-de-fc-son-investigados-tras-confrontacion",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
       {
         "title": "Nuevo León lidera delitos de pornografía infantil en país con 91 casos",
         "summary": "El estado concentra el mayor número de denuncias por pornografía infantil en México durante 2026, situación que requiere atención de autoridades.",
@@ -94,6 +118,22 @@
     ],
     "politica": [
       {
+        "title": "MC no descarta regreso de Zambrano a contienda por Monterrey",
+        "summary": "Movimiento Ciudadano estudia candidatura del personaje para la alcaldía capitalina.",
+        "zona": "Monterrey",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/en-mc-no-descartan-que-zambrano-regrese-a-la-contienda-por-monterrey-8181/",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
+      {
+        "title": "Aplazan reunión para analizar Presupuesto 2027 en NL",
+        "summary": "Se postergó la sesión legislativa de revisión presupuestal para el próximo año.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/23/aplazan-reunion-para-analizar-el-presupuesto-2027-en-nl-290432.html",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
+      {
         "title": "PAN definirá en noviembre su candidato a gubernatura",
         "summary": "Partido anuncia proceso de selección de aspirante para las elecciones de 2027.",
         "zona": "Nuevo León",
@@ -160,6 +200,22 @@
     ],
     "economia": [
       {
+        "title": "Tren del Norte avanza 10% con 40 km de viaducto en Monterrey",
+        "summary": "Proyecto de conectividad avanza con construcción de infraestructura elevada en la capital.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/monterrey-nl-tren-del-norte-reporta-10-de-avance-y-viaducto",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
+      {
+        "title": "Interconexión San Pedro-Monterrey registra 90% de avance",
+        "summary": "Primera etapa de proyecto vial avanza significativamente en su construcción.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/interconexion-san-pedro-monterrey-90-avance-etapa",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
+      {
         "title": "Tren del Norte registra 10% de avance en construcción",
         "summary": "Proyecto de infraestructura entre Saltillo y Nuevo Laredo continúa con avances graduales.",
         "zona": "Nuevo León",
@@ -210,6 +266,22 @@
     ],
     "eventos": [
       {
+        "title": "Festival del Elote gratis en Nuevo León este fin de semana",
+        "summary": "Evento familiar sin costo en municipio con actividades, exhibiciones y venta de platillos.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/tendencia/2026/9/23/festival-del-elote-gratis-en-nuevo-leon-fecha-lugar-y-todo-lo-que-habra-290413.html",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
+      {
+        "title": "Jesse & Joy presentan concierto navideño en Arena Monterrey",
+        "summary": "Dúo musical mexicano se presenta con show temático en diciembre en la capital.",
+        "zona": "Monterrey",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/escena/jesse-and-joy-llevaran-su-navidad-a-la-arena-monterrey/7333901384",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
+      {
         "title": "Selección Mexicana regresa a Monterrey; venta de boletos próxima",
         "summary": "Equipo nacional de futbol jugará en estadio de Monterrey para la Nations League.",
         "zona": "Monterrey",
@@ -227,6 +299,30 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "NL no registra días con calidad de aire muy mala en 2026",
+        "summary": "Secretaría de Medio Ambiente reporta mejora significativa en monitoreo ambiental estatal.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/ambiente-nl-reporta-cero-dias-muy-mala-calidad-aire",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
+      {
+        "title": "Monterrey ofrece descuentos de 100% en recargos y multas",
+        "summary": "Ayuntamiento lanza campaña de condonación de sanciones fiscales pendientes.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/ofrecera-monterrey-descuentos-del-100-en-recargos-y-multas/1027970",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
+      {
+        "title": "San Pedro homenajea a Mauricio Fernández con busto",
+        "summary": "Municipio develó monumento en honor al expresidente municipal fallecido.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/san-pedro-homenajea-mauricio-fernandez-ano-fallecimiento",
+        "_added_at": "2026-09-23T17:24:17.365973-06:00"
+      },
       {
         "title": "Exigen solución a zanjas y obras olvidadas en Santa Catarina",
         "summary": "Ciudadanos reclaman finalización de proyectos inconclusos en municipio del área metropolitana.",
@@ -309,5 +405,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-23T12:47:19.604901-06:00"
+  "last_updated": "2026-09-23T17:24:17.365973-06:00"
 }
