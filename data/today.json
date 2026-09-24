@@ -1,8 +1,32 @@
 {
   "date": "2026-09-24",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a tres por agresión a reporteros de INFO7",
+        "summary": "Autoridades aprehenden a personas tras ataque violento a equipos de comunicación en operativo policial.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/detienen-a-tres-personas-por-agresion-a-reporteros-de-info-7/6947512123",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "Catean residencia en San Pedro por lavado de dinero",
+        "summary": "Autoridades ejecutan operativo en colonia Valle de San Ángel para investigación de presunto blanqueo de capitales.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/san-pedro-garza-garcia-catean-residencia-presunto-lavado-de-dinero",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "Reportero agredido y robado en Ciénega de Flores",
+        "summary": "Periodista de INFO7 sufre asalto violento con pérdida de equipo en municipio del área metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/agreden-y-roban-equipo-a-reportero-de-info-7-en-cienega-de-flores/v8955979393",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
       {
         "title": "FGR catea residencia en San Pedro por lavado de dinero",
         "summary": "Autoridades federales realizaron cateos en vivienda de exclusivo sector Valle de San Ángel en San Pedro Garza García en investigación por operaciones financieras ilícitas.",
@@ -94,6 +118,30 @@
     ],
     "politica": [
       {
+        "title": "Movimiento Ciudadano espera definición de Sheinbaum sobre candidatura",
+        "summary": "MC aguarda decisión presidencial sobre su postulante en Nuevo León e insiste en candidata Mariana.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/en-mc-esperan-la-definicion-de-sheinbaum-sobre-la-candidatura-de-morena-en-nl-e-insisten-con-mariana/",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "Regidor de Monterrey abandona MC y se declara independiente",
+        "summary": "Edil renuncia a Movimiento Ciudadano para ejercer cargo sin afiliación partidista.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/regidor-de-monterrey-independiente",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "Samuel García anuncia gira por Texas y Nueva York",
+        "summary": "Gobernador planea viaje internacional para gestiones de cooperación y promoción estatal.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/24/samuel-garcia-anuncia-gira-por-texas-y-nueva-york-290522.html",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
         "title": "Fernando Canales propone alianza PAN-PRI para 2027",
         "summary": "Empresario destaca viabilidad de coalición entre panistas y priistas para contienda gubernamental.",
         "zona": "Nuevo León",
@@ -153,6 +201,38 @@
     "economia": [
       {
         "title": "LEGO invertirá 400 millones de dólares en Nuevo León",
+        "summary": "Empresa juguettera anuncia inversión que generará 1,300 empleos en el estado.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/lego-anuncia-inversion-de-400-mdd-nuevo-leon",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "México y Corea impulsan comercio por 27 mil millones",
+        "summary": "Nuevo León es clave en relación bilateral con fortalecimiento de intercambio comercial.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/cdmx/2026/9/24/mexico-y-corea-del-sur-impulsan-comercio-por-27-mil-mdd-nl-es-clave-en-la-relacion-290532.html",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "Guerra comercial EU-China abre oportunidades para pymes de NL",
+        "summary": "Conflicto arancelario genera ventaja competitiva para pequeñas y medianas empresas locales.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/guerra-comercial-eu-y-china-abre-oportunidad-pymes-de-nl",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "Nuevo León ofrece descuentos en regularización de vehículos",
+        "summary": "Gobierno estatal aprueba reducción del 100% en cambio de propietario y trámites de placas foráneas.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/nuevo-leon-ofrece-descuento-del-100-en-cambio-de-propietario-y-regularizacion-de-vehiculos-con-placas-foraneas-/v-vl2258523",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "LEGO invertirá 400 millones de dólares en Nuevo León",
         "summary": "Empresa de juguetes construirá planta en el estado que generará mil 300 empleos directos.",
         "zona": "Nuevo León",
         "source": "Milenio Monterrey",
@@ -185,6 +265,30 @@
       }
     ],
     "eventos": [
+      {
+        "title": "DIF Monterrey reabre Clínica del Autismo renovada",
+        "summary": "Dependencia municipal inaugura centro con consultorios psicológicos actualizados y área multisensorial.",
+        "zona": "Monterrey",
+        "source": "Informe Regio",
+        "url": "https://informeregio.com/dif-monterrey-abre-la-renovada-clinica-del-autismo/",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "Nuevo tren de pasajeros cruzará zona metropolitana",
+        "summary": "Proyecto de infraestructura ferroviaria define trayecto para conectar municipios del área metro.",
+        "zona": "Área metropolitana",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/24/asi-cruzara-el-nuevo-tren-de-pasajeros-la-zona-metropolitana-de-monterrey-290481.html",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "Rayados vuelve al Estadio Azteca tras dos años y medio",
+        "summary": "Equipo regiomontano regresa a cancha capitalina después de larga ausencia.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/deportes/rayados-al-azteca-volveran",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
       {
         "title": "DIF Monterrey reinaugura clínica de atención integral al autismo",
         "summary": "Sistema estatal reabre centro especializado para diagnóstico y tratamiento de espectro autista.",
@@ -219,6 +323,30 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "UANL se consolida en top 10 de universidades sustentables",
+        "summary": "Universidad Autónoma logra posicionamiento histórico en rankings mundiales de sostenibilidad.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/historico-uanl-se-consolida-en-el-top-10-mundial-de-universidades-sustentables/vl2258572",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "Instalarán oficina de UNICEF en Nuevo León",
+        "summary": "Organismo internacional abre sede para fortalecer programas de infancia y protección en el estado.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/instalaran-en-nuevo-leon-oficina-de-la-unicef/1028271",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
+      {
+        "title": "Gobierno promete recursos y respeto a autonomía de UANL",
+        "summary": "Administración estatal confirma apoyo presupuestario e independencia académica para universidad.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/gobierno-de-nl-promete-recursos-y-respeto-a-autonomia-de-uanl/6104286749",
+        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+      },
       {
         "title": "Estudiante desaparecido en Puebla hallado trabajando en Monterrey",
         "summary": "Joven localizado laborando como personal de seguridad tras ser reportado como desaparecido.",
@@ -269,5 +397,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-24T12:47:50.716947-06:00"
+  "last_updated": "2026-09-24T17:43:33.094997-06:00"
 }
