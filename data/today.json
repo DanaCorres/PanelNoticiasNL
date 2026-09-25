@@ -1,8 +1,24 @@
 {
   "date": "2026-09-25",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a pareja por muerte de bebé de 11 meses en Zuazua",
+        "summary": "Una pareja fue ligada a proceso por feminicidio tras la muerte de una bebé de 11 meses en municipio de Zuazua.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/pareja-es-vinculada-proceso-feminicidio-bebe-zuazua-nuevo-leon",
+        "_added_at": "2026-09-25T17:45:55.393872-06:00"
+      },
+      {
+        "title": "Cinco estudiantes golpean a compañera en Zuazua",
+        "summary": "Una madre interpuso denuncia tras ser agredida su hija por cinco estudiantes en institucion educativa de Zuazua.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/9/25/golpean-5-estudiantes-a-companera-en-zuazua-madre-interpone-denuncia-290597.html",
+        "_added_at": "2026-09-25T17:45:55.393872-06:00"
+      },
       {
         "title": "Detienen a 'La Barbie de la Alianza' en Monterrey",
         "summary": "Vinculan a proceso a presunta integrante de organización criminal tras su captura en la capital regia.",
@@ -110,6 +126,22 @@
     ],
     "politica": [
       {
+        "title": "García aborda proyectos de interés con Iniciativa Privada",
+        "summary": "Samuel García se reunió con la IP para discutir proyectos prioritarios y presupuesto 2026 del estado.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/samuel-garcia-aborda-proyectos-iniciativa-privada-nl-reunion",
+        "_added_at": "2026-09-25T17:45:55.393872-06:00"
+      },
+      {
+        "title": "Partido PAZ llega a Nuevo León rechazando vínculos narco",
+        "summary": "Nueva agrupación política establece como criterio que sus candidatos no tengan relación alguna con crimen organizado.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/25/partido-paz-llega-a-nuevo-leon-y-pinta-raya-con-el-crimen-organizado-290625.html",
+        "_added_at": "2026-09-25T17:45:55.393872-06:00"
+      },
+      {
         "title": "Movimiento Ciudadano anuncia candidato a gobernatura en octubre",
         "summary": "Partido define tiempo para presentar su propuesta para la contienda estatal de 2027.",
         "zona": "Nuevo León",
@@ -184,6 +216,14 @@
     ],
     "economia": [
       {
+        "title": "Nuevo León concentra gran cantidad de casas abandonadas",
+        "summary": "Infonavit impulsa regularización de viviendas deshabitadas en el estado como parte de programa de recuperación de inmuebles.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/infonavit-va-por-regularizacion-casas-abandonadas-nuevo-leon",
+        "_added_at": "2026-09-25T17:45:55.393872-06:00"
+      },
+      {
         "title": "Nuevo León atrae migrantes en búsqueda de oportunidades",
         "summary": "Estado se posiciona como destino alternativo para personas que antes iban hacia Estados Unidos.",
         "zona": "Nuevo León",
@@ -218,6 +258,38 @@
     ],
     "eventos": [
       {
+        "title": "FIL Monterrey 2026 ofrece entrada gratuita con autores",
+        "summary": "La Feria Internacional del Libro Monterrey regresa con acceso libre para público y presencia de reconocidos escritores.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/feria-internacional-del-libro-monterrey-2026-entrada-gratuita/vl2259055",
+        "_added_at": "2026-09-25T17:45:55.393872-06:00"
+      },
+      {
+        "title": "UANL celebra 93 años de historia e identidad",
+        "summary": "La Universidad Autónoma de Nuevo León conmemora sus 93 años como institución educativa de tradición regiomontana.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/celebra-uanl-93-anos",
+        "_added_at": "2026-09-25T17:45:55.393872-06:00"
+      },
+      {
+        "title": "Legislan contra acoso escolar con cinco reformas",
+        "summary": "Congreso local impulsa cinco iniciativas legales para combatir el bullying en instituciones educativas del estado.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/25/van-contra-el-acoso-escolar-con-cinco-reformas-en-nl-290634.html",
+        "_added_at": "2026-09-25T17:45:55.393872-06:00"
+      },
+      {
+        "title": "Encuentro Internacional de Escritores se celebra en NL",
+        "summary": "Se realiza la edición número 31 de este encuentro que reúne a creadores literarios nacionales e internacionales.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/celebran-el-xxxi-encuentro-internacional-de-escritores-en-nl/9479596566",
+        "_added_at": "2026-09-25T17:45:55.393872-06:00"
+      },
+      {
         "title": "Generación Monterrey 400 deja cápsula del tiempo",
         "summary": "Proyecto histórico entierra documento con historia de ciudad que se abrirá en 2046.",
         "zona": "Monterrey",
@@ -243,6 +315,22 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Avanza 55% construcción del Hospital Infantil de NL",
+        "summary": "La primera fase del nuevo nosocomio pediátrico estará lista a finales de año para atender a miles de menores.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/25/avanza-55-construccion-de-nuevo-hospital-infantil-de-nl-290628.html",
+        "_added_at": "2026-09-25T17:45:55.393872-06:00"
+      },
+      {
+        "title": "IMSS reconoce a familias de donadores de órganos",
+        "summary": "Hospital 33 del IMSS realiza ceremonia para homenajear a los fallecidos que fueron donadores de órganos.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/hospital-33-imss-monterrey-homenaje-familias-donacion-organos",
+        "_added_at": "2026-09-25T17:45:55.393872-06:00"
+      },
       {
         "title": "Policías de Guadalupe rescatan niño asfixiado",
         "summary": "Elementos realizan maniobra de reanimación y salvan vida de menor de dos años.",
@@ -293,5 +381,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-25T13:05:47.939692-06:00"
+  "last_updated": "2026-09-25T17:45:55.393872-06:00"
 }
