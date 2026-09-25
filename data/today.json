@@ -1,401 +1,176 @@
 {
-  "date": "2026-09-24",
-  "run_count": 3,
+  "date": "2026-09-25",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen a tres por agresión a reporteros de INFO7",
-        "summary": "Autoridades aprehenden a personas tras ataque violento a equipos de comunicación en operativo policial.",
+        "title": "Tres detenidos por agresión a periodistas en Nuevo León",
+        "summary": "Autoridades capturaron a tres personas tras agredir a reporteros de Info7 y destruir equipos en la Ciénega.",
         "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/detienen-a-tres-personas-por-agresion-a-reporteros-de-info-7/6947512123",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/agresion-a-periodistas-info7-en-nl-detienen-a-tres-destrozo-equipos-en-cienega/",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
       },
       {
-        "title": "Catean residencia en San Pedro por lavado de dinero",
-        "summary": "Autoridades ejecutan operativo en colonia Valle de San Ángel para investigación de presunto blanqueo de capitales.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/san-pedro-garza-garcia-catean-residencia-presunto-lavado-de-dinero",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "Reportero agredido y robado en Ciénega de Flores",
-        "summary": "Periodista de INFO7 sufre asalto violento con pérdida de equipo en municipio del área metropolitana.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/agreden-y-roban-equipo-a-reportero-de-info-7-en-cienega-de-flores/v8955979393",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "FGR catea residencia en San Pedro por lavado de dinero",
-        "summary": "Autoridades federales realizaron cateos en vivienda de exclusivo sector Valle de San Ángel en San Pedro Garza García en investigación por operaciones financieras ilícitas.",
-        "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/fgr-catea-residencia-lavado-dinero-valle-de-san-angel-san-pedro",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Nuevo León lidera tentativas de feminicidio con 252 casos",
-        "summary": "La entidad registra el primer lugar nacional en tentativas de feminicidio durante 2026, sumando 252 casos documentados.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/nuevo-leon-es-primer-lugar-en-tentativa-de-femincidio-en-mexico",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Operativo decomisa 19 motos en Monterrey",
-        "summary": "Autoridades frustraron una mega-rodada y aseguraron 19 motocicletas en operativo de control vial en la ciudad.",
-        "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/seguridad/2026/9/24/frustran-mega-rodada-en-monterrey-se-llevan-19-motos-al-corralon-290494.html",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Fiscalía de NL implementa inteligencia artificial en investigaciones",
-        "summary": "La Fiscalía estatal integra tecnología IA para agilizar y mejorar procesos de investigación de delitos.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/fiscalia-de-nl-usa-ia-para-agilizar-investigaciones",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Capturan pareja por intento de homicidio en Juárez",
-        "summary": "Autoridades detuvieron a dos sujetos ligados a presunto intento de homicidio en municipio de Juárez.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/juarez-nl-detienen-pareja-presunto-homicidio",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Detienen taxista por intento de privación de libertad en San Nicolás",
-        "summary": "Elementos de seguridad aprehendieron a conductor de plataforma de transporte por presunto intento de retener a pasajero.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/san-nicolas-taxista-detenido-por-intento-de-privacion-de-libertad",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Fiscalía aplaza audiencia contra José 'N' de Proyectos 9",
-        "summary": "Se pospone audiencia para recabar información bancaria en caso de fraude inmobiliario vinculado a Proyectos 9 en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/proyectos-9-fiscalia-aplaza-audiencia-contra-jose-n-por-fraude",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
-      },
-      {
-        "title": "Sentencian a 96 años por feminicidio de mujeres trans",
-        "summary": "Condenado a nueve décadas de prisión por crímenes contra mujeres transgénero en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/nuevo-leon-sentencian-a-96-anos-a-feminicida-de-mujeres-trans",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
-      },
-      {
-        "title": "Caen 3 por intento de privación ilegal de libertad a menor",
-        "summary": "Detienen a tres individuos acusados de intentar privar de libertad ilegalmente a un menor en Montemorelos.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/caen-3-presunto-intento-privacion-ilegal-libertad-menor-montemorelos",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
-      },
-      {
-        "title": "Encuentran sin vida a desaparecido en Apodaca",
-        "summary": "Localizan cuerpo de hombre reportado como desaparecido en municipio del área metropolitana.",
+        "title": "Motociclista ejecutado en plaza comercial de Guadalupe",
+        "summary": "Un hombre fue asesinado a balazos en el estacionamiento de una plaza comercial en Guadalupe.",
         "zona": "Área metropolitana",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/encuentran-sin-vida-a-hombre-reportado-como-desaparecido/1028177",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
+        "url": "https://elporvenir.mx/justicia/asesinan-a-motociclista-en-plaza-comercial-en-guadalupe/1028528",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
       },
       {
-        "title": "Fiscalía ofrece diálogo a afectados por fraude de Quantium",
-        "summary": "Autoridades establecen mecanismo de atención para víctimas de presunto fraude inmobiliario en Nuevo León.",
+        "title": "INE prevé solicitudes de protección para candidatos 2027",
+        "summary": "Instituto Electoral de Nuevo León anticipa demandas de seguridad para aspirantes en próximas elecciones.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/ine-nl-anticipa-solicitudes-proteccion-candidatos-elecciones-2027",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
+      },
+      {
+        "title": "Asegura FGR 34 kilos de cocaína; detiene a mujer",
+        "summary": "Fiscalía General de la República aseguró droga y capturó a una mujer en operativo en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/asegura-fgr-34-kilos-de-cocaina-detiene-a-una-mujer/1028647",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
+      },
+      {
+        "title": "Detienen a pareja por intento de doble crimen en Juárez",
+        "summary": "Capturaron a dos personas acusadas de intentar cometer dos homicidios en el municipio de Juárez.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/detienen-a-pareja-por-intentar-cometer-doble-crimen-en-juarez/1028670",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
+      },
+      {
+        "title": "Vinculan a proceso a tres por armas y droga en Monterrey",
+        "summary": "Fiscalía procesó a tres individuos por posesión de armas y narcóticos en la capital estatal.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/monterrey-vinculan-a-3-personas-por-posesion-de-armas-y-droga",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
+      },
+      {
+        "title": "Capturan a taxista de aplicación tras persecución",
+        "summary": "Autoridades detuvieron a conductor de plataforma tras una persecución en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/capturan-a-taxista-de-aplicacion-tras-una-persecucion/1028693",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
+      },
+      {
+        "title": "Investigan a mujer por extorsión a amante de esposo",
+        "summary": "Fiscalía de Nuevo León indaga a Diana N. por presunto delito de extorsión en caso familiar.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/nuevo-leon-fiscalia-ofrece-dialogo-a-afectados-por-quantium",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
+        "url": "https://www.telediario.mx/policia/nuevo-leon-fiscalia-investiga-mujer-por-extorsion-a-amante-de-esposo",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Movimiento Ciudadano espera definición de Sheinbaum sobre candidatura",
-        "summary": "MC aguarda decisión presidencial sobre su postulante en Nuevo León e insiste en candidata Mariana.",
+        "title": "Samuel García viaja a Nueva York por reconocimiento al Hospital Infantil",
+        "summary": "Gobernador asistirá a evento en Nueva York donde se reconoce avance del 55% en construcción del hospital.",
         "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/en-mc-esperan-la-definicion-de-sheinbaum-sobre-la-candidatura-de-morena-en-nl-e-insisten-con-mariana/",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/samuel-garcia-viajara-a-nueva-york-por-premio-a-hospital-infantil",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
       },
       {
-        "title": "Regidor de Monterrey abandona MC y se declara independiente",
-        "summary": "Edil renuncia a Movimiento Ciudadano para ejercer cargo sin afiliación partidista.",
+        "title": "Samuel García busca inversiones en gira por Estados Unidos",
+        "summary": "Gobernador realiza recorrido para atraer nuevas inversiones a Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/va-samuel-garcia-de-gira-por-eua-por-nuevas-inversiones/1362590214",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
+      },
+      {
+        "title": "Tatiana Clouthier identifica proyecto común entre aspirantes en NL",
+        "summary": "Dirigente política ve convergencia en propuestas de candidatos para elecciones de 2027 en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/tatiana-clouthier-ve-proyecto-comun-aspirantes-comite-4t",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
+      },
+      {
+        "title": "Inaugura templo en Penal 1 Norte para reinserción social",
+        "summary": "Autoridades penitenciarias de Nuevo León abren nuevo espacio religioso para fortalecer programa de reinserción.",
         "zona": "Monterrey",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/regidor-de-monterrey-independiente",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "Samuel García anuncia gira por Texas y Nueva York",
-        "summary": "Gobernador planea viaje internacional para gestiones de cooperación y promoción estatal.",
-        "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/24/samuel-garcia-anuncia-gira-por-texas-y-nueva-york-290522.html",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "Fernando Canales propone alianza PAN-PRI para 2027",
-        "summary": "Empresario destaca viabilidad de coalición entre panistas y priistas para contienda gubernamental.",
-        "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/fernando-canales-clariond-propone-alianza-pri-pan-para-gubernatura-nl",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Estado garantiza recursos para proceso electoral 2027",
-        "summary": "Gobierno confirma disponibilidad presupuestaria para financiar comicios del próximo año.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/garantiza-estado-recursos-necesarios-para-proceso-electoral-2027/1028303",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Postergado nuevamente juicio contra Damazo 'N'",
-        "summary": "Procedimiento legal contra presunto narcotraficante sufre aplazamiento adicional.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/siguen-posponiendo-juicio-contra-damazo-n/1028038",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Herrera critica a De la Garza por dividir intereses",
-        "summary": "Gobernador cuestiona a funcionario sobre posibles conflictos de interés y le sugiere solicitar licencia.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/herrera-cruza-a-de-la-garza-debe-pedir-licencia-si-sus-intereses-estan-en-otro-lado-9900/",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
-      },
-      {
-        "title": "Lozano comparece en Congreso por Impuesto Verde",
-        "summary": "Funcionario enfrenta cuestionamientos del PAN en comparecencia legislativa sobre política tributaria ambiental.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/lozano-comparece-en-el-congreso-nl-el-pan-lo-cruza-por-el-impuesto-verde-y-el-pri-se-mesura-8672/",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
-      },
-      {
-        "title": "Raúl Cantú rinde Quinto Informe en Salinas Victoria",
-        "summary": "Presidente municipal destaca más de 97 obras realizadas con aprobación superior al 90%.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/salinas-victoria-raul-cantu-rinde-quinto-informe-de-gobierno",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
-      },
-      {
-        "title": "Jesús Nava presenta Segundo Informe en Santa Catarina",
-        "summary": "Alcalde rinde cuentas sobre seguridad, obras y nuevos proyectos en municipio del área metropolitana.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/jesus-nava-presenta-segundo-informe-de-gobierno-en-santa-catarina/v7297096873",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
+        "url": "https://www.telediario.mx/comunidad/nuevo-leon-inauguran-nuevo-templo-en-penal-1-norte",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
       }
     ],
     "economia": [
       {
-        "title": "LEGO invertirá 400 millones de dólares en Nuevo León",
-        "summary": "Empresa juguettera anuncia inversión que generará 1,300 empleos en el estado.",
+        "title": "Empresarios inmobiliarios exigen regulación tras 10 años de retraso",
+        "summary": "Sector demanda implementación de norma de licencia obligatoria pendiente desde 2016 en Nuevo León.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/economia/lego-anuncia-inversion-de-400-mdd-nuevo-leon",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+        "url": "https://www.telediario.mx/comunidad/nuevo-leon-empresarios-exigen-reglamento-para-licencia-inmobiliaria",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
       },
       {
-        "title": "México y Corea impulsan comercio por 27 mil millones",
-        "summary": "Nuevo León es clave en relación bilateral con fortalecimiento de intercambio comercial.",
-        "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/cdmx/2026/9/24/mexico-y-corea-del-sur-impulsan-comercio-por-27-mil-mdd-nl-es-clave-en-la-relacion-290532.html",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
+        "title": "Empresa cede dos terrenos a Monterrey para vialidades",
+        "summary": "Corporativo dona predios a la capital para construcción de infraestructura vial.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/cede-empresa-dos-terrenos-a-monterrey-para-construir-vialidades/4011048403",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
       },
       {
-        "title": "Guerra comercial EU-China abre oportunidades para pymes de NL",
-        "summary": "Conflicto arancelario genera ventaja competitiva para pequeñas y medianas empresas locales.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/economia/guerra-comercial-eu-y-china-abre-oportunidad-pymes-de-nl",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "Nuevo León ofrece descuentos en regularización de vehículos",
-        "summary": "Gobierno estatal aprueba reducción del 100% en cambio de propietario y trámites de placas foráneas.",
-        "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/nuevo-leon-ofrece-descuento-del-100-en-cambio-de-propietario-y-regularizacion-de-vehiculos-con-placas-foraneas-/v-vl2258523",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "LEGO invertirá 400 millones de dólares en Nuevo León",
-        "summary": "Empresa de juguetes construirá planta en el estado que generará mil 300 empleos directos.",
+        "title": "Walmart reúne líderes de industria en Summit de Regeneración",
+        "summary": "Gigante minorista organiza evento enfocado en economía circular y sustentabilidad empresarial.",
         "zona": "Nuevo León",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/negocios/lego-invertira-400-millones-de-dolares-nl-generara-mil-300-empleos",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Tren del Norte avanza al 10% de su construcción",
-        "summary": "Proyecto de transporte ferroviario registra progreso en obras de infraestructura.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/registran-obras-de-tren-del-norte-un-10-de-avance/1028270",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Nuevo León, polo de inversión coreana en México",
-        "summary": "Visita de presidente surcoreano a México resalta posición estratégica de estado en atracción de capital asiático.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/negocios/nuevo-leon-encabeza-inversion-coreana-mexico-empresas-van-mejor-acceso",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
-      },
-      {
-        "title": "Escobedo impulsa nuevo polo turístico con hotel cinco estrellas",
-        "summary": "Municipio del área metropolitana impulsa proyecto de desarrollo turístico de alto nivel.",
-        "zona": "Área metropolitana",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/escobedo-impulsa-nuevo-polo-turistico-con-hotel-cinco-estrellas/1360196756",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
+        "url": "https://www.milenio.com/negocios/walmart-summit-de-regeneracion-2026-economia-circular-y-reciclaje",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
       }
     ],
-    "eventos": [
-      {
-        "title": "DIF Monterrey reabre Clínica del Autismo renovada",
-        "summary": "Dependencia municipal inaugura centro con consultorios psicológicos actualizados y área multisensorial.",
-        "zona": "Monterrey",
-        "source": "Informe Regio",
-        "url": "https://informeregio.com/dif-monterrey-abre-la-renovada-clinica-del-autismo/",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "Nuevo tren de pasajeros cruzará zona metropolitana",
-        "summary": "Proyecto de infraestructura ferroviaria define trayecto para conectar municipios del área metro.",
-        "zona": "Área metropolitana",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/24/asi-cruzara-el-nuevo-tren-de-pasajeros-la-zona-metropolitana-de-monterrey-290481.html",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "Rayados vuelve al Estadio Azteca tras dos años y medio",
-        "summary": "Equipo regiomontano regresa a cancha capitalina después de larga ausencia.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/deportes/rayados-al-azteca-volveran",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "DIF Monterrey reinaugura clínica de atención integral al autismo",
-        "summary": "Sistema estatal reabre centro especializado para diagnóstico y tratamiento de espectro autista.",
-        "zona": "Monterrey",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/dif-monterrey-autismo",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Oficina de UNICEF se instalará en Nuevo León",
-        "summary": "Organización internacional establecerá sede para fortalecer programas de protección infantil.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/instalaran-en-nuevo-leon-oficina-de-la-unicef/1028271",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Gobierno lanza programa DIF + Cerca",
-        "summary": "Iniciativa estatal busca acercar servicios de asistencia social a comunidades vulnerables.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/lanza-gobierno-estatal-el-programa-dif--cerca/1028269",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Tren del Norte registra 10% de avance en obras",
-        "summary": "Proyecto de infraestructura ferroviaria avanza en su fase constructiva en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/registran-obras-de-tren-del-norte-un-10-de-avance/1028270",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
-      }
-    ],
+    "eventos": [],
     "sociedad": [
       {
-        "title": "UANL se consolida en top 10 de universidades sustentables",
-        "summary": "Universidad Autónoma logra posicionamiento histórico en rankings mundiales de sostenibilidad.",
-        "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/historico-uanl-se-consolida-en-el-top-10-mundial-de-universidades-sustentables/vl2258572",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "Instalarán oficina de UNICEF en Nuevo León",
-        "summary": "Organismo internacional abre sede para fortalecer programas de infancia y protección en el estado.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/instalaran-en-nuevo-leon-oficina-de-la-unicef/1028271",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "Gobierno promete recursos y respeto a autonomía de UANL",
-        "summary": "Administración estatal confirma apoyo presupuestario e independencia académica para universidad.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/gobierno-de-nl-promete-recursos-y-respeto-a-autonomia-de-uanl/6104286749",
-        "_added_at": "2026-09-24T17:43:33.094997-06:00"
-      },
-      {
-        "title": "Estudiante desaparecido en Puebla hallado trabajando en Monterrey",
-        "summary": "Joven localizado laborando como personal de seguridad tras ser reportado como desaparecido.",
-        "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/seguridad/2026/9/24/encuentran-en-monterrey-a-estudiante-desaparecido-en-puebla-estaba-trabajando-como-guardia-290489.html",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Madre denuncia bullying contra hija en secundaria de Zuazua",
-        "summary": "Progenitora interpone queja por agresiones recibidas por su hija en institución educativa.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/zuazua-nl-madre-denuncia-bullying-hija-secundaria",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "IMSS inaugura nuevo quirófano de urgencias en HGR 33",
-        "summary": "Instituto amplía capacidad de atención de emergencias con nueva sala quirúrgica.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/inaugura-imss-nuevo-quirofano-de-urgencias-en-el-hgr-33/1028020",
-        "_added_at": "2026-09-24T12:47:50.716947-06:00"
-      },
-      {
-        "title": "Plomo persiste en niños; ampliarán tamizaje en CENDI",
-        "summary": "Autoridades expanden pruebas de contaminación por plomo en centros educativos de Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/plomo-persiste-en-ninos-cendi-ampliaran-tamizaje-en-nl/3940112147",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
-      },
-      {
-        "title": "IMSS destaca nuevo hospital en Santa Catarina",
-        "summary": "Inauguración de instalación médica beneficiará a más de 300 mil derechohabientes del área metropolitana.",
+        "title": "Cinco estudiantes sufren golpe de calor durante clase en San Nicolás",
+        "summary": "Alumnos de secundaria requirieron atención médica tras desmayarse durante actividad física.",
         "zona": "Área metropolitana",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/24/asi-sera-el-nuevo-hospital-del-imss-que-beneficiara-a-santa-catarina-290473.html",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/estados/sufren-5-alumnos-secundaria-golpe-calor-educacion-fisica-san-nicolas",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
       },
       {
-        "title": "Gobierno estatal lanza programa DIF + Cerca",
-        "summary": "Nueva iniciativa de atención comunitaria del sistema asistencial estatal llega a municipios.",
+        "title": "Hombre pide justicia tras amputación por caída de poste",
+        "summary": "Saúl Hernández demanda apoyo médico y legal tras accidente causado por infraestructura en Monterrey.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/saul-hernandez-pide-apoyo-justicia-tras-caida-poste-en-monterrey",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
+      },
+      {
+        "title": "Reinauguran Clínica de Atención Integral al Autismo en Monterrey",
+        "summary": "Se abre nuevamente centro especializado para diagnóstico y tratamiento de trastorno del espectro autista.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/reinauguran-clinica-de-atencion-integral-al-autismo-en-monterrey/1028697",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
+      },
+      {
+        "title": "IMSS realiza 239 trasplantes en lo que va del año",
+        "summary": "Hospitales del Instituto de Seguridad Social registran cifra destacada en procedimientos de trasplante.",
         "zona": "Nuevo León",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/lanza-gobierno-estatal-el-programa-dif--cerca/1028269",
-        "_added_at": "2026-09-24T00:33:21.953865-06:00"
+        "url": "https://elporvenir.mx/local/realizan-hospitales-del-imss-239-trasplantes-en-lo-que-va-del-2026/1028698",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
+      },
+      {
+        "title": "Nuevo León lidera cobertura de salud a nivel nacional",
+        "summary": "Estado destaca con mayor porcentaje de población con acceso a servicios de salud en México.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/cuenta-nl-con-cobertura-de-salud-mas-alta-de-la-republica-mexicana/1028696",
+        "_added_at": "2026-09-25T00:27:11.816351-06:00"
       }
     ]
   },
-  "last_updated": "2026-09-24T17:43:33.094997-06:00"
+  "last_updated": "2026-09-25T00:27:11.816351-06:00"
 }
