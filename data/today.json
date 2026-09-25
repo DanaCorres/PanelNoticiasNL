@@ -1,8 +1,48 @@
 {
   "date": "2026-09-25",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a 'La Barbie de la Alianza' en Monterrey",
+        "summary": "Vinculan a proceso a presunta integrante de organización criminal tras su captura en la capital regia.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/9/25/vinculan-a-proceso-a-la-barbie-de-la-alianza-tras-detencion-en-monterrey-290592.html",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
+        "title": "Refuerzan despliegue de Fuerza Civil en zona norte",
+        "summary": "Autoridades intensifican operativos policiales en el norte de Monterrey para combatir delincuencia.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/fuerza-civil-reforzara-operativos-ejercito-guardia-nacional-monterrey",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
+        "title": "Vinculan a pareja por feminicidio de bebé en Zuazua",
+        "summary": "Procesados por muerte de menor de 11 meses víctima de golpes en domicilio de colonia Valle de Carrizalejo.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/vinculan-a-pareja-por-feminicidio-de-bebe-de-11-meses-en-zuazua/2440136973",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
+        "title": "FGR investiga decomiso de 39 kilos de cocaína en Los Ramones",
+        "summary": "Aseguran droga y detienen a mujer en operativo de la Fiscalía General de la República.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/investiga-fgr-decomiso",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
+        "title": "Condenan a hombre a 98 años por abuso infantil",
+        "summary": "Sentencian a sujeto por delitos de violación y pornografía infantil en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/condena-98-anos-violacion",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
       {
         "title": "Tres detenidos por agresión a periodistas en Nuevo León",
         "summary": "Autoridades capturaron a tres personas tras agredir a reporteros de Info7 y destruir equipos en la Ciénega.",
@@ -70,6 +110,46 @@
     ],
     "politica": [
       {
+        "title": "Movimiento Ciudadano anuncia candidato a gobernatura en octubre",
+        "summary": "Partido define tiempo para presentar su propuesta para la contienda estatal de 2027.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/anunciara-mc-para-finales-de-octubre-su-candidato-a-la-gubernatura/1028702",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
+        "title": "Canales ve necesaria continuidad de alianza PAN-PRI",
+        "summary": "Político comenta sobre la necesidad de mantener el frente común entre partidos de oposición.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/ve-canales-necesario-sigan-aliados-pan-y-pri/1028703",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
+        "title": "INE prevé participación del 60% en próximas elecciones",
+        "summary": "Institución electoral estima nivel de concurrencia para comicios en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/preve-ine-participe-el-60--de-la-poblacion-en-elecciones/1028700",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
+        "title": "INE anticipa solicitudes de protección para candidatos",
+        "summary": "Organismo electoral se prepara para demandas de seguridad de aspirantes en elecciones 2027.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/ine-nl-anticipa-solicitudes-proteccion-candidatos-elecciones-2027",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
+        "title": "Gobernador realizará gira por Laredo y Nueva York",
+        "summary": "Samuel García viajará a ciudades fronterizas y estadounidenses para promoción económica.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/tendra-gobernador-nueva-gira-por-laredo-y-ny/1028701",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
         "title": "Samuel García viaja a Nueva York por reconocimiento al Hospital Infantil",
         "summary": "Gobernador asistirá a evento en Nueva York donde se reconoce avance del 55% en construcción del hospital.",
         "zona": "Nuevo León",
@@ -104,6 +184,14 @@
     ],
     "economia": [
       {
+        "title": "Nuevo León atrae migrantes en búsqueda de oportunidades",
+        "summary": "Estado se posiciona como destino alternativo para personas que antes iban hacia Estados Unidos.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/25/del-sueno-americano-al-sueno-regio-nl-atrae-a-miles-en-busca-de-oportunidades-290589.html",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
         "title": "Empresarios inmobiliarios exigen regulación tras 10 años de retraso",
         "summary": "Sector demanda implementación de norma de licencia obligatoria pendiente desde 2016 en Nuevo León.",
         "zona": "Nuevo León",
@@ -128,8 +216,41 @@
         "_added_at": "2026-09-25T00:27:11.816351-06:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Generación Monterrey 400 deja cápsula del tiempo",
+        "summary": "Proyecto histórico entierra documento con historia de ciudad que se abrirá en 2046.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/capsula-guarda-historia-generacion-monterrey-400",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
+        "title": "Gobernador celebra Quinto Informe en Parque del Agua",
+        "summary": "Reabre espacio público para evento de presentación de resultados de administración.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/revivira-samuel-parque-del-agua-para-celebrar-su-quinto-informe/1028704",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
+      {
+        "title": "Conversatorio sobre Powerchair en tres museos",
+        "summary": "Realizan actividad cultural sobre arte y accesibilidad en espacios de la ciudad.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/vida-y-cultura/conversatorio-powerchair-3-museos",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Policías de Guadalupe rescatan niño asfixiado",
+        "summary": "Elementos realizan maniobra de reanimación y salvan vida de menor de dos años.",
+        "zona": "Área metropolitana",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/estados/policias-guadalupe-salvan-nino-dos-anos-asfixiarse-comida-nl",
+        "_added_at": "2026-09-25T13:05:47.939692-06:00"
+      },
       {
         "title": "Cinco estudiantes sufren golpe de calor durante clase en San Nicolás",
         "summary": "Alumnos de secundaria requirieron atención médica tras desmayarse durante actividad física.",
@@ -172,5 +293,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-25T00:27:11.816351-06:00"
+  "last_updated": "2026-09-25T13:05:47.939692-06:00"
 }
