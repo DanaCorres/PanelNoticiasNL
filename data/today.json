@@ -1,8 +1,56 @@
 {
   "date": "2026-09-26",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscalía catea spas en Monterrey por trata de personas",
+        "summary": "Operativos de la Fiscalía de Nuevo León en establecimientos de la zona metropolitana tras investigaciones sobre posible explotación.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/fiscalia-de-nuevo-leon-ejecuta-operativos-y-cateos-en-spas-de-monterrey/vl2259288",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "Policía herido en balacera en Juárez, Nuevo León",
+        "summary": "Enfrentamiento a balazos deja a oficial de la corporación local lesionado.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/juarez-nl-enfrentamiento-a-balazos-deja-un-policia-herido",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "Detienen presuntos 'montachoques' que operaban en área metropolitana",
+        "summary": "Captura de grupo delictivo dedicado a estafas viales en la zona conurbada.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/caen-presuntos-montachoques-operaban-en-el-area-metropolitana/1029030",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "Asaltan óptica en Monterrey con amenazas de cuchillo",
+        "summary": "Robo con violencia en establecimiento de la avenida Aztlán deja a empleada amenazada.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/asaltan-optica-y-amenazan-a-empleada-con-cuchillo-en-monterrey/v3177386058",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "Detienen a dos con cristal y arma en Nuevo León",
+        "summary": "Captura de sujetos portando 40 dosis de droga cristalizada y armamento.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/detienen-a-dos-hombres-con-40-dosis-de-cristal-y-un-arma/5530925429",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "Fiscalía decomisa marihuana en Escobedo; 4 detenidos",
+        "summary": "Operativo de autoridades en el municipio con aseguramiento de droga.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/decomisa-fiscalia-de-nl-mariguana-en-escobedo-detienen-a-4",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
       {
         "title": "Policía herido en enfrentamiento armado en Juárez",
         "summary": "Un oficial resultó lesionado durante un enfrentamiento a balazos en el municipio de Juárez, Nuevo León.",
@@ -38,6 +86,22 @@
     ],
     "politica": [
       {
+        "title": "Mariana reta a sus críticos para que continúen denunciando",
+        "summary": "Funcionario estatal responde provocativamente a críticas de su administración.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/reta-mariana-a-sus-criticos-para-que-la-sigan-denunciando/1029061",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "GLPAN presenta iniciativa para fortalecer seguridad privada",
+        "summary": "Diputados locales del partido blanquiazul presentan propuesta de reforma.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/presenta-glpan-iniciativa-para-fortalecer-los-servicios-de-seguridad-privada/1028312",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
         "title": "Manuel Guerra busca reelección con desconfianza en Morena",
         "summary": "Funcionario apunta a repostularse pero hay señalamientos sobre su cercanía con el PRI.",
         "zona": "Nuevo León",
@@ -47,6 +111,30 @@
       }
     ],
     "economia": [
+      {
+        "title": "Empleo informal crece 12.2% en Nuevo León",
+        "summary": "Coparmex reporta aumento en informalidad laboral y pide atención institucional.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/nuevo-leon-empleo-informal-crece-12-2-por-ciento",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "Lego invierte en Nuevo León bajo Plan México",
+        "summary": "Destacan nueva inversión de empresa manufacturera en infraestructura del estado.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/destaca-waldo-fernandez-inversion-de-lego-en-nl-con-plan-mexico/v6231448927",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "Prevén 20 mil autos diarios en Puente Colombia",
+        "summary": "Proyecciones estatales sobre capacidad de flujo vehicular en infraestructura fronteriza.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/preve-nl-alcanzar-cruce-de-20-mil-autos-diarios-por-puente-colombia/1029052",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
       {
         "title": "Guadalupe invierte 19.9 mdp en apoyos sociales y útiles",
         "summary": "Municipio destina recursos a programas de asistencia y tarjeta CRECEMOS para familias.",
@@ -65,6 +153,14 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Buscan artista para mural 'Ciudadanos del Mundo'",
+        "summary": "Convocatoria abierta para proyecto de arte público en Paseo Santa Lucía.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/convocatoria-mural-paseo-santa-lucia-monterrey-mexico-y-yo-a-color",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
       {
         "title": "Horno 3 y UANL organizan día familiar de ciencia",
         "summary": "Actividades lúdicas y educativas para toda la familia el próximo sábado en Monterrey.",
@@ -92,6 +188,54 @@
     ],
     "sociedad": [
       {
+        "title": "Hospital Infantil avanza 54% en construcción",
+        "summary": "Proyecto de infraestructura de salud en Nuevo León registra progreso significativo.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/tienen-un-54--de-avance-obras-de-hospital-infantil/1029054",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "Programa de cobertura contra cáncer beneficia a 2 mil mujeres",
+        "summary": "Iniciativa estatal alcanza cifra importante en atención y detección temprana.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/beneficia-a-mas-de-2-mil-mujeres-programa-de-cobertura-contra-cancer/1029069",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "Conagua intensifica supervisión de obras de agua y drenaje",
+        "summary": "Organismo federal refuerza vigilancia en proyectos de infraestructura hidráulica.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/intensifica-conagua-supervision-de-obras-de-agua-potable-y-drenaje/1029056",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "UNICEF y Secretaría de Turismo forman alianza",
+        "summary": "Instituciones internacionales y estatales se asocian para proyecto conjunto.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/forman-unicef-y-secretaria-de-turismo-alianza/1029072",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "Familia exige justicia un año después de atropello fatal",
+        "summary": "Allegados de víctima de accidente vial siguen buscando resolución legal del caso.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/familia-exige-justicia-atropello-miguel-angel-castaneda-monterrey",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
+        "title": "Limitarían velocidad máxima de scooters a 25 kilómetros",
+        "summary": "Autoridades locales estudian regulación de vehículos eléctricos en zonas urbanas.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/limitarian-a-25-kilometros-por-hora-velocidad-maxima-de-scooters/1029059",
+        "_added_at": "2026-09-26T12:14:11.956034-06:00"
+      },
+      {
         "title": "CFE refuerza atención en Guadalupe, Apodaca y Monterrey",
         "summary": "Empresa eléctrica intensifica servicios en tres municipios del área metropolitana.",
         "zona": "Área metropolitana",
@@ -101,5 +245,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-26T00:28:52.192455-06:00"
+  "last_updated": "2026-09-26T12:14:11.956034-06:00"
 }
