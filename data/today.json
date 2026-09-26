@@ -1,8 +1,56 @@
 {
   "date": "2026-09-26",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan red de fraudes turísticos en San Pedro",
+        "summary": "Autoridades detienen a 13 personas vinculadas con estafas en paquetes turísticos en Valle Oriente de Monterrey.",
+        "zona": "Área metropolitana",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/capturan-en-san-pedro-a-grupo-vinculado-con-fraudes-turisticos/9127725367",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
+      {
+        "title": "Condenan a 90 años a abusador sexual de menor",
+        "summary": "Fiscal asegura sentencia contra sujeto por delitos sexuales cometidos contra niña en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/dan-noventa-anos-de-prision-a-agresor-sexual-de-menor/4526381268",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
+      {
+        "title": "Hieren a policía de Juárez en enfrentamiento",
+        "summary": "Agente municipal resulta lesionado durante operativo de seguridad en municipio de Juárez.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/hieren-a-policia-de-juarez-durante-enfrentamiento/1029027",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
+      {
+        "title": "Detienen a trailero por derribar poste en centro",
+        "summary": "Operador de tracto camión causa apagón y daños en infraestructura eléctrica de Monterrey.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/detienen-a-trailero-centro-monterrey",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
+      {
+        "title": "Robo con violencia en casa de cambio de Garza Sada",
+        "summary": "Asalto armado deja pérdidas económicas en establecimiento de cambio en avenida importante de Monterrey.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/monterrey-robo-en-casa-de-cambio-de-avenida-garza-sada",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
+      {
+        "title": "Catea autoridades cuatro salas de masajes en Monterrey",
+        "summary": "Operativo de seguridad interviene establecimientos en la capital por posibles irregularidades.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/catean-cuatro-salas-de-masajes-en-monterrey/1029220",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
       {
         "title": "Fiscalía catea spas en Monterrey por trata de personas",
         "summary": "Operativos de la Fiscalía de Nuevo León en establecimientos de la zona metropolitana tras investigaciones sobre posible explotación.",
@@ -74,14 +122,6 @@
         "source": "Telediario Monterrey",
         "url": "https://www.telediario.mx/policia/nuevo-leon-sentencia-de-93-anos-de-prision-para-agresor-de-menores",
         "_added_at": "2026-09-26T00:28:52.192455-06:00"
-      },
-      {
-        "title": "Familia bloquea vías exigiendo justicia por atropello",
-        "summary": "Protesta por la muerte de joven durante fiestas patrias; demandan que caso no quede impune.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/monterrey-nl-familia-de-viviana-marlen-protestan-exigiendo-justicia",
-        "_added_at": "2026-09-26T00:28:52.192455-06:00"
       }
     ],
     "politica": [
@@ -111,6 +151,14 @@
       }
     ],
     "economia": [
+      {
+        "title": "Empleo informal sube 12.2% en Nuevo León",
+        "summary": "Coparmex alerta sobre crecimiento del trabajo informal y pide medidas de atención del gobierno estatal.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/aumenta-informalidad-laboral-nuevo-leon-coparmex-2026",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
       {
         "title": "Empleo informal crece 12.2% en Nuevo León",
         "summary": "Coparmex reporta aumento en informalidad laboral y pide atención institucional.",
@@ -154,6 +202,22 @@
     ],
     "eventos": [
       {
+        "title": "Monterrey fija plazo para tramitar testamentos",
+        "summary": "Municipio abre convocatoria de asesoría gratuita para ciudadanos que deseen formalizar su testamento.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/monterrey-programa-testamentos-fecha-limite-acudir",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
+      {
+        "title": "Secundaria de Guadalupe clasificó a torneo robótica Canadá",
+        "summary": "Estudiantes de escuela local avanzan a competencia internacional y solicitan apoyo para participar.",
+        "zona": "Área metropolitana",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/secundaria-guadalupe-clasifica-torneo-robotica-canada-pide-apoyo",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
+      {
         "title": "Buscan artista para mural 'Ciudadanos del Mundo'",
         "summary": "Convocatoria abierta para proyecto de arte público en Paseo Santa Lucía.",
         "zona": "Monterrey",
@@ -187,6 +251,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Investigan muerte de adolescente en Guadalupe",
+        "summary": "Autoridades abren indagatoria por fallecimiento de menor de 15 años encontrada en su domicilio.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/investigan-muerte-de-adolescente-de-15-anos-en-guadalupe/1029214",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
+      {
+        "title": "Rescatan a menor tras caída en La Huasteca",
+        "summary": "Operativos de emergencia recuperan a niño que cayó tres metros en zona de montaña.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/rescatan-a-menor-la-huasteca",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
+      {
+        "title": "Ciclistas piden calles seguras e infraestructura vial",
+        "summary": "Comunidad ciclista plantea demandas por mejoras en seguridad y condiciones de circulación.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/ciclistas-nl-hacen-llamado-mejorar-cultura-e-infraestructura-vial",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
+      {
+        "title": "Juárez amplía apoyos de movilidad estudiantil",
+        "summary": "Municipio incrementa entrega de TAG y aumenta transporte para estudiantes de educación básica.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/juarez-amplia-apoyos-de-movilidad-entrega-mas-tag-y-aumenta-transporte-para-estudiantes/vl2259398",
+        "_added_at": "2026-09-26T17:21:01.934865-06:00"
+      },
       {
         "title": "Hospital Infantil avanza 54% en construcción",
         "summary": "Proyecto de infraestructura de salud en Nuevo León registra progreso significativo.",
@@ -245,5 +341,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-26T12:14:11.956034-06:00"
+  "last_updated": "2026-09-26T17:21:01.934865-06:00"
 }
