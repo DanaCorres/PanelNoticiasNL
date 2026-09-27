@@ -1,8 +1,16 @@
 {
   "date": "2026-09-27",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a presunto extorsionador de comercios en Santa Catarina",
+        "summary": "Autoridades capturan sospechoso de extorsión contra negocios. Operativo contra delincuencia que afecta comercio local.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/detienen-a-presunto-extorsionador-de-comercios-en-santa-catarina/6680797224",
+        "_added_at": "2026-09-27T17:33:07.015333-06:00"
+      },
       {
         "title": "Capturan a 'Bebo', operador financiero del Cártel del Golfo",
         "summary": "Detienen a presunto operador financiero de Los Metros tras 19 cateos en Nuevo León, Tamaulipas y Chihuahua.",
@@ -86,6 +94,22 @@
     ],
     "politica": [
       {
+        "title": "Morena destapará candidata a gubernatura de NL para 2027",
+        "summary": "Partido Morena anuncia este lunes a su precandidato para la gubernatura de Nuevo León en elecciones de 2027.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/27/morena-anunciara-este-lunes-al-candidato-a-la-gubernatura-de-nl-para-2027-290768.html",
+        "_added_at": "2026-09-27T17:33:07.015333-06:00"
+      },
+      {
+        "title": "PRI propone endurecer penas por allanamiento de morada",
+        "summary": "Partido de oposición presenta iniciativa para aumentar sanciones penales por delito de allanamiento.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/propone-pri-endurecer-penas-por-allanamiento/9519588428",
+        "_added_at": "2026-09-27T17:33:07.015333-06:00"
+      },
+      {
         "title": "Samuel impulsa fideicomiso para proyectos urbanos con Gerardo García",
         "summary": "Gobierno incorpora nuevo funcionario y activa instrumento financiero para desarrollo de obras.",
         "zona": "Nuevo León",
@@ -127,6 +151,14 @@
       }
     ],
     "economia": [
+      {
+        "title": "Acuerdan municipio de Monterrey y CFE plan contra apagones",
+        "summary": "Autoridades municipal y eléctrica cierran acuerdo para reducir cortes de energía en la ciudad.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/acuerdan-municipio-de-monterrey-y-cfe-plan-contra-apagones/1029380",
+        "_added_at": "2026-09-27T17:33:07.015333-06:00"
+      },
       {
         "title": "Nuevo León lidera exportaciones; apuesta por seguridad hídrica",
         "summary": "Estado mantiene posición como motor económico de México con énfasis en sostenibilidad de agua.",
@@ -196,6 +228,22 @@
     ],
     "sociedad": [
       {
+        "title": "Monterrey entrega 280 testamentos para seguridad patrimonial",
+        "summary": "Municipio tramita y entrega documentos testamentarios a familias para proteger patrimonio.",
+        "zona": "Monterrey",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/monterrey-brinda-seguridad-patrimonial-al-entregar-280-testamentos-7634/",
+        "_added_at": "2026-09-27T17:33:07.015333-06:00"
+      },
+      {
+        "title": "Abrirán santuario de animales en Apodaca",
+        "summary": "Proyecto de rescate y cuidado de fauna abre instalaciones en municipio del área metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/abriran-en-apodaca-un-santuario-de-animales/1029351",
+        "_added_at": "2026-09-27T17:33:07.015333-06:00"
+      },
+      {
         "title": "Solo 61% de niños asistió a preescolar en Nuevo León",
         "summary": "Crisis educativa pone en riesgo desarrollo de infantes y genera rezago acumulativo.",
         "zona": "Nuevo León",
@@ -253,5 +301,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-27T12:51:32.259263-06:00"
+  "last_updated": "2026-09-27T17:33:07.015333-06:00"
 }
