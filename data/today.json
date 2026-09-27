@@ -1,8 +1,64 @@
 {
   "date": "2026-09-27",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan a 'Bebo', operador financiero del Cártel del Golfo",
+        "summary": "Detienen a presunto operador financiero de Los Metros tras 19 cateos en Nuevo León, Tamaulipas y Chihuahua.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/cae-bebo-tras-19-cateos-en-nuevo-leon-tamaulipas-y-chihuahua/8674096467",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Muere hombre en balacera dentro de depósito en Juárez",
+        "summary": "Ataque a balazos en colonia 31 de Diciembre deja un muerto y un herido en madrugada del domingo.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/ataque-en-deposito-de-juarez-deja-un-muerto-y-un-herido/2770438287",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Acuerdan Monterrey y CFE plan contra apagones",
+        "summary": "Municipio y empresa eléctrica coordinan estrategia para reducir interrupciones del servicio.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/acuerdan-municipio-de-monterrey-y-cfe-plan-contra-apagones/1029380",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "SET investiga escuelas militarizadas sin autorización",
+        "summary": "Secretaría de Educación actúa contra instituciones que operan modelo militar irregular.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/resultado?query=SET+va+contra+escuelas%C2%A0militarizadas+irregulares&select=todas",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Capturan sicarios del Cártel del Noreste con arsenal",
+        "summary": "Detienen integrantes del CDN con fusiles y equipo militar en operativo en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/fotos-cae-en-hidalgo-nuevo-leon-sicarios-del-cdn-arsenal-del-ejercito-y-fusil",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Asaltan casa de cambio en Monterrey",
+        "summary": "Hombres armados roban en establecimiento comercial de la ciudad.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/asaltan-hombres-armados-casa-de-cambio-en-monterrey/1029364",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Detienen a 13 personas por fraudes",
+        "summary": "Operativo deja capturados a sospechosos de estafas múltiples.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/caen-13-por-posibles-fraudes/1029362",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
       {
         "title": "Detienen a sujeto por robo violento de tráiler en Salinas Victoria",
         "summary": "Capturan a presunto delincuente identificado por videovigilancia cuando conducía unidad robada en Apodaca. Fue localizado en Salinas Victoria.",
@@ -30,6 +86,38 @@
     ],
     "politica": [
       {
+        "title": "Samuel impulsa fideicomiso para proyectos urbanos con Gerardo García",
+        "summary": "Gobierno incorpora nuevo funcionario y activa instrumento financiero para desarrollo de obras.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/samuel-suma-a-gerardo-garcia-e-impulsa-un-fideicomiso-para-proyectos-urbanos-7785/",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Lorena pide liquidar adeudos antes de negociaciones",
+        "summary": "Legisladora solicita al gobierno estatal pagar deudas y nombrar tesorero como requisito.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/lorena-pide-a-gobierno-nl-liquidar-adeudos-y-nombrar-tesorero-previo-a-negociaciones-7995/",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Félix Arratia lleva programas sociales a 13 municipios",
+        "summary": "Funcionario estatal acerca beneficios sociales a localidades del interior.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/felix-arratia-acerca-programas-sociales-a-13-municipios-9753/",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "IEEPC analiza desafíos del proceso electoral",
+        "summary": "Instituto electoral revisa retos institucionales para futuras elecciones.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/analiza-ieepc-desafios-sobre-proceso-electoral/1029376",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
         "title": "Nuevo León asegura cumplimiento de obras estratégicas a tiempo",
         "summary": "Gobierno estatal reafirma compromiso de entregar proyectos infraestructura en plazos establecidos.",
         "zona": "Nuevo León",
@@ -38,8 +126,65 @@
         "_added_at": "2026-09-27T00:55:51.333738-06:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Nuevo León lidera exportaciones; apuesta por seguridad hídrica",
+        "summary": "Estado mantiene posición como motor económico de México con énfasis en sostenibilidad de agua.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/expo-pyme-nuevo-leon-primer-lugar-en-exportaciones-y-seguridad-hidrica-futuras-sequias/",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Infonavit entrega escrituras a familias en Monterrey",
+        "summary": "Instituto beneficia a ciudadanos con documentos de propiedad.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/entrega-infonavit-escrituras-a-familias/1029378",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Monterrey entrega 280 testamentos para seguridad patrimonial",
+        "summary": "Municipio ofrece instrumento legal para protección de bienes de ciudadanos.",
+        "zona": "Monterrey",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/monterrey-brinda-seguridad-patrimonial-al-entregar-280-testamentos-7634/",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "UANL inicia ciclo con más de 220 mil estudiantes",
+        "summary": "Universidad autónoma abre nuevo semestre con matrícula récord.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://www.info7.mx/resultado?query=Iniciar%C3%A1%20la%20UANL%20nuevo%20ciclo%20con%20m%C3%A1s%20de%20220%20mil%20estudiantes",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Alumnos UNID presentan pasarela de moda Manifiesto",
+        "summary": "Estudiantes exhiben propias marcas de ropa en evento académico.",
+        "zona": "Monterrey",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/comunidad/estudiantes-unid-presentan-pasarela-de-modas-manifiesto",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Abrirán santuario de animales en Apodaca",
+        "summary": "Nuevo proyecto ambiental ofrecerá refugio a fauna en la ciudad.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/abriran-en-apodaca-un-santuario-de-animales/1029351",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Pase Turístico Nuevo León disponible desde octubre",
+        "summary": "Autoridades abren trámites para acceso a descuentos en atracciones.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/pase-turistico-nuevo-leon-2026-fecha-inicio-requisitos-y-como-tramitarlo-en-linea/",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
       {
         "title": "Arranca Festival Internacional Santa Lucía 2026 con exposición Natura",
         "summary": "Festival abre actividades en Monterrey con muestra de arte y naturaleza en Fundidora.",
@@ -50,6 +195,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Solo 61% de niños asistió a preescolar en Nuevo León",
+        "summary": "Crisis educativa pone en riesgo desarrollo de infantes y genera rezago acumulativo.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/preescolar-en-nuevo-leon-solo-61-los-ninos-asistio-al-kinder-y-crece-rezago-educativo/",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Localizan sin vida a adolescente en vivienda de Guadalupe",
+        "summary": "Descubren fallecimiento de joven en domicilio; autoridades investigan causas.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/localizan-sin-vida-a-adolescente-en-vivienda-de-guadalupe/3467558329",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Monterrey lanza programa de manejo seguro para motociclistas",
+        "summary": "Municipio ofrece cursos gratuitos con equipo de seguridad incluido.",
+        "zona": "Monterrey",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/cursos-gratis-manejo-seguro-para-motociclistas-en-monterrey/",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "ReciclaLeón amplía servicio; suma textiles a reciclaje",
+        "summary": "Programa ambiental expande su alcance para aceptar nueva categoría de desechos.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/recicla-leon-amplia-su-alcance-suma-textiles-a-reciclaje/7997463608",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
+      {
+        "title": "Piden atención a reportes de jaurías en municipios",
+        "summary": "Autoridades alertan sobre presencia de perros en manada y riesgo a comunidades.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/piden-poner-atencion-a-reportes-de-jaurias/1029375",
+        "_added_at": "2026-09-27T12:51:32.259263-06:00"
+      },
       {
         "title": "Policías de Apodaca auxilian a mujer en labor de parto",
         "summary": "Agentes de tránsito escoltan a parturienta hacia hospital para atención de emergencia obstétrica.",
@@ -68,5 +253,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-27T00:55:51.333738-06:00"
+  "last_updated": "2026-09-27T12:51:32.259263-06:00"
 }
