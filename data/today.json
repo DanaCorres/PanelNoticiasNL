@@ -1,225 +1,120 @@
 {
-  "date": "2026-09-28",
-  "run_count": 2,
+  "date": "2026-09-29",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Detienen a influencer con armas y drogas en Monterrey",
-        "summary": "Capturan a 'La Barbie de la Alianza' en operativo con drogas y armas; se investiga vínculo con grupo delictivo.",
-        "zona": "Monterrey",
-        "source": "TV Azteca (Nuevo León)",
-        "url": "https://www.tvazteca.com/aztecanoticias/influencer-la-barbie-la-alianza-fue-detenida-en-monterrey-armas-drogas-y-vinculos-grupo-delictivo/",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
-      },
-      {
-        "title": "Fiscal asegura cuentas de inmobiliaria por fraude millonario",
-        "summary": "Fiscalía congela activos de empresa inmobiliaria tras defraudar a compradores por más de mil millones de pesos.",
-        "zona": "Monterrey",
-        "source": "El Sol de México",
-        "url": "https://oem.com.mx/elsoldemexico/mexico/suman-mas-de-mil-millones-de-pesos-en-el-fraude-inmobiliario-de-monterrey-31025828",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
-      },
-      {
-        "title": "Apodaca entra al Top 10 nacional de percepción de seguridad",
-        "summary": "Municipio mejora posición en rankings nacionales de seguridad según cifras de percepción ciudadana.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/entra-apodaca-al-top-10-nacional-de-mejor-percepcion-de-seguridad/1029583",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
-      },
-      {
-        "title": "Autoridades reportan avances en reducción de delitos patrimoniales",
-        "summary": "Estado destaca resultados positivos en seguridad con disminución de delitos de alto impacto y patrimoniales derivados de desempeño policial.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/destacan-resultados-positivos-en-materia-de-seguridad-estatal/3345927767",
-        "_added_at": "2026-09-28T01:23:54.617758-06:00"
-      },
-      {
-        "title": "Investigan muerte de joven en domicilio de El Carmen",
-        "summary": "Autoridades abren investigación por homicidio de persona asesinada a cuchilladas dentro de vivienda en El Carmen, Nuevo León.",
+        "title": "Cuatro detenidos por robo de 660 mil pesos en Allende",
+        "summary": "Capturan a cuatro personas implicadas en el robo de efectivo a una tienda de autoservicio en Allende, Nuevo León.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/el-carmen-nl-asesinan-joven-cuchilladas-de-domicilio",
-        "_added_at": "2026-09-28T01:23:54.617758-06:00"
+        "url": "https://www.telediario.mx/policia/allende-nl-dan-seguimiento-a-robo-de-666-mil-en-efectivo-a-tienda",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
       },
       {
-        "title": "Catean vivienda en Guadalupe por muerte de joven",
-        "summary": "Autoridades realizan diligencias en domicilio de Guadalupe relacionado con muerte de jovencita.",
+        "title": "Congreso de NL pide campañas de prevención para convivencia con osos",
+        "summary": "El Congreso de Nuevo León solicita campañas preventivas tras incidentes con osos en zonas urbanas de la entidad.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/congreso-de-nl-pide-campanas-prevencion-convivencia-osos",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
+      },
+      {
+        "title": "Denuncian trampas con clavos para ahuyentar osos en San Pedro",
+        "summary": "Activistas denuncian ante Profepa el uso de trampas peligrosas con clavos para alejar a los osos en la colonia Bosques del Ángel.",
         "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/catean-vivienda-en-guadalupe-por-muerte-de-jovencita",
-        "_added_at": "2026-09-28T01:23:54.617758-06:00"
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/trampas-clavos-para-osos-en-san-pedro-nuevo-leon-activista-denuncia-el-caso-profepa/",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
+      },
+      {
+        "title": "Tren impacta camión de ruta en Apodaca",
+        "summary": "Un tren impactó una unidad de transporte público tipo Ruta 219 en Apodaca, dejando daños materiales.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/tren-impacta-camion-de-la-ruta-219-en-apodaca/v5782042995",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Morena designa a Clara Luz Flores coordinadora de la 4T en NL",
-        "summary": "Clara Luz Flores es nombrada coordinadora oficial de Morena para la 4T y se perfila como candidata a gobernatura.",
+        "title": "Clara Luz Flores designada coordinadora de Morena en Nuevo León",
+        "summary": "Morena formaliza el nombramiento de Clara Luz Flores como coordinadora estatal para la elección de 2027.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/es-clara-luz-flores-coordinadora-de-la-defensa-en-nuevo-leon/1029708",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
+      },
+      {
+        "title": "Clara Luz descarta acuerdos con otros partidos políticos",
+        "summary": "Clara Luz Flores niega haber realizado acuerdos con otras fuerzas políticas en Nuevo León.",
         "zona": "Nuevo León",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/nombran-a-clara-luz-flores-coordinadora-de-la-4t-en-nuevo-leon",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
+        "url": "https://www.milenio.com/politica/clara-luz-flores-entrevista-milenio-television",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
       },
       {
-        "title": "PT se desliga de designaciones de Morena; tiene candidato propio",
-        "summary": "Partido del Trabajo anuncia candidatura independiente en NL, rechazando alianza con Morena.",
+        "title": "PT se deslinda de nombramientos de Morena en Nuevo León",
+        "summary": "El Partido del Trabajo se distancia de la designación de Clara Luz Flores realizada por Morena.",
         "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/se-desliga-pt-designaciones-morena",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/tras-el-destape-de-clara-luz-en-nl-el-pt-se-deslinda-de-los-nombramientos-de-morena-386/",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
       },
       {
-        "title": "PAN rechaza alianza PRI con panorámicos; defiende su independencia",
-        "summary": "Militantes panistas colocan publicidad rechazando posible alianza electoral con el PRI para 2027.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/nuevo-leon-colocan-panoramicos-contra-alianza-pan-pri",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
-      },
-      {
-        "title": "Samuel García rechaza 'abrazos y balazos' como estrategia de seguridad",
-        "summary": "Gobernador advierte contra narrativas que legitimen violencia; critica políticas anteriores de seguridad.",
+        "title": "Aspirantes de Morena en NL aceptan triunfo de Clara Luz",
+        "summary": "Los aspirantes internos de Morena reconocen el resultado de Clara Luz Flores como coordinadora estatal.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/samuel-garcia-no-quiere-escuchar-frase-abrazos-ni-balazos",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
+        "url": "https://www.telediario.mx/politica/aspirantes-de-morena-aceptan-triunfo-de-clara-luz-flores",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
       },
       {
-        "title": "INE asumirá conteo rápido para elección de gobernador en NL",
-        "summary": "Instituto Nacional Electoral designado para realizar escrutinio oficial de comicios estatales 2027.",
+        "title": "INE realizará conteo rápido en elección a gubernatura 2027",
+        "summary": "El Instituto Nacional Electoral llevará a cabo un conteo rápido durante la elección estatal de Nuevo León.",
         "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/ine-asumira-conteo-rapido-gubernatura-nuevo-leon-2027",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/ine-hara-en-2027-conteo-rapido-en-eleccion-a-gubernatura-en-nl/2993681415",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
       },
       {
-        "title": "PRI y PRD proponen regulación de reconducción presupuestal en Congreso",
-        "summary": "Partidos buscan establecer marcos legales para transferencias presupuestales dentro del ejercicio fiscal.",
-        "zona": "Nuevo León",
+        "title": "Bloqueo en Simeprode paraliza recolección de basura",
+        "summary": "Un bloqueo en Simeprode afecta la recolección de residuos en Monterrey y Apodaca.",
+        "zona": "Área metropolitana",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/congreso-nuevo-leon-busca-regular-reconduccion-presupuestal",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
-      },
-      {
-        "title": "Feministas demandan legalización del aborto ante Congreso de NL",
-        "summary": "Movimientos sociales exigen al legislativo despenalizar la interrupción del embarazo en el estado.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/demandan-feministas-al-congreso-nl",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
-      },
-      {
-        "title": "PRI propone elevar multas para combatir despojo de viviendas",
-        "summary": "Iniciativa del PRI busca aumentar penalidades contra el despojo de inmuebles en Nuevo León mediante reforma legal.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/pri-propone-elevar-multas-combatir-despojo-viviendas-en-nl",
-        "_added_at": "2026-09-28T01:23:54.617758-06:00"
-      },
-      {
-        "title": "Heriberto Treviño plantea reforzar combate a despojo y allanamiento",
-        "summary": "Funcionario propone estrategias para intensificar acciones contra delitos de despojo y allanamiento de morada.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/heriberto-trevino-plantea-reforzar-combate-despojo-allanamiento",
-        "_added_at": "2026-09-28T01:23:54.617758-06:00"
-      },
-      {
-        "title": "PAN solicita regular uso de Inteligencia Artificial en el estado",
-        "summary": "Partido pide a Secretaría de Economía establecer regulaciones para prevenir riesgos del uso de IA en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/pan-solicita-a-secretaria-de-economia-regular-uso-de-la-ia",
-        "_added_at": "2026-09-28T01:23:54.617758-06:00"
+        "url": "https://www.telediario.mx/politica/simeprode-paraliza-recoleccion-de-basura-en-monterrey-y-apodaca",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
       }
     ],
     "economia": [
       {
-        "title": "Transporte reduce tiempo de espera de 24 a 16 minutos",
-        "summary": "Estado reporta mejora en servicio de transporte público con descenso significativo en tiempos de espera.",
-        "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/28/estado-reporta-reduccion-en-espera-del-transporte-baja-de-24-a-16-minutos-290843.html",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
-      }
-    ],
-    "eventos": [
-      {
-        "title": "Sábado de Ciencia llega al Horno 3 con experimentos interactivos",
-        "summary": "Actividad educativa abre espacio para público interesado en ciencia y tecnología con demostraciones prácticas.",
+        "title": "Reestructura de transporte reduce apenas 9 minutos en recorridos",
+        "summary": "Tras dos años de cambios en rutas urbanas, los tiempos de traslado bajaron solo 9 minutos en promedio.",
         "zona": "Monterrey",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/ciencia-experimentos-y-diversion-llega-sabado-de-ciencia-al-horno-3/vl2260028",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
-      },
-      {
-        "title": "Amplían infraestructura médica y social en municipio de Juárez",
-        "summary": "Se expanden servicios de salud e instalaciones de carácter social en Juárez para beneficio de la comunidad local.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/amplian-infraestructura-medica-y-social-en-el-municipio-de-juarez/1352922809",
-        "_added_at": "2026-09-28T01:23:54.617758-06:00"
-      },
-      {
-        "title": "Programa 'Ayudamos de Cerca' supera veinticinco mil beneficiarios",
-        "summary": "Iniciativa social en Nuevo León alcanza hito de más de veinticinco mil personas beneficiadas con asistencia.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/supera-el-programa-ayudamos-de-cerca-las-25-mil-beneficiados/4118533768",
-        "_added_at": "2026-09-28T01:23:54.617758-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/tiempos-de-traslado-en-rutas-urbanas-bajan-9-minutos-en-dos-anos-en-nl",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
       }
     ],
+    "eventos": [],
     "sociedad": [
       {
-        "title": "Retiran tablas con clavos para ahuyentar osos en San Pedro",
-        "summary": "Autoridades remueven dispositivos de colonos tras denuncia ambiental; confirman incumplimiento de normas federales.",
+        "title": "Oso ingresa a casa y causa destrozos en Bosques del Ángel",
+        "summary": "Un oso silvestre penetró una vivienda en San Pedro causando daños materiales significativos.",
         "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/confirman-retiro-tablas-clavos-ahuyentar-osos-olinala-san-pedro",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
-      },
-      {
-        "title": "DIF Monterrey entrega aparatos auditivos gratis a adultos mayores",
-        "summary": "Institución amplía programa de apoyos sociales distribuyendo dispositivos a población vulnerable.",
-        "zona": "Monterrey",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/aparatos-auditivos-gratis",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
-      },
-      {
-        "title": "CEDHNL pide más presupuesto; auditoría revela gastos en viajes",
-        "summary": "Comisión de derechos humanos solicita incremento presupuestal mientras enfrenta cuestionamientos por gastos operacionales.",
-        "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/cedhnl-pide-mas-presupuesto-gasta-viajes-casetas-y-sueldos",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
+        "url": "https://www.telediario.mx/comunidad/bosques-angel-san-pedro-oso-ingresa-casa-causa-destrozos",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
       },
       {
-        "title": "UANL celebra 93 años con énfasis en transformación social",
-        "summary": "Universidad autónoma marca aniversario reafirmando compromiso educativo y comunitario institucional.",
+        "title": "Ramas bloquean banqueta desde hace tres meses en Monterrey",
+        "summary": "Debris de ramas obstruye la banqueta en un área de Monterrey sin que se hayan realizados trabajos de limpieza.",
         "zona": "Monterrey",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/estilodevida/celebra-uanl-93-anos-de-historia-y-transformacion-social/2246693860",
-        "_added_at": "2026-09-28T15:01:46.397745-06:00"
-      },
-      {
-        "title": "Motociclista muere en accidente en García",
-        "summary": "Accidente fatal ocurrido en García cobra la vida de conductor de motocicleta.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/pierde-la-vida-motociclista-tras-accidente-en-garcia/1029451",
-        "_added_at": "2026-09-28T01:23:54.617758-06:00"
-      },
-      {
-        "title": "Ciclista fallece tras atropello en Escobedo",
-        "summary": "Persona en bicicleta muere tras ser atropellada en vías de Escobedo.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/fallece-ciclista-tras-atropello-en-escobedo/1029475",
-        "_added_at": "2026-09-28T01:23:54.617758-06:00"
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/ramas-bloquean-banqueta-desde-hace-tres-meses-en-monterrey/2921111289",
+        "_added_at": "2026-09-29T01:20:03.309487-06:00"
       }
     ]
   },
-  "last_updated": "2026-09-28T15:01:46.397745-06:00"
+  "last_updated": "2026-09-29T01:20:03.309487-06:00"
 }
