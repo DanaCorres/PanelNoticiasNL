@@ -1,8 +1,56 @@
 {
   "date": "2026-09-29",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Estudiantes hospitalizados tras ingerir cristal en secundaria",
+        "summary": "Dos alumnos de una secundaria en Monterrey fueron hospitalizados por presuntamente consumir cristal dentro de las instalaciones escolares.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/9/29/hospitalizan-a-2-estudiantes-por-presuntamente-ingerir-cristal-en-secundaria-de-monterrey-290919.html",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "Capturan mujer fuertemente armada tras cateo en García",
+        "summary": "Autoridades detuvieron a una mujer con armamento en un operativo realizado en el municipio de García.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/capturan-a-una-mujer-fuertemente-armada-tras-cateo-en-garcia/9340149626",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "Cuatro detenidos por robo de 600 mil pesos a tienda",
+        "summary": "Elementos de seguridad capturaron a cuatro personas relacionadas con el robo de 600 mil pesos a una Bodega.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/caen-cuatro-por-robo-de-600-mil-a-bodega/1029923",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "Detienen a pareja por homicidio en Juárez",
+        "summary": "Fiscalía ejerció acción penal contra una pareja acusada de matar a un hombre en el municipio de Juárez.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/ejercen-accion-penal-contra-pareja-por-matar-a-hombre-en-juarez/1644154757",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "Escobedo impulsa primer Comité de Jóvenes Construyendo Paz",
+        "summary": "El municipio de Escobedo lanzó un comité enfocado en prevención de violencia y construcción de paz con jóvenes.",
+        "zona": "Área metropolitana",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/impulsa-escobedo-primer-comite-de-jovenes-construyendo-paz/",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "Senderismo en Cerro de la Silla genera 80+ rescates en 2026",
+        "summary": "Autoridades reportan más de 80 rescates y 50 lesionados en el Cerro de la Silla durante este año.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/senderistas-en-nuevo-leon-van-mas-de-80-rescates-y-50-lesionados-en-2026-/v-vl2260090",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
       {
         "title": "Cuatro detenidos por robo de 660 mil pesos en Allende",
         "summary": "Capturan a cuatro personas implicadas en el robo de efectivo a una tienda de autoservicio en Allende, Nuevo León.",
@@ -37,6 +85,46 @@
       }
     ],
     "politica": [
+      {
+        "title": "Samuel García llama a ser primer lugar en seguridad jurídica",
+        "summary": "El gobernador invitó a Nuevo León a consolidarse como líder estatal en seguridad jurídica y protección legal.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/nl-sea-primer-lugar-en-seguridad-juridica",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "Estado transfiere 118.9 mdp de fondos federales a municipios",
+        "summary": "Gobierno de Nuevo León distribuyó 118.9 millones de pesos en recursos federales entre los municipios del estado.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/estado-transfiere-118-mdp-feief-municipios-nuevo-leon",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "PAN denuncia guerra sucia contra alianza con PRI",
+        "summary": "El PAN protestó por lo que considera ataques coordinados contra su alianza electoral con el PRI en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/denuncia-pan-guerra-sucia-por-ataques-a-la-alianza-con-el-pri/1029938",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "Herrera critica a De la Garza: debe pedir licencia",
+        "summary": "El dirigente panista señaló que De la Garza debe solicitar licencia si sus intereses políticos están en otro estado.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/herrera-cruza-a-de-la-garza-debe-pedir-licencia-si-sus-intereses-estan-en-otro-lado-9900/",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "Lozano comparece en Congreso sobre Impuesto Verde",
+        "summary": "El secretario de Hacienda enfrentó cuestionamientos del PAN respecto a la política fiscal ambiental del estado.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/lozano-comparece-en-el-congreso-nl-el-pan-lo-cruza-por-el-impuesto-verde-y-el-pri-se-mesura-8672/",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
       {
         "title": "Clara Luz Flores designada coordinadora de Morena en Nuevo León",
         "summary": "Morena formaliza el nombramiento de Clara Luz Flores como coordinadora estatal para la elección de 2027.",
@@ -88,6 +176,22 @@
     ],
     "economia": [
       {
+        "title": "AutoZone abre su tienda mil en México",
+        "summary": "La cadena de autopartes AutoZone alcanzó mil sucursales en el país, ampliando su red de distribución.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/autozone-llega-mil-tiendas-mexico-amplia-red-logistica",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "Coparmex pide agilizar devolución de impuestos al SAT",
+        "summary": "La cámara empresarial solicitó que el SAT acelere los trámites de devolución de impuestos a contribuyentes.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/coparmex-nuevo-leon-pide-sat-agilizar-devoluciones-impuestos",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
         "title": "Reestructura de transporte reduce apenas 9 minutos en recorridos",
         "summary": "Tras dos años de cambios en rutas urbanas, los tiempos de traslado bajaron solo 9 minutos en promedio.",
         "zona": "Monterrey",
@@ -96,8 +200,49 @@
         "_added_at": "2026-09-29T01:20:03.309487-06:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Karol G se presentará en Estadio BBVA",
+        "summary": "La cantante colombiana Karol G actuará en el Estadio BBVA de Monterrey antes del partido de la Selección Mexicana.",
+        "zona": "Monterrey",
+        "source": "Informe Regio",
+        "url": "https://informeregio.com/el-estadio-bbva-recibira-a-karol-g-antes-de-la-seleccion-mexicana/",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "Natanael Cano reprograma concierto por lluvias",
+        "summary": "El cantante regional mexicano Natanael Cano cambió la fecha de su show en Monterrey debido al pronóstico de lluvia.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/show/2026/9/29/natanael-cano-reprograma-concierto-en-monterrey-por-lluvias-cuando-sera-290923.html",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Monterrey, Guadalupe y San Nicolás pierden 48 mil habitantes",
+        "summary": "Entre 2020 y 2025, estas tres ciudades del área metropolitana registraron pérdida neta de población.",
+        "zona": "Área metropolitana",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/29/mientras-nuevo-leon-crece-monterrey-guadalupe-y-san-nicolas-pierden-habitantes-290938.html",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "San Pedro fortalece estrategia de movilidad urbana",
+        "summary": "El municipio de San Pedro Garza García avanzó en planes para mejorar la movilidad y transporte en la zona.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/fortalece-san-pedro-su-estrategia-de-movilidad/1029943",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
+      {
+        "title": "Guadalupe realiza mega jornada de descacharrización",
+        "summary": "El municipio de Guadalupe ejecutó una jornada masiva para retirar desechos y prevenir criaderos de mosquitos.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/realiza-guadalupe-mega-jornada-de-descacharrizacion/1029944",
+        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+      },
       {
         "title": "Oso ingresa a casa y causa destrozos en Bosques del Ángel",
         "summary": "Un oso silvestre penetró una vivienda en San Pedro causando daños materiales significativos.",
@@ -116,5 +261,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-29T01:20:03.309487-06:00"
+  "last_updated": "2026-09-29T13:45:26.178460-06:00"
 }
