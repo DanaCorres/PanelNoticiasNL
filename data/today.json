@@ -1,8 +1,40 @@
 {
   "date": "2026-09-29",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan mujer fuertemente armada en García",
+        "summary": "Operativo en García resulta en detención de mujer con arsenal de armas. Autoridades aseguran elementos tras cateo domiciliario.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/capturan-a-una-mujer-fuertemente-armada-tras-cateo-en-garcia/9340149626.html",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
+        "title": "Hallan sin vida a joven en tienda comercial de Guadalupe",
+        "summary": "Menor fue encontrada sin vida dentro de una tienda comercial en Guadalupe. Autoridades investigan las circunstancias del deceso.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/hallan-sin-vida-a-joven-en-tienda-comercial/1029925",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
+        "title": "Fiscal investiga designaciones en CEDHNL por viajes costosos",
+        "summary": "Congreso solicita investigación sobre gastos en viajes de lujo de funcionarios de la Comisión Estatal de Derechos Humanos a Europa.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/nuevo-leon-congreso-investiga-gastos-de-viajes-europa-de-la-cedhnl",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
+        "title": "Dos agencias de EU investigan a Andy López Beltrán",
+        "summary": "Agencias estadounidenses revisan señalamientos contra el exfuncionario mexicano. Investigación avanza en materia de presuntas irregularidades.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/09/29/dos-agencias-de-estados-unidos-revisan-senalamientos-contra-andy-lopez-beltran/",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
       {
         "title": "Estudiantes hospitalizados tras ingerir cristal en secundaria",
         "summary": "Dos alumnos de una secundaria en Monterrey fueron hospitalizados por presuntamente consumir cristal dentro de las instalaciones escolares.",
@@ -86,6 +118,46 @@
     ],
     "politica": [
       {
+        "title": "Clara Luz asume coordinación estatal de Morena en NL",
+        "summary": "Morena designa a Clara Luz como coordinadora estatal. Busca unificar al partido rumbo a elecciones 2027 en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/clara-luz-busca-unificar-a-morena-y-en-mc-se-envalentonan-con-retener-nl-en-2027/",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
+        "title": "Mijes rinde informe y rechaza resentimientos en Escobedo",
+        "summary": "Andrés Mijes presenta balance de cinco años como alcalde de Escobedo. Destaca inversión pública y seguridad sin conflictos internos.",
+        "zona": "Área metropolitana",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/09/29/andres-mijes-destaca-inversion-seguridad-y-obra-publica-durante-cinco-anos-de-gobierno-en-escobedo/",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
+        "title": "MC busca definición de Sheinbaum sobre candidatura en NL",
+        "summary": "Movimiento Ciudadano espera pronunciamiento de presidenta sobre propuesta de Morena. Insisten en candidatura de Mariana.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/en-mc-esperan-la-definicion-de-sheinbaum-sobre-la-candidatura-de-morena-en-nl-e-insisten-con-mariana/",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
+        "title": "Acusan a alcalde de San Nicolás de bloquear recursos para DIF",
+        "summary": "MC denuncia que autoridad municipal congela fondos destinados a Desarrollo Integral de la Familia. Exigen desbloqueo.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/acusa-mc-a-alcalde-de-san-nicolas-de-bloquear-recursos-para-dif/7146420586",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
+        "title": "Daniel Carrillo acusado de frenar 5 millones para DIF NL",
+        "summary": "Diputados cuestionan bloqueo de recursos en Cámara. Fondos destinados al Centro DIF Mujeres Ilustres quedan sin asignación.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/29/acusan-a-daniel-carrillo-en-camara-de-diputados-por-frenar-5-millones-para-dif-nl-290987.html",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
         "title": "Samuel García llama a ser primer lugar en seguridad jurídica",
         "summary": "El gobernador invitó a Nuevo León a consolidarse como líder estatal en seguridad jurídica y protección legal.",
         "zona": "Nuevo León",
@@ -164,17 +236,25 @@
         "source": "El Horizonte",
         "url": "https://www.elhorizonte.mx/nuevoleon/ine-hara-en-2027-conteo-rapido-en-eleccion-a-gubernatura-en-nl/2993681415",
         "_added_at": "2026-09-29T01:20:03.309487-06:00"
-      },
-      {
-        "title": "Bloqueo en Simeprode paraliza recolección de basura",
-        "summary": "Un bloqueo en Simeprode afecta la recolección de residuos en Monterrey y Apodaca.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/simeprode-paraliza-recoleccion-de-basura-en-monterrey-y-apodaca",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
       }
     ],
     "economia": [
+      {
+        "title": "Gobierno NL entrega 118.9 mdp en recursos federales",
+        "summary": "Administración estatal distribuye fondos federales. Recursos enfocados en desarrollo y servicios públicos.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/gobierno-de-nuevo-leon-entrega-118-9-mdp-recursos-federales",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
+        "title": "García invierte 2 mil millones en obra pública en segundo informe",
+        "summary": "Alcalde de Guadalupe destaca inversión histórica en infraestructura. Enfatiza impacto en desarrollo municipal.",
+        "zona": "Área metropolitana",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/09/29/segundo-informe-de-cesar-garza-arredondo-destaca-inversion-historica-de-2-mil-millones-de-pesos-en-obra-publica/",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
       {
         "title": "AutoZone abre su tienda mil en México",
         "summary": "La cadena de autopartes AutoZone alcanzó mil sucursales en el país, ampliando su red de distribución.",
@@ -202,6 +282,14 @@
     ],
     "eventos": [
       {
+        "title": "Festival Santa Lucía reunirá 900 artistas de 15 países",
+        "summary": "Evento cultural ampliará presencia con espacios en Parque del Agua. Homenaje a Juan Gabriel entre atracciones principales.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/festival-santa-lucia-reunira-a-900-artistas-de-15-paises/6767193177",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
         "title": "Karol G se presentará en Estadio BBVA",
         "summary": "La cantante colombiana Karol G actuará en el Estadio BBVA de Monterrey antes del partido de la Selección Mexicana.",
         "zona": "Monterrey",
@@ -219,6 +307,30 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Poder Judicial aprueba protocolo para justicia inclusiva con autistas",
+        "summary": "Sistema judicial implementa medidas para garantizar acceso igualitario a personas neurodivergentes. Enfoque en inclusión.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/tamaulipas/poder-judicial-aprueba-protocolo-autistas-y-neurodivergentes",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
+        "title": "Rescatan perrito con cadena incrustada en Santa Catarina",
+        "summary": "Alcalde Jesús Nava interviene en caso de maltrato animal. Investiga responsabilidades y denuncia correspondiente.",
+        "zona": "Área metropolitana",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/29/rescatan-en-santa-catarina-a-perrito-con-cadena-incrustada-en-el-cuello-290989.html",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
+      {
+        "title": "Ejidatarios de El Alto exigen pago por terrenos de presa",
+        "summary": "Comunidad reclama compensación por tierras para proyecto de Presa Libertad. Aile Tamez respalda demanda.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/09/29/aile-tamez-respalda-a-ejidatarios-de-el-alto-exigen-pago-por-terrenos-para-presa-libertad/",
+        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+      },
       {
         "title": "Monterrey, Guadalupe y San Nicolás pierden 48 mil habitantes",
         "summary": "Entre 2020 y 2025, estas tres ciudades del área metropolitana registraron pérdida neta de población.",
@@ -261,5 +373,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-29T13:45:26.178460-06:00"
+  "last_updated": "2026-09-29T18:02:00.478656-06:00"
 }
