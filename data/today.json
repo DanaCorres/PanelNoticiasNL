@@ -1,8 +1,72 @@
 {
   "date": "2026-09-30",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Familia asesinada en Montemorelos; investigan homicidio múltiple",
+        "summary": "Hallaron sin vida a cinco integrantes de una familia en distintos lugares de Montemorelos. Fiscalía investiga el caso como homicidio múltiple.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/asesinan-a-cinco-de-una-familia-en-montemorelos-investigan-caso/7285471261",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Agresores de periodistas detenidos; destrozaron equipo en Ciénega",
+        "summary": "Capturaron a tres personas tras agresión a reporteros de Info7 y daño a equipo de transmisión en la zona de Ciénega.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/agresion-a-periodistas-info7-en-nl-detienen-a-tres-destrozo-equipos-en-cienega/",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Incendio en quinta de Arnulfo Jr. en Juárez bajo investigación",
+        "summary": "Se incendió propiedad del cantante Arnulfo Jr. en Juárez; la resguardaban policías municipales. Fiscalía investiga las circunstancias.",
+        "zona": "Área metropolitana",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/9/30/se-incendia-quinta-del-cantante-arnulfo-jr-en-juarez-nuevo-leon-291027.html",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Casa de alumna intoxicada es punto de venta de droga: Fiscalía",
+        "summary": "La residencia de la estudiante intoxicada con cristal que llevó droga a secundaria opera como punto de venta. Fiscalía investiga.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/9/30/alumna-intoxicada-por-cristal-llevo-droga-a-la-secundaria-y-la-compartio-fiscalia-291067.html",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Fiscalía realizará operativos contra violencia familiar en Monterrey",
+        "summary": "Se implementarán operativos institucionales enfocados en atender casos de violencia doméstica en la ciudad.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/monterrey-fiscalia-implementara-operativos-contra-violencia-familiar",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Dos hombres ejecutados en Galeana; investigan crimen",
+        "summary": "Hallaron a dos hombres ejecutados en el municipio de Galeana. Las autoridades inician investigación.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/ejecutan-a-dos-hombres-en-galeana/1030282",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Capturan asaltantes de transportistas en Allende",
+        "summary": "Detuvieron a delincuentes que robaban a transportistas en el municipio de Allende.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/capturan-a-asaltantes-de-transportistas-en-allende/1030209",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Cristalazo en Monterrey captado por cámaras C4; detienen sospechoso",
+        "summary": "Capturaron a hombre por robo tipo cristalazo registrado por sistema de videovigilancia municipal.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/detienen-a-hombre-por-robo-tipo-cristalazo-captado-por-camaras-c4/v1726806888",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
       {
         "title": "Diputados revisan gastos de la CEDH en viajes a Europa",
         "summary": "Legisladores de Nuevo León realizarán auditoría a cuentas de la Comisión Estatal de Derechos Humanos, incluyendo viajes a Roma y Suiza.",
@@ -29,6 +93,30 @@
       }
     ],
     "politica": [
+      {
+        "title": "Mauricio Farah presenta segundo informe en San Pedro Garza García",
+        "summary": "El presidente municipal de San Pedro Garza García rindió su segundo informe de gobierno destacando seguridad e inversiones.",
+        "zona": "Área metropolitana",
+        "source": "Informe Regio",
+        "url": "https://informeregio.com/mauricio-farah-presenta-su-segundo-informe-de-gobierno-en-san-pedro/",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "INE instala consejo local para proceso electoral 2026-2027",
+        "summary": "La Junta Local del Instituto Nacional Electoral activó su estructura para conducir los comicios en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/proceso-electoral-ine-nuevo-leon",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "PT impugna selección de candidatos de Morena a gobernatura",
+        "summary": "El Partido del Trabajo cuestiona los procesos de designación de candidatos morenistas para la contienda electoral en la entidad.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/truena-pt-contra-selecciones-de-candidatos-a-gubernatura-de-morena/1029969",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
       {
         "title": "PAN intensifica estructura en Santa Catarina frente a rivals",
         "summary": "PAN fortalece su estructura en Santa Catarina mientras MC y Nava enfrentan dificultades en su armado político.",
@@ -72,6 +160,30 @@
     ],
     "economia": [
       {
+        "title": "Mijes presume inversiones por 85 mil mdp en cinco años",
+        "summary": "La secretaría destaca un programa de inversiones que alcanza 85 mil millones de pesos en su gestión quinquenal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/presume-mijes-inversiones-por-85-mil-mdp-en-cinco-anos-de-trabajo/1030239",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Juárez reduce homicidios 80% y atrae 430 mdp en inversión",
+        "summary": "El municipio de Juárez reporta disminución significativa en homicidios y crecimiento en inversión extranjera directa.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/juarez-reduce-homicidios-80-y-atrae-mas-de-430-millones-de-dolares-en-inversiones-monica-oyervides-/v-vl2260704",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Mexicanos gastan más en educación y esparcimiento; destaca NL",
+        "summary": "Nuevo León se posiciona entre entidades con mayor gasto familiar en educación y actividades recreativas.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/finanzas/mexicanos-gastan-mas-en-educacion-y-esparcimiento-destaca-nl/4668499741",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
         "title": "Juárez atrae 430 millones en inversión extranjera directa",
         "summary": "Municipio de Juárez reporta cifra récord de inversiones internacionales acompañada de mejoras en indicadores de seguridad.",
         "zona": "Área metropolitana",
@@ -81,6 +193,22 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Congreso de NL analiza regulación de scooters y micromovilidad",
+        "summary": "El Congreso inició proceso legislativo para regular el uso de patinetes eléctricos y vehículos de micromovilidad en la entidad.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/regulacion-de-scooters",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Auténticos y Borregos se preparan para Clásico Estudiantil",
+        "summary": "Ambos equipos se alistan para disputar el Clásico Estudiantil, encuentro tradicional del futbol universitario neoleonés.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/deportes/clasico-estudiantil-autenticos-borregos",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
       {
         "title": "Festival Xantoluz 2026 reprograma apertura en Monterrey",
         "summary": "Se pospone la inauguración del festival Xantoluz en parque España de Monterrey.",
@@ -99,6 +227,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Boletas de calificaciones de primarias disponibles en línea",
+        "summary": "El sistema educativo habilita plataforma para que padres accedan en línea a calificaciones de estudiantes de primaria.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/podra-obtenerse-en-linea-la-boleta-de-calificaciones-de-primarias/1030233",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Guadalupe impulsa cultura ambiental en escuelas municipales",
+        "summary": "El municipio de Guadalupe implementa programas de conciencia ambiental dirigidos a estudiantes de educación básica.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/impulsa-guadalupe-cultura-ambiental",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "Padres de familia respaldan regulación de celulares en escuelas",
+        "summary": "Progenitores expresan apoyo a medidas institucionales para limitar el uso de dispositivos móviles en planteles educativos.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/tamaulipas/respaldan-padres-de-familia-la-regulacion-de-celulares-en-escuelas",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
+      {
+        "title": "DIF ofrece consultas médicas gratis mediante brigadas",
+        "summary": "El Instituto de Desarrollo Familiar atiende múltiples municipios con servicios de salud gratuitos a través de brigadas médicas.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/dif-nl-da-brigada-consultas-medicas-gratuitas-varios-municipios",
+        "_added_at": "2026-09-30T13:46:41.348514-06:00"
+      },
       {
         "title": "Nueva ley protege mascotas en Nuevo León prohibiendo intemperie",
         "summary": "Reforma legal establece prohibición de mantener mascotas en azoteas, patios o expuestas al clima, con sanciones por abandono.",
@@ -125,5 +285,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-30T01:10:16.602356-06:00"
+  "last_updated": "2026-09-30T13:46:41.348514-06:00"
 }
