@@ -1,377 +1,129 @@
 {
-  "date": "2026-09-29",
-  "run_count": 3,
+  "date": "2026-09-30",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Capturan mujer fuertemente armada en García",
-        "summary": "Operativo en García resulta en detención de mujer con arsenal de armas. Autoridades aseguran elementos tras cateo domiciliario.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/capturan-a-una-mujer-fuertemente-armada-tras-cateo-en-garcia/9340149626.html",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
-      },
-      {
-        "title": "Hallan sin vida a joven en tienda comercial de Guadalupe",
-        "summary": "Menor fue encontrada sin vida dentro de una tienda comercial en Guadalupe. Autoridades investigan las circunstancias del deceso.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/hallan-sin-vida-a-joven-en-tienda-comercial/1029925",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
-      },
-      {
-        "title": "Fiscal investiga designaciones en CEDHNL por viajes costosos",
-        "summary": "Congreso solicita investigación sobre gastos en viajes de lujo de funcionarios de la Comisión Estatal de Derechos Humanos a Europa.",
+        "title": "Diputados revisan gastos de la CEDH en viajes a Europa",
+        "summary": "Legisladores de Nuevo León realizarán auditoría a cuentas de la Comisión Estatal de Derechos Humanos, incluyendo viajes a Roma y Suiza.",
         "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/nuevo-leon-congreso-investiga-gastos-de-viajes-europa-de-la-cedhnl",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/diputados-nuevo-leon-revisaran-cuentas-publicas-cedh-viajes-europa",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       },
       {
-        "title": "Dos agencias de EU investigan a Andy López Beltrán",
-        "summary": "Agencias estadounidenses revisan señalamientos contra el exfuncionario mexicano. Investigación avanza en materia de presuntas irregularidades.",
-        "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/09/29/dos-agencias-de-estados-unidos-revisan-senalamientos-contra-andy-lopez-beltran/",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
-      },
-      {
-        "title": "Estudiantes hospitalizados tras ingerir cristal en secundaria",
-        "summary": "Dos alumnos de una secundaria en Monterrey fueron hospitalizados por presuntamente consumir cristal dentro de las instalaciones escolares.",
-        "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/seguridad/2026/9/29/hospitalizan-a-2-estudiantes-por-presuntamente-ingerir-cristal-en-secundaria-de-monterrey-290919.html",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Capturan mujer fuertemente armada tras cateo en García",
-        "summary": "Autoridades detuvieron a una mujer con armamento en un operativo realizado en el municipio de García.",
+        "title": "Mónica Oyervides reporta reducción de homicidios en Juárez",
+        "summary": "Juárez reduce homicidios 80% y atrae inversión de más de 430 millones de dólares, según autoridades municipales.",
         "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/capturan-a-una-mujer-fuertemente-armada-tras-cateo-en-garcia/9340149626",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Cuatro detenidos por robo de 600 mil pesos a tienda",
-        "summary": "Elementos de seguridad capturaron a cuatro personas relacionadas con el robo de 600 mil pesos a una Bodega.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/caen-cuatro-por-robo-de-600-mil-a-bodega/1029923",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Detienen a pareja por homicidio en Juárez",
-        "summary": "Fiscalía ejerció acción penal contra una pareja acusada de matar a un hombre en el municipio de Juárez.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/ejercen-accion-penal-contra-pareja-por-matar-a-hombre-en-juarez/1644154757",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Escobedo impulsa primer Comité de Jóvenes Construyendo Paz",
-        "summary": "El municipio de Escobedo lanzó un comité enfocado en prevención de violencia y construcción de paz con jóvenes.",
-        "zona": "Área metropolitana",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/impulsa-escobedo-primer-comite-de-jovenes-construyendo-paz/",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Senderismo en Cerro de la Silla genera 80+ rescates en 2026",
-        "summary": "Autoridades reportan más de 80 rescates y 50 lesionados en el Cerro de la Silla durante este año.",
-        "zona": "Monterrey",
         "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/senderistas-en-nuevo-leon-van-mas-de-80-rescates-y-50-lesionados-en-2026-/v-vl2260090",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+        "url": "https://www.posta.com.mx/nuevo-leon/juarez-reduce-homicidios-80-y-atrae-mas-de-430-millones-de-dolares-en-inversiones-monica-oyervides-/v-vl2260704",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       },
       {
-        "title": "Cuatro detenidos por robo de 660 mil pesos en Allende",
-        "summary": "Capturan a cuatro personas implicadas en el robo de efectivo a una tienda de autoservicio en Allende, Nuevo León.",
+        "title": "Investigan intoxicación de alumna con droga en Montemorelos",
+        "summary": "Autoridades investigan caso de estudiante intoxicada con sustancia en Montemorelos.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/allende-nl-dan-seguimiento-a-robo-de-666-mil-en-efectivo-a-tienda",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
-      },
-      {
-        "title": "Congreso de NL pide campañas de prevención para convivencia con osos",
-        "summary": "El Congreso de Nuevo León solicita campañas preventivas tras incidentes con osos en zonas urbanas de la entidad.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/congreso-de-nl-pide-campanas-prevencion-convivencia-osos",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
-      },
-      {
-        "title": "Denuncian trampas con clavos para ahuyentar osos en San Pedro",
-        "summary": "Activistas denuncian ante Profepa el uso de trampas peligrosas con clavos para alejar a los osos en la colonia Bosques del Ángel.",
-        "zona": "Área metropolitana",
-        "source": "TV Azteca (Nuevo León)",
-        "url": "https://www.tvazteca.com/aztecanoticias/trampas-clavos-para-osos-en-san-pedro-nuevo-leon-activista-denuncia-el-caso-profepa/",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
-      },
-      {
-        "title": "Tren impacta camión de ruta en Apodaca",
-        "summary": "Un tren impactó una unidad de transporte público tipo Ruta 219 en Apodaca, dejando daños materiales.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/tren-impacta-camion-de-la-ruta-219-en-apodaca/v5782042995",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
+        "url": "https://www.telediario.mx/policia/montemorelos-nl-investigan-intoxicacion-de-alumna-con-gomita-de-droga",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Clara Luz asume coordinación estatal de Morena en NL",
-        "summary": "Morena designa a Clara Luz como coordinadora estatal. Busca unificar al partido rumbo a elecciones 2027 en Nuevo León.",
+        "title": "PAN intensifica estructura en Santa Catarina frente a rivals",
+        "summary": "PAN fortalece su estructura en Santa Catarina mientras MC y Nava enfrentan dificultades en su armado político.",
         "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/clara-luz-busca-unificar-a-morena-y-en-mc-se-envalentonan-con-retener-nl-en-2027/",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+        "source": "La Política Online (NL)",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/santa-catarina-el-pan-intensifica-su-estructura-mientras-que-nava-y-mc-complican-su-armado-6914/",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       },
       {
-        "title": "Mijes rinde informe y rechaza resentimientos en Escobedo",
-        "summary": "Andrés Mijes presenta balance de cinco años como alcalde de Escobedo. Destaca inversión pública y seguridad sin conflictos internos.",
+        "title": "MC denuncia bloqueo de recursos para el DIF Nuevo León",
+        "summary": "Movimiento Ciudadano acusa a Daniel Carrillo de bloquear fondos destinados al DIF estatal.",
+        "zona": "Nuevo León",
+        "source": "La Política Online (NL)",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/mc-denuncia-a-daniel-carrillo-por-bloqueo-de-recursos-para-el-dif-nl-5132/",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
+      },
+      {
+        "title": "Andrés Mijes presenta informe de gobierno en Escobedo",
+        "summary": "Presidente municipal de Escobedo presenta quinto informe de gestión sin resentimientos hacia administraciones anteriores.",
         "zona": "Área metropolitana",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/09/29/andres-mijes-destaca-inversion-seguridad-y-obra-publica-durante-cinco-anos-de-gobierno-en-escobedo/",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
-      },
-      {
-        "title": "MC busca definición de Sheinbaum sobre candidatura en NL",
-        "summary": "Movimiento Ciudadano espera pronunciamiento de presidenta sobre propuesta de Morena. Insisten en candidatura de Mariana.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/en-mc-esperan-la-definicion-de-sheinbaum-sobre-la-candidatura-de-morena-en-nl-e-insisten-con-mariana/",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
-      },
-      {
-        "title": "Acusan a alcalde de San Nicolás de bloquear recursos para DIF",
-        "summary": "MC denuncia que autoridad municipal congela fondos destinados a Desarrollo Integral de la Familia. Exigen desbloqueo.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/acusa-mc-a-alcalde-de-san-nicolas-de-bloquear-recursos-para-dif/7146420586",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
-      },
-      {
-        "title": "Daniel Carrillo acusado de frenar 5 millones para DIF NL",
-        "summary": "Diputados cuestionan bloqueo de recursos en Cámara. Fondos destinados al Centro DIF Mujeres Ilustres quedan sin asignación.",
-        "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/29/acusan-a-daniel-carrillo-en-camara-de-diputados-por-frenar-5-millones-para-dif-nl-290987.html",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
-      },
-      {
-        "title": "Samuel García llama a ser primer lugar en seguridad jurídica",
-        "summary": "El gobernador invitó a Nuevo León a consolidarse como líder estatal en seguridad jurídica y protección legal.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/nl-sea-primer-lugar-en-seguridad-juridica",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Estado transfiere 118.9 mdp de fondos federales a municipios",
-        "summary": "Gobierno de Nuevo León distribuyó 118.9 millones de pesos en recursos federales entre los municipios del estado.",
-        "zona": "Nuevo León",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/estado-transfiere-118-mdp-feief-municipios-nuevo-leon",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+        "url": "https://www.milenio.com/politica/andres-mijes-presenta-quinto-informe-gobierno-escobedo-nl",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       },
       {
-        "title": "PAN denuncia guerra sucia contra alianza con PRI",
-        "summary": "El PAN protestó por lo que considera ataques coordinados contra su alianza electoral con el PRI en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/denuncia-pan-guerra-sucia-por-ataques-a-la-alianza-con-el-pri/1029938",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Herrera critica a De la Garza: debe pedir licencia",
-        "summary": "El dirigente panista señaló que De la Garza debe solicitar licencia si sus intereses políticos están en otro estado.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/herrera-cruza-a-de-la-garza-debe-pedir-licencia-si-sus-intereses-estan-en-otro-lado-9900/",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Lozano comparece en Congreso sobre Impuesto Verde",
-        "summary": "El secretario de Hacienda enfrentó cuestionamientos del PAN respecto a la política fiscal ambiental del estado.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/lozano-comparece-en-el-congreso-nl-el-pan-lo-cruza-por-el-impuesto-verde-y-el-pri-se-mesura-8672/",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Clara Luz Flores designada coordinadora de Morena en Nuevo León",
-        "summary": "Morena formaliza el nombramiento de Clara Luz Flores como coordinadora estatal para la elección de 2027.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/es-clara-luz-flores-coordinadora-de-la-defensa-en-nuevo-leon/1029708",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
-      },
-      {
-        "title": "Clara Luz descarta acuerdos con otros partidos políticos",
-        "summary": "Clara Luz Flores niega haber realizado acuerdos con otras fuerzas políticas en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/clara-luz-flores-entrevista-milenio-television",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
-      },
-      {
-        "title": "PT se deslinda de nombramientos de Morena en Nuevo León",
-        "summary": "El Partido del Trabajo se distancia de la designación de Clara Luz Flores realizada por Morena.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/tras-el-destape-de-clara-luz-en-nl-el-pt-se-deslinda-de-los-nombramientos-de-morena-386/",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
-      },
-      {
-        "title": "Aspirantes de Morena en NL aceptan triunfo de Clara Luz",
-        "summary": "Los aspirantes internos de Morena reconocen el resultado de Clara Luz Flores como coordinadora estatal.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/aspirantes-de-morena-aceptan-triunfo-de-clara-luz-flores",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
-      },
-      {
-        "title": "INE realizará conteo rápido en elección a gubernatura 2027",
-        "summary": "El Instituto Nacional Electoral llevará a cabo un conteo rápido durante la elección estatal de Nuevo León.",
-        "zona": "Nuevo León",
+        "title": "Farah dedica informe a Mauricio y destaca obras y seguridad",
+        "summary": "Presidente municipal de Monterrey dedica su informe de gestión a Mauricio León y subraya avances en infraestructura y seguridad.",
+        "zona": "Monterrey",
         "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/ine-hara-en-2027-conteo-rapido-en-eleccion-a-gubernatura-en-nl/2993681415",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
+        "url": "https://www.elhorizonte.mx/nuevoleon/farah-dedica-informe-a-mauricio-y-destaca-obras-y-seguridad/9553941876",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
+      },
+      {
+        "title": "SICT planea correcciones en carretera 57 Los Chorros",
+        "summary": "Secretaría de Infraestructura presenta plan para reparar tramo Los Chorros de la carretera 57, en espera de aval ambiental.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/sict-plan-corregir-tramo-los-chorros-carretera-57-espera-aval-semarnat",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       }
     ],
     "economia": [
       {
-        "title": "Gobierno NL entrega 118.9 mdp en recursos federales",
-        "summary": "Administración estatal distribuye fondos federales. Recursos enfocados en desarrollo y servicios públicos.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/gobierno-de-nuevo-leon-entrega-118-9-mdp-recursos-federales",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
-      },
-      {
-        "title": "García invierte 2 mil millones en obra pública en segundo informe",
-        "summary": "Alcalde de Guadalupe destaca inversión histórica en infraestructura. Enfatiza impacto en desarrollo municipal.",
+        "title": "Juárez atrae 430 millones en inversión extranjera directa",
+        "summary": "Municipio de Juárez reporta cifra récord de inversiones internacionales acompañada de mejoras en indicadores de seguridad.",
         "zona": "Área metropolitana",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/09/29/segundo-informe-de-cesar-garza-arredondo-destaca-inversion-historica-de-2-mil-millones-de-pesos-en-obra-publica/",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
-      },
-      {
-        "title": "AutoZone abre su tienda mil en México",
-        "summary": "La cadena de autopartes AutoZone alcanzó mil sucursales en el país, ampliando su red de distribución.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/negocios/autozone-llega-mil-tiendas-mexico-amplia-red-logistica",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Coparmex pide agilizar devolución de impuestos al SAT",
-        "summary": "La cámara empresarial solicitó que el SAT acelere los trámites de devolución de impuestos a contribuyentes.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/economia/coparmex-nuevo-leon-pide-sat-agilizar-devoluciones-impuestos",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Reestructura de transporte reduce apenas 9 minutos en recorridos",
-        "summary": "Tras dos años de cambios en rutas urbanas, los tiempos de traslado bajaron solo 9 minutos en promedio.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/tiempos-de-traslado-en-rutas-urbanas-bajan-9-minutos-en-dos-anos-en-nl",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/presenta-monica-oyervides-mejoras-de-seguridad-en-juarez/3360748616",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       }
     ],
     "eventos": [
       {
-        "title": "Festival Santa Lucía reunirá 900 artistas de 15 países",
-        "summary": "Evento cultural ampliará presencia con espacios en Parque del Agua. Homenaje a Juan Gabriel entre atracciones principales.",
+        "title": "Festival Xantoluz 2026 reprograma apertura en Monterrey",
+        "summary": "Se pospone la inauguración del festival Xantoluz en parque España de Monterrey.",
         "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/festival-santa-lucia-reunira-a-900-artistas-de-15-paises/6767193177",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/monterrey-reprograman-apertura-de-xantoluz-en-parque-espana",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       },
       {
-        "title": "Karol G se presentará en Estadio BBVA",
-        "summary": "La cantante colombiana Karol G actuará en el Estadio BBVA de Monterrey antes del partido de la Selección Mexicana.",
+        "title": "Súper Copa Roshfrans ofrece fecha llena de adrenalina",
+        "summary": "Octava fecha de Súper Copa promete competencia intensa en el autódromo de Monterrey.",
         "zona": "Monterrey",
-        "source": "Informe Regio",
-        "url": "https://informeregio.com/el-estadio-bbva-recibira-a-karol-g-antes-de-la-seleccion-mexicana/",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Natanael Cano reprograma concierto por lluvias",
-        "summary": "El cantante regional mexicano Natanael Cano cambió la fecha de su show en Monterrey debido al pronóstico de lluvia.",
-        "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/show/2026/9/29/natanael-cano-reprograma-concierto-en-monterrey-por-lluvias-cuando-sera-290923.html",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/deportes/motor/autodromo-de-monterrey-alberagra-octava-fecha-de-super-copa",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Poder Judicial aprueba protocolo para justicia inclusiva con autistas",
-        "summary": "Sistema judicial implementa medidas para garantizar acceso igualitario a personas neurodivergentes. Enfoque en inclusión.",
+        "title": "Nueva ley protege mascotas en Nuevo León prohibiendo intemperie",
+        "summary": "Reforma legal establece prohibición de mantener mascotas en azoteas, patios o expuestas al clima, con sanciones por abandono.",
         "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/tamaulipas/poder-judicial-aprueba-protocolo-autistas-y-neurodivergentes",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/mexico/nueva-ley-bienestar-animal-establece-obligaciones-para-duenos-de-mascotas/vl2260728",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       },
       {
-        "title": "Rescatan perrito con cadena incrustada en Santa Catarina",
-        "summary": "Alcalde Jesús Nava interviene en caso de maltrato animal. Investiga responsabilidades y denuncia correspondiente.",
-        "zona": "Área metropolitana",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/29/rescatan-en-santa-catarina-a-perrito-con-cadena-incrustada-en-el-cuello-290989.html",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
-      },
-      {
-        "title": "Ejidatarios de El Alto exigen pago por terrenos de presa",
-        "summary": "Comunidad reclama compensación por tierras para proyecto de Presa Libertad. Aile Tamez respalda demanda.",
+        "title": "Expansión urbana acerca osos a calles de Nuevo León",
+        "summary": "Crecimiento de zonas habitacionales reduce espacios de fauna silvestre, provocando encuentros frecuentes con osos en áreas urbanas.",
         "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/09/29/aile-tamez-respalda-a-ejidatarios-de-el-alto-exigen-pago-por-terrenos-para-presa-libertad/",
-        "_added_at": "2026-09-29T18:02:00.478656-06:00"
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/osos-en-las-calles-de-nuevo-leon-la-expansion-urbana-que-acerca-a-la-fauna-a-las-casas-/v-vl2260700",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       },
       {
-        "title": "Monterrey, Guadalupe y San Nicolás pierden 48 mil habitantes",
-        "summary": "Entre 2020 y 2025, estas tres ciudades del área metropolitana registraron pérdida neta de población.",
-        "zona": "Área metropolitana",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/9/29/mientras-nuevo-leon-crece-monterrey-guadalupe-y-san-nicolas-pierden-habitantes-290938.html",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "San Pedro fortalece estrategia de movilidad urbana",
-        "summary": "El municipio de San Pedro Garza García avanzó en planes para mejorar la movilidad y transporte en la zona.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/fortalece-san-pedro-su-estrategia-de-movilidad/1029943",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Guadalupe realiza mega jornada de descacharrización",
-        "summary": "El municipio de Guadalupe ejecutó una jornada masiva para retirar desechos y prevenir criaderos de mosquitos.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/realiza-guadalupe-mega-jornada-de-descacharrizacion/1029944",
-        "_added_at": "2026-09-29T13:45:26.178460-06:00"
-      },
-      {
-        "title": "Oso ingresa a casa y causa destrozos en Bosques del Ángel",
-        "summary": "Un oso silvestre penetró una vivienda en San Pedro causando daños materiales significativos.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/bosques-angel-san-pedro-oso-ingresa-casa-causa-destrozos",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
-      },
-      {
-        "title": "Ramas bloquean banqueta desde hace tres meses en Monterrey",
-        "summary": "Debris de ramas obstruye la banqueta en un área de Monterrey sin que se hayan realizados trabajos de limpieza.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/ramas-bloquean-banqueta-desde-hace-tres-meses-en-monterrey/2921111289",
-        "_added_at": "2026-09-29T01:20:03.309487-06:00"
+        "title": "Obras inconclusas afectan calles de Montemorelos y Terán",
+        "summary": "Proyectos de infraestructura sin terminar generan problemas de tránsito y servicios en municipios de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/obras-inconlusas-afectan-calles-montemorelos-y-general-teran",
+        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       }
     ]
   },
-  "last_updated": "2026-09-29T18:02:00.478656-06:00"
+  "last_updated": "2026-09-30T01:10:16.602356-06:00"
 }
