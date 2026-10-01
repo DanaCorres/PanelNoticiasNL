@@ -1,8 +1,48 @@
 {
   "date": "2026-09-30",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Motociclista fallece al caer en zanja en Nuevo León",
+        "summary": "Hombre pierde la vida tras accidente vial cuando su vehículo cae a una zanja en la entidad.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/muere-motociclista-al-caer-con-su-vehiculo-en-una-zanja/1029992",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
+      {
+        "title": "Dos ejecutados en carretera rumbo a Galeana",
+        "summary": "Hallan dos hombres baleados en vía hacia Galeana. Una víctima fue identificada; investigan asesinato.",
+        "zona": "Nuevo León",
+        "source": "Info7",
+        "url": "https://info7.mx/nuevoleon/matan-a-dos-a-balazos-en-carretera-rumbo-a-galeana/1024940762",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
+      {
+        "title": "Investigan intoxicación con droga en secundaria",
+        "summary": "Fiscalía abre investigación por presunta venta de cristal a estudiante de escuela en Monterrey.",
+        "zona": "Monterrey",
+        "source": "Telediario",
+        "url": "https://www.telediario.mx/policia/fiscalia-investiga-cristal-llevado-secundaria-de-monterrey",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
+      {
+        "title": "Aseguran arma y droga en operativo en García",
+        "summary": "Autoridades realizan cateo y aseguran presunta droga y armamento en municipio de García.",
+        "zona": "Área metropolitana",
+        "source": "Info7",
+        "url": "https://info7.mx/nuevoleon/aseguran-arma-y-presunta-droga-durante-operativo-en-garcia/8756783045",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
+      {
+        "title": "Monterrey denunciante acusa revictimización en colegio militar",
+        "summary": "Alumna que reportó hostigamiento sexual dice sufrir revictimización por institución educativa privada.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/hostigamiento-sexual-cedhnl",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
       {
         "title": "Familia asesinada en Montemorelos; investigan homicidio múltiple",
         "summary": "Hallaron sin vida a cinco integrantes de una familia en distintos lugares de Montemorelos. Fiscalía investiga el caso como homicidio múltiple.",
@@ -82,17 +122,49 @@
         "source": "Posta",
         "url": "https://www.posta.com.mx/nuevo-leon/juarez-reduce-homicidios-80-y-atrae-mas-de-430-millones-de-dolares-en-inversiones-monica-oyervides-/v-vl2260704",
         "_added_at": "2026-09-30T01:10:16.602356-06:00"
-      },
-      {
-        "title": "Investigan intoxicación de alumna con droga en Montemorelos",
-        "summary": "Autoridades investigan caso de estudiante intoxicada con sustancia en Montemorelos.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/montemorelos-nl-investigan-intoxicacion-de-alumna-con-gomita-de-droga",
-        "_added_at": "2026-09-30T01:10:16.602356-06:00"
       }
     ],
     "politica": [
+      {
+        "title": "MC critica rezagos de seguridad y ataca a De la Garza",
+        "summary": "Movimiento Ciudadano señala insuficiencia en políticas de seguridad y cuestiona gestión de funcionarios estatales.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/mc-arremeter-contra-de-la-garza-y-senala-rezagos-en-seguridad-en-monterrey-6521/",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
+      {
+        "title": "PAN respaldará a De la Garza en su segundo informe",
+        "summary": "Fox y Calderón confirman asistencia a presentación de informes de funcionario panista en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/fuerte-respaldo-del-pan-a-de-la-garza-fox-y-calderon-estaran-en-su-informe-5344/",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
+      {
+        "title": "Oyervides presenta segundo informe de gobierno",
+        "summary": "Funcionaria rinde informe de gestión ante público y autoridades locales.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/monica-oyervides-presenta-segundo-informe-de-gobierno-9538/",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
+      {
+        "title": "TEPJF ordena al INE incluir partidos en comisión contra narcocandidatos",
+        "summary": "Tribunal electoral revierte exclusión de fuerzas políticas en instancia de combate a candidatos ligados al crimen.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/09/30/tepjf-ordena-al-ine-incluir-a-partidos-en-comision-contra-narcocandidatos-tras-excluirlos/",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
+      {
+        "title": "Nuevo León tendrá 4.8 millones de electores en 2027",
+        "summary": "INE actualiza padrón electoral para próximas elecciones en la entidad con cifra de inscritos confirmada.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/9/30/elecciones-2027-nuevo-leon-tendra-48-millones-de-electores-en-lista-nominal-291112.html",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
       {
         "title": "Mauricio Farah presenta segundo informe en San Pedro Garza García",
         "summary": "El presidente municipal de San Pedro Garza García rindió su segundo informe de gobierno destacando seguridad e inversiones.",
@@ -160,6 +232,22 @@
     ],
     "economia": [
       {
+        "title": "Samuel García impulsa proyecto como nodo logístico fronterizo",
+        "summary": "Gobernador presenta iniciativas para convertir a Nuevo León en hub de comercio y conectividad con EUA.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/samuel-garcia-presenta-proyectos-para-el-puerto-colombia-laredo/vl2261113",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
+      {
+        "title": "Agua y Drenaje lleva servicios a ejido en Pesquería",
+        "summary": "Empresa estatal amplía cobertura de agua potable hacia zona rural de municipio conurbado.",
+        "zona": "Área metropolitana",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/agua-y-drenaje-lleva-agua-al-ejido-la-providencia-en-pesqueria-9245/",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
+      {
         "title": "Mijes presume inversiones por 85 mil mdp en cinco años",
         "summary": "La secretaría destaca un programa de inversiones que alcanza 85 mil millones de pesos en su gestión quinquenal.",
         "zona": "Nuevo León",
@@ -193,6 +281,22 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Clásico Estudiantil Monterrey atento a condiciones climáticas",
+        "summary": "Enfrentamiento entre Auténticos y Borregos se prepara considerando pronóstico de lluvia para la región.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/deportes/clasico-estudiantil-al-pendiente-de-condiciones-climaticas",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
+      {
+        "title": "INE Nuevo León instala Consejo Local de Elecciones",
+        "summary": "Órgano electoral inicia funciones e alertan sobre posibles riesgos de inteligencia artificial en procesos.",
+        "zona": "Nuevo León",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/comunidad/ine-instala-consejo-local-nuevo-leon-elecciones-2027",
+        "_added_at": "2026-09-30T18:19:35.226454-06:00"
+      },
       {
         "title": "Congreso de NL analiza regulación de scooters y micromovilidad",
         "summary": "El Congreso inició proceso legislativo para regular el uso de patinetes eléctricos y vehículos de micromovilidad en la entidad.",
@@ -285,5 +389,5 @@
       }
     ]
   },
-  "last_updated": "2026-09-30T13:46:41.348514-06:00"
+  "last_updated": "2026-09-30T18:19:35.226454-06:00"
 }
