@@ -1,8 +1,40 @@
 {
   "date": "2026-10-01",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscalía confirma multihomicidio en Montemorelos",
+        "summary": "Madre asesinó a sus tres hijos y pareja en Montemorelos, luego se quitó la vida. Fiscal confirma detalles de la tragedia familiar.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/10/1/discusion-derivo-multihomicidio-de-familia-en-montemorelos-fiscalia-291181.html",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "Banda de robacasas desmantelada en área metropolitana",
+        "summary": "Operativo estatal desactiva banda dedicada a robos violentos en viviendas de San Pedro y Cumbres.",
+        "zona": "Área metropolitana",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/video-cae-banda-acusada-de-robos-violentos-en-viviendas-de-san-pedro-y-cumbres-tras-operativo-estatal-/v-vl2261476",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "Restos humanos hallados en Escobedo",
+        "summary": "Descubren supuestos restos humanos en domicilio de Escobedo durante investigación.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/encuentran-supuestos-restos-humanos-en-escobedo/1030552",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "NL aspira a ser líder en seguridad del país",
+        "summary": "Autoridades trazan estrategia para posicionar a Nuevo León como referente de seguridad en México.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/aspira-nuevo-leon-a-ser-lider-en-seguridad-en-mexico/8361513403",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
       {
         "title": "Encuentran a familia sin vida en Montemorelos",
         "summary": "Autoridades investigan multihomicidio tras hallazgo de una familia sin vida en Montemorelos, Nuevo León.",
@@ -37,6 +69,62 @@
       }
     ],
     "politica": [
+      {
+        "title": "Mario Soto abandona Morena y se suma a Movimiento Ciudadano",
+        "summary": "Legislador renuncia a bancada morenista e ingresa a MC, analizando posible regreso al Congreso estatal.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/cruje-morena-nl-mario-soto-abandona-la-bancada-y-mijes-aparecio-en-el-informe-de-de-la-garza-6253/",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "De la Garza envía mensaje de unidad en Informe",
+        "summary": "Gobernador busca conciliación con empresarios y acercamiento a gobierno federal en su informe anual.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/de-la-garza-envio-un-mensaje-de-unidad-fuerte-respaldo-empresarial-y-guino-a-la-4t/",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "Disputa interna en Morena por candidatura a coordinación",
+        "summary": "Designación de Clara Luz agita facciones internas; Partido Verde advierte con candidatura propia para 2027.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/con-clara-como-coordinadora-en-morena-nl-se-elevan-las-dudas-por-competir-en-el-2027-7057/",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "INE inicia proceso electoral federal 2026-2027",
+        "summary": "Instituto Nacional Electoral abre convocatoria para elecciones federales en el estado.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/inicia-ine-proceso-electoral-federal-2026-2027/1030446",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "INFONL pide presupuesto 2027 ante amenaza de desaparición",
+        "summary": "Instituto de Información prepara solicitud presupuestaria mientras Morena mantiene propuesta para desaparecer organismo.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/infonl-perfila-pedir-presupuesto-2027-morena-busca-desaparecerlo",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "Samuel García inicia gira en Nueva York",
+        "summary": "Gobernador promueve inversiones en Nuevo León durante gira de trabajo en Nueva York.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/samuel-garcia-gira-nueva-york-inversiones-nuevo-leon",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "IEE aprueba lineamientos de paridad de género electoral",
+        "summary": "Institución Electoral aprueba normas para garantizar igualdad de género en contiendas electorales.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/aprueba-iee-lineamientos-para-garantizar-paridad-de-genero/1030442",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
       {
         "title": "Adrián pide apoyo; PRI y PAN confirman alianza",
         "summary": "El gobernador Adrián de la Garza solicita respaldo político mientras PRI y PAN formalizan su coalición en Nuevo León.",
@@ -106,6 +194,22 @@
     ],
     "eventos": [
       {
+        "title": "NL lleva patrimonio artístico al Festival Cervantino",
+        "summary": "Nuevo León presentará su riqueza cultural en importante festival nacional de artes.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/vida-y-cultura/patrimonio-artistico-cervantino",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "Gobernador presenta Festival Internacional Santa Lucía",
+        "summary": "Autoridad presenta programación del festival internacional que celebra tradiciones locales.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/presenta-gobernador-programa-del-festival-internacional-santa-lucia/1030246",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
         "title": "Guadalupe impulsa ferias ambientales en escuelas",
         "summary": "El municipio de Guadalupe organiza ferias ambientales para promover educación ambiental en instituciones educativas.",
         "zona": "Área metropolitana",
@@ -116,6 +220,30 @@
     ],
     "sociedad": [
       {
+        "title": "Propone diputada proteger maestros ante acoso escolar",
+        "summary": "Legisladora presenta iniciativa para blindar a docentes contra agresiones y difamaciones de estudiantes.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/perla-villarreal-proteger-maestros",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "Guadalupe impulsa educación ambiental en escuelas",
+        "summary": "Municipio implementa nuevas Ferias Ambientales para conciencia ecológica en planteles educativos.",
+        "zona": "Área metropolitana",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/01/guadalupe-lleva-educacion-ambiental-a-escuelas-con-nuevas-ferias-ambientales/",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
+        "title": "Inician mesas de trabajo para regular movilidad compartida",
+        "summary": "Autoridades convocan mesas para regular scooters y bicicletas en espacios públicos.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/inician-mesas-de-trabajo-para-regular-los-scooters-y-bicicletas/1030445",
+        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+      },
+      {
         "title": "Activa NL protocolos ante primer frente frío",
         "summary": "Autoridades de Nuevo León activan protocolos y equipos de rescate como preparación ante la llegada del primer frente frío.",
         "zona": "Nuevo León",
@@ -125,5 +253,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-01T01:35:03.607067-06:00"
+  "last_updated": "2026-10-01T14:06:40.081039-06:00"
 }
