@@ -1,313 +1,72 @@
 {
-  "date": "2026-10-01",
-  "run_count": 3,
+  "date": "2026-10-02",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Foro de seguridad reúne a instituciones en Nuevo León",
-        "summary": "Cómo Vamos Nuevo León promueve diálogo entre Fiscalía, Seguridad y Poder Judicial para mejorar coordinación institucional.",
+        "title": "Investigan multihomicidio en Montemorelos por presunta responsabilidad de Cindy Tamez",
+        "summary": "La FGE investiga a Cindy Tamez como presunta autora de la muerte de sus tres hijos y su pareja en Montemorelos, Nuevo León.",
         "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/como-vamos-nuevo-leon-llevan-a-cabo-foro-para-mejorar-seguridad",
-        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/multihomicidio-en-montemorelos-que-paso-cindy-tamez-su-pareja-y-sus-tres-hijos/",
+        "_added_at": "2026-10-02T01:22:21.315752-06:00"
       },
       {
-        "title": "Fiscalía confirma multihomicidio en Montemorelos",
-        "summary": "Madre asesinó a sus tres hijos y pareja en Montemorelos, luego se quitó la vida. Fiscal confirma detalles de la tragedia familiar.",
+        "title": "Capturan a presunto implicado en robo a casa de influencer en Nuevo León",
+        "summary": "Detienen a otro sospechoso vinculado al robo a la vivienda de Karely Ruiz en el estado.",
         "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/seguridad/2026/10/1/discusion-derivo-multihomicidio-de-familia-en-montemorelos-fiscalia-291181.html",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/detienen-otro-presunto-implicado-robo-casa-influencer-karely-ruiz-en-nuevo-leon/",
+        "_added_at": "2026-10-02T01:22:21.315752-06:00"
       },
       {
-        "title": "Banda de robacasas desmantelada en área metropolitana",
-        "summary": "Operativo estatal desactiva banda dedicada a robos violentos en viviendas de San Pedro y Cumbres.",
-        "zona": "Área metropolitana",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/video-cae-banda-acusada-de-robos-violentos-en-viviendas-de-san-pedro-y-cumbres-tras-operativo-estatal-/v-vl2261476",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "Restos humanos hallados en Escobedo",
-        "summary": "Descubren supuestos restos humanos en domicilio de Escobedo durante investigación.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/encuentran-supuestos-restos-humanos-en-escobedo/1030552",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "NL aspira a ser líder en seguridad del país",
-        "summary": "Autoridades trazan estrategia para posicionar a Nuevo León como referente de seguridad en México.",
+        "title": "Detienen a menor que vendía droga fingiendo reparar autos",
+        "summary": "Capturan a un menor de edad que utilizaba reparaciones de vehículos como cobertura para distribuir narcóticos.",
         "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/aspira-nuevo-leon-a-ser-lider-en-seguridad-en-mexico/8361513403",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "Encuentran a familia sin vida en Montemorelos",
-        "summary": "Autoridades investigan multihomicidio tras hallazgo de una familia sin vida en Montemorelos, Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/investigan-multihomicidio-familiar-tras-hallazgo-en-montemorelos/1030293",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
-      },
-      {
-        "title": "Ejecutan a dos hombres en Galeana",
-        "summary": "Dos hombres fueron ejecutados en un domicilio de Galeana, Nuevo León, en aparente acto de violencia criminal.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/ejecutan-a-dos-hombres-en-domicilio-de-galeana/1030282",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
-      },
-      {
-        "title": "AEI detiene a prófugo de justicia estadounidense",
-        "summary": "Agentes estatales capturan a un sujeto buscado por autoridades de Estados Unidos en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/detiene-aei-a-profugo-de-la-justicia-estadounidense/1030428",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
-      },
-      {
-        "title": "Incendian quinta vinculada a Arnulfo Jr.",
-        "summary": "Autoridades investigan incendio intencional en una propiedad presuntamente relacionada con el delincuente Arnulfo Jr.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/incendian-quinta-vinculada-a-arnulfo-jr/1030426",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/cae-menor-para-vender-droga-fingia-reparar-auto/3033388618",
+        "_added_at": "2026-10-02T01:22:21.315752-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Mario Soto abandona Morena y se suma a Movimiento Ciudadano",
-        "summary": "Diputado de la 4T cambia de bancada hacia MC, debilitando a Morena en congreso estatal de Nuevo León.",
+        "title": "Verde en NL se deslinda de Clara Luz y evalúa apoyo a Waldo Fernández",
+        "summary": "El Partido Verde en Nuevo León se distancia de Clara Luz Flores y considera impulsar a Waldo Fernández como candidato.",
         "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/mario-soto-suma-movimiento-ciudadano-podria-regresar-congreso-nl",
-        "_added_at": "2026-10-01T18:27:10.208492-06:00"
-      },
-      {
-        "title": "Segundo Informe de De la Garza atrae oposición nacional",
-        "summary": "Gobernador presenta balance con respaldo empresarial y presencia de figuras de oposición en evento político.",
-        "zona": "Nuevo León",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/segundo-informe-de-adrian-de-la-garza-reune-a-figuras-nacionales-de-oposicion",
-        "_added_at": "2026-10-01T18:27:10.208492-06:00"
-      },
-      {
-        "title": "Fragmentación en Morena por movimientos en Movimiento Ciudadano",
-        "summary": "Diputados abandonan bancada de Morena hacia MC, generando conflictiva recomposición de fuerzas políticas estatales.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/diversos-movimientos-en-mc-fragmentan-la-4t-y-debilitan-a-morena-en-garcia-7967/",
-        "_added_at": "2026-10-01T18:27:10.208492-06:00"
-      },
-      {
-        "title": "Saralany Cavazos encabezará Tribunal Electoral de NL",
-        "summary": "Se designa nueva presidencia del Tribunal Electoral de Nuevo León con mandato hasta 2028.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/saralany-cavazos-encabezara-tribunal-electoral-de-nl-hasta-2028/9748370757",
-        "_added_at": "2026-10-01T18:27:10.208492-06:00"
-      },
-      {
-        "title": "Mario Soto abandona Morena y se suma a Movimiento Ciudadano",
-        "summary": "Legislador renuncia a bancada morenista e ingresa a MC, analizando posible regreso al Congreso estatal.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/cruje-morena-nl-mario-soto-abandona-la-bancada-y-mijes-aparecio-en-el-informe-de-de-la-garza-6253/",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "De la Garza envía mensaje de unidad en Informe",
-        "summary": "Gobernador busca conciliación con empresarios y acercamiento a gobierno federal en su informe anual.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/de-la-garza-envio-un-mensaje-de-unidad-fuerte-respaldo-empresarial-y-guino-a-la-4t/",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "Disputa interna en Morena por candidatura a coordinación",
-        "summary": "Designación de Clara Luz agita facciones internas; Partido Verde advierte con candidatura propia para 2027.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/con-clara-como-coordinadora-en-morena-nl-se-elevan-las-dudas-por-competir-en-el-2027-7057/",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "INE inicia proceso electoral federal 2026-2027",
-        "summary": "Instituto Nacional Electoral abre convocatoria para elecciones federales en el estado.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/inicia-ine-proceso-electoral-federal-2026-2027/1030446",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "INFONL pide presupuesto 2027 ante amenaza de desaparición",
-        "summary": "Instituto de Información prepara solicitud presupuestaria mientras Morena mantiene propuesta para desaparecer organismo.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/infonl-perfila-pedir-presupuesto-2027-morena-busca-desaparecerlo",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "Samuel García inicia gira en Nueva York",
-        "summary": "Gobernador promueve inversiones en Nuevo León durante gira de trabajo en Nueva York.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/samuel-garcia-gira-nueva-york-inversiones-nuevo-leon",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "IEE aprueba lineamientos de paridad de género electoral",
-        "summary": "Institución Electoral aprueba normas para garantizar igualdad de género en contiendas electorales.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/aprueba-iee-lineamientos-para-garantizar-paridad-de-genero/1030442",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "Adrián pide apoyo; PRI y PAN confirman alianza",
-        "summary": "El gobernador Adrián de la Garza solicita respaldo político mientras PRI y PAN formalizan su coalición en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/pide-adrian-apoyo-para-recuperar-nl-pri-y-pan-confirman-alianza/5140491460",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
-      },
-      {
-        "title": "Adrián destaca seguridad en Segundo Informe",
-        "summary": "El gobernador de Nuevo León presenta su segundo informe enfatizando avances en seguridad, movilidad y finanzas públicas.",
-        "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/adrian-de-la-garza-destaca-seguridad-movilidad-y-finanzas-durante-su-segundo-informe-de-gobierno-/v-vl2261256",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
-      },
-      {
-        "title": "Calderón, Fox y Anaya arropan a Adrián en informe",
-        "summary": "Expresidentes y líderes opositores asisten al Segundo Informe de Gobierno del gobernador Adrián de la Garza.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/arropan-calderon-fox-anaya-y-alito-a-adrian-en-su-informe/3687112035",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
-      },
-      {
-        "title": "Caballero destaca trabajo en Monterrey",
-        "summary": "La presidenta municipal de Monterrey resalta logros de su administración en la ciudad.",
-        "zona": "Monterrey",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/video-claudia-caballero-destaca-trabajo-de-la-administracion-municipal-en-monterrey/v-vl2261160",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
+        "source": "La Política Online (NL)",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-verde-en-nl-se-deslinda-de-clara-luz-y-no-descartan-impulsar-a-waldo-fernandez-6206/",
+        "_added_at": "2026-10-02T01:22:21.315752-06:00"
       }
     ],
     "economia": [
       {
-        "title": "Samuel García impulsa inversión en Nueva York",
-        "summary": "Gobernador promueve a Nuevo León como destino de inversión ante empresarios en Nueva York.",
+        "title": "Precios de canasta básica se mantienen estables en Nuevo León",
+        "summary": "Reportan que los productos de la canasta básica muestran precios sin variaciones significativas en la entidad.",
         "zona": "Nuevo León",
         "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/impulsa-samuel-en-nueva-york-inversion-para-nuevo-leon/8000101633",
-        "_added_at": "2026-10-01T18:27:10.208492-06:00"
-      },
-      {
-        "title": "Banorte y Caintra crean alianza de créditos para Pymes",
-        "summary": "Banco y cámara empresarial establecen convenio para agilizar créditos de hasta 8 millones a pequeñas empresas.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/economia/banorte-y-caintra-crean-alianza-para-agilizar-creditos-a-pymes",
-        "_added_at": "2026-10-01T18:27:10.208492-06:00"
-      },
-      {
-        "title": "Nuevo León destacado como mejor lugar para invertir",
-        "summary": "Gobernador resalta competitividad y oportunidades de Nuevo León en sector inversión y negocios.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/samuel-garcia-destaca-a-nl-como-el-mejor-lugar-para-invertir-en-al",
-        "_added_at": "2026-10-01T18:27:10.208492-06:00"
-      },
-      {
-        "title": "Monte de Piedad reanuda operaciones tras huelga",
-        "summary": "Nacional Monte de Piedad reabre sus puertas el 7 de octubre tras resolver conflicto laboral con acuerdo de salarios caídos.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nacional/monte-de-piedad-reanudara-operaciones-el-proximo-7-de-octubre/6998614716",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
+        "url": "https://www.elhorizonte.mx/nuevoleon/reportan-precios-estables-en-productos-de-la-canasta-basica/1032832662",
+        "_added_at": "2026-10-02T01:22:21.315752-06:00"
       }
     ],
-    "eventos": [
-      {
-        "title": "NL lleva patrimonio artístico al Festival Cervantino",
-        "summary": "Nuevo León presentará su riqueza cultural en importante festival nacional de artes.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/vida-y-cultura/patrimonio-artistico-cervantino",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "Gobernador presenta Festival Internacional Santa Lucía",
-        "summary": "Autoridad presenta programación del festival internacional que celebra tradiciones locales.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/presenta-gobernador-programa-del-festival-internacional-santa-lucia/1030246",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "Guadalupe impulsa ferias ambientales en escuelas",
-        "summary": "El municipio de Guadalupe organiza ferias ambientales para promover educación ambiental en instituciones educativas.",
-        "zona": "Área metropolitana",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/01/guadalupe-lleva-educacion-ambiental-a-escuelas-con-nuevas-ferias-ambientales/",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
-      }
-    ],
+    "eventos": [],
     "sociedad": [
       {
-        "title": "UANL autorizada para ensayo clínico con células CAR-T",
-        "summary": "Cofepris aprueba primer ensayo de terapia contra leucemia en hospital universitario de UANL.",
+        "title": "UANL suspende clases presenciales por fuertes lluvias",
+        "summary": "La Universidad Autónoma de Nuevo León cancela actividades presenciales el viernes por intensas precipitaciones.",
         "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/hospital-universitario-de-la-uanl-probara-terapia-car-t-contra-cancer",
-        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/uanl-anuncia-suspension-de-clases-presenciales-hoy-2-de-octubre-por-fuetes-lluvias-en-nuevo-leon/vl2261764",
+        "_added_at": "2026-10-02T01:22:21.315752-06:00"
       },
       {
-        "title": "Solicita gobernador extender Brigada de Testamentos Gratuitos",
-        "summary": "Samuel García pide ampliar programa de asesoría legal gratuita para trámites testamentarios en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/solicita-samuel-extender-brigada-de-testamentos-gratuitos/1030249",
-        "_added_at": "2026-10-01T18:27:10.208492-06:00"
-      },
-      {
-        "title": "Propone diputada proteger maestros ante acoso escolar",
-        "summary": "Legisladora presenta iniciativa para blindar a docentes contra agresiones y difamaciones de estudiantes.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/perla-villarreal-proteger-maestros",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "Guadalupe impulsa educación ambiental en escuelas",
-        "summary": "Municipio implementa nuevas Ferias Ambientales para conciencia ecológica en planteles educativos.",
-        "zona": "Área metropolitana",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/01/guadalupe-lleva-educacion-ambiental-a-escuelas-con-nuevas-ferias-ambientales/",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "Inician mesas de trabajo para regular movilidad compartida",
-        "summary": "Autoridades convocan mesas para regular scooters y bicicletas en espacios públicos.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/inician-mesas-de-trabajo-para-regular-los-scooters-y-bicicletas/1030445",
-        "_added_at": "2026-10-01T14:06:40.081039-06:00"
-      },
-      {
-        "title": "Activa NL protocolos ante primer frente frío",
-        "summary": "Autoridades de Nuevo León activan protocolos y equipos de rescate como preparación ante la llegada del primer frente frío.",
+        "title": "Rescatan a dos hombres atrapados por fuertes corrientes de agua",
+        "summary": "Protección Civil auxilia a dos personas que quedaron atrapadas por las intensas lluvias y corrientes en la zona.",
         "zona": "Nuevo León",
         "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/activa-nl-protocolos-y-equipos-de-rescate-ante-primer-frente-frio/7809672322",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
+        "url": "https://www.elhorizonte.mx/nuevoleon/rescatan-cuerpos-de-auxilio-a-dos-hombres-tras-fuertes-lluvias/v5332642359",
+        "_added_at": "2026-10-02T01:22:21.315752-06:00"
       }
     ]
   },
-  "last_updated": "2026-10-01T18:27:10.208492-06:00"
+  "last_updated": "2026-10-02T01:22:21.315752-06:00"
 }
