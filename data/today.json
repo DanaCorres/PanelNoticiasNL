@@ -1,8 +1,16 @@
 {
   "date": "2026-10-01",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Foro de seguridad reúne a instituciones en Nuevo León",
+        "summary": "Cómo Vamos Nuevo León promueve diálogo entre Fiscalía, Seguridad y Poder Judicial para mejorar coordinación institucional.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/como-vamos-nuevo-leon-llevan-a-cabo-foro-para-mejorar-seguridad",
+        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+      },
       {
         "title": "Fiscalía confirma multihomicidio en Montemorelos",
         "summary": "Madre asesinó a sus tres hijos y pareja en Montemorelos, luego se quitó la vida. Fiscal confirma detalles de la tragedia familiar.",
@@ -69,6 +77,38 @@
       }
     ],
     "politica": [
+      {
+        "title": "Mario Soto abandona Morena y se suma a Movimiento Ciudadano",
+        "summary": "Diputado de la 4T cambia de bancada hacia MC, debilitando a Morena en congreso estatal de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/mario-soto-suma-movimiento-ciudadano-podria-regresar-congreso-nl",
+        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+      },
+      {
+        "title": "Segundo Informe de De la Garza atrae oposición nacional",
+        "summary": "Gobernador presenta balance con respaldo empresarial y presencia de figuras de oposición en evento político.",
+        "zona": "Nuevo León",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/segundo-informe-de-adrian-de-la-garza-reune-a-figuras-nacionales-de-oposicion",
+        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+      },
+      {
+        "title": "Fragmentación en Morena por movimientos en Movimiento Ciudadano",
+        "summary": "Diputados abandonan bancada de Morena hacia MC, generando conflictiva recomposición de fuerzas políticas estatales.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/diversos-movimientos-en-mc-fragmentan-la-4t-y-debilitan-a-morena-en-garcia-7967/",
+        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+      },
+      {
+        "title": "Saralany Cavazos encabezará Tribunal Electoral de NL",
+        "summary": "Se designa nueva presidencia del Tribunal Electoral de Nuevo León con mandato hasta 2028.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/saralany-cavazos-encabezara-tribunal-electoral-de-nl-hasta-2028/9748370757",
+        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+      },
       {
         "title": "Mario Soto abandona Morena y se suma a Movimiento Ciudadano",
         "summary": "Legislador renuncia a bancada morenista e ingresa a MC, analizando posible regreso al Congreso estatal.",
@@ -156,33 +196,33 @@
         "source": "Posta",
         "url": "https://www.posta.com.mx/nuevo-leon/video-claudia-caballero-destaca-trabajo-de-la-administracion-municipal-en-monterrey/v-vl2261160",
         "_added_at": "2026-10-01T01:35:03.607067-06:00"
-      },
-      {
-        "title": "Segovia destaca seguridad en Informe de Monterrey",
-        "summary": "El presidente municipal Marcelo Segovia presenta logros en seguridad y movilidad durante su informe de gobierno.",
-        "zona": "Monterrey",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/marcelo-segovia-destaca-logros-en-movilidad-y-seguridad-en-informe-de-gobierno-de-monterrey/v-vl2261151",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
-      },
-      {
-        "title": "Instalan comisión para atender apagones en NL",
-        "summary": "Autoridades de Nuevo León crean comisión especial para investigar y resolver los recientes problemas de electricidad.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/instalan-comision-para-atender-apagones-en-nuevo-leon/2700502018",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
-      },
-      {
-        "title": "NL modernizará cruces y transporte hacia Texas",
-        "summary": "Nuevo León anuncia proyectos de infraestructura para modernizar pasos fronterizos y transporte hacia Estados Unidos.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/nuevo-leon-modernizara-cruces-y-transporte-hacia-texas/6632247066",
-        "_added_at": "2026-10-01T01:35:03.607067-06:00"
       }
     ],
     "economia": [
+      {
+        "title": "Samuel García impulsa inversión en Nueva York",
+        "summary": "Gobernador promueve a Nuevo León como destino de inversión ante empresarios en Nueva York.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/impulsa-samuel-en-nueva-york-inversion-para-nuevo-leon/8000101633",
+        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+      },
+      {
+        "title": "Banorte y Caintra crean alianza de créditos para Pymes",
+        "summary": "Banco y cámara empresarial establecen convenio para agilizar créditos de hasta 8 millones a pequeñas empresas.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/banorte-y-caintra-crean-alianza-para-agilizar-creditos-a-pymes",
+        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+      },
+      {
+        "title": "Nuevo León destacado como mejor lugar para invertir",
+        "summary": "Gobernador resalta competitividad y oportunidades de Nuevo León en sector inversión y negocios.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/samuel-garcia-destaca-a-nl-como-el-mejor-lugar-para-invertir-en-al",
+        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+      },
       {
         "title": "Monte de Piedad reanuda operaciones tras huelga",
         "summary": "Nacional Monte de Piedad reabre sus puertas el 7 de octubre tras resolver conflicto laboral con acuerdo de salarios caídos.",
@@ -220,6 +260,22 @@
     ],
     "sociedad": [
       {
+        "title": "UANL autorizada para ensayo clínico con células CAR-T",
+        "summary": "Cofepris aprueba primer ensayo de terapia contra leucemia en hospital universitario de UANL.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/hospital-universitario-de-la-uanl-probara-terapia-car-t-contra-cancer",
+        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+      },
+      {
+        "title": "Solicita gobernador extender Brigada de Testamentos Gratuitos",
+        "summary": "Samuel García pide ampliar programa de asesoría legal gratuita para trámites testamentarios en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/solicita-samuel-extender-brigada-de-testamentos-gratuitos/1030249",
+        "_added_at": "2026-10-01T18:27:10.208492-06:00"
+      },
+      {
         "title": "Propone diputada proteger maestros ante acoso escolar",
         "summary": "Legisladora presenta iniciativa para blindar a docentes contra agresiones y difamaciones de estudiantes.",
         "zona": "Nuevo León",
@@ -253,5 +309,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-01T14:06:40.081039-06:00"
+  "last_updated": "2026-10-01T18:27:10.208492-06:00"
 }
