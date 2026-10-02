@@ -1,8 +1,56 @@
 {
   "date": "2026-10-02",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Investigación por multihomicidio en Montemorelos avanza con pruebas",
+        "summary": "Fiscalía confirma que arma asegurada fue utilizada en el caso de familia asesinada. Adolescente de 14 años logró sobrevivir escondiéndose durante el ataque.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/confirman-arma-asegurada-se-uso-en-multihomicidio/1030847",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
+        "title": "Autoridades lanzan plan de prevención tras disparos en homicidios",
+        "summary": "Gobierno estatal reforzará acciones de prevención y salud mental tras incremento en casos de violencia homicida en la entidad.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/nl-va-reforzar-acciones-prevencion-salud-mental-homicidios-fuero-comun",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
+        "title": "Detienen a sicarios del Cártel del Noreste con arsenal pesado",
+        "summary": "Capturan integrantes del CDN con fusiles, explosivos y armas de uso exclusivo del Ejército en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/fotos-cae-en-hidalgo-nuevo-leon-sicarios-del-cdn-arsenal-del-ejercito-y-fusil",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
+        "title": "Cateos en Monterrey resultan en múltiples detenciones y aseguramientos",
+        "summary": "Operativos en colonias de Monterrey derivan en captura de siete personas con decomiso de armas y droga.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/capturan-a-siete-decomisan-armas-y-droga-tras-cateos/1030846",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
+        "title": "Reportera y camarógrafo atropellados en avenida Morones Prieto",
+        "summary": "Vehículo arrolló a dos periodistas en Monterrey. Se reporta que ambos fueron trasladados a atención médica.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/10/2/camioneta-atropella-a-reportera-y-camarografo-en-avenida-morones-prieto-291250.html",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
+        "title": "Capturan a implicados en robo a casa de influencer Karely Ruiz",
+        "summary": "Detienen a presuntos participantes en asalto ocurrido en julio en San Nicolás. Fiscalía continúa buscando a otros involucrados.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/detienen-a-otro-implicado-en-robo-a-casa-de-karely-ruiz/1553362017",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
       {
         "title": "Investigan multihomicidio en Montemorelos por presunta responsabilidad de Cindy Tamez",
         "summary": "La FGE investiga a Cindy Tamez como presunta autora de la muerte de sus tres hijos y su pareja en Montemorelos, Nuevo León.",
@@ -30,6 +78,30 @@
     ],
     "politica": [
       {
+        "title": "Samuel García anuncia 600 mdd en nuevas inversiones para Nuevo León",
+        "summary": "Gobernador declara que estado recibirá capital para naves industriales y centros de datos, reforzando economía estatal.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/nuevo-leon-recibira-600-mdd-nuevas-inversiones-samuel-garcia",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
+        "title": "Movimiento Ciudadano suma nuevo diputado en Nuevo León",
+        "summary": "Partido naranja incrementa su presencia en el Congreso estatal con incorporación de legislador.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/suma-movimiento-ciudadano-a-un-nuevo-diputado/1030820",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
+        "title": "Secretaría de Educación va contra escuelas militarizadas irregulares",
+        "summary": "SET actúa contra instituciones que operan sin autorización y con estructura militar no permitida.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/resultado?query=SET+va+contra+escuelas%C2%A0militarizadas+irregulares&select=todas",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
         "title": "Verde en NL se deslinda de Clara Luz y evalúa apoyo a Waldo Fernández",
         "summary": "El Partido Verde en Nuevo León se distancia de Clara Luz Flores y considera impulsar a Waldo Fernández como candidato.",
         "zona": "Nuevo León",
@@ -40,6 +112,22 @@
     ],
     "economia": [
       {
+        "title": "LatinInfance reconoce a Gobierno NL por Hospital Infantil",
+        "summary": "Organismo internacional felicita construcción de infraestructura sanitaria de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/latininfance-reconoce-a-gobierno-nl-por-la-construccion-del-hospital-infantil-9795/",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
+        "title": "Nuevo León lidera exportaciones en México, apunta a seguridad hídrica",
+        "summary": "Estado es motor económico nacional. Expo PyME subraya importancia de agua para futuras sequías y crecimiento industrial.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/expo-pyme-nuevo-leon-primer-lugar-en-exportaciones-y-seguridad-hidrica-futuras-sequias/",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
         "title": "Precios de canasta básica se mantienen estables en Nuevo León",
         "summary": "Reportan que los productos de la canasta básica muestran precios sin variaciones significativas en la entidad.",
         "zona": "Nuevo León",
@@ -48,8 +136,49 @@
         "_added_at": "2026-10-02T01:22:21.315752-06:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "UANL inicia ciclo escolar con más de 220 mil estudiantes",
+        "summary": "Universidad Autónoma de Nuevo León abre puertas para nuevo semestre académico con matrícula masiva.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://www.info7.mx/resultado?query=Iniciar%C3%A1%20la%20UANL%20nuevo%20ciclo%20con%20m%C3%A1s%20de%20220%20mil%20estudiantes",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
+        "title": "Inaugura Guadalupe Expo Feria Ganadera 2026",
+        "summary": "Municipio abre evento para mostrar productos y actividades del sector pecuario regional.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/inauguran-la-expo-feria-ganadera-guadalupe-2026/1030818",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
+        "title": "San Nicolás lanza convocatoria de concurso Mita y Mita",
+        "summary": "Municipio abre inscripciones para participar en concurso cultural local.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/lanza-san-nicolas-convocatoria-de-concurso-mita-y-mita/1030814",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Crisis educativa en preescolar: solo 61% asistió en Nuevo León",
+        "summary": "Rezago crítico en inscripciones de kínder podría extenderse a primaria. Expertos alertan sobre impacto en desarrollo infantil.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/preescolar-en-nuevo-leon-solo-61-los-ninos-asistio-al-kinder-y-crece-rezago-educativo/",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
+      {
+        "title": "Jornada de salud por Semana Nacional del Corazón 2026",
+        "summary": "Autoridades realizan actividades de prevención y conciencia sobre salud cardiovascular en la entidad.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/tamaulipas/realizan-jornada-salud",
+        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+      },
       {
         "title": "UANL suspende clases presenciales por fuertes lluvias",
         "summary": "La Universidad Autónoma de Nuevo León cancela actividades presenciales el viernes por intensas precipitaciones.",
@@ -68,5 +197,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-02T01:22:21.315752-06:00"
+  "last_updated": "2026-10-02T13:43:26.176051-06:00"
 }
