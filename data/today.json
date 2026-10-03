@@ -1,8 +1,40 @@
 {
   "date": "2026-10-03",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Detienen a pasajero con 94 litros de cocaína en Aeropuerto",
+        "summary": "Hombre llegó desde Colombia con cocaína líquida oculta en botellas de suplemento vitamínico. Fue asegurado en el Aeropuerto Internacional de Monterrey.",
+        "zona": "Monterrey",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/03/pasajero-llega-de-colombia-a-monterrey-con-94-5-litros-de-cocaina-ocultos-en-botellas-de-suplemento-multivitamini/",
+        "_added_at": "2026-10-03T17:28:23.681638-06:00"
+      },
+      {
+        "title": "Aseguran seis kilos de marihuana en paquetería de Escobedo",
+        "summary": "Autoridades decomisaron droga en cajas dentro de empresa de mensajería. Operativo realizado en zona metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/10/3/aseguran-seis-kilos-de-presunta-marihuana-en-paqueteria-de-escobedo-291360.html",
+        "_added_at": "2026-10-03T17:28:23.681638-06:00"
+      },
+      {
+        "title": "Buscan a hombre por asesinato de expareja en Pesquería",
+        "summary": "Mujer fue atacada frente a sus hijos en acto de violencia. Autoridades persiguen al responsable por feminicidio.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/buscan-a-hombre-por-asesinato-de-su-expareja-en-pesqueria/1031301",
+        "_added_at": "2026-10-03T17:28:23.681638-06:00"
+      },
+      {
+        "title": "Vinculan a pareja por delitos sexuales contra adolescente",
+        "summary": "Dos individuos ligados a proceso por abuso sexual a menor de edad en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/nuevo-leon-vinculan-a-pareja-por-delitos-sexuales-contra-adolescente",
+        "_added_at": "2026-10-03T17:28:23.681638-06:00"
+      },
       {
         "title": "Cierra NL septiembre con 27 homicidios, el mejor en 20 años",
         "summary": "Nuevo León registró 27 homicidios dolosos en septiembre, la cifra más baja en dos décadas, mostrando mejora en indicadores de seguridad estatal.",
@@ -90,17 +122,25 @@
         "source": "Telediario Monterrey",
         "url": "https://www.telediario.mx/policia/monterrey-hallan-cuerpo-en-canalon-del-barrio-de-la-industria",
         "_added_at": "2026-10-03T00:55:14.082757-06:00"
-      },
-      {
-        "title": "Cierre de carril en Santa Anita por derrumbe de barda",
-        "summary": "Autoridades cierran paso vehicular tras colapso de estructura y socavón en zona de riesgo.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/cierran-carril-en-santa-anita-por-derrumbe-de-barda-y-socavon/2323399919",
-        "_added_at": "2026-10-03T00:55:14.082757-06:00"
       }
     ],
     "politica": [
+      {
+        "title": "PAN de San Pedro rinde homenaje a Mauricio Fernández",
+        "summary": "Celebración de exalcalde de San Pedro Garza García fallecido hace poco más de un año. Acto político de partido azul.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/san-pedro-nl-pan-rinde-homenaje-a-mauricio-fernandez",
+        "_added_at": "2026-10-03T17:28:23.681638-06:00"
+      },
+      {
+        "title": "Samuel obtiene 600 millones en inversión en Nueva York",
+        "summary": "Gobernador cierra giras de inversión con acuerdos financieros significativos para Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/logra-samuel-en-ny-600-mdd-en-inversion/1031178",
+        "_added_at": "2026-10-03T17:28:23.681638-06:00"
+      },
       {
         "title": "Renuncia diputada Brenda Velázquez a Morena y se une a MC",
         "summary": "Legisladora de Morena abandonó bancada para sumarse a Movimiento Ciudadano en el Congreso de Nuevo León.",
@@ -170,6 +210,22 @@
     ],
     "eventos": [
       {
+        "title": "Protección Civil suspende actividades ecoturísticas en Sierra de Santiago",
+        "summary": "Autoridades cierran temporalmente senderos por crecida de ríos y riesgo en cañones. Medida preventiva por lluvias.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/3/proteccion-civil-de-santiago-suspende-actividades-ecoturisticas-en-la-sierra-por-crecida-de-rios-y-c-291362.html",
+        "_added_at": "2026-10-03T17:28:23.681638-06:00"
+      },
+      {
+        "title": "DIF Monterrey impulsa acciones contra cáncer de mama",
+        "summary": "Institución promueve iniciativas de prevención y sensibilización sobre enfermedad oncológica.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/dif-monterrey-impulsa-acciones",
+        "_added_at": "2026-10-03T17:28:23.681638-06:00"
+      },
+      {
         "title": "Bronco pone a bailar a regios en concierto",
         "summary": "Agrupación norteña Bronco presentó show en Monterrey con artistas invitados y destacada concurrencia.",
         "zona": "Monterrey",
@@ -195,6 +251,22 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Muere joven tras caer de estación del Metro Universidad",
+        "summary": "Persona falleció en accidente en estación de San Nicolás. Autoridades investigan circunstancias del suceso.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/muere-joven-de-22-anos-tras-caer-del-metro-universidad/v6211191415",
+        "_added_at": "2026-10-03T17:28:23.681638-06:00"
+      },
+      {
+        "title": "Reeligen a magistrada presidenta del Tribunal Electoral",
+        "summary": "Titular del TEE reconfirmada en su cargo. Continuidad en administración electoral estatal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/reeligen-a-magistrada-presidenta-del-tee/1030811",
+        "_added_at": "2026-10-03T17:28:23.681638-06:00"
+      },
       {
         "title": "Deslave en Parque Lineal devora 100 metros en Monterrey",
         "summary": "Desprendimiento de tierra afectó sección importante del Parque Lineal junto a Río Santa Catarina, dejando área desprotegida.",
@@ -261,5 +333,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-03T12:29:53.219195-06:00"
+  "last_updated": "2026-10-03T17:28:23.681638-06:00"
 }
