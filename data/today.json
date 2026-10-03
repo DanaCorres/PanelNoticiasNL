@@ -1,8 +1,40 @@
 {
   "date": "2026-10-02",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Multihomicidio en Montemorelos: menor sobrevive y testifica",
+        "summary": "Adolescente de 14 años logró escapar durante ataque a su familia en Montemorelos. Arma asegurada previamente fue confirmada como usada en el crimen.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/10/2/adolescente-de-14-anos-sobrevivio-al-multihomicidio-de-montemorelos-logro-esconderse-durante-el-ataq-291261.html",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
+        "title": "Captura operativo en Nuevo León decomisa armas y drogas",
+        "summary": "Siete personas detenidas tras cateos realizados en la entidad con aseguramiento de arsenal y narcóticos.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/capturan-a-siete-decomisan-armas-y-droga-tras-cateos/1030846.html",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
+        "title": "Unidad de Inteligencia Financiera investiga cuentas de Amílcar Olán",
+        "summary": "Autoridades financieras inician investigación sobre movimientos de fondos de funcionario estatal.",
+        "zona": "Nuevo León",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/unidad-de-inteligencia-financiera-investiga-cuentas-de-amilcar-olan/",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
+        "title": "Nuevo León registra mejor septiembre en homicidios en 20 años",
+        "summary": "Entidad logra reducción del 80 por ciento en homicidios dolosos durante septiembre comparado con períodos anteriores.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/video-nuevo-leon-logra-el-mejor-septiembre-en-20-anos-en-homicidios-dolosos-con-80-por-ciento/v-vl2261944",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
       {
         "title": "Investigación por multihomicidio en Montemorelos avanza con pruebas",
         "summary": "Fiscalía confirma que arma asegurada fue utilizada en el caso de familia asesinada. Adolescente de 14 años logró sobrevivir escondiéndose durante el ataque.",
@@ -78,6 +110,46 @@
     ],
     "politica": [
       {
+        "title": "Movimiento Ciudadano se consolida como primera fuerza en Congreso de NL",
+        "summary": "MC suma 11 diputados con defección de Brenda Velázquez desde Morena, desplazando al partido mayoritario.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/mc-suma-11-diputados-y-se-convierte-primera-fuerza-congreso-nl",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
+        "title": "Hemorragia en Morena complica aritmética en Congreso estatal",
+        "summary": "Diputados abandonan bancada morenista, debilitando su posición legislativa y alterando equilibrio de poderes.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/continua-la-hemorragia-en-morena-nl-y-complica-su-aritmetica-en-el-congreso-1903/",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
+        "title": "Gobierno de Marina del Pilar bajo investigación por presunto lavado",
+        "summary": "Medios reportan indagaciones sobre supuesto lavado de dinero vinculado al Cártel de Sinaloa durante administración.",
+        "zona": "Nuevo León",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/el-gobierno-de-marina-del-pilar-lavo-dinero-al-cartel-de-sinaloa/",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
+        "title": "PRI-PAN analiza tensiones en Morena para mejorar posición en Escobedo",
+        "summary": "Alianza opositora busca capitalizar división interna de Morena en municipio del área metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-pri-pan-sondea-la-tension-de-morena-para-elevar-sus-chances-en-escobedo-4814/",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
+        "title": "Diputada Brenda Velázquez deja Morena y se suma a Movimiento Ciudadano",
+        "summary": "Legisladora estatal abandona bancada morenista y se integra a MC, fortaleciendo así al partido naranja.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/renuncia-brenda-velazquez-a-morena-congreso-nl-para-unirse-mc",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
         "title": "Samuel García anuncia 600 mdd en nuevas inversiones para Nuevo León",
         "summary": "Gobernador declara que estado recibirá capital para naves industriales y centros de datos, reforzando economía estatal.",
         "zona": "Nuevo León",
@@ -112,6 +184,22 @@
     ],
     "economia": [
       {
+        "title": "Nuevo León recibirá 600 millones de dólares en inversiones",
+        "summary": "Samuel García anuncia llegada de capital para naves industriales y data centers que ampliarán capacidad productiva.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/samuel-garcia-anuncia-nuevo-leon-tendra-inversion-600-millones-dolares",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
+        "title": "David Jiménez asume como CEO Global de Softtek",
+        "summary": "Ejecutivo regiomontano toma dirección general de empresa tras 15 años en corporativo; Blanca Treviño a Presidencia.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/2/asume-david-jimenez-como-ceo-global-de-softek-291306.html",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
         "title": "LatinInfance reconoce a Gobierno NL por Hospital Infantil",
         "summary": "Organismo internacional felicita construcción de infraestructura sanitaria de Nuevo León.",
         "zona": "Nuevo León",
@@ -138,6 +226,14 @@
     ],
     "eventos": [
       {
+        "title": "Arranca segunda edición de EMEFEST en Reynosa",
+        "summary": "Festival cultural comienza actividades en municipio norteño del estado.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/reynosa/arranca-segunda-edicion-emefest-reynosa",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
         "title": "UANL inicia ciclo escolar con más de 220 mil estudiantes",
         "summary": "Universidad Autónoma de Nuevo León abre puertas para nuevo semestre académico con matrícula masiva.",
         "zona": "Monterrey",
@@ -163,6 +259,22 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Shriners Children's ofrece atención pediátrica ortopédica gratuita en Monterrey",
+        "summary": "Institución especializada proporciona servicios médicos sin costo para menores con necesidades ortopédicas.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/2/shriners-childrens-transforma-y-da-esperanza-en-monterrey-291309.html",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
+      {
+        "title": "Marisol González propone reformas contra fraudes inmobiliarios en NL",
+        "summary": "Legisladora impulsa cambios normativos para proteger a consumidores de prácticas irregulares en sector vivienda.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/reformas-fraudes-inmobiliarios-nuevo-leon",
+        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+      },
       {
         "title": "Crisis educativa en preescolar: solo 61% asistió en Nuevo León",
         "summary": "Rezago crítico en inscripciones de kínder podría extenderse a primaria. Expertos alertan sobre impacto en desarrollo infantil.",
@@ -197,5 +309,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-02T13:43:26.176051-06:00"
+  "last_updated": "2026-10-02T18:06:24.873645-06:00"
 }
