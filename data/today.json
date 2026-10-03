@@ -1,8 +1,72 @@
 {
   "date": "2026-10-03",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cierra NL septiembre con 27 homicidios, el mejor en 20 años",
+        "summary": "Nuevo León registró 27 homicidios dolosos en septiembre, la cifra más baja en dos décadas, mostrando mejora en indicadores de seguridad estatal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/cierra-nl-septiembre-con-27-homicidios-dolosos-el-mejor-en-20-anos/1031179",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Tiroteo en bar de Zamora deja cinco personas muertas",
+        "summary": "Cinco personas fallecieron en ataque armado durante tiroteo en establecimiento nocturno de Monterrey, dejando heridos adicionales.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/mexico/tiroteo-en-bar-de-zamora-cinco-muertos-y-un-herido-tras-ataque-armado/vl2262299",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Detienen a influencer 'La Barbie de la Alianza' con armas y drogas",
+        "summary": "Autoridades capturaron a influencer en Monterrey portando armas y sustancias ilícitas, con presuntos vínculos a grupo delictivo.",
+        "zona": "Monterrey",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/influencer-la-barbie-la-alianza-fue-detenida-en-monterrey-armas-drogas-y-vinculos-grupo-delictivo/",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Asesinan a mujer frente a sus hijos en Pesquería",
+        "summary": "Mujer fue asesinada por su presunta expareja en Pesquería mientras estaban presentes sus menores hijos.",
+        "zona": "Nuevo León",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/policia/joven-asesinada-frente-hijos-pesqueria-nuevo-leon-presunta-ex-pareja",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Sobrevive adolescente al multihomicidio de Montemorelos",
+        "summary": "Un adolescente logró sobrevivir a masacre múltiple registrada en Montemorelos, Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/sobrevive-adolescente-al-multihomicidio-de-montemorelos/1031166",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Fiscalía asegura cuentas de inmobiliaria por fraude a compradores",
+        "summary": "Autoridades de Nuevo León decomisaron cuentas bancarias de empresa inmobiliaria acusada de defraudar a múltiples clientes.",
+        "zona": "Monterrey",
+        "source": "El Sol de México",
+        "url": "https://oem.com.mx/elsoldemexico/mexico/fiscalia-de-nuevo-leon-asegura-cuentas-bancarias-de-inmobiliaria-tras-fraude-a-compradores-31352430",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Hallan cuerpos en Huachinango ligados a desaparecidos de CFE",
+        "summary": "Descubrimiento de restos en Puebla apunta a trabajadores de CFE desaparecidos en junio, aunque identidad aún sin confirmar.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/mexico/hallazgo-en-huauchinango-apunta-a-los-trabajadores-de-cfe-desaparecidos-de-junio/vl2262333",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Sentencian a 50 años por ejecución en Monterrey",
+        "summary": "Dos hombres recibieron condena de cinco décadas por homicidio y robo en operación realizada en la capital regia.",
+        "zona": "Monterrey",
+        "source": "Telediario",
+        "url": "https://www.telediario.mx/policia/monterrey-dan-50-anos-de-carcel-a-dos-hombres-por-homicidio-y-robos",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
       {
         "title": "Capturan hombre tras 8 años prófugo por secuestro en NL",
         "summary": "Autoridades detienen a individuo buscado por secuestro agravado y muerte de joven en Ciénega de Flores tras casi una década de fuga.",
@@ -38,6 +102,30 @@
     ],
     "politica": [
       {
+        "title": "Renuncia diputada Brenda Velázquez a Morena y se une a MC",
+        "summary": "Legisladora de Morena abandonó bancada para sumarse a Movimiento Ciudadano en el Congreso de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/renuncia-a-morena-diputada-brenda-velazquez-y-se-une-a-mc/1031177",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Morena minimiza salidas de diputados de su bancada estatal",
+        "summary": "Partido Morena resta importancia a renuncias de legisladores en el Congreso de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Telediario",
+        "url": "https://www.telediario.mx/politica/morena-nuevo-leon-minimiza-renuncias-de-diputados-en-el-congreso",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Reeligen a magistrada presidenta del TEE de Nuevo León",
+        "summary": "Tribunal Electoral estatal reeligió a su magistrada presidenta para nuevo período constitucional.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/reeligen-a-magistrada-presidenta-del-tee/1030811",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
         "title": "Morena ve normal tensión con PVEM y PT en alianza de NL",
         "summary": "Clara Luz Flores minimiza diferencias dentro de la coalición de gobierno en Nuevo León y llama al diálogo.",
         "zona": "Nuevo León",
@@ -54,8 +142,49 @@
         "_added_at": "2026-10-03T00:55:14.082757-06:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Samuel obtiene 600 millones en inversión en Nueva York",
+        "summary": "Gobernador de Nuevo León asegura 600 millones de dólares en compromisos de inversión durante visita a Nueva York.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/logra-samuel-en-ny-600-mdd-en-inversion/1031178",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Fortalece NL actividad exportadora en segundo trimestre",
+        "summary": "Nuevo León registra crecimiento en volumen de exportaciones durante trimestre abril-junio del año.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/fortalece-nl-actividad-exportadora-durante-segundo-trimestre/1031186",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Monterrey y CFE acuerdan acciones para reducir apagones",
+        "summary": "Autoridades municipal y energética establecen medidas coordinadas para disminuir interrupciones de electricidad en la ciudad.",
+        "zona": "Monterrey",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/monterrey-y-cfe-acuerdan-acciones-para-reducir-apagones/",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "Bronco pone a bailar a regios en concierto",
+        "summary": "Agrupación norteña Bronco presentó show en Monterrey con artistas invitados y destacada concurrencia.",
+        "zona": "Monterrey",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/espectaculos/musica/bronco-concierto-monterrey-invitados-invasores-de-nuevo-leon",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Mariana Treviño, Belinda y Danna en 'Mentiras: All Stars'",
+        "summary": "Actrices y cantantes anunciaron presentación especial de obra teatral musical en Monterrey.",
+        "zona": "Monterrey",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/espectaculos/teatro/mariana-trevino-belinda-danna-mentiras-all-stars-monterrey-concierto",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
       {
         "title": "Acción Poética transforma bardas en expresión artística",
         "summary": "Movimiento cultural convierte muros de la ciudad en libro abierto con mensajes poéticos y reflexivos.",
@@ -66,6 +195,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Deslave en Parque Lineal devora 100 metros en Monterrey",
+        "summary": "Desprendimiento de tierra afectó sección importante del Parque Lineal junto a Río Santa Catarina, dejando área desprotegida.",
+        "zona": "Monterrey",
+        "source": "Telediario",
+        "url": "https://www.telediario.mx/comunidad/monterrey-nl-deslave-rio-santa-catarina-devora-100-mts-parque-lineal",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Difieren Estado y Monterrey sobre deslave de talud",
+        "summary": "Gobierno estatal y municipal tienen posiciones distintas respecto a responsabilidades en desprendimiento de tierra registrado.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/difieren-estado-y-monterrey-respecto-al-deslave-de-un-talud/1031194",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Presa La Boca roza el 90% de llenado tras lluvias",
+        "summary": "Embalse aumentó niveles significativamente tras paso de frente frío y precipitaciones intensas en la región.",
+        "zona": "Nuevo León",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/comunidad/nivel-presas-nuevo-leon-aumento-lluvias-primer-frente-frio-2026",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
+      {
+        "title": "Levantan dos toneladas de basura en pluviales de Monterrey",
+        "summary": "Autoridades retiraron grandes volúmenes de residuos acumulados en sistemas de drenaje de la capital regia.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/levantan-dos-toneladas-de-basura-en-pluviales-de-monterrey/1031180",
+        "_added_at": "2026-10-03T12:29:53.219195-06:00"
+      },
       {
         "title": "Tránsitos de Guadalupe facilitan paso a mujer en labor de parto",
         "summary": "Policía vial abre carril para permitir llegada rápida de gestante al hospital.",
@@ -100,5 +261,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-03T00:55:14.082757-06:00"
+  "last_updated": "2026-10-03T12:29:53.219195-06:00"
 }
