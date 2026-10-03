@@ -1,313 +1,104 @@
 {
-  "date": "2026-10-02",
-  "run_count": 3,
+  "date": "2026-10-03",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Multihomicidio en Montemorelos: menor sobrevive y testifica",
-        "summary": "Adolescente de 14 años logró escapar durante ataque a su familia en Montemorelos. Arma asegurada previamente fue confirmada como usada en el crimen.",
+        "title": "Capturan hombre tras 8 años prófugo por secuestro en NL",
+        "summary": "Autoridades detienen a individuo buscado por secuestro agravado y muerte de joven en Ciénega de Flores tras casi una década de fuga.",
         "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/seguridad/2026/10/2/adolescente-de-14-anos-sobrevivio-al-multihomicidio-de-montemorelos-logro-esconderse-durante-el-ataq-291261.html",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/cienega-de-flores-detienen-a-hombre-por-secuestro-tras-8-anos-profugo",
+        "_added_at": "2026-10-03T00:55:14.082757-06:00"
       },
       {
-        "title": "Captura operativo en Nuevo León decomisa armas y drogas",
-        "summary": "Siete personas detenidas tras cateos realizados en la entidad con aseguramiento de arsenal y narcóticos.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/capturan-a-siete-decomisan-armas-y-droga-tras-cateos/1030846.html",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
-      },
-      {
-        "title": "Unidad de Inteligencia Financiera investiga cuentas de Amílcar Olán",
-        "summary": "Autoridades financieras inician investigación sobre movimientos de fondos de funcionario estatal.",
-        "zona": "Nuevo León",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/unidad-de-inteligencia-financiera-investiga-cuentas-de-amilcar-olan/",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
-      },
-      {
-        "title": "Nuevo León registra mejor septiembre en homicidios en 20 años",
-        "summary": "Entidad logra reducción del 80 por ciento en homicidios dolosos durante septiembre comparado con períodos anteriores.",
-        "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/video-nuevo-leon-logra-el-mejor-septiembre-en-20-anos-en-homicidios-dolosos-con-80-por-ciento/v-vl2261944",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
-      },
-      {
-        "title": "Investigación por multihomicidio en Montemorelos avanza con pruebas",
-        "summary": "Fiscalía confirma que arma asegurada fue utilizada en el caso de familia asesinada. Adolescente de 14 años logró sobrevivir escondiéndose durante el ataque.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/confirman-arma-asegurada-se-uso-en-multihomicidio/1030847",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Autoridades lanzan plan de prevención tras disparos en homicidios",
-        "summary": "Gobierno estatal reforzará acciones de prevención y salud mental tras incremento en casos de violencia homicida en la entidad.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/nl-va-reforzar-acciones-prevencion-salud-mental-homicidios-fuero-comun",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Detienen a sicarios del Cártel del Noreste con arsenal pesado",
-        "summary": "Capturan integrantes del CDN con fusiles, explosivos y armas de uso exclusivo del Ejército en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/fotos-cae-en-hidalgo-nuevo-leon-sicarios-del-cdn-arsenal-del-ejercito-y-fusil",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Cateos en Monterrey resultan en múltiples detenciones y aseguramientos",
-        "summary": "Operativos en colonias de Monterrey derivan en captura de siete personas con decomiso de armas y droga.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/capturan-a-siete-decomisan-armas-y-droga-tras-cateos/1030846",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Reportera y camarógrafo atropellados en avenida Morones Prieto",
-        "summary": "Vehículo arrolló a dos periodistas en Monterrey. Se reporta que ambos fueron trasladados a atención médica.",
-        "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/seguridad/2026/10/2/camioneta-atropella-a-reportera-y-camarografo-en-avenida-morones-prieto-291250.html",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Capturan a implicados en robo a casa de influencer Karely Ruiz",
-        "summary": "Detienen a presuntos participantes en asalto ocurrido en julio en San Nicolás. Fiscalía continúa buscando a otros involucrados.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/detienen-a-otro-implicado-en-robo-a-casa-de-karely-ruiz/1553362017",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Investigan multihomicidio en Montemorelos por presunta responsabilidad de Cindy Tamez",
-        "summary": "La FGE investiga a Cindy Tamez como presunta autora de la muerte de sus tres hijos y su pareja en Montemorelos, Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca (Nuevo León)",
-        "url": "https://www.tvazteca.com/aztecanoticias/multihomicidio-en-montemorelos-que-paso-cindy-tamez-su-pareja-y-sus-tres-hijos/",
-        "_added_at": "2026-10-02T01:22:21.315752-06:00"
-      },
-      {
-        "title": "Capturan a presunto implicado en robo a casa de influencer en Nuevo León",
-        "summary": "Detienen a otro sospechoso vinculado al robo a la vivienda de Karely Ruiz en el estado.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca (Nuevo León)",
-        "url": "https://www.tvazteca.com/aztecanoticias/detienen-otro-presunto-implicado-robo-casa-influencer-karely-ruiz-en-nuevo-leon/",
-        "_added_at": "2026-10-02T01:22:21.315752-06:00"
-      },
-      {
-        "title": "Detienen a menor que vendía droga fingiendo reparar autos",
-        "summary": "Capturan a un menor de edad que utilizaba reparaciones de vehículos como cobertura para distribuir narcóticos.",
+        "title": "Detienen a hombre por agresión con navaja en Pesquería",
+        "summary": "Policías locales capturan a presunto agresor armado tras lesionar a una persona con arma blanca.",
         "zona": "Nuevo León",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/cae-menor-para-vender-droga-fingia-reparar-auto/3033388618",
-        "_added_at": "2026-10-02T01:22:21.315752-06:00"
+        "url": "https://info7.mx/nuevoleon/detienen-a-hombre-tras-presunta-agresion-con-navaja-en-pesqueria/3469482017",
+        "_added_at": "2026-10-03T00:55:14.082757-06:00"
+      },
+      {
+        "title": "Hallan cadáver en canalón del barrio de la Industria",
+        "summary": "Descubren cuerpo sin vida de hombre al interior de infraestructura vial en Monterrey.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/monterrey-hallan-cuerpo-en-canalon-del-barrio-de-la-industria",
+        "_added_at": "2026-10-03T00:55:14.082757-06:00"
+      },
+      {
+        "title": "Cierre de carril en Santa Anita por derrumbe de barda",
+        "summary": "Autoridades cierran paso vehicular tras colapso de estructura y socavón en zona de riesgo.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/cierran-carril-en-santa-anita-por-derrumbe-de-barda-y-socavon/2323399919",
+        "_added_at": "2026-10-03T00:55:14.082757-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Movimiento Ciudadano se consolida como primera fuerza en Congreso de NL",
-        "summary": "MC suma 11 diputados con defección de Brenda Velázquez desde Morena, desplazando al partido mayoritario.",
+        "title": "Morena ve normal tensión con PVEM y PT en alianza de NL",
+        "summary": "Clara Luz Flores minimiza diferencias dentro de la coalición de gobierno en Nuevo León y llama al diálogo.",
         "zona": "Nuevo León",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/mc-suma-11-diputados-y-se-convierte-primera-fuerza-congreso-nl",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+        "url": "https://www.milenio.com/politica/clara-luz-flores-ve-normal-diferencias-alianza-4t-nl-llama-a-dialogo",
+        "_added_at": "2026-10-03T00:55:14.082757-06:00"
       },
       {
-        "title": "Hemorragia en Morena complica aritmética en Congreso estatal",
-        "summary": "Diputados abandonan bancada morenista, debilitando su posición legislativa y alterando equilibrio de poderes.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/continua-la-hemorragia-en-morena-nl-y-complica-su-aritmetica-en-el-congreso-1903/",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
-      },
-      {
-        "title": "Gobierno de Marina del Pilar bajo investigación por presunto lavado",
-        "summary": "Medios reportan indagaciones sobre supuesto lavado de dinero vinculado al Cártel de Sinaloa durante administración.",
-        "zona": "Nuevo León",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/el-gobierno-de-marina-del-pilar-lavo-dinero-al-cartel-de-sinaloa/",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
-      },
-      {
-        "title": "PRI-PAN analiza tensiones en Morena para mejorar posición en Escobedo",
-        "summary": "Alianza opositora busca capitalizar división interna de Morena en municipio del área metropolitana.",
-        "zona": "Área metropolitana",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-pri-pan-sondea-la-tension-de-morena-para-elevar-sus-chances-en-escobedo-4814/",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
-      },
-      {
-        "title": "Diputada Brenda Velázquez deja Morena y se suma a Movimiento Ciudadano",
-        "summary": "Legisladora estatal abandona bancada morenista y se integra a MC, fortaleciendo así al partido naranja.",
+        "title": "Morena descarta afectaciones tras salida de dos diputados",
+        "summary": "Bancada morenista minimiza impacto de renuncias de legisladores en el Congreso de Nuevo León.",
         "zona": "Nuevo León",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/renuncia-brenda-velazquez-a-morena-congreso-nl-para-unirse-mc",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
-      },
-      {
-        "title": "Samuel García anuncia 600 mdd en nuevas inversiones para Nuevo León",
-        "summary": "Gobernador declara que estado recibirá capital para naves industriales y centros de datos, reforzando economía estatal.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/nuevo-leon-recibira-600-mdd-nuevas-inversiones-samuel-garcia",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Movimiento Ciudadano suma nuevo diputado en Nuevo León",
-        "summary": "Partido naranja incrementa su presencia en el Congreso estatal con incorporación de legislador.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/suma-movimiento-ciudadano-a-un-nuevo-diputado/1030820",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Secretaría de Educación va contra escuelas militarizadas irregulares",
-        "summary": "SET actúa contra instituciones que operan sin autorización y con estructura militar no permitida.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/resultado?query=SET+va+contra+escuelas%C2%A0militarizadas+irregulares&select=todas",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Verde en NL se deslinda de Clara Luz y evalúa apoyo a Waldo Fernández",
-        "summary": "El Partido Verde en Nuevo León se distancia de Clara Luz Flores y considera impulsar a Waldo Fernández como candidato.",
-        "zona": "Nuevo León",
-        "source": "La Política Online (NL)",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-verde-en-nl-se-deslinda-de-clara-luz-y-no-descartan-impulsar-a-waldo-fernandez-6206/",
-        "_added_at": "2026-10-02T01:22:21.315752-06:00"
+        "url": "https://www.milenio.com/politica/morena-nl-minimiza-salida-de-mario-soto-y-brenda-velazquez",
+        "_added_at": "2026-10-03T00:55:14.082757-06:00"
       }
     ],
-    "economia": [
-      {
-        "title": "Nuevo León recibirá 600 millones de dólares en inversiones",
-        "summary": "Samuel García anuncia llegada de capital para naves industriales y data centers que ampliarán capacidad productiva.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/economia/samuel-garcia-anuncia-nuevo-leon-tendra-inversion-600-millones-dolares",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
-      },
-      {
-        "title": "David Jiménez asume como CEO Global de Softtek",
-        "summary": "Ejecutivo regiomontano toma dirección general de empresa tras 15 años en corporativo; Blanca Treviño a Presidencia.",
-        "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/10/2/asume-david-jimenez-como-ceo-global-de-softek-291306.html",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
-      },
-      {
-        "title": "LatinInfance reconoce a Gobierno NL por Hospital Infantil",
-        "summary": "Organismo internacional felicita construcción de infraestructura sanitaria de Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/latininfance-reconoce-a-gobierno-nl-por-la-construccion-del-hospital-infantil-9795/",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Nuevo León lidera exportaciones en México, apunta a seguridad hídrica",
-        "summary": "Estado es motor económico nacional. Expo PyME subraya importancia de agua para futuras sequías y crecimiento industrial.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/expo-pyme-nuevo-leon-primer-lugar-en-exportaciones-y-seguridad-hidrica-futuras-sequias/",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Precios de canasta básica se mantienen estables en Nuevo León",
-        "summary": "Reportan que los productos de la canasta básica muestran precios sin variaciones significativas en la entidad.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/reportan-precios-estables-en-productos-de-la-canasta-basica/1032832662",
-        "_added_at": "2026-10-02T01:22:21.315752-06:00"
-      }
-    ],
+    "economia": [],
     "eventos": [
       {
-        "title": "Arranca segunda edición de EMEFEST en Reynosa",
-        "summary": "Festival cultural comienza actividades en municipio norteño del estado.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/reynosa/arranca-segunda-edicion-emefest-reynosa",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
-      },
-      {
-        "title": "UANL inicia ciclo escolar con más de 220 mil estudiantes",
-        "summary": "Universidad Autónoma de Nuevo León abre puertas para nuevo semestre académico con matrícula masiva.",
+        "title": "Acción Poética transforma bardas en expresión artística",
+        "summary": "Movimiento cultural convierte muros de la ciudad en libro abierto con mensajes poéticos y reflexivos.",
         "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://www.info7.mx/resultado?query=Iniciar%C3%A1%20la%20UANL%20nuevo%20ciclo%20con%20m%C3%A1s%20de%20220%20mil%20estudiantes",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "Inaugura Guadalupe Expo Feria Ganadera 2026",
-        "summary": "Municipio abre evento para mostrar productos y actividades del sector pecuario regional.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/inauguran-la-expo-feria-ganadera-guadalupe-2026/1030818",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "San Nicolás lanza convocatoria de concurso Mita y Mita",
-        "summary": "Municipio abre inscripciones para participar en concurso cultural local.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/lanza-san-nicolas-convocatoria-de-concurso-mita-y-mita/1030814",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/accion-poetica-las-bardas-de-la-ciudad-que-se-convirtieron-en-un-libro-abierto-/v-vl2262206",
+        "_added_at": "2026-10-03T00:55:14.082757-06:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Shriners Children's ofrece atención pediátrica ortopédica gratuita en Monterrey",
-        "summary": "Institución especializada proporciona servicios médicos sin costo para menores con necesidades ortopédicas.",
-        "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/10/2/shriners-childrens-transforma-y-da-esperanza-en-monterrey-291309.html",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+        "title": "Tránsitos de Guadalupe facilitan paso a mujer en labor de parto",
+        "summary": "Policía vial abre carril para permitir llegada rápida de gestante al hospital.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/guadalupe-transitos-abren-paso-a-mujer-en-labor-de-parto",
+        "_added_at": "2026-10-03T00:55:14.082757-06:00"
       },
       {
-        "title": "Marisol González propone reformas contra fraudes inmobiliarios en NL",
-        "summary": "Legisladora impulsa cambios normativos para proteger a consumidores de prácticas irregulares en sector vivienda.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/reformas-fraudes-inmobiliarios-nuevo-leon",
-        "_added_at": "2026-10-02T18:06:24.873645-06:00"
+        "title": "Santa Catarina apoya ley para protección animal",
+        "summary": "Municipio respalda iniciativa legislativa para defender derechos de animales domésticos y silvestres.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/santa-catarina-apoya-ley-para-proteger-a-los-animales/1561426569",
+        "_added_at": "2026-10-03T00:55:14.082757-06:00"
       },
       {
-        "title": "Crisis educativa en preescolar: solo 61% asistió en Nuevo León",
-        "summary": "Rezago crítico en inscripciones de kínder podría extenderse a primaria. Expertos alertan sobre impacto en desarrollo infantil.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/preescolar-en-nuevo-leon-solo-61-los-ninos-asistio-al-kinder-y-crece-rezago-educativo/",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
+        "title": "Academia Escombritas lleva flag football a infancias de San Nicolás",
+        "summary": "Escuela de americano promueve deporte inclusivo entre niños y niñas de la comunidad.",
+        "zona": "Área metropolitana",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/deportes/americano/academia-escombritas-lleva-flag-a-infancias-en-san-nicolas",
+        "_added_at": "2026-10-03T00:55:14.082757-06:00"
       },
       {
-        "title": "Jornada de salud por Semana Nacional del Corazón 2026",
-        "summary": "Autoridades realizan actividades de prevención y conciencia sobre salud cardiovascular en la entidad.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/tamaulipas/realizan-jornada-salud",
-        "_added_at": "2026-10-02T13:43:26.176051-06:00"
-      },
-      {
-        "title": "UANL suspende clases presenciales por fuertes lluvias",
-        "summary": "La Universidad Autónoma de Nuevo León cancela actividades presenciales el viernes por intensas precipitaciones.",
-        "zona": "Monterrey",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/uanl-anuncia-suspension-de-clases-presenciales-hoy-2-de-octubre-por-fuetes-lluvias-en-nuevo-leon/vl2261764",
-        "_added_at": "2026-10-02T01:22:21.315752-06:00"
-      },
-      {
-        "title": "Rescatan a dos hombres atrapados por fuertes corrientes de agua",
-        "summary": "Protección Civil auxilia a dos personas que quedaron atrapadas por las intensas lluvias y corrientes en la zona.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/rescatan-cuerpos-de-auxilio-a-dos-hombres-tras-fuertes-lluvias/v5332642359",
-        "_added_at": "2026-10-02T01:22:21.315752-06:00"
+        "title": "Escobedo refuerza vigilancia y limpieza por tormentas",
+        "summary": "Autoridades municipales intensifican operativos de seguridad e infraestructura ante lluvias.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/refuerza-escobedo-vigilancia-y-limpieza-por-tormentas/4599387547",
+        "_added_at": "2026-10-03T00:55:14.082757-06:00"
       }
     ]
   },
-  "last_updated": "2026-10-02T18:06:24.873645-06:00"
+  "last_updated": "2026-10-03T00:55:14.082757-06:00"
 }
