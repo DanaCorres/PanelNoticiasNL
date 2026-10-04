@@ -1,8 +1,40 @@
 {
   "date": "2026-10-04",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Policías de Guadalupe investigados por ejecución extrajudicial",
+        "summary": "La CEDHNL acusa a elementos de la corporación local de incurrir en ejecución extrajudicial, iniciando investigación formal.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/policias-de-guadalupe-ejecucion-extrajudicial",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      },
+      {
+        "title": "Vinculan a hermanos por ataque en secundaria de Torreón",
+        "summary": "Carlos y David N quedan ligados a proceso con prisión preventiva por el ataque a la Secundaria 13 de Torreón.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/vinculan-proceso-cuates-ataque-secundaria-torreon",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      },
+      {
+        "title": "Detienen a hombre por secuestro agravado y homicidio",
+        "summary": "Capturan en Ciénega de Flores a presunto responsable de delito grave con víctimas mortales.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/cienega-de-flores-detienen-a-hombre-por-secuestro-agravado",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      },
+      {
+        "title": "Nuevo León logra reducción histórica en robo de vehículos",
+        "summary": "El estado registra disminución significativa en hurtos automotrices, según cifras oficiales de seguridad.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/nuevo-leon-logra-reduccion-historica-en-robo-de-vehiculos/4747482270",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      },
       {
         "title": "Sentencian a dos delincuentes a 50 años por homicidio y robo",
         "summary": "Tribunal dicta 50 años de prisión a dos sujetos condenados por homicidio y robo en Nuevo León.",
@@ -94,6 +126,38 @@
     ],
     "politica": [
       {
+        "title": "Tatiana Clouthier critica designación de Clara Luz Flores",
+        "summary": "La exfuncionaria acusa a Morena de entregar Nuevo León con el nombramiento de la titular de Seguridad.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/4/morena-entrego-nuevo-leon-al-designar-a-clara-luz-flores-tatiana-clouthier-291449.html",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      },
+      {
+        "title": "Samuel García marca quinto año de gobierno con transformaciones",
+        "summary": "El gobernador evalúa su administración destacando cambios implementados en el estado durante el periodo.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/llega-samuel-garcia-a-su-quinto-ano-de-gobierno-con-un-nuevo-nl",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      },
+      {
+        "title": "Tatiana Clouthier formaliza movimiento \"Todos Con Conciencia\"",
+        "summary": "La política conforma nueva estructura organizativa para impulsar agenda política en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/tatiana-clouthier-movimiento-todos-con-conciencia",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      },
+      {
+        "title": "Multas para funerarias que retengan restos por falta de pago",
+        "summary": "Nuevo León establece sanciones de hasta 4.2 millones de pesos contra funerarias por retención indebida.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/04/funerarias-que-retengan-restos-o-cenizas-por-falta-de-pago-podrian-recibir-multas-de-hasta-4-2-mdp/",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      },
+      {
         "title": "Samuel García resalta logros tras cinco años de gobierno",
         "summary": "Gobernador destaca resultados de su administración en conferencia de balance.",
         "zona": "Nuevo León",
@@ -144,8 +208,41 @@
         "_added_at": "2026-10-04T12:30:25.286476-06:00"
       }
     ],
-    "eventos": [],
+    "eventos": [
+      {
+        "title": "Monterrey formaliza Alianza Rosa con iniciativa del DIF",
+        "summary": "La institución municipal presenta programa enfocado en protección y apoyo a sectores vulnerables.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/formaliza-el-dif-monterrey-la-alianza-rosa/1031487",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      },
+      {
+        "title": "Academia de Policía de Monterrey incorpora 44 nuevos cadetes",
+        "summary": "La institución suma nuevo grupo de aspirantes que inician su formación en seguridad pública.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/se-incorporan-44-nuevos-cadetes-a-academia-de-policia-de-monterrey/1031190",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      }
+    ],
     "sociedad": [
+      {
+        "title": "Habilitan albergue temporal para mascotas en Santa Catarina",
+        "summary": "Autoridades crean refugio de emergencia para perros y gatos callejeros afectados por lluvias.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/lluvias-en-santa-catarina-habilitan-albergue-perros-y-gatos",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      },
+      {
+        "title": "Rescatan a tres traileros varados por lluvia en Sabinas Hidalgo",
+        "summary": "Fuerza Civil auxilia a conductores atrapados en carreteras del norte de Nuevo León por precipitaciones.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/sabinas-hidalgo-rescatan-a-tres-traileros-varados",
+        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+      },
       {
         "title": "Instalan albergue temporal para mascotas por lluvias",
         "summary": "Municipios habilitan refugios para animales afectados durante contingencia por precipitaciones.",
@@ -172,5 +269,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-04T12:30:25.286476-06:00"
+  "last_updated": "2026-10-04T17:46:46.753848-06:00"
 }
