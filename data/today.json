@@ -1,8 +1,64 @@
 {
   "date": "2026-10-04",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Sentencian a dos delincuentes a 50 años por homicidio y robo",
+        "summary": "Tribunal dicta 50 años de prisión a dos sujetos condenados por homicidio y robo en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/dictan-50-anos",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
+      {
+        "title": "Aseguran 94 litros de cocaína en aeropuerto de Monterrey",
+        "summary": "Autoridades confiscan importante cantidad de cocaína en operativo realizado en terminal aérea.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/aseguran-en-el-aeropuerto-94-litros-de-cocaina/1031422",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
+      {
+        "title": "Hombre asesinó a su exesposa frente a sus hijos en Pesquería",
+        "summary": "Crimen pasional en municipio del área metropolitana deja víctima mortal.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/asesina-hombre-a-su-exesposa-frente-a-sus-hijos-en-pesqueria/1031301",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
+      {
+        "title": "Incendio consume tarimera y desaloja vecinos en Juárez",
+        "summary": "Fuego destruye tarimera abandonada en colonia Valle Sur causando evacuación de familias cercanas.",
+        "zona": "Área metropolitana",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/estados/incendio-tarimera-causa-desalojo-vecinos-juarez-nuevo-leon",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
+      {
+        "title": "Detienen a hombre con droga en operativo en Allende",
+        "summary": "Captura de sujeto portador de narcóticos durante operativo de seguridad en municipio.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/detienen-a-hombre-con-droga-durante-operativo-en-allende/1031532",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
+      {
+        "title": "Roba falso gestor medio millón de pesos en estafa",
+        "summary": "Detenido sujeto que se hacía pasar por gestor y defraudó a víctima con importante cantidad.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/roba-falso-gestor-500-mil-pesos/1031421",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
+      {
+        "title": "Narcóticos hallados en empresa de paquetería",
+        "summary": "Descubrimiento de drogas en instalaciones de compañía de servicios de envíos.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/detectan-narcoticos-en-empresa-de-paqueteria/1031423",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
       {
         "title": "Decomisan cocaína oculta en estimulantes sexuales en Nuevo León",
         "summary": "Autoridades federales detuvieron a pasajero con drogas disfrazadas en envases de estimulantes procedente de Colombia.",
@@ -38,6 +94,38 @@
     ],
     "politica": [
       {
+        "title": "Samuel García resalta logros tras cinco años de gobierno",
+        "summary": "Gobernador destaca resultados de su administración en conferencia de balance.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/samuel-garcia-resalta-logros-a-cinco-anos-de-su-gobierno/5873803014",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
+      {
+        "title": "DIF Monterrey formaliza la Alianza Rosa",
+        "summary": "Institución municipal establece programa formal de apoyo a población vulnerable.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/formaliza-el-dif-monterrey-la-alianza-rosa/1031487",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
+      {
+        "title": "Se incorporan 44 nuevos cadetes a Academia de Policía",
+        "summary": "Monterrey suma nuevo personal a institución de formación de seguridad pública.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/se-incorporan-44-nuevos-cadetes-a-academia-de-policia-de-monterrey/1031190",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
+      {
+        "title": "Escobedo activa operativo de limpieza en alcantarillas",
+        "summary": "Municipio ejecuta tareas de mantenimiento en infraestructura por temporada de lluvias.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/activa-escobedo-operativo-de-limpieza-en-alcantarillas/1031191",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
+      {
         "title": "Estado descarta daño en carril exprés de Constitución tras lluvia",
         "summary": "Autoridades estatales reportan que infraestructura vial mantiene operatividad normal después del evento climático.",
         "zona": "Monterrey",
@@ -46,9 +134,34 @@
         "_added_at": "2026-10-04T01:16:18.583888-06:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Se ofertaron mil puestos de trabajo en agosto y septiembre",
+        "summary": "Nuevo León registra disponibilidad de empleo en los últimos meses.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/se-ofertaron-mil-puestos-de-trabajo-en-agosto-y-septiembre/1031498",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      }
+    ],
     "eventos": [],
     "sociedad": [
+      {
+        "title": "Instalan albergue temporal para mascotas por lluvias",
+        "summary": "Municipios habilitan refugios para animales afectados durante contingencia por precipitaciones.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/habilitan-albergue-para-mascotas-por-lluvias-en-santa-catarina/3105545933",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
+      {
+        "title": "Santa Catarina respalda a familias afectadas por lluvias",
+        "summary": "Municipio activa programas de asistencia para población damnificada por precipitaciones.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/santa-catarina-respalda-a-familias-afectadas-por-lluvias/7601916080",
+        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+      },
       {
         "title": "Choque múltiple en San Pedro deja cuatro personas lesionadas",
         "summary": "Accidente vial con tres camionetas en avenida Morones Prieto causa heridos y daños materiales.",
@@ -59,5 +172,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-04T01:16:18.583888-06:00"
+  "last_updated": "2026-10-04T12:30:25.286476-06:00"
 }
