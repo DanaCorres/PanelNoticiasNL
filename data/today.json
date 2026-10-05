@@ -1,273 +1,120 @@
 {
-  "date": "2026-10-04",
-  "run_count": 3,
+  "date": "2026-10-05",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Policías de Guadalupe investigados por ejecución extrajudicial",
-        "summary": "La CEDHNL acusa a elementos de la corporación local de incurrir en ejecución extrajudicial, iniciando investigación formal.",
+        "title": "Detienen a presunto narcomenudista en Guadalupe tras persecución",
+        "summary": "Capturan a sujeto con cannabis, metanfetamina, báscula y cartuchos en operativo de seguridad en la zona metropolitana.",
         "zona": "Área metropolitana",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/policias-de-guadalupe-ejecucion-extrajudicial",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
-      },
-      {
-        "title": "Vinculan a hermanos por ataque en secundaria de Torreón",
-        "summary": "Carlos y David N quedan ligados a proceso con prisión preventiva por el ataque a la Secundaria 13 de Torreón.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/vinculan-proceso-cuates-ataque-secundaria-torreon",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
-      },
-      {
-        "title": "Detienen a hombre por secuestro agravado y homicidio",
-        "summary": "Capturan en Ciénega de Flores a presunto responsable de delito grave con víctimas mortales.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/cienega-de-flores-detienen-a-hombre-por-secuestro-agravado",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
-      },
-      {
-        "title": "Nuevo León logra reducción histórica en robo de vehículos",
-        "summary": "El estado registra disminución significativa en hurtos automotrices, según cifras oficiales de seguridad.",
-        "zona": "Nuevo León",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/nuevo-leon-logra-reduccion-historica-en-robo-de-vehiculos/4747482270",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+        "url": "https://info7.mx/nuevoleon/detienen-a-presunto-narcomenudista-tras-persecucion-en-guadalupe/6927470163",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       },
       {
-        "title": "Sentencian a dos delincuentes a 50 años por homicidio y robo",
-        "summary": "Tribunal dicta 50 años de prisión a dos sujetos condenados por homicidio y robo en Nuevo León.",
+        "title": "Cae presunto secuestrador y homicida en operativo de la Policía",
+        "summary": "Autoridades detienen a hombre acusado de secuestro agravado y homicidio en Ciénega de Flores, Nuevo León.",
         "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/dictan-50-anos",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/detienen-hombre-secuestro-agravado-homicidio-cienega-de-flores",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       },
       {
-        "title": "Aseguran 94 litros de cocaína en aeropuerto de Monterrey",
-        "summary": "Autoridades confiscan importante cantidad de cocaína en operativo realizado en terminal aérea.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/aseguran-en-el-aeropuerto-94-litros-de-cocaina/1031422",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
-      },
-      {
-        "title": "Hombre asesinó a su exesposa frente a sus hijos en Pesquería",
-        "summary": "Crimen pasional en municipio del área metropolitana deja víctima mortal.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/asesina-hombre-a-su-exesposa-frente-a-sus-hijos-en-pesqueria/1031301",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
-      },
-      {
-        "title": "Incendio consume tarimera y desaloja vecinos en Juárez",
-        "summary": "Fuego destruye tarimera abandonada en colonia Valle Sur causando evacuación de familias cercanas.",
+        "title": "Detienen a mujer por ataque a hombre en Juárez",
+        "summary": "Capturan a presunta agresora tras enfrentamiento que habría sido motivado por reclamo sobre custodia.",
         "zona": "Área metropolitana",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/estados/incendio-tarimera-causa-desalojo-vecinos-juarez-nuevo-leon",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+        "url": "https://www.milenio.com/policia/detienen-mujer-atacar-hombre-reclamo-hija-juarez-nuevo-leon",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       },
       {
-        "title": "Detienen a hombre con droga en operativo en Allende",
-        "summary": "Captura de sujeto portador de narcóticos durante operativo de seguridad en municipio.",
+        "title": "Niño sufre heridas por explosión de cartucho en Nuevo León",
+        "summary": "Menor resulta lesionado tras incidente con artefacto explosivo en operativo de autoridades.",
         "zona": "Nuevo León",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/detienen-a-hombre-con-droga-durante-operativo-en-allende/1031532",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+        "url": "https://elporvenir.mx/justicia/sufre-nino-heridas-tras-explosion-de-cartucho/1031635",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       },
       {
-        "title": "Roba falso gestor medio millón de pesos en estafa",
-        "summary": "Detenido sujeto que se hacía pasar por gestor y defraudó a víctima con importante cantidad.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/roba-falso-gestor-500-mil-pesos/1031421",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
-      },
-      {
-        "title": "Narcóticos hallados en empresa de paquetería",
-        "summary": "Descubrimiento de drogas en instalaciones de compañía de servicios de envíos.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/detectan-narcoticos-en-empresa-de-paqueteria/1031423",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
-      },
-      {
-        "title": "Decomisan cocaína oculta en estimulantes sexuales en Nuevo León",
-        "summary": "Autoridades federales detuvieron a pasajero con drogas disfrazadas en envases de estimulantes procedente de Colombia.",
+        "title": "Estructura de fachada se desprende y cae sobre vivienda",
+        "summary": "Accidente doméstico en Nuevo León deja daños materiales tras desprendimiento de elementos arquitectónicos.",
         "zona": "Nuevo León",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/decomisan-cocaina-que-iba-disfrazada-de-estimulantes-sexuales/3364217643",
-        "_added_at": "2026-10-04T01:16:18.583888-06:00"
-      },
-      {
-        "title": "Pareja vinculada a proceso por explotación sexual en Monterrey",
-        "summary": "Juzgado formal acusa a pareja por delitos de explotación sexual en la capital tapatía.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/pareja-es-vinculada-a-proceso-por-explotacion-sexual-en-monterrey/8660736724",
-        "_added_at": "2026-10-04T01:16:18.583888-06:00"
-      },
-      {
-        "title": "Hombre asesina a su esposa en Pesquería; menores presenciaron",
-        "summary": "Crimen pasional en Pesquería donde tres hijos vieron el ataque contra la madre de familia.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/pesqueria-nl-hombre-mata-a-su-esposa-hijos-lo-presenciaron",
-        "_added_at": "2026-10-04T01:16:18.583888-06:00"
-      },
-      {
-        "title": "Reportera atropellada mientras cubría deslave en Monterrey",
-        "summary": "Periodista resulta lesionada mientras realizaba cobertura de evento meteorológico en la ciudad.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/atropellan-a-reportera-mientras-cubria-deslave-en-monterrey/v8456155153",
-        "_added_at": "2026-10-04T01:16:18.583888-06:00"
+        "url": "https://info7.mx/nuevoleon/se-desprende-estructura-de-fachada-y-cae-sobre-patio-de-vivienda/4983325615",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Tatiana Clouthier critica designación de Clara Luz Flores",
-        "summary": "La exfuncionaria acusa a Morena de entregar Nuevo León con el nombramiento de la titular de Seguridad.",
+        "title": "Fernando Cárcamo asume coordinación legislativa en Senado",
+        "summary": "Designan a Cárcamo como coordinador legislativo de la vicepresidencia en la Cámara alta.",
         "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/10/4/morena-entrego-nuevo-leon-al-designar-a-clara-luz-flores-tatiana-clouthier-291449.html",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/fernando-carcamo-asume-puesto-de-coordinador-legislativo-nl",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       },
       {
-        "title": "Samuel García marca quinto año de gobierno con transformaciones",
-        "summary": "El gobernador evalúa su administración destacando cambios implementados en el estado durante el periodo.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/llega-samuel-garcia-a-su-quinto-ano-de-gobierno-con-un-nuevo-nl",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
-      },
-      {
-        "title": "Tatiana Clouthier formaliza movimiento \"Todos Con Conciencia\"",
-        "summary": "La política conforma nueva estructura organizativa para impulsar agenda política en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/tatiana-clouthier-movimiento-todos-con-conciencia",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
-      },
-      {
-        "title": "Multas para funerarias que retengan restos por falta de pago",
-        "summary": "Nuevo León establece sanciones de hasta 4.2 millones de pesos contra funerarias por retención indebida.",
-        "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/04/funerarias-que-retengan-restos-o-cenizas-por-falta-de-pago-podrian-recibir-multas-de-hasta-4-2-mdp/",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
-      },
-      {
-        "title": "Samuel García resalta logros tras cinco años de gobierno",
-        "summary": "Gobernador destaca resultados de su administración en conferencia de balance.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/samuel-garcia-resalta-logros-a-cinco-anos-de-su-gobierno/5873803014",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
-      },
-      {
-        "title": "DIF Monterrey formaliza la Alianza Rosa",
-        "summary": "Institución municipal establece programa formal de apoyo a población vulnerable.",
+        "title": "Destapan a Felipe de Jesús Cantú para alcaldía de Monterrey 2027",
+        "summary": "Waldo Fernández presenta candidato para contender por presidencia municipal en próximas elecciones.",
         "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/formaliza-el-dif-monterrey-la-alianza-rosa/1031487",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/destapa-waldo-fernandez-a-felipe-de-jesus-cantu-para-competir-por-la-alcaldia-de-monterrey-para-elecciones-2027/vl2262761",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       },
       {
-        "title": "Se incorporan 44 nuevos cadetes a Academia de Policía",
-        "summary": "Monterrey suma nuevo personal a institución de formación de seguridad pública.",
-        "zona": "Monterrey",
+        "title": "Clara Luz ve posible alianza Morena-PT-Verde para gubernatura",
+        "summary": "Funcionaria estatal analiza escenarios de coalición política para contienda gubernamental futura.",
+        "zona": "Nuevo León",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/se-incorporan-44-nuevos-cadetes-a-academia-de-policia-de-monterrey/1031190",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+        "url": "https://elporvenir.mx/local/ve-clara-luz-posible-alianza-morena-pt-verde-para-gubernatura/1031621",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       },
       {
-        "title": "Escobedo activa operativo de limpieza en alcantarillas",
-        "summary": "Municipio ejecuta tareas de mantenimiento en infraestructura por temporada de lluvias.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/activa-escobedo-operativo-de-limpieza-en-alcantarillas/1031191",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
-      },
-      {
-        "title": "Estado descarta daño en carril exprés de Constitución tras lluvia",
-        "summary": "Autoridades estatales reportan que infraestructura vial mantiene operatividad normal después del evento climático.",
-        "zona": "Monterrey",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/descarta-estado-dano-en-carril-expres-de-constitucion-tras-lluvia/2214523963",
-        "_added_at": "2026-10-04T01:16:18.583888-06:00"
+        "title": "Tatiana Clouthier anuncia movimiento tras designación de Clara Luz",
+        "summary": "Personaje político reacciona a cambios recientes en estructura de poder estatal.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/tatiana-clouthier-anuncia-movimiento-designacion-clara-luz",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       }
     ],
     "economia": [
       {
-        "title": "Se ofertaron mil puestos de trabajo en agosto y septiembre",
-        "summary": "Nuevo León registra disponibilidad de empleo en los últimos meses.",
+        "title": "CFE proyecta inversión de 8 mil 900 mdp en infraestructura de NL",
+        "summary": "Comisión Federal de Electricidad planea desplegar inversión significativa en modernización de red estatal.",
         "zona": "Nuevo León",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/se-ofertaron-mil-puestos-de-trabajo-en-agosto-y-septiembre/1031498",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+        "url": "https://elporvenir.mx/local/proyecta-cfe-invertir-8-mil-900-mdp-de-infraestructura-en-nuevo-leon/1031623",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       }
     ],
-    "eventos": [
-      {
-        "title": "Monterrey formaliza Alianza Rosa con iniciativa del DIF",
-        "summary": "La institución municipal presenta programa enfocado en protección y apoyo a sectores vulnerables.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/formaliza-el-dif-monterrey-la-alianza-rosa/1031487",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
-      },
-      {
-        "title": "Academia de Policía de Monterrey incorpora 44 nuevos cadetes",
-        "summary": "La institución suma nuevo grupo de aspirantes que inician su formación en seguridad pública.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/se-incorporan-44-nuevos-cadetes-a-academia-de-policia-de-monterrey/1031190",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
-      }
-    ],
+    "eventos": [],
     "sociedad": [
       {
-        "title": "Habilitan albergue temporal para mascotas en Santa Catarina",
-        "summary": "Autoridades crean refugio de emergencia para perros y gatos callejeros afectados por lluvias.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/lluvias-en-santa-catarina-habilitan-albergue-perros-y-gatos",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
-      },
-      {
-        "title": "Rescatan a tres traileros varados por lluvia en Sabinas Hidalgo",
-        "summary": "Fuerza Civil auxilia a conductores atrapados en carreteras del norte de Nuevo León por precipitaciones.",
+        "title": "Rescatan a traileros varados tras lluvias en Sabinas Hidalgo",
+        "summary": "Fuerza Civil asiste a conductores afectados por condiciones climáticas adversas en carretera estatal.",
         "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/sabinas-hidalgo-rescatan-a-tres-traileros-varados",
-        "_added_at": "2026-10-04T17:46:46.753848-06:00"
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/fuerza-civil-rescata-traileros-varados-lluvias-sabinas-hidalgo-nl",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       },
       {
-        "title": "Instalan albergue temporal para mascotas por lluvias",
-        "summary": "Municipios habilitan refugios para animales afectados durante contingencia por precipitaciones.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/habilitan-albergue-para-mascotas-por-lluvias-en-santa-catarina/3105545933",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
+        "title": "Monterrey refuerza limpieza de rejillas ante temporada de lluvias",
+        "summary": "Autoridades municipales intensifican tareas preventivas para evitar inundaciones en infraestructura de drenaje.",
+        "zona": "Monterrey",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/refuerza-monterrey-limpieza-de-rejillas-ante-lluvias/7963422820",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       },
       {
-        "title": "Santa Catarina respalda a familias afectadas por lluvias",
-        "summary": "Municipio activa programas de asistencia para población damnificada por precipitaciones.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/santa-catarina-respalda-a-familias-afectadas-por-lluvias/7601916080",
-        "_added_at": "2026-10-04T12:30:25.286476-06:00"
-      },
-      {
-        "title": "Choque múltiple en San Pedro deja cuatro personas lesionadas",
-        "summary": "Accidente vial con tres camionetas en avenida Morones Prieto causa heridos y daños materiales.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/san-pedro-nl-choque-de-3-camionetas-en-morones-prieto",
-        "_added_at": "2026-10-04T01:16:18.583888-06:00"
+        "title": "Volcadura en Linares deja lesionada a pareja en vía pública",
+        "summary": "Accidente vehicular en municipio del sur del estado genera atención de servicios de emergencia.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/deja-volcadura-a-pareja-lesionada-en-linares/1031551",
+        "_added_at": "2026-10-05T01:30:21.836286-06:00"
       }
     ]
   },
-  "last_updated": "2026-10-04T17:46:46.753848-06:00"
+  "last_updated": "2026-10-05T01:30:21.836286-06:00"
 }
