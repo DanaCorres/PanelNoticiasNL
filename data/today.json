@@ -1,8 +1,40 @@
 {
   "date": "2026-10-06",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Cateo en Montemorelos por multihomicidio de familia",
+        "summary": "Autoridades catea domicilio en Montemorelos tras asesinato de familia; aseguran droga en el operativo de investigación.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/montemorelos-catean-domicilio-por-multihomicidio-de-familia",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
+      {
+        "title": "Tres policías de García detenidos por extorsión",
+        "summary": "Caen tres elementos de la policía municipal de García acusados de supuesta extorsión a ciudadanos.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/caen-tres-policias-de-garcia-por-supuesta-extorsion/6082302519",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
+      {
+        "title": "Gobierno gradúa 200 nuevos policías en zona sur",
+        "summary": "Samuel García gradúa nuevos policías y refuerza seguridad en zona sur con Centro de Atención Ciudadana.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/samuel-garcia-gradua-200-nuevos-policias-y-refuerza-seguridad-en-zona-sur-con-centro-de-atencion-ciudadana/v-vl2263498",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
+      {
+        "title": "IEEPCNL enfrenta casi 400 denuncias antes de 2027",
+        "summary": "Instituto electoral de Nuevo León suma casi 400 denuncias previo al inicio del proceso electoral 2026-2027.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/ieepcnl-suma-400-denuncias-rumbo-elecciones-2027",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
       {
         "title": "Tres policías de García detenidos por extorsión",
         "summary": "Autoridades detienen a tres elementos de la Policía Municipal de García acusados de extorsión, evidenciando corrupción al interior de corporaciones locales.",
@@ -69,6 +101,46 @@
       }
     ],
     "politica": [
+      {
+        "title": "PT insiste en nueva encuesta contra Morena en NL",
+        "summary": "Partido del Trabajo se envalentona contra Morena e insiste en realizar nueva encuesta para candidatura en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-pt-se-envalentona-contra-morena-e-insiste-en-una-nueva-encuesta-en-nl-7615/",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
+      {
+        "title": "Waldo Fernández (PVEM) irá por gubernatura de NL",
+        "summary": "Edgar Salvatierra confirma que Waldo Fernández del PVEM será candidato para la gubernatura de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/edgar-salvatierra-confirma-waldo-fernandez-pvem-para-ir-gubernatura-nl",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
+      {
+        "title": "Canales Clariond: ciudadanía está harta de Morena",
+        "summary": "Fernando Canales Clariond afirma que la ciudadanía está cansada de Morena rumbo a elecciones 2027.",
+        "zona": "Monterrey",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/06/si-se-puede-y-lo-logramos-la-ciudadania-esta-harta-de-morena-afirma-canales-clariond-rumbo-a-2027/",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
+      {
+        "title": "Adrián de la Garza postura sólida para gubernatura",
+        "summary": "PRI ve en Adrián de la Garza una propuesta sólida para la candidatura a gubernatura de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/pri-confia-adrian-de-garza-propuesta-solida-gubernatura-nl",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
+      {
+        "title": "Morena descarta debilitamiento en Nuevo León",
+        "summary": "Morena rechaza que esté debilitada en Nuevo León a pesar de divisiones y desbandadas en congreso.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/morena-descarta-debilitado-nuevo-leon-desbandada-congreso-divisiones",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
       {
         "title": "Arranca proceso electoral 2026-2027 en Nuevo León",
         "summary": "Instituto Electoral de NL inicia oficialmente año electoral; autoridades piden campañas sin polarización ni descalificación.",
@@ -148,17 +220,25 @@
         "source": "El Horizonte",
         "url": "https://www.elhorizonte.mx/nuevoleon/dan-fechas-claves-del-proceso-electoral-en-nl-rumbo-a-2027/3139584341",
         "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Se reacomodan bancadas en Congreso local",
-        "summary": "Reorganización de grupos parlamentarios dentro del Congreso de Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/se-reacomodan-bancadas-en-congreso-local/1032109",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
       }
     ],
     "economia": [
+      {
+        "title": "NL perfila 5 mil MDD en nuevos proyectos industriales",
+        "summary": "Nuevo León proyecta atracción de 5 mil millones de dólares en nuevos proyectos industriales.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/nuevo-leon-perfila-5-mil-mdd-en-nuevos-proyectos-industriales/2079055261",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
+      {
+        "title": "NL consolida liderazgo económico del país",
+        "summary": "Samuel García asegura que Nuevo León consolida su posición como líder económico a nivel nacional.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/samuel-garcia-nuevo-leon-consolida-su-liderazgo-economico-7900/",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
       {
         "title": "Nuevo León perfila 5 mil MDD en proyectos industriales",
         "summary": "Estado impulsa inversión en nuevos proyectos industriales por valor de cinco mil millones de dólares.",
@@ -242,6 +322,14 @@
     ],
     "eventos": [
       {
+        "title": "Selección Mexicana enfrenta Jamaica en Monterrey",
+        "summary": "Selección Mexicana se medirá contra Jamaica en Monterrey en su primer partido oficial de preparación.",
+        "zona": "Monterrey",
+        "source": "Informe Regio",
+        "url": "https://informeregio.com/seleccion-mexicana-se-medira-contra-jamaica-en-monterrey-en-su-primera-prueba-oficial/",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
+      {
         "title": "México enfrenta a Jamaica en Monterrey por Nations League",
         "summary": "Selección Mexicana juega cuartos de final de Nations League en Estadio de Monterrey contra Jamaica.",
         "zona": "Monterrey",
@@ -299,6 +387,14 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Centro Monterrey pierde habitantes y viviendas",
+        "summary": "Centro histórico de Monterrey experimenta abandono con pérdida de población y unidades habitacionales.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/6/del-auge-al-abandono-el-centro-de-monterrey-pierde-habitantes-y-viviendas-291577.html",
+        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+      },
       {
         "title": "Restringen uso de celulares en escuelas de Nuevo León",
         "summary": "Instituciones educativas implementan políticas para limitar acceso a dispositivos móviles durante jornadas escolares.",
@@ -373,5 +469,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-06T13:57:04.259446-06:00"
+  "last_updated": "2026-10-06T18:19:22.103293-06:00"
 }
