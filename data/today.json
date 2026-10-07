@@ -1,8 +1,72 @@
 {
   "date": "2026-10-07",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Madre asesina a pareja e hijos en Montemorelos; testigo revela detalles",
+        "summary": "Fiscalía investiga multihomicidio en Montemorelos donde mujer habría asesinado a su pareja e hijos. Testigo relata que ocurrió por coraje; víctima consumía alcohol y medicamentos.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/10/7/cinthya-abigail-estaba-ebria-y-bajo-los-influjos-de-un-antidepresivo-al-cometer-el-multihomicidio-291737.html",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Capturan sicarios del Cártel del Noreste con arsenal y fusil antiaeronave",
+        "summary": "Operativo en Hidalgo y Nuevo León detiene a integrantes de CDN con armamento del Ejército, incluyendo fusil para derribar aeronaves.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/fotos-cae-en-hidalgo-nuevo-leon-sicarios-del-cdn-arsenal-del-ejercito-y-fusil",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Ejecutan a dos personas en Escobedo",
+        "summary": "Operativo simultáneo en Escobedo deja dos personas ejecutadas en la zona.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/ejecutan-a-dos-personas-casi-simultaneamente-en-escobedo/1032395",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Condenan a 25 años a joven por asesinato en Monterrey",
+        "summary": "Sentencia a adolescente responsable de muerte tras discusión en Monterrey a más de dos décadas de prisión.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/condena-25-anos-monterrey",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Catean domicilio en Santa Catarina por presunto secuestro de abogado",
+        "summary": "Autoridades realizan cateo en Santa Catarina en investigación de privación de libertad de abogado en Cumbres.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/santa-catarina-catean-domicilio-caso-abogado-secuestrado",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Disminuyen robos tipo cristalazo y delitos patrimoniales en estado",
+        "summary": "Reporte oficial indica caída de 80 por ciento en robos a autos y delitos contra la propiedad en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/nuevo-leon-robos-patrimoniales-y-cristalazo-disminuyen-80-por-ciento",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Sentencian a 44 años de prisión por delitos sexuales",
+        "summary": "Tribunal condena a hombre a cuatro décadas por crimen sexual en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/sentencian-a-44-anos-de-prision-a-hombre-por-delitos-sexuales/5508283969",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Persecución termina con herido de bala en Guadalupe",
+        "summary": "Hombre resulta lesionado tras ser perseguido en Guadalupe; autoridades investigan enfrentamiento.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/hombre-resulta-herido-de-bala-tras-ser-perseguido-en-guadalupe/6814778619",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
       {
         "title": "Investigan multihomicidio en Montemorelos; fallece padre de víctima",
         "summary": "Autoridades catearon domicilio en caso de familia asesinada en Montemorelos. Garo Moya, padre de víctima, falleció poco después.",
@@ -30,6 +94,70 @@
     ],
     "politica": [
       {
+        "title": "Ariadna toma distancia de Morena en Nuevo León; perciben colapso",
+        "summary": "Gobernadora se aleja de estructura morenista estatal, generando análisis sobre debilitamiento del partido en la entidad.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/ariadna-toma-distancia-de-nl-y-se-crece-la-percepcion-de-colapso-en-morena/",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Opositores denuncian alianza entre Movimiento Ciudadano y Morena en Santa Catarina",
+        "summary": "Coalición de oposición señala coordinación entre MC y Morena en municipio de cara a elecciones 2027.",
+        "zona": "Área metropolitana",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/la-oposicion-senala-una-alianza-entre-mc-y-morena-en-santa-catarina-de-cara-al-2027-991/",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Verde busca alianza con Waldo para evitar suicidio político",
+        "summary": "Partido Verde plantea ir con candidato Waldo en Nuevo León; rechaza apoyo a Clara por baja intención de voto.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-verde-busca-ir-con-waldo-en-nl-clara-no-llega-a-los-dos-digitos-no-iriamos-a-un-suicidio-politico/",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "PAN impulsa debates internos entre aspirantes a alcaldía de Monterrey",
+        "summary": "Blanquiazules convocan procesos de diálogo entre precandidatos para definir postulante a presidencia municipal.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/pan-plantea-debates-aspirantes-alcaldia-monterrey-sacar-candidato",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Congreso aprueba casetas gratis cuando obras afecten la movilidad",
+        "summary": "Legislatura estatal reforma ley para exentar peaje durante trabajos de infraestructura que impacten circulación.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/congreso-nl-aprueba-reforma-casetas-gratis-autopistas-durante-obras",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Samuel García destaca obras principales al cumplir cinco años de mandato",
+        "summary": "Gobernador reporta avances en infraestructura y proyectos emblemáticos durante su administración.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/resalta-samuel-garcia-obras-principales-a-cinco-anos-de-gobierno/v2305103481",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "PRI propone Ley del Recibo Justo para limitar recargos de servicios",
+        "summary": "Tricolores impulsan normativa para restringir cargos adicionales en facturas de agua y drenaje.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/ley-del-recibo-justo",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Morena niega debilitamiento político en Nuevo León",
+        "summary": "Partido del gobierno federal rechaza análisis sobre erosión de su estructura en la entidad.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/niega-morena-debilitamiento-en-la-entidad/1032435",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
         "title": "Posible llegada de Lorena al PAN genera tensión interna",
         "summary": "Movimiento de diputada hacia partido albiazul provoca fricción en sector del PAN en Nuevo León.",
         "zona": "Nuevo León",
@@ -56,6 +184,38 @@
     ],
     "economia": [
       {
+        "title": "Nuevo León lidera exportaciones mexicanas y apuesta por seguridad hídrica",
+        "summary": "Estado destaca como motor económico nacional en comercio exterior y busca garantizar agua ante futuras sequías.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/expo-pyme-nuevo-leon-primer-lugar-en-exportaciones-y-seguridad-hidrica-futuras-sequias/",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Ofrecen dos mil vacantes en feria de empleo en Monterrey",
+        "summary": "Evento de colocación laboral pone a disposición miles de oportunidades de trabajo en la región.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/ofrecen-2-mil-vacantes-en-feria-de-empleo-regia/1032406",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Condusef alerta por aumento de fraudes montadeudas en estado",
+        "summary": "Autoridad advierte sobre incremento de estafas que falsamente crean deudas en registros crediticios.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/condusef-alerta-por-montadeudas-en-nuevo-leon",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Coppel apuesta por sostenibilidad con paneles solares e inversión millonaria",
+        "summary": "Empresa retailer busca crecimiento sin aumentar impacto ambiental hacia 2030 con tecnología verde.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/perspectivas/fernanda-familiar-coppel-busca-crecer-sin-aumentar-su-impacto-ambiental-esto-hace-para-lograrlo/v-vl2263805",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
         "title": "Grupo Modelo invierte en agricultores para obtener cebada",
         "summary": "Cervecera refuerza relación con productores de campo mexicanos para fortalecer cadena de suministro.",
         "zona": "Nuevo León",
@@ -66,6 +226,30 @@
     ],
     "eventos": [
       {
+        "title": "UANL inicia ciclo escolar con más de 220 mil estudiantes",
+        "summary": "Universidad Autónoma de Nuevo León comienza nuevo período académico con cifra récord de matriculación.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://www.info7.mx/resultado?query=Iniciar%C3%A1%20la%20UANL%20nuevo%20ciclo%20con%20m%C3%A1s%20de%20220%20mil%20estudiantes",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Parque Tolteca celebra 31 años de historia",
+        "summary": "Espacio recreativo de Monterrey conmemora tres décadas de operación y servicio a la comunidad.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/parque-tolteca-31-anos",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Convocan al Premio Niño Emprendedor 2026",
+        "summary": "Iniciativa abre inscripciones para reconocer emprendimientos infantiles en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/convocan-al-premio-nino-emprendedor-2026/1032037",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
         "title": "Museo de Monterrey exhibe bustos de 71 gobernantes mexicanos",
         "summary": "Exhibición reúne esculturas de principales personajes públicos que han gobernado México.",
         "zona": "Monterrey",
@@ -75,6 +259,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Crisis educativa: solo 61% de niños asistió a preescolar en estado",
+        "summary": "Rezago en inscripciones a kínder en Nuevo León amenaza con impactos en educación primaria.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/preescolar-en-nuevo-leon-solo-61-los-ninos-asistio-al-kinder-y-crece-rezago-educativo/",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Coordinan acciones para recuperar el Río Pesquería en Escobedo",
+        "summary": "Autoridades municipales y estatales impulsan iniciativa para restaurar salud ambiental del cuerpo de agua.",
+        "zona": "Área metropolitana",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/coordinan-acciones-para-recuperar-el-rio-pesqueria-en-escobedo/",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Becas del Bienestar: Nuevo León recibe 3 mil millones de pesos",
+        "summary": "Entidad obtiene recursos federales para programa de apoyo económico a estudiantes de educación media.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/destinaran-a-nl-3-mmdp-para-becas-del-bienestar/1032061",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
+      {
+        "title": "Rehabilitarán San Nicolás y Ternium avenidas Múnich y Guerrero",
+        "summary": "Proyecto de infraestructura vial coordinado entre municipio y empresa acero para mejorar circulación.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/avenidas-munich-y-guerrero",
+        "_added_at": "2026-10-07T14:23:13.142618-06:00"
+      },
       {
         "title": "Paramédica de 17 años muere en choque de ambulancia",
         "summary": "Joven trabajadora de Protección Civil fallece tras accidente vehicular en Monterrey.",
@@ -93,5 +309,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-07T01:34:34.597276-06:00"
+  "last_updated": "2026-10-07T14:23:13.142618-06:00"
 }
