@@ -1,473 +1,97 @@
 {
-  "date": "2026-10-06",
-  "run_count": 3,
+  "date": "2026-10-07",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Cateo en Montemorelos por multihomicidio de familia",
-        "summary": "Autoridades catea domicilio en Montemorelos tras asesinato de familia; aseguran droga en el operativo de investigación.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/montemorelos-catean-domicilio-por-multihomicidio-de-familia",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
-      },
-      {
-        "title": "Tres policías de García detenidos por extorsión",
-        "summary": "Caen tres elementos de la policía municipal de García acusados de supuesta extorsión a ciudadanos.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/caen-tres-policias-de-garcia-por-supuesta-extorsion/6082302519",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
-      },
-      {
-        "title": "Gobierno gradúa 200 nuevos policías en zona sur",
-        "summary": "Samuel García gradúa nuevos policías y refuerza seguridad en zona sur con Centro de Atención Ciudadana.",
-        "zona": "Monterrey",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/samuel-garcia-gradua-200-nuevos-policias-y-refuerza-seguridad-en-zona-sur-con-centro-de-atencion-ciudadana/v-vl2263498",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
-      },
-      {
-        "title": "IEEPCNL enfrenta casi 400 denuncias antes de 2027",
-        "summary": "Instituto electoral de Nuevo León suma casi 400 denuncias previo al inicio del proceso electoral 2026-2027.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/ieepcnl-suma-400-denuncias-rumbo-elecciones-2027",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
-      },
-      {
-        "title": "Tres policías de García detenidos por extorsión",
-        "summary": "Autoridades detienen a tres elementos de la Policía Municipal de García acusados de extorsión, evidenciando corrupción al interior de corporaciones locales.",
-        "zona": "Área metropolitana",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/detienen-a-3-policias-garcia",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Investigan multihomicidio de familia en Montemorelos",
-        "summary": "Fiscalía realiza cateos y asegura evidencia en casa vinculada al asesinato de una familia; continúa investigación del caso.",
+        "title": "Investigan multihomicidio en Montemorelos; fallece padre de víctima",
+        "summary": "Autoridades catearon domicilio en caso de familia asesinada en Montemorelos. Garo Moya, padre de víctima, falleció poco después.",
         "zona": "Nuevo León",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/catean-domicilio-de-familia-asesinada-en-montemorelos/1032184",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
+        "url": "https://elporvenir.mx/justicia/aseguran-droga-y-vehiculos-en-caso-del-multihomicidio/1032184",
+        "_added_at": "2026-10-07T01:34:34.597276-06:00"
       },
       {
-        "title": "Asaltan notaría en Santa Catarina; roban más de 30 mil pesos",
-        "summary": "Delincuentes sustraen efectivo y documentos de notaría ubicada en Santa Catarina en operación de robo a mano armada.",
+        "title": "Hombre muere tras ser atacado a golpes en San Nicolás",
+        "summary": "Sujeto fue asesinado junto a las vías del tren en San Nicolás.",
         "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/roban-30-mil-pesos-notaria-santa-catarina",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Sentencian a 25 años de prisión por atropello intencional",
-        "summary": "Tribunal dicta condena a hombre que atropelló intencionalmente a otro en Monterrey, causando su muerte.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/monterrey-sentencian-a-prision-a-hombre-que-atropello-a-otro",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Detienen hombre que intentaba viajar con menor desde Monterrey",
-        "summary": "Autoridades capturan a sujeto que pretendía trasladar a una menor de edad fuera de la ciudad.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/hombre-detenido-salir-monterrey-uan-menor",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Caudal del Río San Juan obstaculiza paso de vecinos",
-        "summary": "El río San Juan cubre los vados tras lluvias del primer frente frío, impidiendo que los vecinos crucen la zona.",
-        "zona": "Nuevo León",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/caudal-del-rio-san-juan-cubre-los-vados-vecinos-no-pueden-cruzar/9997337847",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
+        "url": "https://info7.mx/nuevoleon/matan-a-golpes-a-hombre-junto-a-las-vias-del-tren-en-san-nicolas/v7701324946",
+        "_added_at": "2026-10-07T01:34:34.597276-06:00"
       },
       {
-        "title": "Catean casa de menor sobreviviente en Montemorelos",
-        "summary": "Autoridades catearon una vivienda en Montemorelos relacionada con un menor que sobrevivió a un incidente.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/catean-casa-de-menor-sobreviviente-en-montemorelos/4904031807",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Hombre agrede a peatón con cuchillo en Pesquería",
-        "summary": "Detienen a sujeto tras atacar y herir a una persona con cuchillo en el municipio de Pesquería.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/pesqueria-nl-detienen-a-hombre-por-presunta-agresion-con-cuchillo",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
+        "title": "Shooting en Colonia La Campana deja víctimas",
+        "summary": "Perpetradores disparan contra sujetos en zona de Monterrey.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/balean-a-sujetos-en-colonia-la-campana/1032318",
+        "_added_at": "2026-10-07T01:34:34.597276-06:00"
       }
     ],
     "politica": [
       {
-        "title": "PT insiste en nueva encuesta contra Morena en NL",
-        "summary": "Partido del Trabajo se envalentona contra Morena e insiste en realizar nueva encuesta para candidatura en Nuevo León.",
+        "title": "Posible llegada de Lorena al PAN genera tensión interna",
+        "summary": "Movimiento de diputada hacia partido albiazul provoca fricción en sector del PAN en Nuevo León.",
         "zona": "Nuevo León",
         "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-pt-se-envalentona-contra-morena-e-insiste-en-una-nueva-encuesta-en-nl-7615/",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/congreso-nl-el-posible-desembarco-de-lorena-al-pan-genero-tension-en-un-sector-del-albiazul-5430/",
+        "_added_at": "2026-10-07T01:34:34.597276-06:00"
       },
       {
-        "title": "Waldo Fernández (PVEM) irá por gubernatura de NL",
-        "summary": "Edgar Salvatierra confirma que Waldo Fernández del PVEM será candidato para la gubernatura de Nuevo León.",
+        "title": "Partido Verde busca coalición con Waldo para gubernatura",
+        "summary": "Verde descarta candidatura de Clara y perfila a Waldo Fernández como opción para elección en Nuevo León.",
         "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/edgar-salvatierra-confirma-waldo-fernandez-pvem-para-ir-gubernatura-nl",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/partido-verde-perfila-waldo-fernandez-gubernatura-nuevo-leon",
+        "_added_at": "2026-10-07T01:34:34.597276-06:00"
       },
       {
-        "title": "Canales Clariond: ciudadanía está harta de Morena",
-        "summary": "Fernando Canales Clariond afirma que la ciudadanía está cansada de Morena rumbo a elecciones 2027.",
+        "title": "Marcelo Segovia se reúne con CFE por apagones",
+        "summary": "Funcionario local busca resolver problemas de suministro eléctrico en Monterrey.",
         "zona": "Monterrey",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/06/si-se-puede-y-lo-logramos-la-ciudadania-esta-harta-de-morena-afirma-canales-clariond-rumbo-a-2027/",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
-      },
-      {
-        "title": "Adrián de la Garza postura sólida para gubernatura",
-        "summary": "PRI ve en Adrián de la Garza una propuesta sólida para la candidatura a gubernatura de Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/pri-confia-adrian-de-garza-propuesta-solida-gubernatura-nl",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
-      },
-      {
-        "title": "Morena descarta debilitamiento en Nuevo León",
-        "summary": "Morena rechaza que esté debilitada en Nuevo León a pesar de divisiones y desbandadas en congreso.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/morena-descarta-debilitado-nuevo-leon-desbandada-congreso-divisiones",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
-      },
-      {
-        "title": "Arranca proceso electoral 2026-2027 en Nuevo León",
-        "summary": "Instituto Electoral de NL inicia oficialmente año electoral; autoridades piden campañas sin polarización ni descalificación.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/ieepcnl-inicia-proceso-electoral-nl-2026-2027-piden-etica-y-civilidad",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "IEEPCNL recibe casi 400 denuncias antes de iniciar año electoral",
-        "summary": "Instituto Electoral enfrenta centena de quejas previas al arranque oficial de campañas electorales.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/ieepcnl-suma-400-denuncias-rumbo-elecciones-2027",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Lorena Cuéllar: Gobierno NL debe liquidar 5 mil MDP en deuda",
-        "summary": "Congresista señala que administración estatal enfrentará obligación de pagar más de cinco mil millones en 2027.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/lorena-senala-que-gobierno-nl-debera-liquidar-mas-de-5-000-mdp-en-deuda-en-2027-549/",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Movimientos en MC fragmentan a la 4T en García",
-        "summary": "Cambios internos en Movimiento Ciudadano debilitan a Morena en municipio, fragmentando alianzas oficialistas.",
-        "zona": "Área metropolitana",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/diversos-movimientos-en-mc-fragmentan-la-4t-y-debilitan-a-morena-en-garcia-7967/",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Velasco incrementa tensión en Morena y respalda a Waldo",
-        "summary": "Velasco apoya a Waldo por el Verde, generando fricción dentro de la estructura de Morena en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/velasco-incrementa-la-tension-en-morena-nl-y-respalda-a-waldo-por-el-verde-4241/",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "PT exige nueva encuesta para candidatura en NL",
-        "summary": "El Partido del Trabajo cuestiona resultados y solicita una nueva encuesta para definir candidatos en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/morena-pt-exige-nuevas-encuestas-para-definir-candidaturas/",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "COCRI define representación de partidos en Congreso NL",
-        "summary": "La Comisión de Coordinación confirma la distribución de curules de los partidos en el Congreso local.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/cocri-define-representacion-de-los-partidos-en-el-congreso-de-nl",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Clara Luz rechaza haber entregado Nuevo León",
-        "summary": "La exgobernadora niega acusaciones de que Morena haya recibido el estado en condiciones desfavorables.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/clara-luz-flores-rechaza-hayan-entregado-leon",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Adrián de la Garza plantea alianza PRI-PAN para 2027",
-        "summary": "El exgobernador analiza posibles acuerdos entre partidos de oposición de cara a las elecciones estatales.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/adrian-la-garza-habla-una-posible-alianza-pri-pan-por-nuevo-leon-en-2027/",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Fechas clave del proceso electoral rumbo a 2027 en NL",
-        "summary": "Se confirman las principales fechas del calendario electoral para la próxima contienda estatal.",
-        "zona": "Nuevo León",
         "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/dan-fechas-claves-del-proceso-electoral-en-nl-rumbo-a-2027/3139584341",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
+        "url": "https://www.elhorizonte.mx/nuevoleon/marcelo-segovia-se-reune-con-cfe-por-apagones-en-monterrey/7208454824",
+        "_added_at": "2026-10-07T01:34:34.597276-06:00"
       }
     ],
     "economia": [
       {
-        "title": "NL perfila 5 mil MDD en nuevos proyectos industriales",
-        "summary": "Nuevo León proyecta atracción de 5 mil millones de dólares en nuevos proyectos industriales.",
+        "title": "Grupo Modelo invierte en agricultores para obtener cebada",
+        "summary": "Cervecera refuerza relación con productores de campo mexicanos para fortalecer cadena de suministro.",
         "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/nuevo-leon-perfila-5-mil-mdd-en-nuevos-proyectos-industriales/2079055261",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
-      },
-      {
-        "title": "NL consolida liderazgo económico del país",
-        "summary": "Samuel García asegura que Nuevo León consolida su posición como líder económico a nivel nacional.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/samuel-garcia-nuevo-leon-consolida-su-liderazgo-economico-7900/",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
-      },
-      {
-        "title": "Nuevo León perfila 5 mil MDD en proyectos industriales",
-        "summary": "Estado impulsa inversión en nuevos proyectos industriales por valor de cinco mil millones de dólares.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/perfila-nuevo-leon-5-mil-mdd-en-nuevos-proyectos-industriales/2935116779",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Samuel García califica migraciones como 'happy problem'",
-        "summary": "Gobernador considera positivo el crecimiento poblacional por llegada de foráneos atraídos por oportunidades laborales.",
-        "zona": "Nuevo León",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/politica/samuel-garcia-happy-problem-crecimiento-poblacional-nuevo-leon",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Estiman llegada de 190 mil foráneos a NL en 2027",
-        "summary": "Proyecciones indican que durante el próximo año llegarán casi dos centenares de mil personas atraídas por empleo.",
-        "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/10/6/estiman-llegada-de-190-mil-foraneos-a-nuevo-leon-durante-2027-291623.html",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Centro de Monterrey pierde habitantes y viviendas",
-        "summary": "Zona céntrica de capital experimenta despoblamiento y deterioro de infraestructura residencial.",
-        "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/10/6/del-auge-al-abandono-el-centro-de-monterrey-pierde-habitantes-y-viviendas-291577.html",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "IP advierte presión por alza en diésel y apagones",
-        "summary": "Iniciativa Privada señala presiones económicas derivadas de incremento en costo de combustible y falta de suministro eléctrico.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/finanzas/advierte-ip-de-nuevo-leon-presion-por-alza-en-diesel-y-apagones/6945988449",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Fábrica de Negocios llega a Nuevo León para emprendedores",
-        "summary": "Plataforma conecta a emprendedores locales con grandes cadenas comerciales para impulsar oportunidades de negocio.",
-        "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/fabrica-de-negocios-2026-oportunidades-para-emprendedores-en-monterrey/v-vl2263291",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Gobierno NL deberá liquidar más de 5,000 MDP en deuda",
-        "summary": "Lorena advierte que el estado tendrá que pagar más de cinco mil millones en deuda durante 2027.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/lorena-senala-que-gobierno-nl-debera-liquidar-mas-de-5-000-mdp-en-deuda-en-2027-549/",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "San Pedro invierte 10.2 millones en luminarias",
-        "summary": "El municipio adquiere luminarias por más de diez millones de pesos para obras de iluminación.",
-        "zona": "Área metropolitana",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/san-pedro-compra-luminarias-10-2-mdp-carros-navidenos-3-4-mdp",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Nuevo León sumará 144 eventos y más de 9,000 mdd",
-        "summary": "La entidad proyecta una significativa derrama económica con eventos que generarán más de nueve mil millones.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/finanzas/sumara-nuevo-leon-144-eventos-y-mas-de-9-000-mdd/9938347605",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Salario mínimo alcanza 1.95 canastas básicas",
-        "summary": "El poder adquisitivo aumenta permitiendo que el salario mínimo cubra casi dos canastas de consumo.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/finanzas/aumenta-poder-adquisitivo-y-salario-minimo-alcanza-1-95-canastas/5715673796",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
+        "url": "https://www.milenio.com/negocios/grupo-modelo-invertira-en-el-campo-comprara-mas-cebada-mexicana",
+        "_added_at": "2026-10-07T01:34:34.597276-06:00"
       }
     ],
     "eventos": [
       {
-        "title": "Selección Mexicana enfrenta Jamaica en Monterrey",
-        "summary": "Selección Mexicana se medirá contra Jamaica en Monterrey en su primer partido oficial de preparación.",
+        "title": "Museo de Monterrey exhibe bustos de 71 gobernantes mexicanos",
+        "summary": "Exhibición reúne esculturas de principales personajes públicos que han gobernado México.",
         "zona": "Monterrey",
-        "source": "Informe Regio",
-        "url": "https://informeregio.com/seleccion-mexicana-se-medira-contra-jamaica-en-monterrey-en-su-primera-prueba-oficial/",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
-      },
-      {
-        "title": "México enfrenta a Jamaica en Monterrey por Nations League",
-        "summary": "Selección Mexicana juega cuartos de final de Nations League en Estadio de Monterrey contra Jamaica.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/deportes/mexico-enfrentara-a-jamaica-en-monterrey-en-la-nations-league/9906406269",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Cierres viales por marcha del 2 de octubre en Monterrey",
-        "summary": "Autoridades informan sobre restricciones vehiculares en la ciudad para conmemoración de 2 de octubre.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/cierres-viales-marcha-del-2-de-octubre-2026-en-monterrey",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Palacio de Monterrey se ilumina por Parálisis Cerebral",
-        "summary": "Edificio emblemático de la ciudad participa en campaña de conciencia sobre discapacidad motriz.",
-        "zona": "Monterrey",
-        "source": "Informe Regio",
-        "url": "https://informeregio.com/palacio-de-monterrey-se-ilumina-de-verde-por-la-paralisis-cerebral/",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Cierran siete parajes turísticos en la Huasteca por caudal",
-        "summary": "Autoridades clausuran preventivamente sitios de recreación en región por aumento peligroso de nivel de ríos.",
-        "zona": "Nuevo León",
-        "source": "Informe Regio",
-        "url": "https://informeregio.com/cierran-preventivamente-siete-parajes-turisticos-en-la-huasteca-por-incremento-en-el-caudal-de-los-rios/",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Entregan 11 Premios Estatales de Turismo en NL",
-        "summary": "El estado reconoce iniciativas turísticas durante la celebración del Día Mundial del Turismo.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/nl-entrega-11-premios-estatales-turismo-dia-mundial",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Abren registro para Beca Rita Cetina en educación básica",
-        "summary": "Se inician trámites de inscripción para la beca Rita Cetina dirigida a estudiantes de primaria y secundaria.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/beca-rita-abren-registro-para-educacion-basica-en-nuevo-leon",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Demanda de maquillaje de terror crece en Halloween",
-        "summary": "Aumenta la solicitud de servicios de caracterización de terror en Nuevo León previo a las festividades.",
-        "zona": "Nuevo León",
         "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/halloween-dispara-la-demanda-de-maquillaje-de-terror-en-nl-catrinas-y-zombis-llenan-agendas/v-vl2263078",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
+        "url": "https://www.posta.com.mx/nuevo-leon/reconoces-estos-rostros-71-gobernantes-de-mexico-estan-reunidos-en-un-museo-de-monterrey/v-vl2263551",
+        "_added_at": "2026-10-07T01:34:34.597276-06:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Centro Monterrey pierde habitantes y viviendas",
-        "summary": "Centro histórico de Monterrey experimenta abandono con pérdida de población y unidades habitacionales.",
+        "title": "Paramédica de 17 años muere en choque de ambulancia",
+        "summary": "Joven trabajadora de Protección Civil fallece tras accidente vehicular en Monterrey.",
         "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/10/6/del-auge-al-abandono-el-centro-de-monterrey-pierde-habitantes-y-viviendas-291577.html",
-        "_added_at": "2026-10-06T18:19:22.103293-06:00"
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/fallece-paramedica-de-17-anos-tras-choque-en-constitucion/6942502727",
+        "_added_at": "2026-10-07T01:34:34.597276-06:00"
       },
       {
-        "title": "Restringen uso de celulares en escuelas de Nuevo León",
-        "summary": "Instituciones educativas implementan políticas para limitar acceso a dispositivos móviles durante jornadas escolares.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/restringen-uso-de-celulares-en-escuelas/1032110",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Advierten aumento de enfermedades respiratorias en otoño",
-        "summary": "Especialistas en salud alertan sobre incremento de afecciones respiratorias estacionales en población.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/otono-enfermedades-respiratorias-especialistas-llaman-cuidarse",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Alcaldesa de Zuazua denuncia falta de agua",
-        "summary": "Funcionaria municipal reporta déficit de suministro hídrico que afecta a familias de la localidad.",
+        "title": "Elemento de Protección Civil fallece en accidente vial",
+        "summary": "Paramédico de San Nicolás pierde la vida en incidente de tránsito.",
         "zona": "Área metropolitana",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/comunidad/acusa-alcaldesa-deyanira-martinez-familias-zuazua-no-tienen-agua",
-        "_added_at": "2026-10-06T13:57:04.259446-06:00"
-      },
-      {
-        "title": "Lluvias causan dos muertes y afectaciones en NL",
-        "summary": "El primer frente frío genera precipitaciones que dejan dos fallecidos, deslaves y vehículos varados.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/lluvias-frente-frio-1-deja-2-muertos-100-autos-varados-nl",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Muere trabajador tras caída de nueve metros en supermercado",
-        "summary": "Un empleado fallece al caer desde una altura en un establecimiento comercial de Guadalupe.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/guadalupe-muere-trabajador-tras-caer-nuve-metros-en-supermercado",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Expande NL su infraestructura de salud",
-        "summary": "El estado amplía sus servicios y facilidades de atención médica para mejorar cobertura.",
-        "zona": "Nuevo León",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/expande-nl-su-infraestructura-de-salud/1032108",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Escuelas reportan disminución de matrícula estudiantil",
-        "summary": "Planteles educativos enfrentan reducción en el número de alumnos inscritos.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/se-quedan-escuelas-sin-alumnos/1032107",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Deslave en río no afecta Línea 4 del Metro",
-        "summary": "Aunque hubo movimiento de tierra en el cauce, la infraestructura de la línea permanece segura.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/obra-linea-4-metro-segura-deslave-hernan-villarreal",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
-      },
-      {
-        "title": "Abuelo de agresores en secundaria pide disculpas",
-        "summary": "Pariente de los menores involucrados en ataque en Secundaria 13 expresa arrepentimiento públicamente.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/ataque-secundaria-abuelo-cuates-pide-disculpa-publica",
-        "_added_at": "2026-10-06T01:56:38.516628-06:00"
+        "url": "https://elporvenir.mx/justicia/fallece-paramedico-de-sn-tras-accidente/1032238",
+        "_added_at": "2026-10-07T01:34:34.597276-06:00"
       }
     ]
   },
-  "last_updated": "2026-10-06T18:19:22.103293-06:00"
+  "last_updated": "2026-10-07T01:34:34.597276-06:00"
 }
