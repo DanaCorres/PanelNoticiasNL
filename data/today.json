@@ -1,8 +1,48 @@
 {
   "date": "2026-10-08",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Juez ordena liberar a dos sentenciados por Casino Royale",
+        "summary": "Autoridad federal decreta libertad bajo protesta de 'La Rana' y 'El Voltaje', implicados en ataque a casino en Monterrey.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/ordenan-libertad-rana-voltaje-caso-casino-royale",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Hombre detenido por mantener encerrada a joven durante años",
+        "summary": "Sujeto en García engañó a menor por redes sociales en 2020 y la mantuvo privada de libertad hasta su detención.",
+        "zona": "Área metropolitana",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/10/8/engana-a-menor-de-13-anos-por-redes-sociales-y-la-obliga-a-vivir-con-el-es-detenido-en-garcia-291845.html",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Influencer 'Barbie de la Alianza' detenida con armas y drogas",
+        "summary": "Capturan a conocida creadora de contenido en Monterrey por posesión de armamento y narcóticos con presuntos vínculos delictivos.",
+        "zona": "Monterrey",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/influencer-la-barbie-la-alianza-fue-detenida-en-monterrey-armas-drogas-y-vinculos-grupo-delictivo/",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Dos hombres detenidos por presunto secuestro en colonia Moderna",
+        "summary": "Autoridades capturan a sujetos por privación de libertad en sector residencial de Monterrey.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/colonia-moderna-monterrey-dos-hombres-detenidos-privacion-de-libertad",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Cateo en Apodaca deja dos detenidos",
+        "summary": "Operativo de búsqueda y aseguramiento genera dos capturas en municipio conurbano.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/cateo-en-apodaca",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
       {
         "title": "Adolescente narra ataque múltiple de Cindy Tamez en Montemorelos",
         "summary": "Sobreviviente de 14 años declara ante fiscalía sobre presunto multihomicidio cometido por Cindy Tamez en Nuevo León.",
@@ -54,6 +94,54 @@
     ],
     "politica": [
       {
+        "title": "Samuel García rendirá Quinto Informe el 14 de octubre",
+        "summary": "Congreso Local cita al gobernador para presentar reporte de gestión ante legislatura.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/cita-congreso-a-samuel-para-rendir-quinto-informe-el-14-de-octubre/1032651",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Waldo Fernández busca evitar ruptura de la 4T en Nuevo León",
+        "summary": "Dirigente Morena llama a mantener unidad entre partidos y define estrategia rumbo a 2027.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/waldo-fernandez-unidad-morena-nuevo-leon-pvem-contempla-gubernatura",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Tatiana exige reponer proceso interno morenista en Nuevo León",
+        "summary": "Legisladora demanda revalidación de elección de candidatos por presuntas irregularidades.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/exige-tatiana-reponer-proceso-interno-morenista-en-nl/1032652",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "PAN propone debate entre aspirantes a presidencia municipal de Monterrey",
+        "summary": "Partido azul plantea jornada pública donde candidatos expongan propuestas de gobierno.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/propone-pan-debate-entre-aspirantes-a-monterrey/1032653",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Lorena de la Garza respalda debates internos del PAN",
+        "summary": "Alcaldesa de Monterrey apoya proceso de selección interna de candidato para su reelección.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/lorena-de-la-garza-apoya-debates-sacar-candidato-alcaldia-monterrey",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "PT respalda a Jesús Elizondo como coordinador estatal",
+        "summary": "Partido de Trabajadores ratifica designación de su representante en estructura estatal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/respalda-pt-a-jesus-elizondo-como-coordinador-estatal/1032394",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
         "title": "PVEM espera encuesta para definir candidatura de Waldo",
         "summary": "Partido Verde busca sondeos de opinión antes de lanzar candidatura de Waldo Fernández para Nuevo León.",
         "zona": "Nuevo León",
@@ -72,6 +160,14 @@
     ],
     "economia": [
       {
+        "title": "Merco México utiliza IA para medir reputación empresarial",
+        "summary": "Sistema de inteligencia artificial revoluciona evaluación de desempeño corporativo en región.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/merco-mexico-2026-ia-revoluciona-la-medicion-reputacion-corporativa",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
         "title": "Costos para independizarse en Nuevo León",
         "summary": "Análisis de inversión requerida para vivir independientemente en el estado.",
         "zona": "Nuevo León",
@@ -81,6 +177,30 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Monterrey arranca campaña para prevenir cáncer de mama",
+        "summary": "Gobierno municipal inicia jornada de sensibilización y detección temprana de enfermedad.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/arranca-monterrey-campana-para-prevenir-cancer-de-mama/1032657",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Santiago invita a celebración de 'Altares de los Nuestros 2026'",
+        "summary": "Municipio promueve festividad que conmemora tradición de honra a difuntos.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/invita-santiago-a-celebracion-de-altares-de-los-nuestros-2026/1032656",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Family Business Forum Latinoamérica aborda retos empresariales",
+        "summary": "Evento reúne especialistas para analizar desafíos de empresas familiares en región.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/family-business-forum-latinoamerica-2026-especialistas-analizan-retos",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
       {
         "title": "Llevan despensas y medicinas en helicóptero a La Huasteca",
         "summary": "Operativo aéreo distribuye ayuda humanitaria y atención médica en zonas incomunicadas de la región.",
@@ -100,6 +220,54 @@
     ],
     "sociedad": [
       {
+        "title": "Gobierno de Monterrey facilitó 500 cirugías de la vista",
+        "summary": "Programa municipal 'Se ve mejor sin cataratas' beneficia a población con intervenciones visuales.",
+        "zona": "Monterrey",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/gobierno-de-monterrey-facilito-500-cirugias-para-mejorar-la-salud-visual-8793/",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Inicia próxima semana vacunación por temporada invernal",
+        "summary": "Secretaría de Salud de Nuevo León comienza campaña contra influenza y covid.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/inicia-proxima-semana-vacunacion-por-temporada-invernal/7255422419",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Salud de Nuevo León pide no exceder jornadas de 12 horas",
+        "summary": "Dependencia exhorta a respeto de horarios laborales tras accidente de paramédica.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/salud-nuevo-leon-exhorta-respertar-guardias-12-horas-muerte-paramedica",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Inauguran escuela secundaria en Cadereyta",
+        "summary": "Gobierno estatal pone en operación nueva institución educativa en municipio de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/inaugura-estado-escuela-secundaria-en-cadereyta/7168176677",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Presentan estudio para aliviar congestionamiento vial en Cumbres",
+        "summary": "Análisis propone soluciones a problemas de tráfico en zona residencial de Monterrey.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/presentan-estudio-para-aliviar-congestionamiento-vial-en-cumbres/1032654",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
+        "title": "Proponen gratuidad anual en testamentos para adultos mayores",
+        "summary": "Iniciativa busca facilitar trámites sucesorios para población de tercera edad en estado.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/testamentos-adultos-mayores-nl",
+        "_added_at": "2026-10-08T14:27:16.487331-06:00"
+      },
+      {
         "title": "Reconocen trayectoria de Mizada Mohamed y Josué Becerra",
         "summary": "Celebración de logros académicos y profesionales de destacados personajes de Nuevo León.",
         "zona": "Monterrey",
@@ -109,5 +277,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-08T01:51:26.042755-06:00"
+  "last_updated": "2026-10-08T14:27:16.487331-06:00"
 }
