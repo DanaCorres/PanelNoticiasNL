@@ -1,8 +1,48 @@
 {
   "date": "2026-10-07",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Investigan presunto centro de exterminio en Nuevo León",
+        "summary": "Comisión de Búsqueda de México apoya investigación sobre instalación clandestina en la entidad.",
+        "zona": "Nuevo León",
+        "source": "EIT Media (política)",
+        "url": "https://eitmedia.tech/2026/10/07/comision-de-busqueda-de-mexico-apoya-investigacion-sobre-presunto-centro-de-exterminio/",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "Samuel García afirma que criminales 'le hacen los mandados'",
+        "summary": "Gobernador realiza declaración sobre estructura de crimen organizado en la entidad.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir (local)",
+        "url": "https://elporvenir.mx/local/asegura-samuel-que-en-nl-los-criminales-les-hacen-los-mandado/1032409",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "Diputado exige seguridad para transportistas de carga",
+        "summary": "Víctor Pérez hace llamado urgente a SICT para coordinar acciones de protección en carreteras.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/victor-perez-exige-a-sict-seguridad-para-transportistas-de-carga/4544096531",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "Condenan a 25 años a hombre por homicidio en Monterrey",
+        "summary": "Sentencian a Iván \"N\" por asesinato de adolescente en San Bernabé tras proceso judicial.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/condenan-a-25-anos-de-prision-a-responsable-de-homicidio-en-san-bernabe-en-monterrey/vl2263972",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "Detienen a segundo sospechoso de robo a influencer Karely Ruiz",
+        "summary": "Capturan a otro presunto implicado en asalto a domicilio de Karely Ruiz en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/detienen-otro-presunto-implicado-robo-casa-influencer-karely-ruiz-en-nuevo-leon/",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
       {
         "title": "Madre asesina a pareja e hijos en Montemorelos; testigo revela detalles",
         "summary": "Fiscalía investiga multihomicidio en Montemorelos donde mujer habría asesinado a su pareja e hijos. Testigo relata que ocurrió por coraje; víctima consumía alcohol y medicamentos.",
@@ -82,17 +122,41 @@
         "source": "INFO7",
         "url": "https://info7.mx/nuevoleon/matan-a-golpes-a-hombre-junto-a-las-vias-del-tren-en-san-nicolas/v7701324946",
         "_added_at": "2026-10-07T01:34:34.597276-06:00"
-      },
-      {
-        "title": "Shooting en Colonia La Campana deja víctimas",
-        "summary": "Perpetradores disparan contra sujetos en zona de Monterrey.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/balean-a-sujetos-en-colonia-la-campana/1032318",
-        "_added_at": "2026-10-07T01:34:34.597276-06:00"
       }
     ],
     "politica": [
+      {
+        "title": "Congreso cita a Samuel García para presentar Quinto Informe",
+        "summary": "Legislatura estatal convoca a gobernador para rendición de cuentas sobre gestión de gobierno.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/fijan-fecha-quinto-informe-samuel-garcia-congreso-nuevo-leon",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "Morena tensa por designación de Clara Luz e influencia de Barrón",
+        "summary": "Dirigentes de Morena especulan sobre retorno de exfuncionario tras nombramiento en organización.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/en-morena-creen-que-la-designacion-de-clara-luz-impulsa-el-regreso-de-barron-4029/",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "Partido Verde analiza ir solo con Waldo en gubernatura",
+        "summary": "Verde Ecologista estudia estrategia de candidatura independiente para 2027 en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/partido-verde-analiza-ir-solo-con-waldo-fernandez-en-nuevo-leon",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "Congreso aprueba gratuidad de autopistas cuando obras afecten vialidad",
+        "summary": "Legisladores avalan medida para exentar peajes en caso de deterioro por construcción.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/congreso-nuevo-leon-avala-gratuidad-autopistas-obras-afecten-vialidad",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
       {
         "title": "Ariadna toma distancia de Morena en Nuevo León; perciben colapso",
         "summary": "Gobernadora se aleja de estructura morenista estatal, generando análisis sobre debilitamiento del partido en la entidad.",
@@ -226,6 +290,22 @@
     ],
     "eventos": [
       {
+        "title": "Marea rosa impulsa detección oportuna de cáncer de mama en Monterrey",
+        "summary": "Iniciativa de diagnóstico temprano busca mejorar atención a mujeres con síntomas sospechosos.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/uncategorized/impulsa-monterrey-deteccion-oportuna-de-cancer-de-mama",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "UANL ingresa a Top 10 de universidades sustentables del mundo",
+        "summary": "Universidad Nacional Autónoma de Nuevo León entra en ranking global por iniciativas ambientales.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/ingresa-uanl-al-top-10-de-universidades-mas-sustentable-del-mundo",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
         "title": "UANL inicia ciclo escolar con más de 220 mil estudiantes",
         "summary": "Universidad Autónoma de Nuevo León comienza nuevo período académico con cifra récord de matriculación.",
         "zona": "Monterrey",
@@ -259,6 +339,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Denuncian negligencia institucional tras muerte de paramédica",
+        "summary": "Legisladores cuestionan responsabilidad estatal en fallecimiento de trabajadora de San Nicolás.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/denuncian-en-el-congreso-negligencia-institucional-tras-muerte-de-paramedica-de-san-nicolas",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "Señales previas pueden evitar tragedias escolares en Nuevo León",
+        "summary": "Análisis sobre cómo identificar comportamientos de riesgo en estudiantes para prevenir violencia.",
+        "zona": "Nuevo León",
+        "source": "Informe Regio",
+        "url": "https://informeregio.com/mas-alla-de-las-aulas-las-senales-previas-que-pueden-evitar-tragedias-escolares/",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "DIF Nuevo León beneficia a 1,262 personas con apoyos",
+        "summary": "Institución estatal entrega asistencia gratuita a población vulnerable.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/dif-nuevo-leon-beneficiara-a-1-262-personas-con-apoyos-gratuitos/7582365356",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "SET va contra escuelas militarizadas irregulares",
+        "summary": "Secretaría de Educación Técnica fiscaliza funcionamiento de planteles no autorizados.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/resultado?query=SET+va+contra+escuelas%C2%A0militarizadas+irregulares&select=todas",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
+      {
+        "title": "Diputado exige reactivar Consejo de Agua y Drenaje",
+        "summary": "Legislador pide reinstalación de órgano colegiado para gestión hídrica estatal.",
+        "zona": "Nuevo León",
+        "source": "Informe Regio",
+        "url": "https://informeregio.com/diputado-javier-caballero-exige-reactivar-consejo-de-agua-y-drenaje/",
+        "_added_at": "2026-10-07T18:40:19.658180-06:00"
+      },
       {
         "title": "Crisis educativa: solo 61% de niños asistió a preescolar en estado",
         "summary": "Rezago en inscripciones a kínder en Nuevo León amenaza con impactos en educación primaria.",
@@ -309,5 +429,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-07T14:23:13.142618-06:00"
+  "last_updated": "2026-10-07T18:40:19.658180-06:00"
 }
