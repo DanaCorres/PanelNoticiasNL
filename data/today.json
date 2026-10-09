@@ -1,8 +1,56 @@
 {
   "date": "2026-10-08",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Juez ordena libertad de dos Zetas del ataque al Casino Royale",
+        "summary": "Tribunal federal dispone liberación de 'La Rana' y 'El Voltaje', sentenciados por el ataque a Casino Royale en 2011. Familiares de víctimas exigen aclaración sobre la medida.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/8/liberan-a-dos-sentenciados-por-ataque-a-casino-royale-en-monterrey-291834.html",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Fiscal pospone protección a familias por caso Casino Royale",
+        "summary": "Tras orden de libertad a implicados, fiscal Leija anuncia que coordinará medidas de protección con familias de víctimas.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/8/lo-platicamos-fiscal-pospone-proteccion-a-familias-por-caso-casino-royale-291887.html",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Cae hombre por violar a niña durante seis años por redes",
+        "summary": "Detienen a sujeto que contactó a menor a través de redes sociales y la violó durante seis años consecutivos.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/cae-por-contactar-a-nina-por-redes-y-violarla-durante-seis-anos/3791892949",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Hombre detenido por mantener encerrada joven durante años",
+        "summary": "Capturan a individuo en García por retener a joven bajo cautiverio prolongado.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/garcia-hombre-es-detenido-mantener-encerrada-joven",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "CNDH coloca NL en primer lugar en supervisión penitenciaria",
+        "summary": "Comisión Nacional de Derechos Humanos posiciona a Nuevo León como líder nacional en supervisión de centros penitenciarios.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/supervision-penitenciaria-nl",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Desaparece adolescente de 16 años en Apodaca",
+        "summary": "Se reporta desaparición de menor de edad en municipio de Apodaca.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/adolescente-desaparecida-apodaca",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
       {
         "title": "Juez ordena liberar a dos sentenciados por Casino Royale",
         "summary": "Autoridad federal decreta libertad bajo protesta de 'La Rana' y 'El Voltaje', implicados en ataque a casino en Monterrey.",
@@ -74,25 +122,57 @@
         "source": "El Porvenir",
         "url": "https://elporvenir.mx/justicia/detienen-a-montachoques-tras-fallida-extorsion/1032618",
         "_added_at": "2026-10-08T01:51:26.042755-06:00"
-      },
-      {
-        "title": "Policía dispara a presunto asaltante tras persecución",
-        "summary": "Elemento de seguridad abre fuego contra sospechoso durante operativo en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/dispara-policia-a-presunto-asaltante-tras-persecucion/1032617",
-        "_added_at": "2026-10-08T01:51:26.042755-06:00"
-      },
-      {
-        "title": "Denuncia negligencia en muerte de paramédica de Saltillo",
-        "summary": "Bancada de Movimiento Ciudadano cuestiona negligencia de autoridades en fallecimiento de trabajadora sanitaria.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/denuncia-bancada-mc-negligencia-en-muerte-de-paramedica-de-sn/1233330322",
-        "_added_at": "2026-10-08T01:51:26.042755-06:00"
       }
     ],
     "politica": [
+      {
+        "title": "Samuel García anuncia fecha de Quinto Informe de Gobierno",
+        "summary": "Gobernador convocado por Congreso para presentar informe el 14 de octubre. Establece metas de cierre de administración.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/anuncia-samuel-garcia-fecha-quinto-informe-gobierno",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Aliado de Quiroz busca candidatura independiente en NL",
+        "summary": "Figura cercana a Ricardo Monreal impulsa candidatura como independiente rumbo a elecciones en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/un-aliado-de-quiroz-busca-la-candidatura-independiente-por-nuevo-leon-2195/",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Movimiento del Sombrero busca llegar a NL para 2027",
+        "summary": "Manuel Cantú 'El Potro' anuncia candidatura a gubernatura de NL por 2027 vinculado a este movimiento como independiente.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/8/movimiento-del-sombrero-busca-llegar-a-nl-rumbo-a-2027-291894.html",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Verde sondea coalición con PT en Nuevo León",
+        "summary": "Tras desmarcarse de Morena, PVEM explora alianza con Partido del Trabajo para próximas elecciones en la entidad.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/tras-desmarcarse-de-morena-el-verde-sondea-una-coalicion-con-el-pt-en-nl-6113/",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Designan nuevo jefe policial en Guadalupe",
+        "summary": "Juan Heriberto Morales es nombrado director general de la Policía municipal de Guadalupe.",
+        "zona": "Área metropolitana",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/guadalupe-designa-juan-heriberto-morales-director-general-policia",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Samuel García analiza ofertas para dirigencia nacional de MC",
+        "summary": "Gobernador valora propuestas para encabezar partido y potencial mudanza a Ciudad de México tras término de mandato.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/samuel-garcia-analiza-futuro-politico-ofertas-dirigencia-nacional-mc",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
       {
         "title": "Samuel García rendirá Quinto Informe el 14 de octubre",
         "summary": "Congreso Local cita al gobernador para presentar reporte de gestión ante legislatura.",
@@ -160,6 +240,22 @@
     ],
     "economia": [
       {
+        "title": "NL moderniza Archivo General de Notarías para agilizar trámites",
+        "summary": "Estado implementa mejoras en infraestructura del archivo para acelerar gestión y atención al público.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/nl-moderniza-archivo-general-de-notarias-para-agilizar-tramites/v9103689686",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Eugenio Maiz obtiene libertad tras diez meses preso",
+        "summary": "Juez resuelve que dueño de Next Energy puede llevar su proceso en libertad provisional.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/8/eugenio-maiz-domene-empresario-de-nl-obtiene-su-libertad-tras-10-meses-preso-291871.html",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
         "title": "Merco México utiliza IA para medir reputación empresarial",
         "summary": "Sistema de inteligencia artificial revoluciona evaluación de desempeño corporativo en región.",
         "zona": "Nuevo León",
@@ -177,6 +273,22 @@
       }
     ],
     "eventos": [
+      {
+        "title": "EXPO MIEDO 2026 llega a San Nicolás con casa del terror",
+        "summary": "San Nicolás prepara casa embrujada con múltiples actividades de terror para Halloween 2026.",
+        "zona": "Área metropolitana",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/video-san-nicolas-tendra-una-casa-del-terror-fechas-horarios-y-como-entrar-a-expo-miedo-2026/v-vl2264416",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Cinco años de cultura en NL transforman espacios comunitarios",
+        "summary": "Reseña de proyectos culturales desarrollados en Nuevo León que han impactado comunidades locales.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/cinco-anos-de-cultura-en-nuevo-leon-estas-son-las-joyas-que-transformaron-sus-espacios-y-comunidades-/v-vl2264382",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
       {
         "title": "Monterrey arranca campaña para prevenir cáncer de mama",
         "summary": "Gobierno municipal inicia jornada de sensibilización y detección temprana de enfermedad.",
@@ -219,6 +331,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Casa Hogar de Jesús celebra 60 años apoyando adolescentes",
+        "summary": "Institución conmemora seis décadas de asistencia a menores en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/casa-hogar-de-jesus-celebra-60-anos-en-nuevo-leon",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "NL arrancará vacunación invernal la próxima semana",
+        "summary": "Estado inicia campaña de inmunización contra virus respiratorios estacionales.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/nuevo-leon-arrancara-vacunacion-invernal-proxima-semana",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Monterrey arranca campaña para prevenir cáncer de mama",
+        "summary": "Capital lanza iniciativa de sensibilización y detección temprana de enfermedad oncológica.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/arranca-monterrey-campana-para-prevenir-cancer-de-mama/1032657",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Niño violinista busca apoyo para viajar a Japón",
+        "summary": "Menor de nueve años recolecta fondos para concretar gira musical internacional.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/salvador-nino-violinista-de-nuevo-leon-busca-apoyo-para-viajar-a-japon",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Entregaron más de 150 mil uniformes gratuitos en Juárez",
+        "summary": "Municipio distribuye prendas escolares a estudiantes de instituciones públicas.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/entregaron-mas-de-150-mil-uniformes-gratuitos-en-juarez/9661934742",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
+      {
+        "title": "Solicitan donadores de sangre para niño grave tras garrapata",
+        "summary": "Menor de nueve años requiere transfusión urgente tras complicaciones por mordedura de arácnido.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/solicitan-donadores-de-sangre-para-nino-tras-mordedura-de-garrapata/vl2264439",
+        "_added_at": "2026-10-08T18:56:03.622965-06:00"
+      },
       {
         "title": "Gobierno de Monterrey facilitó 500 cirugías de la vista",
         "summary": "Programa municipal 'Se ve mejor sin cataratas' beneficia a población con intervenciones visuales.",
@@ -277,5 +437,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-08T14:27:16.487331-06:00"
+  "last_updated": "2026-10-08T18:56:03.622965-06:00"
 }
