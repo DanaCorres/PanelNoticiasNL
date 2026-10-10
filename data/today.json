@@ -1,449 +1,112 @@
 {
-  "date": "2026-10-09",
-  "run_count": 3,
+  "date": "2026-10-10",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Tres policías mueren en volcadura en Escobedo",
-        "summary": "Elementos de Fuerza Civil fallecieron tras volcadura de patrulla en el Anillo Periférico de Escobedo.",
+        "title": "Detienen a sujeto con orden de aprehensión en San Pedro Garza García",
+        "summary": "Capturan a Juan N. en avenida Ricardo Margáin por presunto robo de herramientas en la zona.",
         "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/mueren-3-elementos-de-fuerza-civil-en-volcadura-en-escobedo/1033193",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/detienen-en-san-pedro-a-hombre-con-orden-de-aprehension-vigente/8996226268",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
       },
       {
-        "title": "Operativo Espejo blindará límites de NL y Coahuila",
-        "summary": "Autoridades lanzan operativo coordinado para reforzar seguridad en frontera entre Nuevo León y Coahuila contra crimen organizado.",
+        "title": "Asaltan negocio de cerveza en Montemorelos con machete",
+        "summary": "Hombre roba aproximadamente 7 mil pesos de una distribuidora de bebidas en el sur de Nuevo León.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/nuevo-leon-y-coahuila-lanzan-operativo-espejo-para-blindar-frontera",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+        "url": "https://www.telediario.mx/policia/montemorelos-hombre-asalta-negocio-con-machete-y-roba-7-mil-pesos",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
       },
       {
-        "title": "Hombre mata a pareja por celos en García",
-        "summary": "Sujeto asesina a su compañera e hirió gravemente a su suegra y cuñada en el municipio de García.",
+        "title": "Incendio consume vivienda en Guadalupe sin lesionados",
+        "summary": "Siniestro afectó varios cuartos de inmueble en cruce de Privada Hermosillo y Noria de los Ángeles.",
         "zona": "Área metropolitana",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/seguridad/2026/10/9/hombre-asesina-a-su-pareja-y-deja-graves-a-su-suegra-y-cunada-en-garcia-291925.html",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "Liberan a dos condenados por Casino Royale",
-        "summary": "Tribunal ordena soltar a dos presos sentenciados por el caso del ataque al Casino Royale en Monterrey.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/ordenan-liberar-a-2-condenados-por-caso-del-casino-royale/1033091",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "Tres policías de Fuerza Civil mueren en volcadura en Escobedo",
-        "summary": "Patrulla de Fuerza Civil se volcó en el anillo periférico de Escobedo, dejando tres elementos fallecidos en el accidente.",
-        "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/estados/mueren-elementos-fuerza-civil-volcadura-anillo-periferico-escobedo-nl",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Hombre asesina a su pareja por celos en García",
-        "summary": "Hombre asesinó a su esposa tras una discusión en García; también dejó graves a su suegra y cuñada. Condenado a 45 años.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/esto-sabemos-hombre-asesino-esposa-garcia-nuevo-leon-feminicidio",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Desaparece niño de 5 años en Monterrey",
-        "summary": "Se reporta desaparición de menor de cinco años en la ciudad de Monterrey.",
-        "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/seguridad/2026/10/9/desaparece-nino-de-5-anos-en-monterrey-291937.html",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Capturan a dos con armas y droga en Apodaca",
-        "summary": "Operativo en Apodaca detiene a dos personas y asegura armas y sustancias prohibidas tras cateo.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/capturan-a-dos-y-aseguran-armas-y-droga-tras-cateo-en-apodaca/1033119",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Detienen a presunto homicida de taxista",
-        "summary": "Autoridades capturan a sospechoso de matar a taxista en operativo de seguridad.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/detienen-a-presunto-homicida-de-taxista/1033124",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Exigían 800 mil pesos para liberar a empleados",
-        "summary": "Banda criminal detenida tras extorsionar a empresa pidiendo rescate de 800 mil pesos.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/exigian-800-mil-para-liberar-a-empleados/1033118",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Hombre encarcelado por encierro de menor durante 5 años",
-        "summary": "Capturan a individuo acusado de mantener encerrado a un menor de edad durante cinco años.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/cae-hombre-por-encerrar-a-menor-durante-5-anos/1033117",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Condenan a 25 años de prisión por homicidio en Juárez",
-        "summary": "Juzgado sentencia a hombre responsable de homicidio ocurrido en 2020; ordena reparación de daño e indemnización.",
-        "zona": "Nuevo León",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/condenan-a-25-anos-de-prision-a-hombre-por-homicidio-en-2020/1223302832",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
+        "url": "https://info7.mx/nuevoleon/incendio-consume-vivienda-en-guadalupe-no-hay-lesionados/v4189829778",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
       },
       {
-        "title": "Paramédica fallece en grave accidente de ambulancia en Monterrey",
-        "summary": "Melissa Sofía Guell Martínez muere tras colisión de ambulancia contra columna de Metro.",
+        "title": "Hombre resulta herido tras riña familiar en Monterrey",
+        "summary": "Conflicto doméstico en colonia Niño Artillero termina con disparo que lesiona al sujeto.",
         "zona": "Monterrey",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/muere-paramedica-melissa-sofia-guel-martinez-tras-accidente-ambulancia-choco-columna-metro-monterrey/",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/rina-familiar-deja-hombre-herido-bala-colonia-nino-artillero-monterrey",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
       },
       {
-        "title": "Detienen a cuatro hombres con marihuana en Monterrey",
-        "summary": "Policía municipal captura a sospechosos en colonia Sarabia tras sorprenderlos con droga.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/detienen-a-cuatro-hombres-con-mariguana-en-monterrey/v7746253261",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
-      },
-      {
-        "title": "Buscan a joven desaparecido en Monterrey",
-        "summary": "Familiares de Jahir Cristhian solicitan ayuda para localizar a joven de 27 años.",
+        "title": "Joven desaparecido en colonia Barrio Estrella de Monterrey",
+        "summary": "Reportan la desaparición de Alexis Aldair López Rivera de 32 años en la capital regiomontana.",
         "zona": "Monterrey",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/jahir-coronado-bocardo-desaparece-joven-27-anos-juarez-nl",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
+        "url": "https://www.telediario.mx/policia/desaparecido-alexis-aldair-lopez-rivera-busqueda-monterrey",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
+      },
+      {
+        "title": "Muere joven tras tres meses internado por choque vial",
+        "summary": "Fallece paciente tras permanecer hospitalizado desde accidente automovilístico en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/muere-joven-tras-casi-tres-meses-internado-por-choque-vial/v9045549987",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Samuel García critica gestión anterior de NL",
-        "summary": "Gobernador señala irregularidades y falta de obras públicas en administración previa.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/samuel-garcia-critica-gobierno-anterior-nl-por-falta-de-obras",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "Movimiento Ciudadano considera a Colosio para 2027",
-        "summary": "MC mantiene opciones abiertas para candidato a gubernatura de Nuevo León en próximas elecciones.",
-        "zona": "Nuevo León",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/10/9/mantiene-mc-a-colosio-entre-sus-opciones-para-la-gubernatura-de-nl-en-2027-291976.html",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "PRI busca cerrar vacío legal en Servicio Civil",
-        "summary": "Partido intenta resolver problemas litigiosos derivados de nueva ley de servicio civil en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/ley-del-servicio-civil-nl",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "Samuel García rendirá su quinto informe en noviembre",
-        "summary": "Gobernador de Nuevo León presentará su informe anual con evento público programado para noviembre.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/enviara-samuel-su-quinto-informe-hara-evento-publico-en-noviembre/1033093",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Movimiento Ciudadano ve posibilidades en cinco gubernaturas para 2027",
-        "summary": "MC presume perspectivas competitivas para elecciones de gobernadores en 2027, incluyendo Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/movimiento-ciudadano-2027",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Corte ordena a San Pedro permitir usos multifamiliares",
-        "summary": "Tribunal de Justicia Administrativa ordena a San Pedro Garza García autorizar cambios en zonificación para multifamiliar.",
-        "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/ordenan-san-pedro-garza-garcia-uso-suelo-multifamiliar-los-callejones",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Coparmex cuestiona aumento de financiamiento a partidos",
-        "summary": "Organización empresarial de Nuevo León critica incremento de recursos asignados a partidos políticos.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/economia/coparmex-cuestiona-aumento-financiamiento-partidos-politicos-nl",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "IEE convoca a integrar 51 comisiones municipales",
-        "summary": "Instituto Estatal Electoral abre convocatoria para formar comisiones electorales en municipios de Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/convoca-iee-a-integrar-las-51-comisiones-municipales/1033092",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Samuel García advierte retiro de apoyo a mujeres por uso indebido",
-        "summary": "Gobernador anuncia cancelación de tarjeta de 2 mil pesos si se utiliza para comprar alcohol o cigarros.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/samuel-garcia-advierte-retiro-apoyo-economico-mujeres-por-uso-indebido",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Ordenan liberar a dos condenados del caso Casino Royale",
-        "summary": "Autoridades judiciales ordena excarcelación de dos individuos sentenciados por ataque a Casino Royale.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/ordenan-liberar-a-2-condenados-por-caso-del-casino-royale/1033091",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Samuel García busca que 50% de neoloneses use transporte público",
-        "summary": "Gobernador plantea como meta para fin de sexenio incrementar uso del transporte público en la entidad.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/meta-samuel-garcia-fin-sexenio-mitad-noeloneses-use-transporte-publico",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
-      },
-      {
-        "title": "Entrega Samuel escuela secundaria en Cadereyta",
-        "summary": "Gobernador inaugura nueva escuela secundaria en municipio de Cadereyta.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/entrega-samuel-escuela-secundaria-en-cadereyta/1033064",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
-      },
-      {
-        "title": "Víctor Pérez señala seguridad en carreteras como pendiente importante",
-        "summary": "Funcionario reconoce necesidad urgente de mejorar seguridad en infraestructura vial de la entidad.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/asegura-victor-perez-que-seguridad-en-carreteras-es-un-pendiente-im/1033062",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
-      }
-    ],
-    "economia": [
-      {
-        "title": "Monterrey reconocida por prevenir trata durante Mundial",
-        "summary": "Asociación de hoteleros destaca acciones de administración para proteger menores en torneo internacional.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/reconocen-a-monterrey-por-prevenir-trata-durante-mundial/7389285998",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "Programa Ayudamos suma 117 mil beneficiarias",
-        "summary": "En un año, iniciativa de apoyo a mujeres alcanzó más de cien mil beneficiadas en Nuevo León.",
+        "title": "Impulsa Nuevo León estrategia Cero Clausuras a MiPyMEs",
+        "summary": "Gobierno estatal promueve iniciativa para evitar cierre de micro y pequeñas empresas locales.",
         "zona": "Nuevo León",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/programa-ayudamos-suma-117-000-beneficiarias-en-un-ano/6112117575",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+        "url": "https://info7.mx/nuevoleon/impulsa-nuevo-leon-la-estrategia-cero-clausuras-a-mi-py-m-es/9174629667",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
       },
       {
-        "title": "IMSS rechaza aumento salarial de 2.9% con protestas",
-        "summary": "Trabajadores del IMSS en Monterrey protestan bloqueando avenidas por aumento insuficiente de salarios.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/protesta-trabajadores-imss-aumento-salarial-desabasto-medicamentos-nl",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "San Pedro propone ampliar zonas de parquímetros con 763 cajones",
-        "summary": "Municipio busca expandir áreas de parquímetros pagados en la zona con más de 700 espacios adicionales.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/san-pedro-busca-instalar-763-cajones-parquimetros-adicionales",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Nuevo León supera 2 millones de empleos formales",
-        "summary": "IMSS reporta que entidad alcanza cifra histórica de empleos formales en el sector.",
+        "title": "Renuncia secretario de obras públicas de Nuevo Laredo",
+        "summary": "Funcionario abandona cargo en administración municipal de la frontera tamaulipeca.",
         "zona": "Nuevo León",
         "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/nuevo-leon-supera-los-2-millones-de-empleos-formales-imss/2143498278",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
-      },
-      {
-        "title": "AutoZone llega a mil tiendas en México",
-        "summary": "Empresa de autopartes abre su tienda mil en país y refuerza infraestructura logística.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/economia/autozone-llega-mil-tiendas-mexico-amplia-cobertura",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
+        "url": "https://www.elhorizonte.mx/tamaulipas/renuncia-secretario-de-obras-publicas-de-nuevo-laredo/5494419455",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
       }
     ],
+    "economia": [],
     "eventos": [
       {
-        "title": "FIL Monterrey 2026 reúne figuras literarias globales",
-        "summary": "Feria Internacional del Libro presenta programa con autores destacados para próxima edición.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/feria-internacional-del-libro-monterrey-2026-trae-figuras-literarias-globales-y-actividades",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "Pumpkin Dash llega a Monterrey con actividades",
-        "summary": "Evento tradicional de temporada de otoño ofrece actividades y distintos precios de entrada.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/pumpkin-dash-2026-en-monterrey-estas-son-las-actividades-y-precios",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "Parlamentarios jóvenes concluyen decimoctava sesión",
-        "summary": "Congreso de Nuevo León cierra encuentro del Parlamento de la Juventud con participación de estudiantes.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/parlamento-de-la-juventud",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "FIL Monterrey 2026 reúne figuras literarias globales",
-        "summary": "Feria Internacional del Libro en Monterrey convoca a autores reconocidos mundialmente con variada agenda de actividades.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/fil-monterrey-2026-trae-figuras-literarias-globales-y-actividades",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "México enfrenta a Jamaica en Monterrey por Concacaf",
-        "summary": "Selección Mexicana juega cuartos de final de Concacaf Nations League contra Jamaica en Monterrey.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/deportes/definen-fecha-y-hora-para-el-mexico-ante-jamaica-en-monterrey/4387281594",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Casa de la Cultura exhibe ciclo de películas de terror gratis",
-        "summary": "Ciclo \"Las Geografías del Miedo\" presenta películas de terror sin costo en la Casa de la Cultura de Monterrey.",
-        "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/10/9/exhibiran-peliculas-de-terror-gratis-en-la-casa-de-la-cultura-de-monterrey-291962.html",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "FACPYA de la UANL celebra 74 aniversario",
-        "summary": "Facultad de Contabilidad y Administración de la UANL conmemora sus 74 años con paneles, conferencias y eventos deportivos.",
-        "zona": "Monterrey",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/facpya-celebrara-su-74-aniversario-conoce-la-agenda-completa-de-actividades-y-conferencias/vl2264760",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Pumpkin Dash abre sus puertas en Monterrey",
-        "summary": "Festival de otoño regresa a ciudad con tradiciones, entretenimiento y actividades familiares.",
+        "title": "Monterrey albergará Expo Pádel y Tenis en octubre",
+        "summary": "Exposición de pádel y tenis llega a la capital el 17 y 18 de octubre para aficionados.",
         "zona": "Monterrey",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/arranca-pumpkin-dash-2026-monterrey-fotos-y-detalles-festival",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
+        "url": "https://www.milenio.com/deportes/tenis/monterrey-recibira-la-expo-padel-y-tenis-el-17-y-18-de-octubre",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
       },
       {
-        "title": "Salud NL alista semana de vacunación contra influenza",
-        "summary": "Estado inicia campaña de vacunación invernal para inmunizar a población contra virus influenza.",
-        "zona": "Nuevo León",
+        "title": "Pumpkin Dash en Monterrey con actividades y tarifas",
+        "summary": "Evento de octubre ofrece diversas actividades con precios accesibles para la comunidad.",
+        "zona": "Monterrey",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/ciencia-y-salud/salud-nl-iniciara-semana-vacunacion-influenza",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
+        "url": "https://www.milenio.com/comunidad/pumpkin-dash-2026-monterrey-actividades-y-precios",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Paramédica muere en accidente de ambulancia",
-        "summary": "Melissa Sofía, joven rescatista, falleció al impactarse ambulancia contra estructura en Monterrey.",
-        "zona": "Monterrey",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/muere-paramedica-melissa-sofia-guel-martinez-tras-accidente-ambulancia-choco-columna-metro-monterrey/",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "Trabajadores del IMSS protestan por salarios",
-        "summary": "Personal del instituto rechaza aumento de 2.9% y demanda mejoras salariales bloqueando vialidades.",
+        "title": "Sultanes prepara Fuerza Rosa para conciencia del cáncer de mama",
+        "summary": "Equipo de beisbol organiza edición 2026 de evento para sensibilización oncológica femenina.",
         "zona": "Monterrey",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/protesta-trabajadores-imss-aumento-salarial-desabasto-medicamentos-nl",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+        "url": "https://www.milenio.com/beisbol/sultanes/sultanes-se-prepara-para-edicion-2026-de-fuerza-rosa",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
       },
       {
-        "title": "Samuel García advierte retiro de apoyo por mal uso",
-        "summary": "Gobernador anuncia que suspenderá asistencia a mujeres si recursos se usan en vicios.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/samuel-garcia-advierte-retiro-apoyo-economico-mujeres-por-uso-indebido",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "San Pedro propone ampliar zona de estacionamientos",
-        "summary": "Municipio busca instalar 763 nuevos cajones de parquímetros en sus principales avenidas.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/san-pedro-busca-instalar-763-cajones-parquimetros-adicionales",
-        "_added_at": "2026-10-09T18:27:24.208725-06:00"
-      },
-      {
-        "title": "Paramédica Melissa Sofía fallece en accidente de ambulancia",
-        "summary": "Rescatista de Monterrey muere al chocar ambulancia contra columna del metro. Se rinde guardia de honor a la joven.",
+        "title": "Tigres vence a Toluca y se acerca a zona de Liguilla",
+        "summary": "Felinos superan 3-2 al superlíder Toluca y avanzan en tabla rumbo a fase final.",
         "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/rinden-guardia-de-honor-paramedica-san-nicolas-nl-fallecida-accidente",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Secretaría de Salud pide no exceder jornadas laborales en auxilio",
-        "summary": "Autoridad sanitaria advierte a corporaciones de rescate sobre sobrecarga de turnos tras accidente de paramédica.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/pide-ss-a-corporaciones-de-auxilio-no-exceder-jornadas-laborales/1033090",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Casa Móvil de Bienestar Animal visita Constituyentes",
-        "summary": "Sanidad Nuevo León lleva programa de cuidado animal a la colonia Constituyentes de Monterrey.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/lleva-sn-casa-movil-de-bienestar-animal-a-la-constituyentes/1033086",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Convocan a jóvenes a involucrarse en política electoral",
-        "summary": "Instituto Electoral anima a ciudadanía juvenil a participar activamente en procesos y comisiones electorales.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/invitan-a-jovenes-a-involucrarse-en-politica/1033089",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Intensifican trabajos de bacheo en avenidas de Monterrey",
-        "summary": "Administración municipal acelera reparación de baches en principales arterias viales de la ciudad.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/intensifican-trabajos-de-bacheo-en-avenidas-regiomontanas/1033087",
-        "_added_at": "2026-10-09T13:58:10.803590-06:00"
-      },
-      {
-        "title": "Nuevo León tiene el mejor sistema de salud de México",
-        "summary": "Gobernador destaca logros en consolidación de infraestructura y servicios de salud en entidad.",
-        "zona": "Nuevo León",
         "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/nuevo-leon-tiene-el-mejor-sistema-de-salud-de-mexico-gobernador/5591711311",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
-      },
-      {
-        "title": "Fuerza Regia asegura clasificación directa a Playoffs LNBP",
-        "summary": "Equipo de basquetbol de Monterrey sella su pase directo a fase de eliminación directa.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/deportes/basquetbol/fuerza-regia-sella-su-clasificacion-directa-a-playoffs-de-lnbp-2026",
-        "_added_at": "2026-10-09T01:48:40.167937-06:00"
+        "url": "https://www.elhorizonte.mx/deportes/tigres-vence-a-toluca-y-se-acerca-a-zona-de-liguilla/4615329743",
+        "_added_at": "2026-10-10T01:35:58.273923-06:00"
       }
     ]
   },
-  "last_updated": "2026-10-09T18:27:24.208725-06:00"
+  "last_updated": "2026-10-10T01:35:58.273923-06:00"
 }
