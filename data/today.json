@@ -1,8 +1,40 @@
 {
   "date": "2026-10-09",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Tres policías mueren en volcadura en Escobedo",
+        "summary": "Elementos de Fuerza Civil fallecieron tras volcadura de patrulla en el Anillo Periférico de Escobedo.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/mueren-3-elementos-de-fuerza-civil-en-volcadura-en-escobedo/1033193",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
+        "title": "Operativo Espejo blindará límites de NL y Coahuila",
+        "summary": "Autoridades lanzan operativo coordinado para reforzar seguridad en frontera entre Nuevo León y Coahuila contra crimen organizado.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/nuevo-leon-y-coahuila-lanzan-operativo-espejo-para-blindar-frontera",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
+        "title": "Hombre mata a pareja por celos en García",
+        "summary": "Sujeto asesina a su compañera e hirió gravemente a su suegra y cuñada en el municipio de García.",
+        "zona": "Área metropolitana",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/10/9/hombre-asesina-a-su-pareja-y-deja-graves-a-su-suegra-y-cunada-en-garcia-291925.html",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
+        "title": "Liberan a dos condenados por Casino Royale",
+        "summary": "Tribunal ordena soltar a dos presos sentenciados por el caso del ataque al Casino Royale en Monterrey.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/ordenan-liberar-a-2-condenados-por-caso-del-casino-royale/1033091",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
       {
         "title": "Tres policías de Fuerza Civil mueren en volcadura en Escobedo",
         "summary": "Patrulla de Fuerza Civil se volcó en el anillo periférico de Escobedo, dejando tres elementos fallecidos en el accidente.",
@@ -94,6 +126,30 @@
     ],
     "politica": [
       {
+        "title": "Samuel García critica gestión anterior de NL",
+        "summary": "Gobernador señala irregularidades y falta de obras públicas en administración previa.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/samuel-garcia-critica-gobierno-anterior-nl-por-falta-de-obras",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
+        "title": "Movimiento Ciudadano considera a Colosio para 2027",
+        "summary": "MC mantiene opciones abiertas para candidato a gubernatura de Nuevo León en próximas elecciones.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/9/mantiene-mc-a-colosio-entre-sus-opciones-para-la-gubernatura-de-nl-en-2027-291976.html",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
+        "title": "PRI busca cerrar vacío legal en Servicio Civil",
+        "summary": "Partido intenta resolver problemas litigiosos derivados de nueva ley de servicio civil en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/ley-del-servicio-civil-nl",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
         "title": "Samuel García rendirá su quinto informe en noviembre",
         "summary": "Gobernador de Nuevo León presentará su informe anual con evento público programado para noviembre.",
         "zona": "Nuevo León",
@@ -176,6 +232,22 @@
     ],
     "economia": [
       {
+        "title": "Monterrey reconocida por prevenir trata durante Mundial",
+        "summary": "Asociación de hoteleros destaca acciones de administración para proteger menores en torneo internacional.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/reconocen-a-monterrey-por-prevenir-trata-durante-mundial/7389285998",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
+        "title": "Programa Ayudamos suma 117 mil beneficiarias",
+        "summary": "En un año, iniciativa de apoyo a mujeres alcanzó más de cien mil beneficiadas en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/programa-ayudamos-suma-117-000-beneficiarias-en-un-ano/6112117575",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
         "title": "IMSS rechaza aumento salarial de 2.9% con protestas",
         "summary": "Trabajadores del IMSS en Monterrey protestan bloqueando avenidas por aumento insuficiente de salarios.",
         "zona": "Monterrey",
@@ -209,6 +281,30 @@
       }
     ],
     "eventos": [
+      {
+        "title": "FIL Monterrey 2026 reúne figuras literarias globales",
+        "summary": "Feria Internacional del Libro presenta programa con autores destacados para próxima edición.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/feria-internacional-del-libro-monterrey-2026-trae-figuras-literarias-globales-y-actividades",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
+        "title": "Pumpkin Dash llega a Monterrey con actividades",
+        "summary": "Evento tradicional de temporada de otoño ofrece actividades y distintos precios de entrada.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/pumpkin-dash-2026-en-monterrey-estas-son-las-actividades-y-precios",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
+        "title": "Parlamentarios jóvenes concluyen decimoctava sesión",
+        "summary": "Congreso de Nuevo León cierra encuentro del Parlamento de la Juventud con participación de estudiantes.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/parlamento-de-la-juventud",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
       {
         "title": "FIL Monterrey 2026 reúne figuras literarias globales",
         "summary": "Feria Internacional del Libro en Monterrey convoca a autores reconocidos mundialmente con variada agenda de actividades.",
@@ -259,6 +355,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Paramédica muere en accidente de ambulancia",
+        "summary": "Melissa Sofía, joven rescatista, falleció al impactarse ambulancia contra estructura en Monterrey.",
+        "zona": "Monterrey",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/muere-paramedica-melissa-sofia-guel-martinez-tras-accidente-ambulancia-choco-columna-metro-monterrey/",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
+        "title": "Trabajadores del IMSS protestan por salarios",
+        "summary": "Personal del instituto rechaza aumento de 2.9% y demanda mejoras salariales bloqueando vialidades.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/protesta-trabajadores-imss-aumento-salarial-desabasto-medicamentos-nl",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
+        "title": "Samuel García advierte retiro de apoyo por mal uso",
+        "summary": "Gobernador anuncia que suspenderá asistencia a mujeres si recursos se usan en vicios.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/samuel-garcia-advierte-retiro-apoyo-economico-mujeres-por-uso-indebido",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
+      {
+        "title": "San Pedro propone ampliar zona de estacionamientos",
+        "summary": "Municipio busca instalar 763 nuevos cajones de parquímetros en sus principales avenidas.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/san-pedro-busca-instalar-763-cajones-parquimetros-adicionales",
+        "_added_at": "2026-10-09T18:27:24.208725-06:00"
+      },
       {
         "title": "Paramédica Melissa Sofía fallece en accidente de ambulancia",
         "summary": "Rescatista de Monterrey muere al chocar ambulancia contra columna del metro. Se rinde guardia de honor a la joven.",
@@ -317,5 +445,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-09T13:58:10.803590-06:00"
+  "last_updated": "2026-10-09T18:27:24.208725-06:00"
 }
