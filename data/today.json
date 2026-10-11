@@ -1,305 +1,88 @@
 {
-  "date": "2026-10-10",
-  "run_count": 2,
+  "date": "2026-10-11",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Tres agentes de Fuerza Civil mueren en volcadura",
-        "summary": "Tres elementos de la corporación fallecieron tras voladura de su vehículo en Nuevo León durante operativo.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/fallecen-tres-de-fuerza-civil-tras-volcadura/1033193",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Mujer condenada a 105 años por homicidios y secuestro",
-        "summary": "Tribunal sentencia a mujer por crímenes que incluyen secuestro y asesinato en García y Santa Catarina.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/garcia-y-santa-catarina-dan-105-anos-de-carcel-mujer-por-homicidios",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Homicidio por celos deja una muerta en García",
-        "summary": "Hombre asesina a su pareja por celos e hiere a dos mujeres más en la zona de García.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/asesina-a-su-pareja-por-celos-y-hiere-a-dos-mujeres-en-garcia/1033185",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Dos repartidores atacados a balazos en sur de Monterrey",
-        "summary": "Ataque a tiros deja dos repartidores heridos de gravedad en colonia Burócratas Municipales.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/atacan-a-balazos-2-repartidos-sur-monterrey-resultan-heridos",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Robo en notaría de Monterrey: caja fuerte y documentos",
-        "summary": "Seis encapuchados roban caja fuerte, equipo y documentos de notaría pública en Monterrey.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/hombres-roban-caja-fuerte-documentos-equipo-notaria-publica-monterrey",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Toma clandestina detectada tras fuga de combustible",
-        "summary": "Autoridades localizan toma ilegal de gasolina en Santa Catarina tras investigación de derrame.",
-        "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/toma-clandestina-santa-catarina-nuevo-leon-fuga-combustible",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Nueva Línea 6 del Metro realiza pruebas de operación",
-        "summary": "Sistema de monorriel inicia pruebas en la nueva línea 6 del Metro de Monterrey.",
-        "zona": "Monterrey",
-        "source": "ABC Noticias",
-        "url": "https://abcnoticias.mx/local/2026/10/10/realizan-pruebas-de-monorriel-en-nueva-linea-6-del-metro-292041.html",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Trabajadores del IMSS bloquean avenida Félix U. Gómez",
-        "summary": "Protesta de empleados y pensionados del IMSS causa cierre de importante vialidad en Monterrey.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/trabajadores-del-imss-bloquean-avenida-felix-u-gomez/3988650705",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Detienen a sujeto con orden de aprehensión en San Pedro Garza García",
-        "summary": "Capturan a Juan N. en avenida Ricardo Margáin por presunto robo de herramientas en la zona.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/detienen-en-san-pedro-a-hombre-con-orden-de-aprehension-vigente/8996226268",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
-      },
-      {
-        "title": "Asaltan negocio de cerveza en Montemorelos con machete",
-        "summary": "Hombre roba aproximadamente 7 mil pesos de una distribuidora de bebidas en el sur de Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/montemorelos-hombre-asalta-negocio-con-machete-y-roba-7-mil-pesos",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
-      },
-      {
-        "title": "Incendio consume vivienda en Guadalupe sin lesionados",
-        "summary": "Siniestro afectó varios cuartos de inmueble en cruce de Privada Hermosillo y Noria de los Ángeles.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/incendio-consume-vivienda-en-guadalupe-no-hay-lesionados/v4189829778",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
-      },
-      {
-        "title": "Hombre resulta herido tras riña familiar en Monterrey",
-        "summary": "Conflicto doméstico en colonia Niño Artillero termina con disparo que lesiona al sujeto.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/rina-familiar-deja-hombre-herido-bala-colonia-nino-artillero-monterrey",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
-      },
-      {
-        "title": "Joven desaparecido en colonia Barrio Estrella de Monterrey",
-        "summary": "Reportan la desaparición de Alexis Aldair López Rivera de 32 años en la capital regiomontana.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/desaparecido-alexis-aldair-lopez-rivera-busqueda-monterrey",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
-      },
-      {
-        "title": "Muere joven tras tres meses internado por choque vial",
-        "summary": "Fallece paciente tras permanecer hospitalizado desde accidente automovilístico en Nuevo León.",
+        "title": "Fiscalía allana casa de exrepresentante de Proyectos 9",
+        "summary": "Autoridades catearon domicilio del exabogado del grupo acusado de estafar más de 1,200 millones de pesos en venta de departamentos en Nuevo León.",
         "zona": "Nuevo León",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/muere-joven-tras-casi-tres-meses-internado-por-choque-vial/v9045549987",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
+        "url": "https://info7.mx/nuevoleon/catea-fiscalia-casa-de-exrepresentante-de-proyectos-9/5871325852",
+        "_added_at": "2026-10-11T01:40:24.490599-06:00"
+      },
+      {
+        "title": "Sentencian a mujer a 105 años por secuestro y homicidios",
+        "summary": "Tribunal condena a mujer en Nuevo León por delitos de secuestro y homicidio múltiple tras investigación de autoridades.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/mujer-es-sentenciada-105-anos-carcel-secuestro-homicidio-nl",
+        "_added_at": "2026-10-11T01:40:24.490599-06:00"
+      },
+      {
+        "title": "Roban caja fuerte y documentos de notaría en Monterrey",
+        "summary": "Delincuentes sustraen caja fuerte y documentos de una notaría en la capital regia en operación de robo coordinado.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/roban-caja-fuerte-y-documentos-de-una-notaria-en-monterrey/v3182059889",
+        "_added_at": "2026-10-11T01:40:24.490599-06:00"
+      },
+      {
+        "title": "Detienen a dos con drogas y armamento tras riña en Escobedo",
+        "summary": "Policía captura a dos individuos con drogas y armas tras intervenir en enfrentamiento en colonia Agropecuarios de Escobedo.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/descubren-a-dos-con-drogas-y-armamento-tras-rina-en-escobedo/6240267862",
+        "_added_at": "2026-10-11T01:40:24.490599-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Samuel García defiende avances de su gestión",
-        "summary": "Gobernador presenta balance de su administración y ataca a la vieja política en evento público.",
+        "title": "Samuel García ultiman nuevo libro con reflexiones políticas",
+        "summary": "Gobernador regiomontano prepara publicación donde comparte trayectoria y consejos para jóvenes interesados en política.",
         "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/samuel-garcia-defiende-obras-quinto-informe-arremete-vieja-politica",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/samuel-garcia-alista-su-nuevo-libro-trayectoria-y-consejos-politicos-a-jovenes-/v-vl2265252",
+        "_added_at": "2026-10-11T01:40:24.490599-06:00"
       },
       {
-        "title": "Mariana Rodríguez decidirá su futuro político en diciembre",
-        "summary": "Excandidata anunciará en próximo mes si continúa en actividad política o se retira.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/mariana-rodriguez-definira-diciembre-futuro-politico",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "MC mantiene abierta posibilidad de Colosio como candidato",
-        "summary": "Movimiento Ciudadano no descarta lanzar a Colosio para la próxima gubernatura.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/deja-mc-abierta-posibilidad-de-lanzar-a-colosio-por-la-gubernatura/1033422",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Clara Luz Flores rinde protesta como coordinadora de Morena",
-        "summary": "Nueva coordinadora estatal de Morena toma posesión del cargo en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/rinde-protesta-clara-luz-como-coordinadora-de-morena-en-nl",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Tatiana Clouthier anuncia nuevo movimiento tras cambio en Morena",
-        "summary": "Exfuncionaria crea nuevo movimiento en respuesta a designación de Clara Luz Flores.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/tatiana-clouthier-crea-movimiento-en-nuevo-leon-la-designacion-clara-luz-flores/",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Tesorería de NL distribuye 299 millones a municipios",
-        "summary": "Gobierno estatal transfiere participaciones y aportaciones para financiamiento municipal.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/nuevo-leon-tesoreria-distribuye-299-millones-de-pesos-a-municipios",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "INE abre 80 vacantes en 14 distritos electorales de NL",
-        "summary": "Instituto Electoral anuncia convocatoria para ocupar posiciones en distritos del estado.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/tiene-ine-80-vacantes-disponibles-en-los-14-distritos-electorales/1033420",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Impulsa Nuevo León estrategia Cero Clausuras a MiPyMEs",
-        "summary": "Gobierno estatal promueve iniciativa para evitar cierre de micro y pequeñas empresas locales.",
-        "zona": "Nuevo León",
+        "title": "San Nicolás pierde habitantes y presupuesto estatal",
+        "summary": "Municipio metropolitano experimenta despoblación y reducción de recursos externos asignados por gobierno local.",
+        "zona": "Área metropolitana",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/impulsa-nuevo-leon-la-estrategia-cero-clausuras-a-mi-py-m-es/9174629667",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
-      },
-      {
-        "title": "Renuncia secretario de obras públicas de Nuevo Laredo",
-        "summary": "Funcionario abandona cargo en administración municipal de la frontera tamaulipeca.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/tamaulipas/renuncia-secretario-de-obras-publicas-de-nuevo-laredo/5494419455",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
+        "url": "https://info7.mx/nuevoleon/san-nicolas-pierde-habitantes-y-tambien-recursos-externos/5008959496",
+        "_added_at": "2026-10-11T01:40:24.490599-06:00"
       }
     ],
-    "economia": [
-      {
-        "title": "Banorte y Caintra impulsan créditos ágiles para pymes",
-        "summary": "Banco y cámara empresarial firman convenio para facilitar financiamiento a pequeñas empresas.",
-        "zona": "Nuevo León",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/banorte-y-caintra-firman-convenio-para-impulsar-creditos-mas-agiles-para-pymes-de-nuevo-leon/",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Nuevo León lidera ecosistema nacional de data centers",
-        "summary": "Estado se convierte en primera entidad en integrar clúster de electrodomésticos con industria digital.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/es-nl-primera-entidad-en-integrar-ecosistema-de-data-centers/1033421",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Nuevo León supera dos millones de trabajadores formales",
-        "summary": "Estado rompe barrera histórica en formalización del empleo según datos oficiales.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/supera-nl-barrera-de-los-2-millones-de-trabajadores-formales/1033424",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      }
-    ],
+    "economia": [],
     "eventos": [
       {
-        "title": "Feria Internacional del Libro comienza en Cintermex",
-        "summary": "Inicia FIL Monterrey 2026 con actividades literarias y culturales en centro de convenciones.",
+        "title": "FIL Monterrey inaugura edición 34 en Cintermex",
+        "summary": "Feria Internacional del Libro abre nueve días de actividades literarias y culturales en recinto ferial capitalino.",
         "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/inicia-feria-internacional-del-libro-monterrey-cintermex-2026",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/la-fil-monterrey-inaugura-su-edicion-34-en-cintermex-abre-nueve-dias-de-literatura-y-cultura/v-vl2265216",
+        "_added_at": "2026-10-11T01:40:24.490599-06:00"
       },
       {
-        "title": "MARCO Móvil lleva galería y taller a San Pedro de Pinta",
-        "summary": "Museo de Arte Contemporáneo móvil visita comunidad con actividades culturales y artísticas.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/cultura/marco-movil-lleva-galeria-arte-a-san-pedro-de-pinta",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Poder Judicial abre stand en Feria Internacional del Libro",
-        "summary": "Institución judicial participa en FIL Monterrey 2026 con exhibición y actividades.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/poder-judicial-de-nuevo-leon-inaugura-stand-en-fil-monterrey",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Monterrey albergará Expo Pádel y Tenis en octubre",
-        "summary": "Exposición de pádel y tenis llega a la capital el 17 y 18 de octubre para aficionados.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/deportes/tenis/monterrey-recibira-la-expo-padel-y-tenis-el-17-y-18-de-octubre",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
-      },
-      {
-        "title": "Pumpkin Dash en Monterrey con actividades y tarifas",
-        "summary": "Evento de octubre ofrece diversas actividades con precios accesibles para la comunidad.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/pumpkin-dash-2026-monterrey-actividades-y-precios",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
+        "title": "Expo Guau invita a adoptar perros y gatos",
+        "summary": "Nuevo León promueve adopción de mascotas durante evento especializado en animales de compañía.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/nuevo-leon-invita-a-adoptar-perros-y-gatos-durante-expo-guau/5871983361",
+        "_added_at": "2026-10-11T01:40:24.490599-06:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Psicóloga recomienda atender salud mental infantil temprano",
-        "summary": "Especialista explica importancia de cuidar bienestar emocional de niños desde edad temprana.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/salud-mental-infantil-psicologa-explica-senales-de-alerta-en-ninos",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Programa 'Ayudamos a las Mujeres' alcanza 117 mil beneficiarias",
-        "summary": "Iniciativa de apoyo a mujeres llega a meta importante de beneficiadas en el estado.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/llega-programa-ayudamos-a-las-mujeres-a-117-mil-beneficiadas/1033427",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Vecinos de Guadalupe afectados por aguas negras cinco días",
-        "summary": "Falla en sistema de drenaje deja más de 30 casas sin servicio en colonia de Guadalupe.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/guadalupe-nl-aguas-negras-afectan-mas-de-30-casas-en-diaz-ordaz",
-        "_added_at": "2026-10-10T18:03:50.482315-06:00"
-      },
-      {
-        "title": "Sultanes prepara Fuerza Rosa para conciencia del cáncer de mama",
-        "summary": "Equipo de beisbol organiza edición 2026 de evento para sensibilización oncológica femenina.",
+        "title": "Trabajadores del IMSS protestan por incremento salarial",
+        "summary": "Personal del instituto médico realiza manifestaciones en segundo día de bloqueos en Monterrey exigiendo mejora de salarios.",
         "zona": "Monterrey",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/beisbol/sultanes/sultanes-se-prepara-para-edicion-2026-de-fuerza-rosa",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
-      },
-      {
-        "title": "Tigres vence a Toluca y se acerca a zona de Liguilla",
-        "summary": "Felinos superan 3-2 al superlíder Toluca y avanzan en tabla rumbo a fase final.",
-        "zona": "Monterrey",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/deportes/tigres-vence-a-toluca-y-se-acerca-a-zona-de-liguilla/4615329743",
-        "_added_at": "2026-10-10T01:35:58.273923-06:00"
+        "url": "https://www.milenio.com/comunidad/trabajadores-imss-protestan-segundio-dia-monterrey-incremento-salarial",
+        "_added_at": "2026-10-11T01:40:24.490599-06:00"
       }
     ]
   },
-  "last_updated": "2026-10-10T18:03:50.482315-06:00"
+  "last_updated": "2026-10-11T01:40:24.490599-06:00"
 }
