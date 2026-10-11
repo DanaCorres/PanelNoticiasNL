@@ -1,8 +1,48 @@
 {
   "date": "2026-10-11",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Roban caja fuerte en notaría de Monterrey; sustraen 100 mil pesos",
+        "summary": "Seis sujetos encapuchados robaron una notaría en Monterrey y se llevaron una caja fuerte con 100 mil pesos en efectivo.",
+        "zona": "Monterrey",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/roban-notaria-monterrey-caja-fuerte-miravalle/",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Operativos en San Pedro dejan 17 detenidos en dos días",
+        "summary": "La Secretaría de Seguridad Pública realiza operativos preventivos en San Pedro Garza García, resultando en 17 detenciones en 48 horas.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/operativos-en-san-pedro-dejan-17-detenidos-en-dos-dias/5739578587",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Balean a dos repartidores de materiales en zona de Burócratas",
+        "summary": "Dos repartidores fueron atacados a balazos mientras laboraban en la zona de Burócratas en Monterrey.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/balean-a-dos-repartidores-de-materiales-en-la-burocratas/1033698",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Incendio en estación de gas consume camión de transporte en Juárez",
+        "summary": "Un incendio en una estación de gasolina en Juárez consumió una unidad de la Ruta 223 sin causar lesionados.",
+        "zona": "Área metropolitana",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/10/11/se-incendia-estacion-de-gas-en-juarez-fuego-consume-camion-de-la-ruta-223-292080.html",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Perros atacan a presunto ladrón en Montemorelos",
+        "summary": "Un presunto delincuente fue atacado por dos perros al intentar ingresar a una vivienda en Montemorelos, sufriendo heridas.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/perros-atacan-a-presunto-ladron-en-casa-de-montemorelos/1197733008",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
       {
         "title": "Fiscalía allana casa de exrepresentante de Proyectos 9",
         "summary": "Autoridades catearon domicilio del exabogado del grupo acusado de estafar más de 1,200 millones de pesos en venta de departamentos en Nuevo León.",
@@ -38,6 +78,62 @@
     ],
     "politica": [
       {
+        "title": "PT exige nueva encuesta a Morena para definir candidaturas en NL",
+        "summary": "El Partido del Trabajo cuestiona resultados de encuestas previas y pide realizar nuevas votaciones para elegir candidatos en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/morena-pt-exige-nuevas-encuestas-para-definir-candidaturas/",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Adrian de la Garza analiza alianzas PRI-PAN para 2027",
+        "summary": "El exgobernador Adrian de la Garza expone posibles escenarios de alianzas políticas entre el PRI y PAN para las elecciones de 2027.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/adrian-la-garza-habla-una-posible-alianza-pri-pan-por-nuevo-leon-en-2027/",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "PRI no descarta más cambios en estructura del Congreso",
+        "summary": "El Partido Revolucionario Institucional señala que podría realizar ajustes adicionales en su representación legislativa.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/pri-no-descarta-mas-cambios-en-congreso/1033755",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Gobernador inaugura edición 34 de la FIL Monterrey",
+        "summary": "Samuel García abrió la Feria Internacional del Libro en su trigésima cuarta edición en Cintermex.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/inaugura-gobernador-la-edicion-34-de-feria-internacional-del-libro/1033753",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Samuel García destaca liderazgo económico de Nuevo León",
+        "summary": "El gobernador subraya que Nuevo León consolida su posición como referente económico a nivel nacional.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/samuel-garcia-nuevo-leon-consolida-su-liderazgo-economico-7900/",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Trabajadores del IMSS bloquean avenida Félix U. Gómez en Monterrey",
+        "summary": "Empleados del Instituto Mexicano del Seguro Social cerraron vía principal en Monterrey por conflicto laboral sobre salarios.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/monterrey-protesta-imss-bloquean-avenida-felix-u-gomez-por-salarios",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Impulsan iniciativa para reforzar seguridad vial en el estado",
+        "summary": "Autoridades presentan propuesta legislativa para mejorar medidas de seguridad en carreteras y vialidades.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/impulsaran-iniciativa-para-reforzar-la-seguridad-vial/1033722",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
         "title": "Samuel García ultiman nuevo libro con reflexiones políticas",
         "summary": "Gobernador regiomontano prepara publicación donde comparte trayectoria y consejos para jóvenes interesados en política.",
         "zona": "Nuevo León",
@@ -54,8 +150,73 @@
         "_added_at": "2026-10-11T01:40:24.490599-06:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "UANL amplía oferta técnica con nueva unidad en García",
+        "summary": "La Universidad Autónoma de Nuevo León abre un campus adicional en García con programas de educación técnica.",
+        "zona": "Área metropolitana",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/amplia-uanl-oferta-tecnica-con-nueva-unidad-en-garcia/",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Exportaciones de camiones logran mayor alza anual",
+        "summary": "Las ventas internacionales de la industria de manufactura de camiones registran su más alto crecimiento del año.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/finanzas/si-pesan-exportaciones-de-camiones-logran-su-mayor-alza-anual/2416304789",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Precio del gas LP en Nuevo León del 11 al 17 de octubre",
+        "summary": "Se actualiza el costo del gas LP para la semana en el estado de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/nuevo-leon-precio-gas-lp-del-11-al-17-octubre-2026",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "San Nicolás pierde habitantes y también recursos externos",
+        "summary": "El municipio de San Nicolás experimenta reducción demográfica que impacta sus ingresos por transferencias estatales.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/san-nicolas-pierde-habitantes-y-tambien-recursos-externos/5008959496",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "FIL Monterrey 2026 ofrece actividades gratis el domingo 11 de octubre",
+        "summary": "La Feria Internacional del Libro presenta diversos eventos y presentaciones de autores sin costo para asistentes.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/fil-monterrey-2026-en-cintermex-actividades-horarios-y-autores-del-domingo-11-de-octubre/vl2265362",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Invitan a familias de Nuevo León a adoptar mascotas en Expo Guau",
+        "summary": "Se realiza evento de adopción de animales con participación del Centro de Atención Animal del estado.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/invitan-a-familias-de-nuevo-leon-adoptar-mascotas-en-la-expo-guau/5300512922",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Lanzan segunda edición del concurso de video de Jóvenes",
+        "summary": "Se abre convocatoria para que jóvenes participen en competencia estatal de producción audiovisual.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/lanzan-la-segunda-edicion-del-concurso-de-video-de-jovenes/1033428",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Luis Huitrón presenta 'México a través de 7 siglos con las Meninas'",
+        "summary": "Obra teatral que combina historia y comedia mostrará la evolución de México en evento cultural en Monterrey.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/luis-huitron-presenta-mexico-a-traves-de-7-siglos-con-las-meninas",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
       {
         "title": "FIL Monterrey inaugura edición 34 en Cintermex",
         "summary": "Feria Internacional del Libro abre nueve días de actividades literarias y culturales en recinto ferial capitalino.",
@@ -75,6 +236,54 @@
     ],
     "sociedad": [
       {
+        "title": "Pruebas operativas del monorriel avanzan en líneas 4 y 6",
+        "summary": "Se realizan ensayos técnicos para verificar funcionamiento de las nuevas líneas del sistema de transporte elevado.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/realizan-pruebas-de-operacion-del-monorriel-en-lineas-4-y-6/1033773",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Salud convoca a vacunarse contra COVID-19 en Nuevo León",
+        "summary": "Autoridades sanitarias impulsan campaña de inmunización contra el coronavirus en la población del estado.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/llama-salud-a-vacunarse-contra-el-covid-19/1033772",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Guadalupe refuerza bacheo y luminarias tras fuertes lluvias",
+        "summary": "El municipio ejecuta trabajos de reparación de infraestructura vial y alumbrado público después de precipitaciones.",
+        "zona": "Área metropolitana",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/guadalupe-refuerza-bacheo-y-luminarias-tras-fuertes-lluvias-9228/",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Regios disfrutan de la presa La Boca con pesca y mariscos",
+        "summary": "Los regiomontanos aprovechan este destino recreativo para actividades acuáticas y gastronomía local.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/mas-agua-pesca-mariscos-asi-disfrutan-regios-presa-la-boca",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Intensifica AyD labores de limpieza en sistema de drenaje",
+        "summary": "La empresa de agua y drenaje refuerza tareas de mantenimiento y desazolve de infraestructura sanitaria.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/intensifica-ayd-labores-de-limpieza-en-drenaje/1033754",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
+        "title": "Ganan primer lugar en Premio Nacional de Ciberseguridad AMCS",
+        "summary": "Un equipo de Nuevo León es reconocido como ganador en competencia nacional de seguridad informática.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/ganan-primer-lugar-en-el-premio-nacional-de-ciberseguridad-amcs/1033725",
+        "_added_at": "2026-10-11T13:18:23.334298-06:00"
+      },
+      {
         "title": "Trabajadores del IMSS protestan por incremento salarial",
         "summary": "Personal del instituto médico realiza manifestaciones en segundo día de bloqueos en Monterrey exigiendo mejora de salarios.",
         "zona": "Monterrey",
@@ -84,5 +293,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-11T01:40:24.490599-06:00"
+  "last_updated": "2026-10-11T13:18:23.334298-06:00"
 }
