@@ -1,8 +1,48 @@
 {
   "date": "2026-10-12",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Capturan sicarios del Cártel del Noreste con arsenal en Hidalgo",
+        "summary": "Operativo asegura a integrantes del CDN con armas de fuego, equipo militar y fusil para derribar aeronaves en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/fotos-cae-en-hidalgo-nuevo-leon-sicarios-del-cdn-arsenal-del-ejercito-y-fusil",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Diputados cuestionan crisis de desabasto en el IMSS de NL",
+        "summary": "Bancadas en Congreso enfatizan carencias de medicamentos y recursos en instituciones del IMSS en la entidad.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/congreso-nuevo-leon-disputa-bancadas-desabasto-medicinas-imss",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Bajan delitos patrimoniales 24% en Escobedo",
+        "summary": "Denuncias por robo disminuyen de 1,100 a 838 casos gracias a patrullaje reforzado y esquemas de prevención.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/bajan-24-por-ciento-delitos-patrimoniales-en-escobedo/9647759323",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Fiscalía asegura restaurante en Carretera Nacional por presunto fraude",
+        "summary": "Operativo en establecimiento de la Carretera Nacional; dueñas denuncian posible hostigamiento de autoridades.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/seguridad/2026/10/12/fiscalia-asegura-restaurante-en-la-carretera-nacional-duenas-denuncian-presunto-hostigamiento-292183.html",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Hallan restos humanos en rancho de Pesquería",
+        "summary": "Fiscalía investiga hallazgo de restos óseos y prendas femeninas en propiedad rural del municipio.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/pesqueria-nl-fiscalia-investiga-hallazgo-restos-humanos-rancho",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
       {
         "title": "Vinculan a proceso a hombre por feminicidio en García",
         "summary": "Autoridades dictaron auto de vinculación tras agresión que dejó una joven fallecida y dos heridas en Valle de Lincoln.",
@@ -29,6 +69,54 @@
       }
     ],
     "politica": [
+      {
+        "title": "Morena y PT negocian nueva encuesta para 2027 en NL",
+        "summary": "Alianza busca evitar división interna mediante sondeo para definir candidatura única rumbo a elecciones estatales.",
+        "zona": "Nuevo León",
+        "source": "La Política Online (NL)",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/morena-negocia-con-el-pt-para-organizar-una-nueva-encuesta-en-nuevo-leon-y-evitar-una-division-de-cara-a-2027-8942/",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "PT analiza competir solo en elecciones 2027 de NL",
+        "summary": "Partido del Trabajo evalúa romper alianza con Morena e ir de manera independiente en próximos comicios estatales.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/analiza-partido-trabajo-ir-solo-nuevo-leon-elecciones-2027",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "PVEM busca alianza con Waldo para 2027, rechaza Clara Luz",
+        "summary": "Verde considera ir con candidato del PAN; indica que aspirante Morena no alcanza dos dígitos en encuestas.",
+        "zona": "Nuevo León",
+        "source": "La Política Online (NL)",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-verde-busca-ir-con-waldo-en-nl-clara-no-llega-a-los-dos-digitos-no-iriamos-a-un-suicidio-politico/",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Samuel pide evitar regreso de la vieja política en 2027",
+        "summary": "Gobernador pronuncia discurso preventivo contra retorno de viejas prácticas políticas en próximos procesos electorales.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir (local)",
+        "url": "https://elporvenir.mx/local/pide-samuel-evitar-regreso-de-la-vieja-politica-en-el-2027/1033877",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Oposición señala alianza Morena-MC en Santa Catarina para 2027",
+        "summary": "Adversarios políticos denuncian posible coordinación entre Morena y Movimiento Ciudadano en municipio de la región.",
+        "zona": "Área metropolitana",
+        "source": "La Política Online (NL)",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/la-oposicion-senala-una-alianza-entre-mc-y-morena-en-santa-catarina-de-cara-al-2027-991/",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Congreso aprueba exhorto para garantizar medicinas en IMSS",
+        "summary": "Legisladores emiten recomendación urgente a autoridades federales para asegurar abasto de fármacos en institución.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/abasto-de-medicamentos",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
       {
         "title": "Samuel García critica la vieja política hacia 2027",
         "summary": "Gobernador arremete contra prácticas políticas tradicionales y celebra cinco años de gobierno con obras y proyectos.",
@@ -70,8 +158,73 @@
         "_added_at": "2026-10-12T01:48:58.228255-06:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Nuevo León mantendría crecimiento económico moderado en 2026",
+        "summary": "Analistas proyectan que entidad continuará con expansión económica gradual durante el próximo año.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/nuevo-leon-mantendria-crecimiento-economico-moderado-2026",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "NL lidera exportaciones nacionales y apuesta por seguridad hídrica",
+        "summary": "Nuevo León se posiciona como motor económico de México; autoridades impulsan estrategias de agua ante sequías futuras.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/expo-pyme-nuevo-leon-primer-lugar-en-exportaciones-y-seguridad-hidrica-futuras-sequias/",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Buscan frenar gasto fantasma de agua y luz en Centros de Datos",
+        "summary": "Autoridades impulsan regulación para evitar consumo excesivo e irregularidades en instalaciones de procesamiento de datos.",
+        "zona": "Nuevo León",
+        "source": "Informe Regio",
+        "url": "https://informeregio.com/buscan-frenar-el-gasto-fantasma-de-agua-y-luz-de-los-centros-de-datos-en-nuevo-leon/",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "AutoZone llega a mil tiendas y expande infraestructura en México",
+        "summary": "Cadena automovilística alcanza hito de mil locales y refuerza su red logística para fortalecer cobertura nacional.",
+        "zona": "Nuevo León",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/12/autozone-acelera-su-expansion-con-1000-tiendas-en-mexico-y-el-fortalecimiento-de-su-red-logistica-292173.html",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Inflación y dólar presionan a pequeños comerciantes",
+        "summary": "Emprendedores alertan sobre impacto de alza en tipo de cambio y costos en sus operaciones comerciales.",
+        "zona": "Monterrey",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/finanzas/inflacion-y-dolar-aprietan-alertan-pequenos-comerciantes/3760756931",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "Peregrinaciones a la Basílica inician con 140 danzas",
+        "summary": "Monterrey activa dispositivo de vialidad para recibir a fieles durante celebraciones guadalupanas con presentaciones culturales.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/inician-peregrinaciones-basilica-guadalupe-con-140-danzas-monterrey",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "David Toscana presenta El Ejército Ciego en FIL Monterrey",
+        "summary": "Escritor local presenta su novela galardonada en la Feria Internacional del Libro, recibiendo elogios de crítica internacional.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/david-toscana-presenta-fil-monterrey-novela-el-ejercito-ciego",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Inauguran nuevo Santuario Animal en Apodaca",
+        "summary": "Apertura de espacio dedicado al rescate y cuidado de animales en municipio del área metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir (local)",
+        "url": "https://elporvenir.mx/local/inauguran-en-apodaca-el-nuevo-santuario-animal/1033745",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
       {
         "title": "Xantoluz transforma Parque España con tradición de Muertos",
         "summary": "Exposición cultural llena de color celebra el Día de Muertos en espacio público de Monterrey.",
@@ -82,6 +235,62 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Crisis educativa: solo 61% de niños asistió al kínder en NL",
+        "summary": "Rezago preescolar en Nuevo León genera preocupación sobre continuidad del ciclo educativo en primaria.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/preescolar-en-nuevo-leon-solo-61-los-ninos-asistio-al-kinder-y-crece-rezago-educativo/",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "UANL inicia ciclo con más de 220 mil estudiantes",
+        "summary": "Universidad Autónoma de Nuevo León arranca nuevo semestre con aumento de matrícula estudiantil.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://www.info7.mx/resultado?query=Iniciar%C3%A1%20la%20UANL%20nuevo%20ciclo%20con%20m%C3%A1s%20de%20220%20mil%20estudiantes",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Restricción de celulares en aulas de NL avanzará en fases",
+        "summary": "Autoridades educativas implementarán gradualmente medida para reducir uso de dispositivos móviles en escuelas.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/sera-en-fases-restriccion-de-celulares-en-las-aulas-de-nuevo-leon/7988148281",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Muere menor presuntamente por rickettsia en Nuevo León",
+        "summary": "Secretaría de Salud investiga fallecimiento de adolescente; pide reforzar medidas de prevención de enfermedad infecciosa.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/secretaria-salud-nuevo-leon-pide-reforzar-medidas-ricketssiosis",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Trabajadores del IMSS cierran avenidas en protesta por carencias",
+        "summary": "Empleados de institución bloquean vialidades de Monterrey demandando mejores condiciones laborales y de servicio.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/12/colapsan-vialidades-de-monterrey-por-protestas-de-trabajadores-del-imss-292164.html",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Nuevas estaciones del Metro operarían de manera gradual",
+        "summary": "Líneas 4 y 6 avanzan 85% en obra civil; gobierno prevé apertura escalonada de nuevas estaciones.",
+        "zona": "Monterrey",
+        "source": "ABC Noticias",
+        "url": "https://abcnoticias.mx/local/2026/10/12/nuevas-estaciones-del-metro-de-monterrey-podrian-operar-de-manera-gradual-292187.html",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
+      {
+        "title": "Derrame de hidrocarburo en río Pilón requiere evaluación de daños",
+        "summary": "CONAGUA y PEMEX investigan contaminación ambiental en afluente de Montemorelos por fuga de combustibles.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/montemorelos-evaluan-danos-rio-pilon-derrame-de-hidrocarburos",
+        "_added_at": "2026-10-12T16:22:04.302334-06:00"
+      },
       {
         "title": "Rescatan a dos personas perdidas en Cerro de la Silla",
         "summary": "Cuerpos de auxilio ubicaron y rescataron a senderistas extraviados en zona montañosa de Monterrey.",
@@ -108,5 +317,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-12T01:48:58.228255-06:00"
+  "last_updated": "2026-10-12T16:22:04.302334-06:00"
 }
