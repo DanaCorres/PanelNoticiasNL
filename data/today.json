@@ -1,8 +1,56 @@
 {
   "date": "2026-10-11",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a proceso a hombre por feminicidio en García",
+        "summary": "Maudiel \"N\" fue vinculado a proceso por feminicidio y tentativa de feminicidio en García, acción que refleja la gravedad de delitos de violencia de género en la región.",
+        "zona": "Área metropolitana",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/11/vinculan-a-proceso-a-maudiel-n-por-feminicidio-y-tentativa-de-feminicidio-en-garcia/",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
+      {
+        "title": "Roban notaría en Monterrey; seis encapuchados se llevan caja fuerte",
+        "summary": "Seis sujetos encapuchados robaron una notaría en Monterrey y sustrajeron una caja fuerte con aproximadamente 100 mil pesos.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/roban-notaria-en-monterrey-seis-sujetos-encapuchados/1033706/",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
+      {
+        "title": "Desaparecen madre e hijo de 8 años en Escobedo",
+        "summary": "Se reporta la desaparición de Marycarmen Méndez López y su pequeño hijo de 8 años en Escobedo, lo que activa protocolos de búsqueda.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/marycarmen-mendez-lopez-desaparecen-mama-e-hijo-escobedo-nl",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
+      {
+        "title": "Fuga de combustible en ducto de Pemex contamina Río Pilón",
+        "summary": "Un derrame de hidrocarburo en el Río Pilón en Montemorelos moviliza a Pemex y autoridades ambientales para contención.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/estados/fuga-hidrocarburo-ducto-pemex-derrame-rio-pilon-montemorelos-nl",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
+      {
+        "title": "Ataque a balazos en Escobedo deja una persona lesionada",
+        "summary": "Reportan un enfrentamiento a balazos en Escobedo que resultó en al menos una persona herida.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/ataque-a-balazos-en-escobedo-deja-una-persona-lesionada/1033828/",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
+      {
+        "title": "Muere mujer atropellada en Allende",
+        "summary": "Una mujer fallece tras ser atropellada frente a un salón de eventos en Allende.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/muere-mujer-atropellada-en-allende/1033863/",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
       {
         "title": "Roban caja fuerte en notaría de Monterrey; sustraen 100 mil pesos",
         "summary": "Seis sujetos encapuchados robaron una notaría en Monterrey y se llevaron una caja fuerte con 100 mil pesos en efectivo.",
@@ -77,6 +125,22 @@
       }
     ],
     "politica": [
+      {
+        "title": "Mauro Guerra propone regular centros de datos para proteger recursos",
+        "summary": "El diputado Mauro Guerra presenta iniciativa para regular centros de datos con el fin de proteger agua y energía en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/11/mauro-guerra-propone-regular-centros-de-datos-en-nl-para-proteger-agua-y-electricidad/",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
+      {
+        "title": "Morena suma aspirante a coordinación en Santa Catarina",
+        "summary": "Se incorpora una nueva aspirante al proceso interno de Morena para definir coordinación en Santa Catarina.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/suma-morena-aspirante-a-la-coordinacion-en-santa-catarina/4990040900",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
       {
         "title": "PT exige nueva encuesta a Morena para definir candidaturas en NL",
         "summary": "El Partido del Trabajo cuestiona resultados de encuestas previas y pide realizar nuevas votaciones para elegir candidatos en Nuevo León.",
@@ -186,6 +250,22 @@
     ],
     "eventos": [
       {
+        "title": "Gobernador inaugura edición 34 de la Feria Internacional del Libro",
+        "summary": "Samuel García abre la FIL Monterrey 2026 en Cintermex con nueve días de actividades literarias y culturales.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/inaugura-gobernador-la-edicion-34-de-feria-internacional-del-libro/1033753/",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
+      {
+        "title": "Poder Judicial aborda patrimonio familiar en FIL Monterrey",
+        "summary": "El Poder Judicial de Nuevo León participa en la FIL presentando la importancia de la protección patrimonial familiar.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/judicial-nl-aborda-importancia-patrimonio-familiar-fil",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
+      {
         "title": "FIL Monterrey 2026 ofrece actividades gratis el domingo 11 de octubre",
         "summary": "La Feria Internacional del Libro presenta diversos eventos y presentaciones de autores sin costo para asistentes.",
         "zona": "Monterrey",
@@ -235,6 +315,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Trabajadores del IMSS bloquean vías en Monterrey por demandas salariales",
+        "summary": "Empleados del IMSS cierran avenida Cuauhtémoc en protesta por salarios justos e insumos, pendiente de votación sobre aumento del 6.8%.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/trabajadores-imss-bloquean-avenida-cuauhtemoc-monterrey",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
+      {
+        "title": "CEDHNL señala a SEP por vulnerar derechos de menor en Apodaca",
+        "summary": "La Comisión Estatal de Derechos Humanos acredita que la Secretaría de Educación expuso públicamente a un alumno tras falsa alarma.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/cedhnl-pide-proteger-derechos-alumno-senalado-amenaza-en-apodaca",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
+      {
+        "title": "Incendio en gasolinera de Juárez consume camión de Ruta 223",
+        "summary": "Un voraz incendio desatado por falla en válvula afecta una unidad de transporte público en Monte Kristal, Juárez.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/fuego-consume-camion-de-ruta-223-en-gasolinera-de-juarez/5492287978",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
+      {
+        "title": "Lanzan segunda edición del concurso de video para jóvenes",
+        "summary": "Nueva convocatoria para participantes jóvenes interesados en producción audiovisual en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/lanzan-la-segunda-edicion-del-concurso-de-video-de-jovenes/1033428/",
+        "_added_at": "2026-10-11T18:09:05.849831-06:00"
+      },
       {
         "title": "Pruebas operativas del monorriel avanzan en líneas 4 y 6",
         "summary": "Se realizan ensayos técnicos para verificar funcionamiento de las nuevas líneas del sistema de transporte elevado.",
@@ -293,5 +405,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-11T13:18:23.334298-06:00"
+  "last_updated": "2026-10-11T18:09:05.849831-06:00"
 }
