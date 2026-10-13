@@ -1,8 +1,56 @@
 {
   "date": "2026-10-13",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "EU sanciona empresas y personas ligadas al Cártel del Noreste",
+        "summary": "Estados Unidos impone sanciones contra cuatro mexicanos y once empresas vinculadas al Cártel del Noreste en Nuevo León y Tamaulipas.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/eu-sanciona-personas-empresas-mexicanas-ligadas-cartel-del-noreste",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Centro de entrenamiento de caballos vinculado a crimen organizado",
+        "summary": "Autoridades investigan una cuadra de caballos de carrera en Nuevo León por conexiones con el Cártel del Noreste.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/cuadra-san-dibanh-caballeriza-de-nl-ligada-al-cartel-del-noreste",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Decomisan 135 kilos de cristal en Santa Catarina",
+        "summary": "Operativo resulta en aseguramiento de droga y detención de tres personas en Santa Catarina.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/decomisan-135-kilos-de-cristal-y-detienen-a-tres-en-santa-catarina/1034203",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Detienen a influencer con armas y drogas en Monterrey",
+        "summary": "Capturan a \"La Barbie de la Alianza\" con vínculos a grupo delictivo, armas y estupefacientes.",
+        "zona": "Monterrey",
+        "source": "TV Azteca Nuevo León",
+        "url": "https://www.tvazteca.com/aztecanoticias/influencer-la-barbie-la-alianza-fue-detenida-en-monterrey-armas-drogas-y-vinculos-grupo-delictivo/",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Condenan a cuatro hombres por secuestro y homicidios",
+        "summary": "Tribunal sentencia a prisión a cuatro individuos por delitos de secuestro y homicidio en Monterrey.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/monterrey-cuatro-hombres-sentenciados-delitos-secuestro-y-homicidio",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Adolescente narra ataque múltiple en Montemorelos",
+        "summary": "Sobreviviente relata a autoridades el presunto ataque de Cindy Tamez que dejó varios muertos en Montemorelos.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca Nuevo León",
+        "url": "https://www.tvazteca.com/aztecanoticias/adolescente-14-anos-narra-a-fiscalia-el-presunto-ataque-cindy-tamez-en-montemorelos-nuevo-leon/",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
       {
         "title": "Crisis en IMSS genera manifestaciones y bloqueos en NL",
         "summary": "Trabajadores del IMSS realizan protestas y cierres viales en Apodaca, Guadalupe y otras zonas por demandas laborales y falta de insumos.",
@@ -46,6 +94,46 @@
     ],
     "politica": [
       {
+        "title": "Morenistas de NL se movilizan contra designación de Clara Luz",
+        "summary": "Bloque de militantes de Morena cuestiona nombramiento de Clara Luz Flores como coordinadora en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/clara-luz-flores-morena-nl",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "PT se deslinda de candidata en Santa Catarina",
+        "summary": "Partido del Trabajo niega apoyo a Liz Galicia en la contienda municipal de Santa Catarina.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/partido-del-trabajo-liz-galicia",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Verde sondea coalición con PT en Nuevo León",
+        "summary": "PVEM explora alianza con el Partido del Trabajo tras distanciarse de Morena en el estado.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/tras-desmarcarse-de-morena-el-verde-sondea-una-coalicion-con-el-pt-en-nl-6113/",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Aliado de Quiroz busca candidatura independiente estatal",
+        "summary": "Personaje cercano a Adriana Quiroz impulsa su registro como candidato independiente para Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/un-aliado-de-quiroz-busca-la-candidatura-independiente-por-nuevo-leon-2195/",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Samuel descarta candidatura de Mariana Rodríguez en 2027",
+        "summary": "Gobernador niega que la influencer sea aspirante para elección presidencial próxima.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/candidatura-mariana-rodriguez",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
         "title": "García destaca avances en quinto año de gobierno",
         "summary": "Gobernador Samuel García señala logros en seguridad, economía y desarrollo estatal en su quinto año de administración.",
         "zona": "Nuevo León",
@@ -88,6 +176,22 @@
     ],
     "economia": [
       {
+        "title": "ArcelorMittal proyecta aumentar producción de acero a 5.3 millones",
+        "summary": "Empresa acerrera busca elevar capacidad anual de producción en operaciones en México.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/arcelormittal-proyecta-aumentar-produccion-acero-2029",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Nuevo León registra finanzas sanas y autonomía fiscal",
+        "summary": "Estado mantiene solidez en cuentas públicas con independencia presupuestaria.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/registra-nl-finanzas-sanas-y-autonomia-fiscal/1034290",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
         "title": "Nuevo León suma inversiones por 6,781 millones de dólares",
         "summary": "Estado lidera anuncios de inversión nacional con más de 6.7 mil millones de dólares en 2026.",
         "zona": "Nuevo León",
@@ -114,6 +218,38 @@
     ],
     "eventos": [
       {
+        "title": "Metro de Monterrey avanza 85% en obras de expansión",
+        "summary": "Líneas 4 y 6 avanzan en construcción como mayor expansión del sistema en historia del estado.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/tienen-obras-del-metro-avance-global-del-85/1034282",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Cristina Rivera Garza presenta obra en Feria del Libro",
+        "summary": "Autora presenta su libro \"Lo roto precede a lo entero\" en la Feria Internacional del Libro Monterrey.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/cristina-rivera-garza-presentacion-obra-feria-del-libro-monterrey",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Poder Judicial presenta acervo en Feria del Libro",
+        "summary": "PJENL participa en Feria Internacional del Libro con exhibición de documentos.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/esta-presente-el-pjenl-en-la-feria-internacional-del-libro-monterrey/1033931",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Más de 500 atletas compiten en carrera Montañas Mágicas",
+        "summary": "Evento deportivo convoca a participantes en carrera de montaña.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/compiten-mas-de-500-en-carrera-montanas-magicas/1033933",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
         "title": "Monterrey anuncia puntos de salida para peregrinaciones",
         "summary": "Autoridades municipales preparan operativos viales e informa sitios de concentración para tradicionales peregrinaciones 2026.",
         "zona": "Monterrey",
@@ -132,6 +268,62 @@
     ],
     "sociedad": [
       {
+        "title": "Puente peatonal colapsa sobre automóvil en Avenida Constitución",
+        "summary": "Estructura se desploma en Monterrey, cayendo sobre vehículo; se reportan emergencias en el sitio.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/puente-peatonal-colapsa-en-monterrey-proteccion-civil-en-la-zona/vl2266142",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Crisis de medicamentos en IMSS genera manifestaciones",
+        "summary": "Empleados y usuarios protestan por falta de abasto de medicinas y servicios en institución.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/crisis-por-demandas-del-imss-trastoca-a-nl-con-diversas-manifestaciones-8297/",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Monterrey anuncia operativo vial para peregrinaciones religiosas",
+        "summary": "Autoridades municipales preparan medidas de tránsito ante festividades de peregrinaciones.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/anuncia-monterrey-operativo-vial-ante-inicio-de-peregrinaciones/1034279",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Escobedo reduce delitos patrimoniales en 24 por ciento",
+        "summary": "Municipio reporta mejora en indicadores de robos y delitos contra propiedad.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/reduce-escobedo-24-los-delitos-patrimoniales/1034294",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "San Pedro investiga robo de joyería y dinero en residencia",
+        "summary": "Delincuentes sustraen valores de casa en zona residencial de San Nicolás.",
+        "zona": "Área metropolitana",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/roban-joyeria-efectivo-casa-residencial-roble-san-nicolas-nuevo-leon",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Rescatan a adulta mayor tras semana junto a fallecido",
+        "summary": "Mujer es localizada en Guadalupe después de permanecer días con cuerpo de su esposo.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/guadalupe-rescatan-adulta-mayor-que-estuvo-junto-a-cuerpo-de-esposo",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
+        "title": "Ciudadano detecta deficiencias de alumbrado público en Monterrey",
+        "summary": "Movimiento Ciudadano reporta fallas de luminaria en 38 colonias de la ciudad.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/alumbrado-publico-monterrey",
+        "_added_at": "2026-10-13T14:29:04.475996-06:00"
+      },
+      {
         "title": "Metrorrey refuerza protocolos de salud mental en estaciones",
         "summary": "Sistema de transporte implementa procedimientos para atender casos de crisis emocional de usuarios.",
         "zona": "Área metropolitana",
@@ -141,5 +333,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-13T02:11:08.937892-06:00"
+  "last_updated": "2026-10-13T14:29:04.475996-06:00"
 }
