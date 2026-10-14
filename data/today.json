@@ -1,8 +1,48 @@
 {
   "date": "2026-10-14",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Liberan a 'La Rana', integrante de Los Zetas implicado en Casino Royale",
+        "summary": "Orden judicial libera a presunto miembro de Los Zetas vinculado al incendio del Casino Royale en Monterrey hace años.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/caso-casino-royale-ordenan-liberar-dos-integrantes-los-zetas",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Investigan falla en neumático tras muerte de tres policías civiles",
+        "summary": "Secretario de Seguridad examina posible defecto en llantas como causa del accidente mortal de agentes de Fuerza Civil.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/nuevo-leon-investigan-falla-en-accidente-de-fuerza-civil",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Vinculan a proceso a hombre por agresión sexual a menor de nueve años",
+        "summary": "Autoridades formalizan acusación contra presunto agresor sexual de niña en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/hombre-es-vinculado-a-proceso-agresion-sexual-a-menor-9-anos-en-nl",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Detienen a joven por homicidio de adulto mayor en Juárez",
+        "summary": "Capturan presunto responsable de muerte de persona mayor en municipio fronterizo.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/juarez-nl-capturan-a-presunto-homicida-de-adulto-mayor",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Sentencian a dos hombres por disparar contra Fuerza Civil en Aramberri",
+        "summary": "Juzgado condena a sujetos por agresión armada contra elementos de seguridad estatal.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/sentencian-a-dos-hombres-por-balear-a-fuerza-civil-en-aramberri/7450707670",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
       {
         "title": "Nuevo León reporta cifra histórica de violaciones en septiembre",
         "summary": "Se registraron 96 delitos de violación en septiembre, la cifra más alta del año 2024 en la entidad.",
@@ -82,17 +122,41 @@
         "source": "Milenio Monterrey",
         "url": "https://www.milenio.com/estados/aeronave-aterriza-emergencia-aeropuerto-norte-descartan-heridos",
         "_added_at": "2026-10-14T00:33:21.940248-06:00"
-      },
-      {
-        "title": "Asaltan a mujeres con rifles en Guadalupe; roban 150 mil pesos",
-        "summary": "Hombres armados asaltan a mujeres en Guadalupe y se llevan 150 mil pesos en efectivo.",
-        "zona": "Área metropolitana",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/asaltan-a-mujeres-con-rifles-y-roban-150-mil-pesos-en-guadalupe-/v-vl2266345",
-        "_added_at": "2026-10-14T00:33:21.940248-06:00"
       }
     ],
     "politica": [
+      {
+        "title": "Congreso acusa a Samuel García incumplimiento en entrega de informe",
+        "summary": "Diputados señalan que gobernador no cumplió plazo para presentar informe de gobierno ante Congreso.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/acusa-congreso-nl-samuel-garcia-incumplio-entrega-informe-gobierno",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "PRI-PAN critican ausencia de Samuel en Congreso; Flores lo tacha de berrinche",
+        "summary": "Diputados de oposición reclaman inasistencia del gobernador; coordinador de Morena responde con ironía.",
+        "zona": "Monterrey",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-frente-pri-pan-cruzan-a-samuel-por-ausentarse-en-congreso-y-flores-lo-considera-un-berrinche-5237/",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Felipe de Jesús no descarta participar en encuesta por Monterrey",
+        "summary": "Potencial candidato abre posibilidad de competencia en proceso de selección para alcaldía.",
+        "zona": "Monterrey",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/felipe-de-jesus-ahora-no-descarta-anotarse-a-la-encuesta-por-monterrey-5581/",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Diputados aprueban en lo general Ley de Ingresos 2027",
+        "summary": "Congreso estatal aprueba proyecto de presupuesto de ingresos para próximo ejercicio fiscal.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nacional/diputados-aprueban-en-lo-general-la-ley-de-ingresos-2027/7468039935",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
       {
         "title": "Clara Luz busca contener tensión en Morena y acuerda en Escobedo",
         "summary": "Coordinadora estatal intenta mediar conflictos internos del partido y resuelve diferencias en municipio.",
@@ -184,6 +248,22 @@
     ],
     "economia": [
       {
+        "title": "Nuevo León lidera inversión privada en construcción con 5,631 millones",
+        "summary": "Estado encabeza proyectos de infraestructura con inversión significativa en sector de la construcción.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/finanzas/nl-lidera-inversion-privada-en-construccion-con-5-631-millones/5726559939",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Televisa y Fintech compran AT&T México por dos mil millones",
+        "summary": "Operación importante en sector de telecomunicaciones involucra a empresas mexicanas en adquisición de activos.",
+        "zona": "Nuevo León",
+        "source": "Informe Regio",
+        "url": "https://informeregio.com/televisa-y-fintech-compran-att-mexico-por-dos-mil-millones/",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
         "title": "Extorsiones y asesinatos golpean comercio en Tamaulipas",
         "summary": "Canaco Nacional denuncia crisis de seguridad que afecta severamente al sector empresarial.",
         "zona": "Nuevo León",
@@ -194,6 +274,38 @@
     ],
     "eventos": [
       {
+        "title": "Expo Construcción 2026 se prepara en Reynosa",
+        "summary": "Evento de construcción planea realizarse en ciudad fronteriza con participación de empresas del sector.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/reynosa/expo-construccion-2026-reynosa",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Presentarán 'Nuevo León invadido', nueva mirada a la Batalla de Monterrey",
+        "summary": "Presentación de libro que ofrece perspectiva alternativa sobre conflicto histórico en capital estatal.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/cultura/libro-nuevo-leon-invadido-presentado-fil-monterrey",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "MC presenta iniciativa 'Ley Melissa' en Congreso",
+        "summary": "Bancada de Movimiento Ciudadano propone legislación en homenaje a paramédica fallecida.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/presenta-mc-iniciativa-ley-melissa/1034310",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "IEE inicia consulta dirigida a comunidad LGBTTTIQ+ en estado",
+        "summary": "Instituto Electoral abre diálogo con sector para conocer demandas y perspectivas electorales.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/inicia-iee-consulta-dirigida-a-comunidad-lgbtttiq/1034307",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
         "title": "Orquesta Sinfónica UANL celebra 50 años de Arturo Rodríguez",
         "summary": "Institución organiza festividad con estrenos mundiales y conciertos especiales.",
         "zona": "Monterrey",
@@ -203,6 +315,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Aterrizaje de emergencia en Aeropuerto de Monterrey por falla en tren de aterrizaje",
+        "summary": "Aeronave realiza maniobra inesperada al detectar problemas en sistemas de aterrizaje en Apodaca.",
+        "zona": "Área metropolitana",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/aeropuerto-del-norte-en-apodaca-nuevo-leon-alerta-por-aterrizaje-emergencia-avion/",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Pecaríes persiguen a mujer con perro en Guadalupe; consejos de seguridad",
+        "summary": "Encuentro con fauna silvestre en área metropolitana genera inquietud; expertos recomiendan medidas de precaución.",
+        "zona": "Área metropolitana",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/video-pecaries-persiguen-a-mujer-con-su-perro-en-guadalupe-conoce-que-hacer-ante-un-encuentro/v-vl2266673",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Estación Hospital de Ginecología del Metro sin escaleras; problemas de acceso",
+        "summary": "Instalación de infraestructura incompleta en línea de transporte genera dificultades para usuarios.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/hospital-de-ginecologia",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Reportan socavón en Escobedo; vecinos temen accidente grave",
+        "summary": "Hundimiento del terreno en cruce vial genera preocupación por seguridad de residentes y automovilistas.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/escobedo-registra-mega-socavon-en-cruce-de-camino-real-y-las-torres",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
+      {
+        "title": "Empleados del IMSS mantienen bloqueos y protestas por mejoras",
+        "summary": "Trabajadores del Instituto continúan movilizaciones pidiendo cumplimiento de demandas laborales.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/seguiran-bloqueos-por-parte-de-empleados-del-imss/1034629",
+        "_added_at": "2026-10-14T17:36:19.190114-06:00"
+      },
       {
         "title": "Paramedica muere en accidente de ambulancia en Monterrey",
         "summary": "Melissa Sofía Guel falleció tras choque de unidad de emergencia contra columna del Metro.",
@@ -261,5 +413,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-14T13:08:03.273138-06:00"
+  "last_updated": "2026-10-14T17:36:19.190114-06:00"
 }
