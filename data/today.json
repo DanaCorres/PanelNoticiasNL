@@ -1,8 +1,32 @@
 {
   "date": "2026-10-13",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "EU sanciona red de lavado ligada al Cártel del Noreste",
+        "summary": "Tesoro estadounidense impone sanciones a cuatro empresas vinculadas a organizaciones criminales en la región.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/ofac-sanciona-red-cartel-del-noreste-nuevo-leon-y-tamaulipas",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
+      {
+        "title": "Robo de 3 millones de pesos en Apodaca",
+        "summary": "Delincuentes sustraen dos cajas fuertes en operación realizada en el municipio metropolitano.",
+        "zona": "Área metropolitana",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/delincuentes-roban-3-millones-de-pesos-en-apodaca/v-vl2266227",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
+      {
+        "title": "Escobedo reduce 24% los delitos patrimoniales",
+        "summary": "Municipio del área metropolitana registra disminución en robo y asaltos durante período reportado.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/reduce-escobedo-24-los-delitos-patrimoniales/1034294",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
       {
         "title": "EU sanciona empresas y personas ligadas al Cártel del Noreste",
         "summary": "Estados Unidos impone sanciones contra cuatro mexicanos y once empresas vinculadas al Cártel del Noreste en Nuevo León y Tamaulipas.",
@@ -93,6 +117,38 @@
       }
     ],
     "politica": [
+      {
+        "title": "Congreso aprueba bancada independiente para Rodrigo Montemayor",
+        "summary": "Exmorenista obtiene autorización legislativa para formar grupo parlamentario independiente.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/rodrigo-montemayor-bancada",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
+      {
+        "title": "Congreso aprueba reforma de igualdad sustantiva en NL",
+        "summary": "Reforma legislativa busca impulsar igualdad de género en tareas domésticas y cargas familiares.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/congreso-nl-aprueban-reforma-de-igualdad-sustantiva-tareas-domesticas",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
+      {
+        "title": "Citan a secretario de Seguridad por presunta intervención electoral",
+        "summary": "Congreso local convoca funcionario para comparecer sobre posibles irregularidades en procesos electorales.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/secretario-de-seguridad",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
+      {
+        "title": "Citan a comparecer a Gerardo Escamilla ante Congreso",
+        "summary": "Funcionario es convocado por legislatura para comparecer sobre asuntos de su competencia.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/congreso-nuevo-leon-cita-comparecer-gerardo-escamilla",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
       {
         "title": "Morenistas de NL se movilizan contra designación de Clara Luz",
         "summary": "Bloque de militantes de Morena cuestiona nombramiento de Clara Luz Flores como coordinadora en Nuevo León.",
@@ -218,6 +274,14 @@
     ],
     "eventos": [
       {
+        "title": "Anuncian operativo vial para peregrinaciones en Monterrey",
+        "summary": "Autoridades implementan medidas de control de tráfico ante inicio de temporada peregrina.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/anuncia-monterrey-operativo-vial-ante-inicio-de-peregrinaciones/1034279",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
+      {
         "title": "Metro de Monterrey avanza 85% en obras de expansión",
         "summary": "Líneas 4 y 6 avanzan en construcción como mayor expansión del sistema en historia del estado.",
         "zona": "Monterrey",
@@ -267,6 +331,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Puente peatonal colapsa en avenida Constitución de Monterrey",
+        "summary": "Estructura cae sobre vehículos por traslado de maquinaria del Metro; Mota-Engil asume responsabilidad y reparación.",
+        "zona": "Monterrey",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/13/video-colapsa-puente-peatonal-en-avenida-constitucion-por-traslado-de-maquinaria-del-metro-mota-engil-asumira-reparacion/",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
+      {
+        "title": "Autobús arrolla y mata a menor de 12 años en Apodaca",
+        "summary": "Trágico incidente en transporte público; autoridades ubican unidad y buscan al conductor.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/apodaca-localizan-camion-que-atropello-a-adolescente-buscan-a-chofer",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
+      {
+        "title": "Alerta por mordeduras de garrapatas en Nuevo León",
+        "summary": "Tras muerte de adolescente y caso grave, autoridades previenen sobre riesgos de parasitosis por garrapata.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/alertan-por-mordeduras-de-garrapatas-en-nuevo-leon-tras-muerte-de-adolescente-y-caso-grave-/v-vl2266274",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
+      {
+        "title": "Nuevo León reúne a 350 niñas para impulsar derechos",
+        "summary": "Evento en marco del Día Internacional de la Niña busca promover sueños y derechos de menores.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/nuevo-leon-reune-a-350-ninas-para-impulsar-sus-suenos-y-derechos-en-el-marco-del-dia-internacional-de-la-nina-/v-vl2266210",
+        "_added_at": "2026-10-13T18:04:33.637784-06:00"
+      },
       {
         "title": "Puente peatonal colapsa sobre automóvil en Avenida Constitución",
         "summary": "Estructura se desploma en Monterrey, cayendo sobre vehículo; se reportan emergencias en el sitio.",
@@ -333,5 +429,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-13T14:29:04.475996-06:00"
+  "last_updated": "2026-10-13T18:04:33.637784-06:00"
 }
