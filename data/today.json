@@ -1,8 +1,24 @@
 {
   "date": "2026-10-15",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Ejecutan a dos hombres en avenida Gómez Morín en Monterrey",
+        "summary": "Dos personas fueron asesinadas a balazos dentro de un vehículo en la avenida Gómez Morín. Una de las víctimas podría ser 'El 34', presunto criminal con antecedentes.",
+        "zona": "Monterrey",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/15/ejecutan-a-dos-hombres-a-balazos-en-plena-avenida-entre-monterrey-y-san-pedro/",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
+      {
+        "title": "Condenan a 53 años de prisión por doble homicidio en García",
+        "summary": "Un hombre fue sentenciado a 53 años de cárcel por el asesinato de dos personas en el municipio de García.",
+        "zona": "Área metropolitana",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/15/condenan-a-53-anos-de-prision-a-hombre-por-doble-homicidio-en-garcia/",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
       {
         "title": "Fiscalía alerta sobre extorsiones mediante inteligencia artificial",
         "summary": "Autoridades advierten sobre uso de IA para crear contenido falso y extorsionar a familias en Nuevo León.",
@@ -61,6 +77,38 @@
       }
     ],
     "politica": [
+      {
+        "title": "Congreso rechaza veto de Samuel García sobre derechos laborales",
+        "summary": "El Congreso de Nuevo León busca blindar los derechos de 7 mil trabajadores de Agua y Drenaje tras rechazar el veto del gobernador.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/15/congreso-rechaza-veto-de-samuel-garcia-y-busca-blindar-derechos-de-7-mil-trabajadores-de-agua-y-drenaje/",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
+      {
+        "title": "TEPJF mantiene a Perla Villarreal como presidenta del Congreso",
+        "summary": "El Tribunal Electoral desecha demanda de Movimiento Ciudadano y ratifica la continuidad de Villarreal en la presidencia legislativa.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/tepjf-rechaza-demanda-mc-perla-villarreal-sigue-presidenta-congreso-nl",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
+      {
+        "title": "Somos alista reglas para elegir candidaturas en Nuevo León",
+        "summary": "El partido Somos MX prepara el marco normativo para definir sus candidatos rumbo a las elecciones de 2027.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/15/somos-alista-reglas-para-elegir-candidaturas-en-nuevo-leon-rumbo-a-2027/",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
+      {
+        "title": "Congreso de Nuevo León pide frenar trasvase de agua a Tamaulipas",
+        "summary": "Los legisladores estatales solicitan detener la transferencia de recursos hídricos hacia la entidad vecina.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/congreso-leon-pide-frenar-trasvase-agua-tamaulipas",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
       {
         "title": "Gobernador no asiste ni envía Quinto Informe a diputados",
         "summary": "Samuel García deja plantados a legisladores al no presentarse ni enviar informe de gobierno obligatorio.",
@@ -136,6 +184,22 @@
     ],
     "economia": [
       {
+        "title": "Nuevo León lidera construcción privada en julio de 2026",
+        "summary": "El estado encabeza el ranking nacional en inversión de construcción privada durante el mes de julio.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/finanzas/nuevo-leon-lider-en-construccion-privada-durante-julio-2026/3457477893",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
+      {
+        "title": "Calidris asume cobranza de créditos de Préstamo Feliz",
+        "summary": "La empresa Calidris toma a su cargo la gestión de cobranza de los créditos del programa Préstamo Feliz en la entidad.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/calidris-asume-cobranza-de-creditos-de-prestamo-feliz",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
+      {
         "title": "Calidris asume cobranza de créditos de Préstamo Feliz",
         "summary": "Empresa toma a cargo gestión de cartera en concurso mercantil del proveedor de microcréditos.",
         "zona": "Monterrey",
@@ -204,6 +268,38 @@
     ],
     "sociedad": [
       {
+        "title": "Greta Barra impulsa mesas de trabajo contra violencia vicaria",
+        "summary": "Se establecen espacios de diálogo para avanzar en iniciativas legislativas contra la violencia vicaria en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/15/greta-barra-impulsa-mesas-de-trabajo-para-avanzar-en-iniciativas-contra-la-violencia-vicaria-en-nuevo-leon/",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
+      {
+        "title": "Aprueban reforma de Ley para la Igualdad entre Mujeres y Hombres",
+        "summary": "El Congreso de Nuevo León aprueba cambios a la ley estatal para reforzar la igualdad entre géneros.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/aprueban-reforma-de-ley-para-la-igualdad-entre-mujeres-y-hombres/1034621",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
+      {
+        "title": "Escobedo reparará socavón en Santa Martha",
+        "summary": "El municipio de Escobedo iniciará trabajos para reparar un socavón en la colonia Santa Martha y advierte posible demanda contra Agua y Drenaje.",
+        "zona": "Área metropolitana",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/15/escobedo-reparara-socavon-en-santa-martha-y-advierte-posible-demanda-contra-agua-y-drenaje/",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
+      {
+        "title": "Primaria de García alerta sobre presencia de garrapatas",
+        "summary": "Una escuela primaria en García solicita a padres no llevar mascotas debido a la proliferación de garrapatas en la institución.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/garrapatas-primaria-garcia",
+        "_added_at": "2026-10-15T17:30:32.662567-06:00"
+      },
+      {
         "title": "Agua turbia afecta a familias de Apodaca desde hace un año",
         "summary": "Vecinos de municipio reportan problemas crónicos en calidad del agua suministrada por empresa.",
         "zona": "Área metropolitana",
@@ -245,5 +341,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-15T12:50:44.056155-06:00"
+  "last_updated": "2026-10-15T17:30:32.662567-06:00"
 }
