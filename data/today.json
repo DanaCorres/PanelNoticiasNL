@@ -1,8 +1,48 @@
 {
   "date": "2026-10-15",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscalía alerta sobre extorsiones mediante inteligencia artificial",
+        "summary": "Autoridades advierten sobre uso de IA para crear contenido falso y extorsionar a familias en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/nuevo-leon-usan-inteligencia-artificial-para-extorsionar-a-familias",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Dos muertos en ataque armado en San Pedro Garza García",
+        "summary": "Reportan dos personas fallecidas por impactos de bala en vehículo en zona de Gómez Morín y Fuentes del Valle.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/reportan-dos-personas-muertas-a-balazos-en-san-pedro/6905062060",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Detienen a dos por homicidio de motociclista en Guadalupe",
+        "summary": "Capturan a implicados en asesinato de persona en motocicleta en municipio de la zona metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/guadalupe-detienen-a-dos-implicados-en-asesinato-de-motociclista",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Imputan a padre e hijo por homicidio en Santa Catarina",
+        "summary": "Autoridades acusan a dos familiares de asesinar a un hombre en municipio conurbano.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/imputan-a-padre-e-hijo-por-asesinar-a-un-hombre-en-santa-catarina/1034836",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Asaltan casa de prestamistas; sustraen 150 mil pesos",
+        "summary": "Delincuentes roban cantidad significativa en asalto a domicilio de prestadores de dinero.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/asaltan-casa-de-prestamistas-se-llevan-150-mil-pesos/1034842",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
       {
         "title": "Vinculan a proceso a tres con 135 kilos de cristal en Santa Catarina",
         "summary": "Tres personas fueron vinculadas a proceso tras aseguramiento de más de 135 kilogramos de metanfetamina en Santa Catarina.",
@@ -22,6 +62,62 @@
     ],
     "politica": [
       {
+        "title": "Gobernador no asiste ni envía Quinto Informe a diputados",
+        "summary": "Samuel García deja plantados a legisladores al no presentarse ni enviar informe de gobierno obligatorio.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/deja-samuel-plantados-a-diputados-no-asiste-ni-envia-quinto-informe/1034857",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Perla Villarreal se mantiene en presidencia del Congreso",
+        "summary": "TEPJF desecha impugnación del PAN y confirma continuidad de Villarreal al frente del legislativo estatal.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/tepjf-desecha-impugnacion-mc-perla-villarreal-presidencia-congreso-nl",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "PAN acusa al gobernador de intervenir en proceso electoral",
+        "summary": "Partido blanco denuncia intención de Samuel García de meter influencia en elecciones próximas.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/acusa-pan-a-gobernador-de-querer-meter-las-manos-en-proceso-electora/1034858",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Fernando Margáin se registra en proceso interno del PAN",
+        "summary": "Empresario participa en convocatoria del partido para candidaturas de presidente municipal en Monterrey.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/fernando-margain-sada-se-registra-en-el-pan-por-alcaldia-de-monterrey",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Jorge Espronceda lidera preferencias para sucesión en Santiago",
+        "summary": "Encuestas posicionan a dirigente como principal opción para próxima administración municipal.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/jorge-espronceda-lidera-preferencias-para-la-sucesion-en-santiago-8411/",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Morena proyecta 38% de voto potencial en elección 2027",
+        "summary": "Encuesta posiciona a partido guinda como fuerza mayoritaria de cara a próximos comicios estatales.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/morena-tiene-voto-potencial-38-por-ciento-eleccion-2027",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Aprueban reforma de Ley de Igualdad entre Mujeres y Hombres",
+        "summary": "Congreso estatal aprueba cambios legislativos para fortalecer equidad de género.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/aprueban-reforma-de-ley-para-la-igualdad-entre-mujeres-y-hombres/1034621",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
         "title": "Fernando Turner busca candidatura por Somos MX en Nuevo León",
         "summary": "Fernando Turner regresa a la política como candidato de Somos MX para las próximas elecciones en el estado.",
         "zona": "Nuevo León",
@@ -38,8 +134,57 @@
         "_added_at": "2026-10-15T00:15:50.641660-06:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Calidris asume cobranza de créditos de Préstamo Feliz",
+        "summary": "Empresa toma a cargo gestión de cartera en concurso mercantil del proveedor de microcréditos.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/calidris-asume-cobranza-prestamo-feliz-concurso-mercantil",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Heineken impulsa plan de balanceo hídrico en río San Juan",
+        "summary": "Cervecería devuelve agua a cuenca en iniciativa de sustentabilidad en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/heineken-mexico-impulsa-plan-balanceo-hidrico-nuevo-leon",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "SCJN ampara a pedreras contra impuesto verde",
+        "summary": "Máximo tribunal reconoce derecho de empresas mineras a no pagar nueva carga tributaria ambiental.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/ampara-scjn-a-dos-pedreras-contra-el-impuesto-verde/1034859",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "Mariana Rodríguez impulsa transformación integral de Capullos",
+        "summary": "Primera dama anuncia remodelación de edificios abandonados en DIF como parte de proyecto social.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/mariana-rodriguez-remodelacion-capullos-abandonado-edificios-riesgo",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Gioconda Belli presenta novela en evento cultural de Monterrey",
+        "summary": "Escritora nicaragüeña exhibe su obra \"Un silencio lleno de murmullos\" ante público local.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/cultura/gioconda-belli-presenta-novela-silencio-lleno-murmullos",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Convocatoria abierta para Beca Rita Cetina en Nuevo León",
+        "summary": "Autoridades educativas anuncian fechas de registro para programa de becas estatal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/dan-a-conocer-fechas-para-registros-de-la-beca-rita-cetina/1034624",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
       {
         "title": "Concierto de Carlos Rivera en Arena Monterrey se pospone por salud",
         "summary": "El artista Carlos Rivera cancela su presentación en la Arena Monterrey por motivos de salud; se anunciará nueva fecha próximamente.",
@@ -59,6 +204,38 @@
     ],
     "sociedad": [
       {
+        "title": "Agua turbia afecta a familias de Apodaca desde hace un año",
+        "summary": "Vecinos de municipio reportan problemas crónicos en calidad del agua suministrada por empresa.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/agua-turbia-afecta-desde-hace-mas-de-un-ano-a-familias-de-apodaca/v6411970524",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Policías auxilian a mujer en parto en vía pública",
+        "summary": "Elementos de corporación asisten a gestante en labor de alumbramiento en Monterrey.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/policias-de-monterrey-auxilian-a-mujer-en-parto-en-el-centro",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "San Pedro inicia campaña de arborización en colonia San Patricio",
+        "summary": "Municipio ejecuta operativo de siembra de árboles en sector residencial de la zona.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/inicia-san-pedro-arborizacion-en-colonia-san-patricio/1034861",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
+        "title": "Santiago mantiene operativo permanente de descacharrización",
+        "summary": "Municipio sostiene recolección de desechos y objetos obsoletos para mejorar espacios públicos.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/mantiene-santiago-operativo-permanente-de-descacharrizacion/1034863",
+        "_added_at": "2026-10-15T12:50:44.056155-06:00"
+      },
+      {
         "title": "Despiden con homenaje a Carlos Aldair atropellado en Apodaca",
         "summary": "Familiares y amigos rindieron tributo a Carlos Aldair, joven fallecido tras ser atropellado en Apodaca.",
         "zona": "Área metropolitana",
@@ -68,5 +245,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-15T00:15:50.641660-06:00"
+  "last_updated": "2026-10-15T12:50:44.056155-06:00"
 }
