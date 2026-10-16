@@ -1,8 +1,48 @@
 {
   "date": "2026-10-16",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscalía aclara liberación de 'La Rana' por confusión de identidades",
+        "summary": "Autoridades explican que el presunto delincuente fue liberado debido a error en identificación en caso Casino Royale.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/fiscalia-de-nuevo-leon-aclara-liberacion-de-la-rana",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
+      {
+        "title": "Ex policías de San Pedro ejecutados en disputa por control de plaza",
+        "summary": "Homicidios revelan conflicto criminal entre organizaciones por dominio territorial en la zona.",
+        "zona": "Área metropolitana",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/ejecucion-de-ex-policias-de-san-pedro-revela-disputa-criminal-por-control-de-la-plaza/",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
+      {
+        "title": "Identifican a ejecutados en Gómez Morín con antecedentes penales",
+        "summary": "Autoridades confirman identidad de dos hombres asesinados; ambos tenían historial delictivo.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/identifican-a-ejecutados-en-gomez-morin-tenian-antecedentes-penales/1035277",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
+      {
+        "title": "Detienen a seis menores por robos en dos notarías",
+        "summary": "Autoridades capturan a adolescentes sospechosos de asaltos a oficinas notariales.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/detienen-a-seis-menores-por-robos-en-dos-notarias/1035294",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
+      {
+        "title": "Condenan a hombre a 50 años por secuestro y robo en Guadalupe",
+        "summary": "Tribunal sentencia a reo por privación de libertad y robo; caso con seguimiento judicial cerrado.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/secuestro-guadalupe-condenan-hombre-50-anos-carcel",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
       {
         "title": "Identifican a ejecutados en Gómez Morín como ex policías",
         "summary": "Dos hombres asesinados en avenida Gómez Morín eran ex policías vinculados a crimen organizado, confirma fiscal.",
@@ -82,17 +122,33 @@
         "source": "Telediario",
         "url": "https://www.telediario.mx/policia/pesqueria-detienen-a-hombre-por-presunto-intento-de-incendio",
         "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Cataneo en Linares por agresión contra mujer",
-        "summary": "Autoridades realizan operativo en Linares tras denuncia de agresión a una mujer.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/catean-departamento-en-linares-por-agresion-a-mujer/9122362825",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
       }
     ],
     "politica": [
+      {
+        "title": "Marisol González propone seguimiento legal obligatorio a violencia familiar",
+        "summary": "Legisladora plantea mecanismo para monitorear casos de agresión contra menores en familias.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/violencia-familiar-menores-nl",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
+      {
+        "title": "Tatiana Clouthier critica a Clara Luz Flores usando libro de AMLO",
+        "summary": "Conflicto interno en Morena; dirigente nacional usa argumentario presidencial contra aspirante local.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/tatiana-clouthier-usa-libro-amlo-para-criticar-a-clara-luz-flores-y-morena-en-nuevo/",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
+      {
+        "title": "Citlalli Hernández: proceso interno de Morena está cerrado",
+        "summary": "Dirigente nacional cierra debate sobre candidaturas en Nuevo León sin abrir participación.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/citlalli-hernandez-proceso-interno-morena-cerrado-ex-corcholatas-nl",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
       {
         "title": "Felipe Canales se registra en interna de Morena por Escobedo",
         "summary": "Aspirante participa en proceso selectivo de Morena para candidatura municipal en Escobedo.",
@@ -176,6 +232,14 @@
     ],
     "economia": [
       {
+        "title": "PROFECO monitorea precios previo al Buen Fin",
+        "summary": "Autoridad supervisa ofertas y promociones antes de la principal venta de temporada.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/reynosa/profeco-monitorea-precios-buen-fin",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
+      {
         "title": "Comerciantes ven riesgos en nueva ley de economía digital",
         "summary": "Canacope expresa preocupación por impacto de regulación en comisiones de pagos electrónicos.",
         "zona": "Monterrey",
@@ -193,6 +257,30 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Secretaría de Igualdad llevará brigada a Apodaca",
+        "summary": "Gobierno estatal despliega acciones de inclusión en municipio del área metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/igualdad-e-inclusion-llevara-brigada-a-apodaca-1802/",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
+      {
+        "title": "Monterrey ofrece mastografías gratuitas en clínicas municipales",
+        "summary": "Ayuntamiento invita a mujeres a realizarse estudios preventivos de detección de cáncer.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/monterrey-ofrece-estudios-mastografia-clinicas-norte-sur",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
+      {
+        "title": "Escobedo capacita empleados sobre Ley Valeria",
+        "summary": "Municipio adiestra a servidores públicos en normativa de protección a víctimas de violencia.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/capacita-escobedo-a-empleados-sobre-ley-valeria/1035190",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
       {
         "title": "DIF Monterrey promueve inclusión con Experiencia Oscura 2026",
         "summary": "Institución municipal organiza evento de sensibilización para empatía con personas ciegas.",
@@ -243,6 +331,30 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Rescatan a hombre atrapado en corriente del río Santa Catarina",
+        "summary": "Autoridades salvan a persona arrastrada por crecida durante lluvias intensas.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/rio-santa-catarina-rescate",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
+      {
+        "title": "Personas con discapacidad acceden a estacionamiento gratuito",
+        "summary": "Monterrey implementa pase inclusivo para facilitar movilidad de población con capacidades diferentes.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/personas-con-discapacidad-podran-estacionarse-gratis-en-monterrey/4165942270",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
+      {
+        "title": "UANL reconoce a Antonio Ramos por premio literario",
+        "summary": "Universidad honra a ganador del Premio de Novela Breve Rosario Castellanos 2026.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/uanl-reconoce-a-antonio-ramos-por-premio-rosario-castellanos-2026",
+        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+      },
       {
         "title": "Policia de Guadalupe rescata dos hombres del río Santa Catarina",
         "summary": "Autoridades locales retiran a individuos atrapados en corriente tras fuertes precipitaciones.",
@@ -309,5 +421,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-16T12:34:48.327489-06:00"
+  "last_updated": "2026-10-16T17:12:44.334191-06:00"
 }
