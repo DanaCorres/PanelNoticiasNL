@@ -1,8 +1,48 @@
 {
   "date": "2026-10-16",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Identifican a ejecutados en Gómez Morín como ex policías",
+        "summary": "Dos hombres asesinados en avenida Gómez Morín eran ex policías vinculados a crimen organizado, confirma fiscal.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/identifican-hombres-asesinados-balazos-gomez-morin-monterrey",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Robo a mano armada en notaría de Monterrey deja pérdida de 100 mil",
+        "summary": "Delincuentes enmascarados sustraen caja fuerte de notaría en colonia Miravalle; se llevaron efectivo.",
+        "zona": "Monterrey",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/roban-notaria-monterrey-caja-fuerte-miravalle/",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Dos hombres mueren en ataque a balazos en Linares",
+        "summary": "Disparo de arma de fuego deja dos víctimas mortales en municipio de Linares.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/linares-nuevo-leon-ataque-balazos-deja-dos-hombres-muertos",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Condenan a dos sujetos a más de 40 años por homicidios en Juárez",
+        "summary": "Tribunal sentencia a dos individuos por crímenes cometidos en Juárez, Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/juarez-nl-condenan-hombres-40-anos-carcel",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Mesa de Seguridad reporta 89 detenciones en Nuevo León",
+        "summary": "Autoridades informan cifra de capturados en operativos de seguridad estatal.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/detenciones-en-nuevo-leon-89",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
       {
         "title": "Ataque armado en Santa Catarina: un muerto y un herido",
         "summary": "Hombre asesinado a balazos en Santa Catarina; otra persona resultó herida en el mismo incidente.",
@@ -54,6 +94,54 @@
     ],
     "politica": [
       {
+        "title": "Felipe Canales se registra en interna de Morena por Escobedo",
+        "summary": "Aspirante participa en proceso selectivo de Morena para candidatura municipal en Escobedo.",
+        "zona": "Área metropolitana",
+        "source": "La Política Online (NL)",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/felipe-canales-se-registra-en-la-interna-de-morena-por-escobedo-5106/",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Llega Quinto Informe de Gobierno al Congreso local",
+        "summary": "Gobernador Samuel García presenta informe de actividades ante legislatura estatal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir (local)",
+        "url": "https://elporvenir.mx/local/llega-finalmente-el-quinto-informe-de-gobierno-al-congreso-local/1035196",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Desecha TEPJF recurso de Movimiento Ciudadano contra titular legislativo",
+        "summary": "Tribunal electoral rechaza impugnación de MC que buscaba remover al presidente del Congreso.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir (local)",
+        "url": "https://elporvenir.mx/local/desecha-tepjf-recurso-de-mc-para-tumbar-a-titular-del-legislativo/1035193",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Fernando Turner se destapa como aspirante a gubernatura",
+        "summary": "Empresario anuncia intención de competir por la silla de gobernador en próximas elecciones.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir (local)",
+        "url": "https://elporvenir.mx/local/se-destapa-empresario-fernando-turner-para-buscar-gubernatura/1035192",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Adrián de la Garza plantea alianza PRI-PAN para 2027",
+        "summary": "Líder político expone escenarios de negociación partidista rumbo a elecciones estatales.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/adrian-la-garza-habla-una-posible-alianza-pri-pan-por-nuevo-leon-en-2027/",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Samuel García lanza micrositio para difundir logros de administración",
+        "summary": "Gobierno estatal crea plataforma digital para comunicar resultados de gestión.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir (local)",
+        "url": "https://elporvenir.mx/local/lanza-samuel-garcia-micrositio-para-informar-logros/1035195",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
         "title": "Samuel García presenta su Quinto Informe de Gobierno",
         "summary": "Miguel Flores entrega el quinto informe de labores del gobierno de Nuevo León ante el Congreso.",
         "zona": "Monterrey",
@@ -88,6 +176,14 @@
     ],
     "economia": [
       {
+        "title": "Comerciantes ven riesgos en nueva ley de economía digital",
+        "summary": "Canacope expresa preocupación por impacto de regulación en comisiones de pagos electrónicos.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/canacope-monterrey-ley-economia-digital-pagos-electronicos-comisiones",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
         "title": "Incremento de derechos afectará economía familiar: advertencia",
         "summary": "Víctor Pérez Díaz advierte que aumento de derechos tendrá impacto negativo en presupuestos familiares.",
         "zona": "Nuevo León",
@@ -97,6 +193,22 @@
       }
     ],
     "eventos": [
+      {
+        "title": "DIF Monterrey promueve inclusión con Experiencia Oscura 2026",
+        "summary": "Institución municipal organiza evento de sensibilización para empatía con personas ciegas.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/experiencia-oscura-2026-monterrey",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Realizarán mañana jornada de reciclaje en San Nicolás",
+        "summary": "Municipio convoca a ciudadanos a participar en actividad ambiental 'San Nico Recicla'.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir (local)",
+        "url": "https://elporvenir.mx/local/realizaran-manana-san-nico-recicla/1035189",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
       {
         "title": "Venta nocturna en Feria Internacional del Libro Monterrey",
         "summary": "Se anuncia venta nocturna especial con horarios y promociones en FIL Monterrey.",
@@ -132,6 +244,54 @@
     ],
     "sociedad": [
       {
+        "title": "Policia de Guadalupe rescata dos hombres del río Santa Catarina",
+        "summary": "Autoridades locales retiran a individuos atrapados en corriente tras fuertes precipitaciones.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/pc-de-guadalupe-rescate",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "UANL suspende torneos intra y clases en línea por lluvias",
+        "summary": "Universidad cierra instalaciones y cancela actividades deportivas por contingencia climática.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/deportes/autenticos-tigres-uanl-suspende",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Municipio de Monterrey ofrece mastografías gratuitas a mujeres",
+        "summary": "Clínicas municipales brindan estudios de detección de cáncer de mama sin costo.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/monterrey-ofrece-estudios-mastografia-clinicas-norte-sur",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Escobedo capacita empleados sobre Ley Valeria contra acoso",
+        "summary": "Municipio realiza adiestramiento de personal sobre normativa de protección a trabajadores.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir (local)",
+        "url": "https://elporvenir.mx/local/capacita-escobedo-a-empleados-sobre-ley-valeria/1035190",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Estado prepara programa 'Ponte Nuevo, Ponte al Corriente'",
+        "summary": "Gobierno anuncia iniciativa de apoyo para regularización de situaciones pendientes.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir (local)",
+        "url": "https://elporvenir.mx/local/prepara-estado-programa-ponte-nuevo-ponte-al-corriente/1035194",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
+        "title": "Autoridades mantienen campañas permanentes de fumigación de garrapatas",
+        "summary": "García continúa operativos de control sanitario en zonas del estado.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/fumigacion-de-garrapatas-garcia",
+        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+      },
+      {
         "title": "Red Ambiental acerca a niños al cuidado de la naturaleza",
         "summary": "Organización implementa programa educativo para que menores aprendan a proteger el ambiente.",
         "zona": "Nuevo León",
@@ -149,5 +309,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-16T00:11:50.105362-06:00"
+  "last_updated": "2026-10-16T12:34:48.327489-06:00"
 }
