@@ -1,497 +1,185 @@
 {
-  "date": "2026-10-16",
-  "run_count": 4,
+  "date": "2026-10-17",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Fiscalía investiga conexión entre ataques en Monterrey y Santa Catarina",
-        "summary": "Autoridades revisan posibles vínculos entre ejecutados en Gómez Morín y ataque armado en Santa Catarina; aclara dudas a víctimas del Casino Royale.",
-        "zona": "Monterrey",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/16/fiscalia-de-nuevo-leon-investiga-conexion-entre-ataques-en-monterrey-y-santa-catarina-aclara-dudas-a-victimas-del-casino-royale/",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
-      },
-      {
-        "title": "Fiscal descarta móvil político en muerte de Carlos Manzo",
-        "summary": "Fiscalía apunta a narcotráfico como posible causa del asesinato del ex funcionario, descartando por ahora motivación política.",
-        "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/16/fiscalia-apunta-al-narco-por-el-asesinato-de-carlos-manzo-y-descarta-por-ahora-movil-politico/",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
-      },
-      {
-        "title": "Liberación de 'La Rana' fue confusión de identidades: Fiscalía",
-        "summary": "Autoridades aclaran que excarcelación de presunto delincuente se debió a error en identificación de personas.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/fiscalia-nl-aclara-liberacion-de-la-rana-caso-casino-royale",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
-      },
-      {
-        "title": "Vinculan a padrastro por feminicidio de menor de 14 años",
-        "summary": "Hombre detenido y ligado a proceso en Guadalupe por muerte de adolescente bajo su cuidado.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/guadalupe-nl-vinculan-a-proceso-a-hombre-por-feminicidio-de-menor",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
-      },
-      {
-        "title": "Fiscalía aclara liberación de 'La Rana' por confusión de identidades",
-        "summary": "Autoridades explican que el presunto delincuente fue liberado debido a error en identificación en caso Casino Royale.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/fiscalia-de-nuevo-leon-aclara-liberacion-de-la-rana",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "Ex policías de San Pedro ejecutados en disputa por control de plaza",
-        "summary": "Homicidios revelan conflicto criminal entre organizaciones por dominio territorial en la zona.",
-        "zona": "Área metropolitana",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/ejecucion-de-ex-policias-de-san-pedro-revela-disputa-criminal-por-control-de-la-plaza/",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "Identifican a ejecutados en Gómez Morín con antecedentes penales",
-        "summary": "Autoridades confirman identidad de dos hombres asesinados; ambos tenían historial delictivo.",
+        "title": "Fiscalía identifica a ex policías asesinados en Gómez Morín",
+        "summary": "Autoridades identificaron a dos ex elementos de policía encontrados sin vida en la zona de Gómez Morín, confirmando el hallazgo.",
         "zona": "Monterrey",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/identifican-a-ejecutados-en-gomez-morin-tenian-antecedentes-penales/1035277",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+        "url": "https://elporvenir.mx/justicia/identifica-fiscalia-a-ex-policias-asesinados-en-gomez-morin/1035277",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Detienen a seis menores por robos en dos notarías",
-        "summary": "Autoridades capturan a adolescentes sospechosos de asaltos a oficinas notariales.",
+        "title": "Localizan a joven tras secuestro virtual en Nuevo León",
+        "summary": "Autoridades localizaron a un adolescente que había sido reportado desaparecido por un presunto caso de secuestro cibernético.",
         "zona": "Nuevo León",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/detienen-a-seis-menores-por-robos-en-dos-notarias/1035294",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+        "url": "https://elporvenir.mx/justicia/localizan-a-joven-tras-secuestro-virtual/1035424",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Condenan a hombre a 50 años por secuestro y robo en Guadalupe",
-        "summary": "Tribunal sentencia a reo por privación de libertad y robo; caso con seguimiento judicial cerrado.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/secuestro-guadalupe-condenan-hombre-50-anos-carcel",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "Identifican a ejecutados en Gómez Morín como ex policías",
-        "summary": "Dos hombres asesinados en avenida Gómez Morín eran ex policías vinculados a crimen organizado, confirma fiscal.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/identifican-hombres-asesinados-balazos-gomez-morin-monterrey",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Robo a mano armada en notaría de Monterrey deja pérdida de 100 mil",
-        "summary": "Delincuentes enmascarados sustraen caja fuerte de notaría en colonia Miravalle; se llevaron efectivo.",
-        "zona": "Monterrey",
-        "source": "TV Azteca (Nuevo León)",
-        "url": "https://www.tvazteca.com/aztecanoticias/roban-notaria-monterrey-caja-fuerte-miravalle/",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Dos hombres mueren en ataque a balazos en Linares",
-        "summary": "Disparo de arma de fuego deja dos víctimas mortales en municipio de Linares.",
+        "title": "Detienen a seis menores por robos en notarías",
+        "summary": "Capturan a seis adolescentes implicados en una serie de robos perpetrados en oficinas notariales del estado.",
         "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/linares-nuevo-leon-ataque-balazos-deja-dos-hombres-muertos",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/detienen-a-seis-menores-por-robos-en-notarias/1035294",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Condenan a dos sujetos a más de 40 años por homicidios en Juárez",
-        "summary": "Tribunal sentencia a dos individuos por crímenes cometidos en Juárez, Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/juarez-nl-condenan-hombres-40-anos-carcel",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Mesa de Seguridad reporta 89 detenciones en Nuevo León",
-        "summary": "Autoridades informan cifra de capturados en operativos de seguridad estatal.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/detenciones-en-nuevo-leon-89",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Ataque armado en Santa Catarina: un muerto y un herido",
-        "summary": "Hombre asesinado a balazos en Santa Catarina; otra persona resultó herida en el mismo incidente.",
+        "title": "Encuentran camioneta baleada en Santa Catarina",
+        "summary": "Agentes localizaron un vehículo impactado por arma de fuego en la zona de La Fama en Santa Catarina.",
         "zona": "Área metropolitana",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/ataque-armado-deja-un-hombre-sin-vida-en-santa-catarina/1035074",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
+        "url": "https://elporvenir.mx/justicia/encuentran-camioneta-baleada-en-la-fama-santa-catarina/1035410",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
+      },
+      {
+        "title": "Identifican a dos ejecutados en Linares",
+        "summary": "Autoridades dieron a conocer la identidad de dos cuerpos hallados como víctimas de homicidio en Linares.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/reconocen-a-dos-ejecutados-en-linares/1035409",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Samuel García presenta libro sobre sus cinco años de gobierno",
-        "summary": "Gobernador presenta 'Un Nuevo León' en FIL Monterrey, compilación de logros de su administración.",
-        "zona": "Monterrey",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/samuel-presenta-el-libro-un-nuevo-leon-sobre-sus-cinco-anos-de-gobierno-6579/",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
-      },
-      {
-        "title": "Marisol González propone seguimiento legal obligatorio a violencia familiar",
-        "summary": "Legisladora plantea mecanismo para monitorear casos de agresión contra menores en familias.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/violencia-familiar-menores-nl",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "Tatiana Clouthier critica a Clara Luz Flores usando libro de AMLO",
-        "summary": "Conflicto interno en Morena; dirigente nacional usa argumentario presidencial contra aspirante local.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/tatiana-clouthier-usa-libro-amlo-para-criticar-a-clara-luz-flores-y-morena-en-nuevo/",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "Citlalli Hernández: proceso interno de Morena está cerrado",
-        "summary": "Dirigente nacional cierra debate sobre candidaturas en Nuevo León sin abrir participación.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/citlalli-hernandez-proceso-interno-morena-cerrado-ex-corcholatas-nl",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "Felipe Canales se registra en interna de Morena por Escobedo",
-        "summary": "Aspirante participa en proceso selectivo de Morena para candidatura municipal en Escobedo.",
+        "title": "Manuel Guerra busca reelegirse como presidente en García",
+        "summary": "El actual presidente municipal de García anunció su intención de competir nuevamente en próximos comicios.",
         "zona": "Área metropolitana",
-        "source": "La Política Online (NL)",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/felipe-canales-se-registra-en-la-interna-de-morena-por-escobedo-5106/",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/buscara-reelegirse-manuel-guerra-en-garcia/1035461",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Llega Quinto Informe de Gobierno al Congreso local",
-        "summary": "Gobernador Samuel García presenta informe de actividades ante legislatura estatal.",
+        "title": "Instituto Electoral recaba propuestas para ampliar cuotas de representación",
+        "summary": "El IEE abre espacios para recopilar iniciativas ciudadanas sobre inclusión política y paridad de género.",
         "zona": "Nuevo León",
-        "source": "El Porvenir (local)",
-        "url": "https://elporvenir.mx/local/llega-finalmente-el-quinto-informe-de-gobierno-al-congreso-local/1035196",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/recaba-iee-propuesta-de-ampliar-cuotas-de-representacion-politica/1035458",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Desecha TEPJF recurso de Movimiento Ciudadano contra titular legislativo",
-        "summary": "Tribunal electoral rechaza impugnación de MC que buscaba remover al presidente del Congreso.",
+        "title": "Comisión de Trabajo rechaza vetos del gobernador",
+        "summary": "Legisladores locales rechazaron varias iniciativas que el ejecutivo estatal pretendía bloquear.",
         "zona": "Nuevo León",
-        "source": "El Porvenir (local)",
-        "url": "https://elporvenir.mx/local/desecha-tepjf-recurso-de-mc-para-tumbar-a-titular-del-legislativo/1035193",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/rechaza-comisión-de-trabajo-vetos-de-gobernador/1035176",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Fernando Turner se destapa como aspirante a gubernatura",
-        "summary": "Empresario anuncia intención de competir por la silla de gobernador en próximas elecciones.",
+        "title": "Proponen candidatos con discapacidad en lista de regidurías",
+        "summary": "Presentan iniciativa para garantizar la participación de personas con discapacidad en contiendas electorales municipales.",
         "zona": "Nuevo León",
-        "source": "El Porvenir (local)",
-        "url": "https://elporvenir.mx/local/se-destapa-empresario-fernando-turner-para-buscar-gubernatura/1035192",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Adrián de la Garza plantea alianza PRI-PAN para 2027",
-        "summary": "Líder político expone escenarios de negociación partidista rumbo a elecciones estatales.",
-        "zona": "Nuevo León",
-        "source": "TV Azteca (Nuevo León)",
-        "url": "https://www.tvazteca.com/aztecanoticias/adrian-la-garza-habla-una-posible-alianza-pri-pan-por-nuevo-leon-en-2027/",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Samuel García lanza micrositio para difundir logros de administración",
-        "summary": "Gobierno estatal crea plataforma digital para comunicar resultados de gestión.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir (local)",
-        "url": "https://elporvenir.mx/local/lanza-samuel-garcia-micrositio-para-informar-logros/1035195",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Samuel García presenta su Quinto Informe de Gobierno",
-        "summary": "Miguel Flores entrega el quinto informe de labores del gobierno de Nuevo León ante el Congreso.",
-        "zona": "Monterrey",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/politica/entregan-congreso-nl-quinto-informe-gobierno-samuel-garcia",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Congreso de NL se opone al trasvase de presa El Cuchillo",
-        "summary": "Legisladores de Nuevo León piden detener el trasvase de agua de la presa El Cuchillo a Tamaulipas.",
-        "zona": "Nuevo León",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/politica/congreso-nuevo-leon-pide-no-realizar-trasvase-el-cuchillo-tamaulipas",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Félix Arratia lleva tarjeta de apoyo a cuidadoras",
-        "summary": "Funcionario promueve tarjeta 'Ayudamos a las Mujeres' con subsidio mensual de $2,000 pesos para jefas de familia.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/felix-arratia-lleva-tarjeta-ayudamos-a-las-mujeres-a-cuidadora/3531726194",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Arratia anuncia brigada vehicular para Apodaca",
-        "summary": "Funcionario llevará brigada de atención vial a municipio de Apodaca.",
-        "zona": "Área metropolitana",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/llevara-felix-arratia-brigada-vehicular-a-apodaca/9363643992",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/proponen-incluir-candidatos-con-discapacidad-en-lista-de-regidurias/1035174",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       }
     ],
     "economia": [
       {
-        "title": "Tesorería y organismos culturales preparan presupuesto 2027",
-        "summary": "Entidades estatales se reúnen para definir prioridades de gasto para ejercicio fiscal próximo.",
+        "title": "Nuevo León sube seis lugares en Cartera de Inversión Turística",
+        "summary": "El estado mejora su posicionamiento nacional en atractivos para inversión turística según evaluación reciente.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/nuevo-leon-sube-seis-lugares-en-la-cartera-de-inversion-turistica/2158481040",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
+      },
+      {
+        "title": "SAT gana 80% de juicios fiscales con 115 mil mdp",
+        "summary": "Administración Tributaria obtiene victorias legales por monto significativo en controversias fiscales estatales.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/tesoreria-nuevo-leon-y-organismos-culturales-preparan-presupuesto-2027",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+        "url": "https://www.telediario.mx/economia/sat-gana-80-del-monto-juicios-fiscales-2026-coparmex-nl",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Nuevo León ofrece capacitación para regularizar vehículos foráneos",
-        "summary": "Estado anuncia programa gratuito de capacitación a través de NLínea para trámite de regularización vehicular.",
+        "title": "NADBank alista 300 millones de dólares para obras ambientales",
+        "summary": "Banco de Desarrollo América del Norte invertirá recursos en proyectos sustentables del estado.",
         "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/capacitacion-gratuita-para-regularizar-vehiculos-foraneos-en-nuevo-leon/vl2267785",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
-      },
-      {
-        "title": "PROFECO monitorea precios previo al Buen Fin",
-        "summary": "Autoridad supervisa ofertas y promociones antes de la principal venta de temporada.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/reynosa/profeco-monitorea-precios-buen-fin",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "Comerciantes ven riesgos en nueva ley de economía digital",
-        "summary": "Canacope expresa preocupación por impacto de regulación en comisiones de pagos electrónicos.",
-        "zona": "Monterrey",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/negocios/canacope-monterrey-ley-economia-digital-pagos-electronicos-comisiones",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+        "url": "https://www.milenio.com/negocios/nadbank-lanza-programa-pafi-300-millones-dolares-proyectos-ambientales",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Incremento de derechos afectará economía familiar: advertencia",
-        "summary": "Víctor Pérez Díaz advierte que aumento de derechos tendrá impacto negativo en presupuestos familiares.",
+        "title": "Servicios digitales del ICV crecen 134% en Monterrey",
+        "summary": "Instituto de Crédito y Vivienda registra aumento significativo en tramitación en línea.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/registra-un-incremento-del-13422--servicios-digitales-del-icv/1035471",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
+      },
+      {
+        "title": "Mundial y eventos masivos impulsan economía local",
+        "summary": "Actividades de gran escala generan dinamismo económico en Nuevo León durante el período.",
         "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/economia-familiar-e-incremento-de-derechos-advierte-victor-perez-diaz/vl2267326",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/impulsan-actividad-economica-el-mundial-y-sus-eventos-masivos/1035463",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       }
     ],
     "eventos": [
       {
-        "title": "Guadalupe presenta libro de 310 años de historia municipal",
-        "summary": "Municipio lanza publicación que rescata identidad y trayectoria de 310 años de Guadalupe.",
-        "zona": "Área metropolitana",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/16/guadalupe-presenta-libro-que-rescata-310-anos-de-historia-e-identidad-del-municipio/",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
-      },
-      {
-        "title": "Analizan retos del agua compartida con Estados Unidos en Monterrey",
-        "summary": "Especialistas y autoridades se reúnen en Museo de Historia Mexicana para discutir gestión transfronteriza.",
+        "title": "Exentan pago de parquímetros a personas con discapacidad",
+        "summary": "Municipio implementa medida para beneficiar a personas discapacitadas en estacionamientos regulados.",
         "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/analizaran-en-monterrey-retos-del-agua-compartida-con-eua/4370338157",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
-      },
-      {
-        "title": "Secretaría de Igualdad llevará brigada a Apodaca",
-        "summary": "Gobierno estatal despliega acciones de inclusión en municipio del área metropolitana.",
-        "zona": "Área metropolitana",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/igualdad-e-inclusion-llevara-brigada-a-apodaca-1802/",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "Monterrey ofrece mastografías gratuitas en clínicas municipales",
-        "summary": "Ayuntamiento invita a mujeres a realizarse estudios preventivos de detección de cáncer.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/monterrey-ofrece-estudios-mastografia-clinicas-norte-sur",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "Escobedo capacita empleados sobre Ley Valeria",
-        "summary": "Municipio adiestra a servidores públicos en normativa de protección a víctimas de violencia.",
-        "zona": "Área metropolitana",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/capacita-escobedo-a-empleados-sobre-ley-valeria/1035190",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "DIF Monterrey promueve inclusión con Experiencia Oscura 2026",
-        "summary": "Institución municipal organiza evento de sensibilización para empatía con personas ciegas.",
-        "zona": "Monterrey",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/experiencia-oscura-2026-monterrey",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Realizarán mañana jornada de reciclaje en San Nicolás",
-        "summary": "Municipio convoca a ciudadanos a participar en actividad ambiental 'San Nico Recicla'.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir (local)",
-        "url": "https://elporvenir.mx/local/realizaran-manana-san-nico-recicla/1035189",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Venta nocturna en Feria Internacional del Libro Monterrey",
-        "summary": "Se anuncia venta nocturna especial con horarios y promociones en FIL Monterrey.",
-        "zona": "Monterrey",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/cultura/venta-nocturna-fil-monterrey-2026-fecha-horarios-promociones",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Gioconda Belli presenta 'Un silencio lleno de murmullos'",
-        "summary": "Autora nicaragüa participa en la Feria Internacional del Libro de Monterrey con nueva obra.",
-        "zona": "Monterrey",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/cultura/gioconda-belli-fil-monterrey-un-silencio-lleno-de-murmullos",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Lorenia Canavati debuta como escritora en Monterrey",
-        "summary": "Lorenia Canavati presenta su primer libro 'Las Olas' en Casino Monterrey.",
-        "zona": "Monterrey",
-        "source": "Telediario",
-        "url": "https://www.telediario.mx/comunidad/lorenia-canavati-presenta-su-primer-libro-las-olas-en-monterrey",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Jardín otoñal con juegos y comida para el fin de semana",
-        "summary": "Espacio con entretenimiento, gastronomía y escenarios fotográficos abre sus puertas en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/plan-para-el-fin-de-semana-este-jardin-otonal-tiene-juegos-comida-y-escenarios-para-tus-fotos-/v-vl2267319",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
+        "url": "https://elporvenir.mx/local/ofrecen-exentar-pago-de-parquimetros-a-discapacitados/1035459",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Inician obras nocturnas para renovar Carretera Nacional",
-        "summary": "Autoridades comienzan trabajos de mantenimiento en tramo importante de vía estatal durante horario nocturno.",
+        "title": "Presa La Boca rebasa 100% de capacidad por lluvias",
+        "summary": "Infraestructura hidráulica sobrepasa límites tras intensas precipitaciones por frente frío número dos.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/presa-la-boca-rebasa-capacidad-conagua-lluvias-frente-frio-2nuevo-leon",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
+      },
+      {
+        "title": "Protección Civil rescata a nueve personas por inundaciones",
+        "summary": "Lluvias generan emergencias en el estado; cuerpos de auxilio intervienen en múltiples rescates.",
         "zona": "Nuevo León",
-        "source": "Informe Regio",
-        "url": "https://informeregio.com/inician-obras-nocturnas-para-renovar-tramo-de-la-carretera-nacional/",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/proteccion-civil-nuevo-leon-rescates-saldo-lluvias-frente-frio-2",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Presa La Boca abre compuertas tras alcanzar capacidad máxima",
-        "summary": "Tras lluvias intensas, infraestructura hídrica de Santiago abre todas sus compuertas por saturación.",
-        "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/16/abren-todas-las-compuertas-de-la-presa-la-boca-tras-alcanzar-el-100-de-su-capacidad/",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
-      },
-      {
-        "title": "Recolectores de basura rescatan conductor atrapado en corriente",
-        "summary": "Trabajadores de limpia salvan a hombre varado en río Santa Catarina durante fenómeno hidrometeorológico.",
+        "title": "Conagua abre compuertas de Presa La Boca tras precipitaciones",
+        "summary": "Autoridades toman medidas para controlar nivel de almacenamiento tras intensas lluvias.",
         "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/salvan-empleados-de-limpia-a-conductor-son-heroes-sin-capa/v8658724057",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/abre-conagua-compuertas-de-presa-la-boca-tras-precipitaciones/1035460",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Monterrey da permisos gratuitos para estacionamiento de discapacitados",
-        "summary": "Municipio implementa política de acceso sin costo para personas con discapacidad en estacionamientos.",
-        "zona": "Monterrey",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/16/monterrey-dara-permisos-gratuitos-para-estacionamiento-de-personas-con-discapacidad-y-mantiene-operativo-por-lluvias/",
-        "_added_at": "2026-10-16T23:57:18.457866-06:00"
-      },
-      {
-        "title": "Rescatan a hombre atrapado en corriente del río Santa Catarina",
-        "summary": "Autoridades salvan a persona arrastrada por crecida durante lluvias intensas.",
-        "zona": "Monterrey",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/rio-santa-catarina-rescate",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "Personas con discapacidad acceden a estacionamiento gratuito",
-        "summary": "Monterrey implementa pase inclusivo para facilitar movilidad de población con capacidades diferentes.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/personas-con-discapacidad-podran-estacionarse-gratis-en-monterrey/4165942270",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
-      },
-      {
-        "title": "UANL reconoce a Antonio Ramos por premio literario",
-        "summary": "Universidad honra a ganador del Premio de Novela Breve Rosario Castellanos 2026.",
+        "title": "Hospital Universitario combate desinformación sobre enfermedades reumáticas",
+        "summary": "Institución de salud organiza simposio para esclarecer mitos sobre afecciones articulares y reumatología.",
         "zona": "Monterrey",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/uanl-reconoce-a-antonio-ramos-por-premio-rosario-castellanos-2026",
-        "_added_at": "2026-10-16T17:12:44.334191-06:00"
+        "url": "https://www.telediario.mx/comunidad/hospital-universitario-uanl-realiza-simposio-de-reumatologia-2026",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Policia de Guadalupe rescata dos hombres del río Santa Catarina",
-        "summary": "Autoridades locales retiran a individuos atrapados en corriente tras fuertes precipitaciones.",
-        "zona": "Área metropolitana",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/pc-de-guadalupe-rescate",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "UANL suspende torneos intra y clases en línea por lluvias",
-        "summary": "Universidad cierra instalaciones y cancela actividades deportivas por contingencia climática.",
-        "zona": "Monterrey",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/deportes/autenticos-tigres-uanl-suspende",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Municipio de Monterrey ofrece mastografías gratuitas a mujeres",
-        "summary": "Clínicas municipales brindan estudios de detección de cáncer de mama sin costo.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/monterrey-ofrece-estudios-mastografia-clinicas-norte-sur",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Escobedo capacita empleados sobre Ley Valeria contra acoso",
-        "summary": "Municipio realiza adiestramiento de personal sobre normativa de protección a trabajadores.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir (local)",
-        "url": "https://elporvenir.mx/local/capacita-escobedo-a-empleados-sobre-ley-valeria/1035190",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Estado prepara programa 'Ponte Nuevo, Ponte al Corriente'",
-        "summary": "Gobierno anuncia iniciativa de apoyo para regularización de situaciones pendientes.",
+        "title": "Retiran más de diez mil toneladas de residuos en Las Sabinitas",
+        "summary": "Operativo de limpieza y recuperación ambiental se realiza en zona de manejo de desechos.",
         "zona": "Nuevo León",
-        "source": "El Porvenir (local)",
-        "url": "https://elporvenir.mx/local/prepara-estado-programa-ponte-nuevo-ponte-al-corriente/1035194",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/retiran-mas-de-10-mil-toneladas-de-residuos-en-las-sabinitas/1035173",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       },
       {
-        "title": "Autoridades mantienen campañas permanentes de fumigación de garrapatas",
-        "summary": "García continúa operativos de control sanitario en zonas del estado.",
+        "title": "Nuevo León obtiene primer lugar nacional en atención a derechos en penales",
+        "summary": "Estado destaca en sistemas penitenciarios por protección y respeto a derechos humanos.",
         "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/fumigacion-de-garrapatas-garcia",
-        "_added_at": "2026-10-16T12:34:48.327489-06:00"
-      },
-      {
-        "title": "Red Ambiental acerca a niños al cuidado de la naturaleza",
-        "summary": "Organización implementa programa educativo para que menores aprendan a proteger el ambiente.",
-        "zona": "Nuevo León",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/comunidad/como-ensenar-a-los-ninos-a-cuidar-el-planeta-red-ambiental-sabe-como",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Juana comparte su historia como sobreviviente de cáncer",
-        "summary": "Testimonio de mujer que superó cáncer de mama y ahora narra su experiencia.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/juana-cuenta-su-historia-como-sobreviviente-del-cancer-de-mama/3202235604",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/obtiene-nl-primer-lugar-nacional-en-atencion-a-dh-dentro-de-penales/1034889",
+        "_added_at": "2026-10-17T11:42:41.344214-06:00"
       }
     ]
   },
-  "last_updated": "2026-10-16T23:57:18.457866-06:00"
+  "last_updated": "2026-10-17T11:42:41.344214-06:00"
 }
