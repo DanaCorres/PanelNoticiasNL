@@ -1,8 +1,40 @@
 {
   "date": "2026-10-16",
-  "run_count": 3,
+  "run_count": 4,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fiscalía investiga conexión entre ataques en Monterrey y Santa Catarina",
+        "summary": "Autoridades revisan posibles vínculos entre ejecutados en Gómez Morín y ataque armado en Santa Catarina; aclara dudas a víctimas del Casino Royale.",
+        "zona": "Monterrey",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/16/fiscalia-de-nuevo-leon-investiga-conexion-entre-ataques-en-monterrey-y-santa-catarina-aclara-dudas-a-victimas-del-casino-royale/",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
+      {
+        "title": "Fiscal descarta móvil político en muerte de Carlos Manzo",
+        "summary": "Fiscalía apunta a narcotráfico como posible causa del asesinato del ex funcionario, descartando por ahora motivación política.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/16/fiscalia-apunta-al-narco-por-el-asesinato-de-carlos-manzo-y-descarta-por-ahora-movil-politico/",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
+      {
+        "title": "Liberación de 'La Rana' fue confusión de identidades: Fiscalía",
+        "summary": "Autoridades aclaran que excarcelación de presunto delincuente se debió a error en identificación de personas.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/fiscalia-nl-aclara-liberacion-de-la-rana-caso-casino-royale",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
+      {
+        "title": "Vinculan a padrastro por feminicidio de menor de 14 años",
+        "summary": "Hombre detenido y ligado a proceso en Guadalupe por muerte de adolescente bajo su cuidado.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/guadalupe-nl-vinculan-a-proceso-a-hombre-por-feminicidio-de-menor",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
       {
         "title": "Fiscalía aclara liberación de 'La Rana' por confusión de identidades",
         "summary": "Autoridades explican que el presunto delincuente fue liberado debido a error en identificación en caso Casino Royale.",
@@ -90,41 +122,17 @@
         "source": "El Porvenir",
         "url": "https://elporvenir.mx/justicia/ataque-armado-deja-un-hombre-sin-vida-en-santa-catarina/1035074",
         "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Dos hombres ejecutados en automóvil en Gómez Morín",
-        "summary": "Identifican a uno de los atacantes como 'El 34'; ejecutan a dos hombres en vehículo en Monterrey.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/identifican-a-el-34-como-uno-de-los-ejecutados-en-gomez-morin/2550231256",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Sentencian a 53 años de prisión por doble homicidio en García",
-        "summary": "Hombre condenado a 53 años de cárcel por matar a dos personas en García, Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Telediario",
-        "url": "https://www.telediario.mx/policia/garcia-nl-sentencian-a-53-anos-a-hombre-por-doble-homicidio",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Dos condenados a más de 40 años por homicidios en Juárez",
-        "summary": "Tribunal sentencia a dos hombres a prisión por más de 40 años por cometer homicidios en Juárez.",
-        "zona": "Nuevo León",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/policia/condenan-a-prision-dos-hombres-por-homicidio-en-juarez-nuevo-leon",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
-      },
-      {
-        "title": "Detienen a hombre por intento de incendio en Pesquería",
-        "summary": "Capturan a sujeto acusado de intentar incendiar un lote baldío en Pesquería.",
-        "zona": "Nuevo León",
-        "source": "Telediario",
-        "url": "https://www.telediario.mx/policia/pesqueria-detienen-a-hombre-por-presunto-intento-de-incendio",
-        "_added_at": "2026-10-16T00:11:50.105362-06:00"
       }
     ],
     "politica": [
+      {
+        "title": "Samuel García presenta libro sobre sus cinco años de gobierno",
+        "summary": "Gobernador presenta 'Un Nuevo León' en FIL Monterrey, compilación de logros de su administración.",
+        "zona": "Monterrey",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/samuel-presenta-el-libro-un-nuevo-leon-sobre-sus-cinco-anos-de-gobierno-6579/",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
       {
         "title": "Marisol González propone seguimiento legal obligatorio a violencia familiar",
         "summary": "Legisladora plantea mecanismo para monitorear casos de agresión contra menores en familias.",
@@ -232,6 +240,22 @@
     ],
     "economia": [
       {
+        "title": "Tesorería y organismos culturales preparan presupuesto 2027",
+        "summary": "Entidades estatales se reúnen para definir prioridades de gasto para ejercicio fiscal próximo.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/tesoreria-nuevo-leon-y-organismos-culturales-preparan-presupuesto-2027",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
+      {
+        "title": "Nuevo León ofrece capacitación para regularizar vehículos foráneos",
+        "summary": "Estado anuncia programa gratuito de capacitación a través de NLínea para trámite de regularización vehicular.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/capacitacion-gratuita-para-regularizar-vehiculos-foraneos-en-nuevo-leon/vl2267785",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
+      {
         "title": "PROFECO monitorea precios previo al Buen Fin",
         "summary": "Autoridad supervisa ofertas y promociones antes de la principal venta de temporada.",
         "zona": "Nuevo León",
@@ -257,6 +281,22 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Guadalupe presenta libro de 310 años de historia municipal",
+        "summary": "Municipio lanza publicación que rescata identidad y trayectoria de 310 años de Guadalupe.",
+        "zona": "Área metropolitana",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/16/guadalupe-presenta-libro-que-rescata-310-anos-de-historia-e-identidad-del-municipio/",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
+      {
+        "title": "Analizan retos del agua compartida con Estados Unidos en Monterrey",
+        "summary": "Especialistas y autoridades se reúnen en Museo de Historia Mexicana para discutir gestión transfronteriza.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/analizaran-en-monterrey-retos-del-agua-compartida-con-eua/4370338157",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
       {
         "title": "Secretaría de Igualdad llevará brigada a Apodaca",
         "summary": "Gobierno estatal despliega acciones de inclusión en municipio del área metropolitana.",
@@ -331,6 +371,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Inician obras nocturnas para renovar Carretera Nacional",
+        "summary": "Autoridades comienzan trabajos de mantenimiento en tramo importante de vía estatal durante horario nocturno.",
+        "zona": "Nuevo León",
+        "source": "Informe Regio",
+        "url": "https://informeregio.com/inician-obras-nocturnas-para-renovar-tramo-de-la-carretera-nacional/",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
+      {
+        "title": "Presa La Boca abre compuertas tras alcanzar capacidad máxima",
+        "summary": "Tras lluvias intensas, infraestructura hídrica de Santiago abre todas sus compuertas por saturación.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/16/abren-todas-las-compuertas-de-la-presa-la-boca-tras-alcanzar-el-100-de-su-capacidad/",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
+      {
+        "title": "Recolectores de basura rescatan conductor atrapado en corriente",
+        "summary": "Trabajadores de limpia salvan a hombre varado en río Santa Catarina durante fenómeno hidrometeorológico.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/salvan-empleados-de-limpia-a-conductor-son-heroes-sin-capa/v8658724057",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
+      {
+        "title": "Monterrey da permisos gratuitos para estacionamiento de discapacitados",
+        "summary": "Municipio implementa política de acceso sin costo para personas con discapacidad en estacionamientos.",
+        "zona": "Monterrey",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/16/monterrey-dara-permisos-gratuitos-para-estacionamiento-de-personas-con-discapacidad-y-mantiene-operativo-por-lluvias/",
+        "_added_at": "2026-10-16T23:57:18.457866-06:00"
+      },
       {
         "title": "Rescatan a hombre atrapado en corriente del río Santa Catarina",
         "summary": "Autoridades salvan a persona arrastrada por crecida durante lluvias intensas.",
@@ -421,5 +493,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-16T17:12:44.334191-06:00"
+  "last_updated": "2026-10-16T23:57:18.457866-06:00"
 }
