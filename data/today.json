@@ -1,8 +1,40 @@
 {
   "date": "2026-10-17",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Vinculan a proceso a hombre por secuestro y tortura en García",
+        "summary": "Juez vinculó a proceso a sujeto acusado de secuestrar y torturar a una mujer durante dos meses en García.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/garcia-nl-vinculan-a-proceso-a-hombre-por-secuestro-de-mujer",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
+      {
+        "title": "Capturan sicarios del Cártel del Noreste con armamento pesado",
+        "summary": "Elementos de seguridad detuvieron a integrantes del CDN con arsenal militar incluido fusil para derribar aeronaves.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca Nuevo León",
+        "url": "https://www.tvazteca.com/aztecanoticias/fotos-cae-en-hidalgo-nuevo-leon-sicarios-del-cdn-arsenal-del-ejercito-y-fusil",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
+      {
+        "title": "Detienen a presunto homicida de motociclista en Guadalupe",
+        "summary": "Capturan a sospechoso de cometer homicidio contra conductor de motocicleta en municipio de Guadalupe.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/detienen-a-presunto-homicida-de-motociclista-en-guadalupe/9445822986",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
+      {
+        "title": "Detienen a dos hombres por allanamiento en San Pedro",
+        "summary": "Autoridades capturaron a dos sujetos acusados de cometer allanamiento de morada en San Pedro Garza García.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/detienen-a-dos-hombres-por-allanamiento-en-san-pedro/7214676760",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
       {
         "title": "Fiscalía identifica a ex policías asesinados en Gómez Morín",
         "summary": "Autoridades identificaron a dos ex elementos de policía encontrados sin vida en la zona de Gómez Morín, confirmando el hallazgo.",
@@ -46,6 +78,14 @@
     ],
     "politica": [
       {
+        "title": "SET actúa contra escuelas militarizadas operando sin autorización",
+        "summary": "Secretaría de Educación inicia acciones contra instituciones que funcionan como militares sin cumplir requisitos.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/resultado?query=SET+va+contra+escuelas%C2%A0militarizadas+irregulares&select=todas",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
+      {
         "title": "Manuel Guerra busca reelegirse como presidente en García",
         "summary": "El actual presidente municipal de García anunció su intención de competir nuevamente en próximos comicios.",
         "zona": "Área metropolitana",
@@ -79,6 +119,14 @@
       }
     ],
     "economia": [
+      {
+        "title": "Nuevo León lidera exportaciones nacionales y refuerza seguridad hídrica",
+        "summary": "Estado posiciona como motor económico de México con liderazgo en exportaciones y estrategias contra sequías.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca Nuevo León",
+        "url": "https://www.tvazteca.com/aztecanoticias/expo-pyme-nuevo-leon-primer-lugar-en-exportaciones-y-seguridad-hidrica-futuras-sequias/",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
       {
         "title": "Nuevo León sube seis lugares en Cartera de Inversión Turística",
         "summary": "El estado mejora su posicionamiento nacional en atractivos para inversión turística según evaluación reciente.",
@@ -122,6 +170,22 @@
     ],
     "eventos": [
       {
+        "title": "UANL inicia nuevo ciclo escolar con más de 220 mil estudiantes",
+        "summary": "Universidad Autónoma de Nuevo León abre puertas para nuevo semestre académico con importante matrícula.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://www.info7.mx/resultado?query=Iniciar%C3%A1%20la%20UANL%20nuevo%20ciclo%20con%20m%C3%A1s%20de%20220%20mil%20estudiantes",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
+      {
+        "title": "David Toscana presenta novela \"El Ejército Ciego\" en FIL Monterrey",
+        "summary": "Escritor regiomontano promociona su obra ganadora del premio Alfaguara en Feria Internacional del Libro.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/cultura/david-toscana-presenta-ejercito-ciego-fil-monterrey-premio-alfaguara",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
+      {
         "title": "Exentan pago de parquímetros a personas con discapacidad",
         "summary": "Municipio implementa medida para beneficiar a personas discapacitadas en estacionamientos regulados.",
         "zona": "Monterrey",
@@ -131,6 +195,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Crisis en preescolar: solo 61% de niños asistió a kínder en NL",
+        "summary": "Nuevo León enfrenta rezago educativo histórico con baja asistencia a preescolar que podría extenderse a primaria.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca Nuevo León",
+        "url": "https://www.tvazteca.com/aztecanoticias/preescolar-en-nuevo-leon-solo-61-los-ninos-asistio-al-kinder-y-crece-rezago-educativo/",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
+      {
+        "title": "Lluvia genera colapso de sistemas de rescate en el estado",
+        "summary": "Lluvias intensas activan protocolos de emergencia y movilizan cuerpos de auxilio por múltiples rescates.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/movilizan-lluvias-a-cuerpos-de-auxilio-por-rescates/1035411",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
+      {
+        "title": "Ofrece municipio exentar pago de parquímetros a personas discapacitadas",
+        "summary": "Autoridad municipal implementa política de apoyo para facilitar acceso a estacionamiento de ciudadanos con discapacidad.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/ofrecen-exentar-pago-de-parquimetros-a-discapacitados/1035459",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
+      {
+        "title": "Red Ambiental reconoce a empleados que salvaron a hombre de ahogarse",
+        "summary": "Empresa felicita a personal que rescató a persona en peligro de ahogamiento durante labores de emergencia.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/red-ambiental-reconoce-empleados",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
+      {
+        "title": "Discapacidad no limita a Yolanda para mantener su independencia",
+        "summary": "Mujer con discapacidad demuestra fortaleza recorriendo calles de Juárez en motocicleta como ejemplo a su nieta.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca Nuevo León",
+        "url": "https://www.tvazteca.com/aztecanoticias/discapacidad-no-detiene-a-yolanda-su-destreza-en-la-motocicleta-la-hace-recorrer-calles-juarez-nuevo-leon/",
+        "_added_at": "2026-10-17T16:49:43.719448-06:00"
+      },
       {
         "title": "Presa La Boca rebasa 100% de capacidad por lluvias",
         "summary": "Infraestructura hidráulica sobrepasa límites tras intensas precipitaciones por frente frío número dos.",
@@ -181,5 +285,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-17T11:42:41.344214-06:00"
+  "last_updated": "2026-10-17T16:49:43.719448-06:00"
 }
