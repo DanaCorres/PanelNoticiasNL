@@ -1,8 +1,32 @@
 {
   "date": "2026-10-18",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Arrestan sujeto acusado de secuestro y tortura",
+        "summary": "Capturan a persona imputada por delitos de secuestro y tortura en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/arrestan-a-sujeto-acusado-de-secuestro-y-tortura/1035689",
+        "_added_at": "2026-10-18T16:43:10.214252-06:00"
+      },
+      {
+        "title": "Detienen al asesino de motociclista en plaza comercial",
+        "summary": "Autoridades capturan a presunto responsable del homicidio de motociclista en plaza comercial.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/detienen-a-asesino-de-motociclista-en-plaza-comercial/1035682",
+        "_added_at": "2026-10-18T16:43:10.214252-06:00"
+      },
+      {
+        "title": "Vinculan a proceso a dos mujeres por asalto violento",
+        "summary": "Juez vincula a proceso a dos mujeres acusadas de golpear y robar a un hombre.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/vinculan-a-proceso-a-dos-mujeres-por-golpear-y-asaltar-a-hombre/1035815",
+        "_added_at": "2026-10-18T16:43:10.214252-06:00"
+      },
       {
         "title": "Puente peatonal colapsa sobre vehículo en Monterrey",
         "summary": "Estructura se desmorona en Avenida Constitución causando daños a automóvil. Autoridades investigan causas del colapso.",
@@ -62,6 +86,14 @@
     ],
     "politica": [
       {
+        "title": "Samuel García asegura victoria de MC en gubernatura 2027",
+        "summary": "Gobernador afirma que Movimiento Ciudadano \"arrasará\" en próximas elecciones estatales.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/samuel-garcia-afirma-mc-ganara-gubernatura-nuevo-leon-2027",
+        "_added_at": "2026-10-18T16:43:10.214252-06:00"
+      },
+      {
         "title": "Perla Villarreal rechaza firmar cheques en blanco",
         "summary": "Legisladora se opone a compromisos sin claridad de gastos. Debate sobre control presupuestario en congreso.",
         "zona": "Nuevo León",
@@ -97,6 +129,22 @@
     "economia": [],
     "eventos": [
       {
+        "title": "San Nicolás celebra jornada contra cáncer de mama",
+        "summary": "Municipio organiza evento de concientización y actividades relacionadas con salud de la mujer.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/san-nicolas-cancer-de-mama",
+        "_added_at": "2026-10-18T16:43:10.214252-06:00"
+      },
+      {
+        "title": "Guadalupe inicia vacunación invernal en DIF",
+        "summary": "Municipio aplica vacunas gratuitas contra COVID, influenza y neumococo.",
+        "zona": "Área metropolitana",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/aplicaran-vacunas-gratuitas-contra-covid-e-influenza-en-el-dif-tierra-propia-de-guadalupe/vl2268205",
+        "_added_at": "2026-10-18T16:43:10.214252-06:00"
+      },
+      {
         "title": "Capacitación sobre regularización de vehículos foráneos",
         "summary": "Autoridades ofrecen trámite en línea para normalización de autos extranjeros. Proceso simplificado para residentes.",
         "zona": "Nuevo León",
@@ -130,6 +178,14 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Colapsa puente peatonal sobre vehículo en Monterrey",
+        "summary": "Estructura se desmorona en avenida Constitución cayendo sobre automóvil.",
+        "zona": "Monterrey",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/monterrey-se-desploma-puente-peatonal-un-automovil-en-avenida-constitucion/",
+        "_added_at": "2026-10-18T16:43:10.214252-06:00"
+      },
       {
         "title": "Nuevo León reduce tasa de mortalidad estatal",
         "summary": "Estadísticas muestran descenso en indicadores de muertes. Mejora en salud pública a nivel regional.",
@@ -188,5 +244,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-18T11:43:59.135250-06:00"
+  "last_updated": "2026-10-18T16:43:10.214252-06:00"
 }
