@@ -1,712 +1,264 @@
 {
-  "generated_at": "2026-10-17T22:49:42.989069+00:00",
+  "generated_at": "2026-10-18T06:25:04.126747+00:00",
   "items": [
     {
-      "title": "Realidades sobre la migraña",
-      "url": "https://codigomagenta.com.mx/realidades-sobre-la-migrana/",
-      "published": "Sat, 17 Oct 2026 16:15:00 +0000",
-      "source": "Código Magenta",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Trump abre negociación con Irán; inician pláticas este lunes",
-      "url": "https://www.elhorizonte.mx/resultado?query=Trump+abre+negociaci%C3%B3n+con+Ir%C3%A1n%3B+inician+pl%C3%A1ticas+este+lunes&select=todas",
-      "published": "",
-      "source": "El Horizonte",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Vecinos reportan otro tiradero clandestino de basura en esta colonia de Durango",
-      "url": "https://www.posta.com.mx/durango/vecinos-reportan-otro-tiradero-clandestino-de-basura-en-esta-colonia-de-durango-/vl2267977",
+      "title": "De Cuauhtémoc Blanco a Gullit Peña: los futbolistas mexicanos que cambiaron las canchas por la política",
+      "url": "https://www.posta.com.mx/mexico/gullit-pena-y-los-futbolistas-que-entraron-a-la-politica-en-mexico/vl2268042",
       "published": "",
       "source": "Posta",
       "zona": "Monterrey"
     },
     {
-      "title": "Iniciará la UANL nuevo ciclo con más de 220 mil estudiantes",
-      "url": "https://www.info7.mx/resultado?query=Iniciar%C3%A1%20la%20UANL%20nuevo%20ciclo%20con%20m%C3%A1s%20de%20220%20mil%20estudiantes",
-      "published": "",
-      "source": "INFO7",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Américo inaugura nueva primaria en Nuevo Laredo",
-      "url": "https://horacero.com.mx/tamaulipas/americo-inaugura-nueva-primaria",
-      "published": "Sat, 17 Oct 2026 22:44:43 +0000",
-      "source": "Hora Cero",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Santiago, segunda zona con mayor precipitación en México",
-      "url": "https://www.milenio.com/comunidad/smn-posiciona-santiago-nuevo-leon-segunda-zona-mayor-precipitacion",
-      "published": "",
-      "source": "Milenio Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "La presa 'La Boca' se desborda y supera el 100% de su capacidad tras intensas lluvias en NL",
-      "url": "https://www.telediario.mx/comunidad/presa-la-boca-rebasa-su-capacidad-y-supera-el-100-por-lluvias-en-nl",
-      "published": "",
-      "source": "Telediario Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Causan las lluvias una vez más caos en la ciudad",
-      "url": "https://elporvenir.mx/local/causan-las-lluvias-una-vez-mas-caos-en-la-ciudad/1035462",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Identifica Fiscalía a ex policías asesinados en Gómez Morín",
-      "url": "https://elporvenir.mx/justicia/identifica-fiscalia-a-ex-policias-asesinados-en-gomez-morin/1035277",
-      "published": "",
-      "source": "El Porvenir (justicia)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "SET va contra escuelas militarizadas irregulares",
-      "url": "https://www.elhorizonte.mx/resultado?query=SET+va+contra+escuelas%C2%A0militarizadas+irregulares&select=todas",
-      "published": "",
-      "source": "El Horizonte",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Chivas celebra el Día de Muertos con una sorpresa en su uniforme ante Tigres",
-      "url": "https://www.posta.com.mx/mexico/chivas-sorprende-con-uniforme-de-dia-de-muertos-ante-tigres/vl2267978",
+      "title": "¿Sin bici para el Paseo Nocturno en CDMX? Así puedes conseguir una GRATIS",
+      "url": "https://www.posta.com.mx/cdmx/vas-al-paseo-nocturno-y-no-tienes-bici-conoce-como-conseguir-una-gratis-hoy/vl2268040",
       "published": "",
       "source": "Posta",
       "zona": "Monterrey"
     },
     {
-      "title": "Caen 14 personas en operativo hacia casino clandestino en Jalisco",
-      "url": "https://www.info7.mx/resultado?query=Caen%2014%20personas%20en%20operativo%20hacia%20casino%20clandestino%20en%20Jalisco",
-      "published": "",
-      "source": "INFO7",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Cáncer de mama: la Secretaría de Administración realiza jornada de sensibilización",
-      "url": "https://horacero.com.mx/tamaulipas/cancer-de-mama-jornada",
-      "published": "Sat, 17 Oct 2026 22:34:15 +0000",
-      "source": "Hora Cero",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Presa 'La Boca' rebasa 100% de su capacidad",
-      "url": "https://www.milenio.com/comunidad/presa-la-boca-rebasa-capacidad-conagua-lluvias-frente-frio-2nuevo-leon",
-      "published": "",
-      "source": "Milenio Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Municipio de Santiago registra segunda mayor lluvia",
-      "url": "https://www.telediario.mx/comunidad/santiago-nl-registra-lluvias-intensas-y-presa-la-boca-supera-capacidad",
-      "published": "",
-      "source": "Telediario Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Buscará reelegirse Manuel Guerra en García",
-      "url": "https://elporvenir.mx/local/buscara-reelegirse-manuel-guerra-en-garcia/1035461",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Detienen a seis menores por robos en notarías",
-      "url": "https://elporvenir.mx/justicia/detienen-a-seis-menores-por-robos-en-notarias/1035294",
-      "published": "",
-      "source": "El Porvenir (justicia)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Caen 40% las preinscripciones en preescolar de Coahuila",
-      "url": "https://www.elhorizonte.mx/resultado?query=Caen+40%25+las+preinscripciones%C2%A0en+preescolar+de+Coahuila&select=todas",
-      "published": "",
-      "source": "El Horizonte",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Mujer fue reportada desaparecida en Durango y la encontraron detenida en un penal de Coahuila por esta razón",
-      "url": "https://www.posta.com.mx/durango/mujer-fue-reportada-desaparecida-en-durango-la-encontraron-detenida-en-un-penal-de-coahuila/vl2267902",
+      "title": "FGR detiene a César Jáuregui, exfiscal de Chihuahua, por presunta traición a la patria",
+      "url": "https://www.posta.com.mx/mexico/fgr-detiene-a-cesar-jauregui-por-presunta-traicion-a-la-patria-/vl2268035",
       "published": "",
       "source": "Posta",
       "zona": "Monterrey"
     },
     {
-      "title": "Activan plan de emergencia tras fuerte sismo en El Cairo, Egipto",
-      "url": "https://www.info7.mx/resultado?query=Activan%20plan%20de%20emergencia%20tras%20fuerte%20sismo%20en%20El%20Cairo%2C%20Egipto",
-      "published": "",
-      "source": "INFO7",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Pepe Mansur fallece, fundador del CF Correcaminos",
-      "url": "https://horacero.com.mx/deportes/pepe-mansur-fallece-fundador",
-      "published": "Sat, 17 Oct 2026 22:22:47 +0000",
-      "source": "Hora Cero",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Sigue búsqueda de hombre arrastrado por arroyo Topo Chico",
-      "url": "https://www.milenio.com/estados/busqueda-hombre-arrastrado-arroyo-topo-chico-proteccion-civil-nl",
-      "published": "",
-      "source": "Milenio Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "ContinÃºan labores de bÃºsqueda con perros a hombre arrastrado por la corriente del Topo Chico",
-      "url": "https://www.telediario.mx/policia/monterrey-buscan-hombre-arrastrado-por-corriente-en-arroyo-topo-chico",
-      "published": "",
-      "source": "Telediario Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Abre Conagua compuertas de Presa La Boca tras precipitaciones",
-      "url": "https://elporvenir.mx/local/abre-conagua-compuertas-de-presa-la-boca-tras-precipitaciones/1035460",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Reconocen a dos ejecutados en Linares",
-      "url": "https://elporvenir.mx/justicia/reconocen-a-dos-ejecutados-en-linares/1035409",
-      "published": "",
-      "source": "El Porvenir (justicia)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Sheinbaum llama a seguir alertas de Protección Civil por 'Trudy'",
-      "url": "https://www.elhorizonte.mx/nacional/sheinbaum-llama-a-seguir-alertas-de-proteccion-civil-por-trudy/2055291947",
+      "title": "Supera la presa La Boca al 100% de su capacidad por lluvias",
+      "url": "https://www.elhorizonte.mx/nuevoleon/supera-la-presa-la-boca-al-100-de-su-capacidad-por-lluvias/5224443142",
       "published": "",
       "source": "El Horizonte",
       "zona": "Monterrey"
     },
     {
-      "title": "Proceso penal en Jalisco para cuatro de los participantes detenidos durante las protestas por agua",
-      "url": "https://www.posta.com.mx/mexico/proceso-penal-en-jalisco-por-protestas-de-agua-en-guadalajara/vl2267893",
+      "title": "Ataque armado en canchas de futbol de Zapopan deja un muerto frente al Parque Metropolitano",
+      "url": "https://www.posta.com.mx/mexico/balacera-en-partido-de-futbol-en-zapopan-deja-un-muerto/vl2268022",
       "published": "",
       "source": "Posta",
       "zona": "Monterrey"
     },
     {
-      "title": "Buscan a hombre arrastrado por la corriente de canalón en MTYDe acuerdo con el reporte preliminar, el hombre habría sido arrastrado por la corriente a la altura de la colonia Del Maestro",
-      "url": "https://info7.mx/nuevoleon/buscan-a-hombre-arrastrado-por-la-corriente-de-canalon-en-mty/3700122746",
+      "title": "Presa La Boca supera el 100% de su capacidad por frente frío 2Las recientes precipitaciones incrementaron los niveles de los principales embalses del estado, según reportes oficiales.",
+      "url": "https://info7.mx/nuevoleon/presa-la-boca-supera-el-100-de-su-capacidad-por-frente-frio-2/4175817736",
       "published": "",
       "source": "INFO7",
       "zona": "Monterrey"
     },
     {
-      "title": "Beto Granados se registra como aspirante de Morena",
-      "url": "https://horacero.com.mx/tamaulipas/beto-granados-registra-aspirante",
-      "published": "Sat, 17 Oct 2026 22:07:25 +0000",
-      "source": "Hora Cero",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "María del Rosario y su lucha para vencer el cáncer de mama",
-      "url": "https://www.milenio.com/comunidad/maria-del-rosario-testimonio-cancer-mama-renuncio-a-ser-guerrera-nl",
+      "title": "Visibilizan lucha contra el cáncer de mama en NL",
+      "url": "https://www.milenio.com/comunidad/certamen-lady-senorial-rosa-visibilza-lucha-contra-cancer-monterrey",
       "published": "",
       "source": "Milenio Monterrey",
       "zona": "Monterrey"
     },
     {
-      "title": "Especialista recomienda buscar apoyo psicolÃ³gico durante el tratamiento de cÃ¡ncer de mama",
-      "url": "https://www.telediario.mx/comunidad/cancer-de-mama-especialista-recomienda-apoyo-psicologico-tratamiento",
-      "published": "",
-      "source": "Telediario Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Ofrecen exentar pago de parquímetros a discapacitados",
-      "url": "https://elporvenir.mx/local/ofrecen-exentar-pago-de-parquimetros-a-discapacitados/1035459",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Encuentran camioneta baleada en la Fama Santa Catarina",
-      "url": "https://elporvenir.mx/justicia/encuentran-camioneta-baleada-en-la-fama-santa-catarina/1035410",
-      "published": "",
-      "source": "El Porvenir (justicia)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Cónsul de EUA advierte sobre extorsión en empresas de Tamaulipas",
-      "url": "https://www.elhorizonte.mx/tamaulipas/consul-de-eua-advierte-sobre-extorsion-en-empresas-de-tamaulipas/9045194754",
-      "published": "",
-      "source": "El Horizonte",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Encapuchado ataca con cuchillo a diputada Casandra De los Santos en Río Bravo",
-      "url": "https://www.posta.com.mx/tamaulipas/casandra-de-los-santos-denuncia-agresion-con-arma-blanca-en-tamaulipas/vl2267917",
+      "title": "Del futbol a la política: Gullit Peña busca abrirse camino con Morena en León",
+      "url": "https://www.posta.com.mx/mexico/gullit-pena-se-registra-con-morena-en-leon-rumbo-a-2027/vl2268015",
       "published": "",
       "source": "Posta",
       "zona": "Monterrey"
     },
     {
-      "title": "Se intensifica el huracán Trudy a categoría 2 frente a ColimaEl fenómeno registra vientos de 155 km/h y provocará lluvias intensas, ráfagas de viento y olas de hasta 7 metros en el Pacífico.",
-      "url": "https://info7.mx/nacional/se-intensifica-el-huracan-trudy-a-categoria-2-frente-a-colima/2537622872",
+      "title": "Acusa la FGR de traición a la patria a exfiscal de ChihuahuaLas investigaciones señalan que el imputado coordinó acciones en Morelos que vulneraron el Pacto Federal y la Ley de Seguridad.",
+      "url": "https://info7.mx/nacional/acusa-la-fgr-de-traicion-a-la-patria-a-exfiscal-de-chihuahua/1462823256",
       "published": "",
       "source": "INFO7",
       "zona": "Monterrey"
     },
     {
-      "title": "Red Ambiental reconoce a empleados que salvaron a hombre de ahogarse",
-      "url": "https://horacero.com.mx/nuevo-leon/red-ambiental-reconoce-empleados",
-      "published": "Sat, 17 Oct 2026 21:56:21 +0000",
-      "source": "Hora Cero",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "600 mil regios padecen enfermedades reumáticas",
-      "url": "https://www.milenio.com/comunidad/enfermedades-reumaticas-monterrey-hospital-universitario-uanl-simposio",
-      "published": "",
-      "source": "Milenio Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Muere adulto mayor tras ser atropellado en Linares",
-      "url": "https://www.telediario.mx/policia/carretera-nacional-linares-hombre-en-bicicleta-muere-tras-atropello",
-      "published": "",
-      "source": "Telediario Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Recaba IEE propuesta de ampliar cuotas de representación política",
-      "url": "https://elporvenir.mx/local/recaba-iee-propuesta-de-ampliar-cuotas-de-representacion-politica/1035458",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Movilizan lluvias a cuerpos de auxilio por rescates",
-      "url": "https://elporvenir.mx/justicia/movilizan-lluvias-a-cuerpos-de-auxilio-por-rescates/1035411",
-      "published": "",
-      "source": "El Porvenir (justicia)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Frente frío 2 traerá lluvias y descenso de temperatura a Coahuila",
-      "url": "https://www.elhorizonte.mx/coahuila/frente-frio-2-traera-lluvias-y-descenso-de-temperatura-a-coahuila/4133939609",
+      "title": "Celebran con gran cabalgata 55 años de fundación en Nuevo Padilla",
+      "url": "https://www.elhorizonte.mx/tamaulipas/celebran-con-gran-cabalgata-55-anos-de-fundacion-en-nuevo-padilla/7483909500",
       "published": "",
       "source": "El Horizonte",
       "zona": "Monterrey"
     },
     {
-      "title": "Brigada Rosa: Puntadas de Amor; así puedes acceder a servicios de salud en el Museo del Desierto",
-      "url": "https://www.posta.com.mx/coahuila/brigada-rosa-puntadas-de-amor-asi-puedes-acceder-a-servicios-de-salud-en-el-museo-del-desierto-/vl2267976",
+      "title": "Espinoza Paz se presentará en Ciudad Victoria el 25 de octubre; esto se sabe",
+      "url": "https://www.posta.com.mx/tamaulipas/espinoza-paz-se-presentara-en-ciudad-victoria-el-25-de-octubre-esto-se-sabe/vl2267837",
       "published": "",
       "source": "Posta",
       "zona": "Monterrey"
     },
     {
-      "title": "Prepara Heidi Klum su legendaria fiesta para Noche de BrujasCon un mensaje en Instagram, la estrella recordó sus trajes hiperrealistas y encendió los motores para su gran noche de disfraces.",
-      "url": "https://info7.mx/espectaculos/prepara-heidi-klum-su-legendaria-fiesta-para-noche-de-brujas/3587707735",
+      "title": "Dejan masivas protestas en Francia 1,200 detenidos y 150 heridosUn incendio destruyó el histórico Ayuntamiento de Limoges durante la violenta jornada de manifestaciones en el territorio galo.",
+      "url": "https://info7.mx/internacional/dejan-masivas-protestas-en-francia-1-200-detenidos-y-150-heridos/8097437840",
       "published": "",
       "source": "INFO7",
       "zona": "Monterrey"
     },
     {
-      "title": "Peregrinación guadalupana, fieles participan en Reynosa",
-      "url": "https://horacero.com.mx/reynosa/peregrinacion-guadalupana",
-      "published": "Sat, 17 Oct 2026 19:31:09 +0000",
-      "source": "Hora Cero",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Muere hombre prensado tras accidente",
-      "url": "https://www.milenio.com/estados/muere-hombre-prensado-accidente-carretera-laredo-vallecillo-nuevo-leon",
+      "title": "Muere hombre en situación de calle de manera repentina",
+      "url": "https://www.milenio.com/estados/fallece-hombre-situacion-calle-colonia-sierra-ventana-monterrey",
       "published": "",
       "source": "Milenio Monterrey",
       "zona": "Monterrey"
     },
     {
-      "title": "Hospital Universitario combate la desinformaciÃ³n con simposio sobre enfermedades reumÃ¡ticas",
-      "url": "https://www.telediario.mx/comunidad/hospital-universitario-uanl-realiza-simposio-de-reumatologia-2026",
+      "title": "Sobrevivientes de cÃ¡ncer de mama participan en Lady SeÃ±orial Rosa 2026 en Monterrey",
+      "url": "https://www.telediario.mx/comunidad/sobrevivientes-de-cancer-de-mama-participan-en-lady-senorial-rosa-2026",
       "published": "",
       "source": "Telediario Monterrey",
       "zona": "Monterrey"
     },
     {
-      "title": "Impulsan actividad económica el Mundial y sus eventos masivos",
-      "url": "https://elporvenir.mx/local/impulsan-actividad-economica-el-mundial-y-sus-eventos-masivos/1035463",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Localizan a joven tras secuestro virtual",
-      "url": "https://elporvenir.mx/justicia/localizan-a-joven-tras-secuestro-virtual/1035424",
-      "published": "",
-      "source": "El Porvenir (justicia)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Así quedaron los niveles de las presas tras las fuertes lluvias",
-      "url": "https://www.elhorizonte.mx/nuevoleon/asi-quedaron-los-niveles-de-las-presas-tras-las-fuertes-lluvias/v3474493623",
+      "title": "Detienen a exfiscal de Chihuahua por traición a la patria",
+      "url": "https://www.elhorizonte.mx/nacional/detienen-a-exfiscal-de-chihuahua-por-traicion-a-la-patria/9053639130",
       "published": "",
       "source": "El Horizonte",
       "zona": "Monterrey"
     },
     {
-      "title": "Google Fitbit Edge: así funciona la pulsera inteligente que busca cambiar el seguimiento de tu salud",
-      "url": "https://www.posta.com.mx/share/google-fitbit-edge-asi-funciona-la-pulsera-inteligente-que-busca-cambiar-el-seguimiento-de-tu-salud/vl2265898",
+      "title": "Aseguran droga escondida en pañales durante cateo a negocio de frutas y verduras en Torreón",
+      "url": "https://www.posta.com.mx/coahuila/aseguran-droga-escondida-en-panales-durante-cateo-a-negocio-de-frutas-y-verduras-en-torreon/vl2268046",
       "published": "",
       "source": "Posta",
       "zona": "Monterrey"
     },
     {
-      "title": "Trudy se acerca a Jalisco y Colima con lluvias y oleaje elevadoEl huracán Trudy se aproxima a las costas del Pacífico con lluvias intensas, vientos fuertes y oleaje de hasta siete metros",
-      "url": "https://info7.mx/clima/trudy-se-acerca-a-jalisco-y-colima-con-lluvias-y-oleaje-elevado/3275249113",
+      "title": "Empatan Rays la serie ante Guardians al ganar 7-3Con rallies en la séptima y novena entrada, la novena de Florida igualó 2-2 la Serie de Campeonato de la Liga Americana.",
+      "url": "https://info7.mx/deportes/empatan-rays-la-serie-ante-guardians-al-ganar-7-3/8670380826",
       "published": "",
       "source": "INFO7",
       "zona": "Monterrey"
     },
     {
-      "title": "Detienen a hombre con droga, eran 46 dosis",
-      "url": "https://horacero.com.mx/nuevo-leon/detienen-a-hombre-con-droga",
-      "published": "Sat, 17 Oct 2026 19:18:41 +0000",
-      "source": "Hora Cero",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Choque múltiple deja lesionados en carretera a Laredo",
-      "url": "https://www.milenio.com/estados/accidente-carretera-laredo-apodaca-nuevo-leon-deja-lesionados",
+      "title": "Tráiler es intenta ganarle el paso a tren y es embestido",
+      "url": "https://www.milenio.com/estados/tren-embiste-trailer-tras-intentar-ganarle-paso-escobedo-nl",
       "published": "",
       "source": "Milenio Monterrey",
       "zona": "Monterrey"
     },
     {
-      "title": "Detienen a joven por presuntamente golpear a su novia en Santa Catarina",
-      "url": "https://www.telediario.mx/policia/santa-catarina-nl-detienen-a-joven-por-agredir-a-su-novia",
-      "published": "",
-      "source": "Telediario Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Registra un incremento del 134.22 % servicios digitales del ICV",
-      "url": "https://elporvenir.mx/local/registra-un-incremento-del-13422--servicios-digitales-del-icv/1035471",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Muere ciclista arrollado por vehículo",
-      "url": "https://elporvenir.mx/justicia/muere-ciclista-arrollado-por-vehiculo/1035426",
-      "published": "",
-      "source": "El Porvenir (justicia)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Siguen las protestas en Francia, suman 272 detenidos y saqueos",
-      "url": "https://www.elhorizonte.mx/internacional/siguen-las-protestas-en-francia-suman-272-detenidos-y-saqueos/2795731870",
+      "title": "Sufre Francia ola de protestas con 1,200 personas detenidas",
+      "url": "https://www.elhorizonte.mx/internacional/sufre-francia-ola-de-protestas-con-1-200-personas-detenidas/7142772768",
       "published": "",
       "source": "El Horizonte",
       "zona": "Monterrey"
     },
     {
-      "title": "Atención, Tamaulipas! Cuesta $1,173 cambiar de propietario un auto regularizado: estos son los requisitos",
-      "url": "https://www.posta.com.mx/tamaulipas/atencion-tamaulipas-cuesta-1173-cambiar-de-propietario-un-auto-regularizado-estos-son-los-requisitos/vl2266832",
+      "title": "Rodada de las Ánimas en Mérida 2026: ¿ cuándo es y cómo participar?",
+      "url": "https://www.posta.com.mx/yucatan/como-participar-en-la-rodada-de-las-animas-2026-en-merida/vl2267953",
       "published": "",
       "source": "Posta",
       "zona": "Monterrey"
     },
     {
-      "title": "Arranca IMSS Tamaulipas vacunación invernal",
-      "url": "https://horacero.com.mx/tamaulipas/vacunacion-arranca",
-      "published": "Sat, 17 Oct 2026 18:58:45 +0000",
-      "source": "Hora Cero",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Alista NADBank 300 mdd para obras ambientales",
-      "url": "https://www.milenio.com/negocios/nadbank-lanza-programa-pafi-300-millones-dolares-proyectos-ambientales",
+      "title": "Julieta Venegas presenta su primer libro \"Norteña. Memorias del comienzo\"",
+      "url": "https://www.milenio.com/espectaculos/presenta-julieta-venegas-su-primer-libro-fil-monterrey",
       "published": "",
       "source": "Milenio Monterrey",
       "zona": "Monterrey"
     },
     {
-      "title": "TrÃ¡iler intenta ganarle el paso al ferrocarril y desata colapso vial en Escobedo",
-      "url": "https://www.telediario.mx/policia/escobedo-nl-trailer-intenta-ganarle-el-paso-al-tren-y-causa-caos",
-      "published": "",
-      "source": "Telediario Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Muere ciclista arrollado por vehículo",
-      "url": "https://elporvenir.mx/justicia/muere-ciclista-arrollado-por-vehiculo/1035426",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Revelan contrato millonario de Infantino con empresa de Trump",
-      "url": "https://elporvenir.mx/deportes/revelan-contrato-millonario-de-infantino-con-empresa-de-trump/1035427",
-      "published": "",
-      "source": "El Porvenir (justicia)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Gilberto Mora agradece a Messi por elección de estrella emergente",
-      "url": "https://www.elhorizonte.mx/deportes/gilberto-mora-agradece-a-messi-por-eleccion-de-estrella-emergente/4995260143",
+      "title": "Vencen Tampa Bay Rays a Cleveland Guardians e igualan serie",
+      "url": "https://www.elhorizonte.mx/deportes/vencen-tampa-bay-rays-a-cleveland-guardians-e-igualan-serie/3968026519",
       "published": "",
       "source": "El Horizonte",
       "zona": "Monterrey"
     },
     {
-      "title": "Brigadas de limpieza en Saltillo realizan deshierbe de arroyo en la colonia Espinoza Mireles",
-      "url": "https://www.posta.com.mx/coahuila/brigadas-de-limpieza-en-saltillo-realizan-deshierbe-de-arroyo-en-la-colonia-espinoza-mireles/vl2267974",
+      "title": "¿En Coahuila son flojos? Esto dice una encuesta realizada en México",
+      "url": "https://www.posta.com.mx/coahuila/en-coahuila-son-flojos-esto-dice-una-encuesta-realizada-en-mexico/vl2268038",
       "published": "",
       "source": "Posta",
       "zona": "Monterrey"
     },
     {
-      "title": "Huracán Trudy categoría 1, a estar atentos a sus efectos: Sheinbaum",
-      "url": "https://horacero.com.mx/nacional/huracan-trudy-efectos",
-      "published": "Sat, 17 Oct 2026 18:42:26 +0000",
-      "source": "Hora Cero",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Vinculan a hombre por secuestrar y torturar a una mujer",
-      "url": "https://www.milenio.com/policia/hombre-vinculado-proceso-secuestro-tortura-mujer-dos-meses-garcia-nl",
+      "title": "Vuelve la película Shrek a la pantalla grande en cines",
+      "url": "https://info7.mx/espectaculos/vuelve-la-pelicula-shrek-a-la-pantalla-grande-en-cines/6633953576",
       "published": "",
-      "source": "Milenio Monterrey",
+      "source": "INFO7",
       "zona": "Monterrey"
     },
     {
-      "title": "Vinculan a proceso a hombre que mantuvo secuestrada a una mujer en GarcÃ­a",
-      "url": "https://www.telediario.mx/policia/garcia-nl-vinculan-a-proceso-a-hombre-por-secuestro-de-mujer",
-      "published": "",
-      "source": "Telediario Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Localizan a joven tras secuestro virtual",
-      "url": "https://elporvenir.mx/justicia/localizan-a-joven-tras-secuestro-virtual/1035424",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Rayadas, a mantenerse en la cima",
-      "url": "https://elporvenir.mx/deportes/rayadas-a-mantenerse-en-la-cima/1035425",
-      "published": "",
-      "source": "El Porvenir (justicia)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Activan alerta amarilla por frío en seis alcaldías de CDMX",
-      "url": "https://www.elhorizonte.mx/nacional/activan-alerta-amarilla-por-frio-en-seis-alcaldias-de-cdmx/4889626197",
+      "title": "Refuerza Torreón sus apoyos a población vulnerable ante el frío",
+      "url": "https://www.elhorizonte.mx/coahuila/refuerza-torreon-sus-apoyos-a-poblacion-vulnerable-ante-el-frio/v9958380006",
       "published": "",
       "source": "El Horizonte",
       "zona": "Monterrey"
     },
     {
-      "title": "\"Ya la atendió el gobernador\": Claudia Sheinbaum sobre el caso de doña Josefina en Yucatán",
-      "url": "https://www.posta.com.mx/yucatan/esto-dijo-claudia-sheinbaum-sobre-la-protesta-de-dona-josefina-en-yucatan/vl2267968",
+      "title": "VIDEO | Mundo Mezcal inaugura con Tamaulipas como invitado y siete medallas para sus productores",
+      "url": "https://www.posta.com.mx/mexico/video-mundo-mezcal-inaugura-con-tamaulipas-como-invitado-y-siete-medallas-para-sus-productores/v-vl2268012",
       "published": "",
       "source": "Posta",
       "zona": "Monterrey"
     },
     {
-      "title": "Hombre resulta con quemaduras en cuerpo tras incendio en Escobedo",
-      "url": "https://info7.mx/nuevoleon/hombre-resulta-con-quemaduras-en-cuerpo-tras-incendio-en-escobedo/6075816795",
+      "title": "Deja muertos y heridos incendio en base militar de Canadá",
+      "url": "https://www.elhorizonte.mx/internacional/deja-muertos-y-heridos-incendio-en-base-militar-de-canada/v8940229923",
+      "published": "",
+      "source": "El Horizonte",
+      "zona": "Monterrey"
+    },
+    {
+      "title": "Morena definirá dirigencia estatal tras renuncia de Luz María Hernández",
+      "url": "https://www.posta.com.mx/edomex/quien-tomara-el-control-morena-define-su-rumbo-estatal-tras-salida-de-luz-maria-hernandez/v-vl2267994",
+      "published": "",
+      "source": "Posta",
+      "zona": "Monterrey"
+    },
+    {
+      "title": "Catean casa en Valle de Infonavit por desaparecido en Monterrey",
+      "url": "https://info7.mx/nuevoleon/catean-casa-en-valle-de-infonavit-por-desaparecido-en-monterrey/9382229120",
       "published": "",
       "source": "INFO7",
       "zona": "Monterrey"
     },
     {
-      "title": "Frente frío número 2 deja bajas temperaturas, vientos y lluvias en Veracruz",
-      "url": "https://horacero.com.mx/nacional/frente-frio-veracruz",
-      "published": "Sat, 17 Oct 2026 17:21:58 +0000",
-      "source": "Hora Cero",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "El quiebre de la compasión (parte 1)",
-      "url": "https://www.milenio.com/opinion/pablo-ayala-enriquez/agenda-etica/el-quiebre-de-la-compasion-parte-1",
-      "published": "",
-      "source": "Milenio Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Muere hombre en situaciÃ³n de calle en colonia Sierra Ventana",
-      "url": "https://www.telediario.mx/policia/monterrey-muere-hombre-en-situacion-de-calle-en-sierra-ventana",
+      "title": "PronÃ³stico del tiempo para este domingo 18 de octubre",
+      "url": "https://www.telediario.mx/comunidad/pronostico-del-tiempo-para-monterrey-del-18-de-octubre-2026",
       "published": "",
       "source": "Telediario Monterrey",
       "zona": "Monterrey"
     },
     {
-      "title": "Nuevo León, motor económico de México: lidera exportaciones y apuesta por seguridad hídrica ante futuras sequías",
-      "url": "https://www.tvazteca.com/aztecanoticias/expo-pyme-nuevo-leon-primer-lugar-en-exportaciones-y-seguridad-hidrica-futuras-sequias/",
-      "published": "",
-      "source": "TV Azteca (Nuevo León)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Movilizan lluvias a cuerpos de auxilio por rescates",
-      "url": "https://elporvenir.mx/justicia/movilizan-lluvias-a-cuerpos-de-auxilio-por-rescates/1035411",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Acepta Aguirre presión por primer triunfo del Valencia",
-      "url": "https://elporvenir.mx/deportes/acepta-aguirre-presion-por-primer-triunfo-del-valencia/1035422",
-      "published": "",
-      "source": "El Porvenir (justicia)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Alcanza el huracán Trudy categoría 2 y amenaza costas del país",
-      "url": "https://www.elhorizonte.mx/nacional/alcanza-el-huracan-trudy-categoria-2-y-amenaza-costas-del-pais/9745798833",
+      "title": "Golpea la plaga del gusano barrenador a la ganadería mexicana",
+      "url": "https://www.elhorizonte.mx/coahuila/golpea-la-plaga-del-gusano-barrenador-a-la-ganaderia-mexicana/9656653116",
       "published": "",
       "source": "El Horizonte",
       "zona": "Monterrey"
     },
     {
-      "title": "Detienen a presunto homicida de motociclista en Guadalupe",
-      "url": "https://info7.mx/nuevoleon/detienen-a-presunto-homicida-de-motociclista-en-guadalupe/9445822986",
-      "published": "",
-      "source": "INFO7",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "¡Crisis histórica en Nuevo León! Solo 61% de los niños fue al kínder y el rezago podría llegar hasta la primaria",
-      "url": "https://www.tvazteca.com/aztecanoticias/preescolar-en-nuevo-leon-solo-61-los-ninos-asistio-al-kinder-y-crece-rezago-educativo/",
-      "published": "",
-      "source": "TV Azteca (Nuevo León)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Xolos de Tijuana y Puebla firman empate sin goles",
-      "url": "https://elporvenir.mx/deportes/xolos-de-tijuana-y-puebla-firman-empate-sin-goles/1035419",
-      "published": "",
-      "source": "El Porvenir (justicia)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Vuelca microbús del Tren México-Querétaro; mueren dos",
-      "url": "https://www.elhorizonte.mx/nacional/vuelca-microbus-del-tren-mexico-queretaro-mueren-dos/9629190688",
+      "title": "Presume Llera al río Guayalejo en la Gran Feria Tamaulipas 2026",
+      "url": "https://www.elhorizonte.mx/tamaulipas/presume-llera-al-rio-guayalejo-en-la-gran-feria-tamaulipas-2026/v4556571152",
       "published": "",
       "source": "El Horizonte",
       "zona": "Monterrey"
     },
     {
-      "title": "Detienen a dos hombres por allanamiento en San Pedro",
-      "url": "https://info7.mx/nuevoleon/detienen-a-dos-hombres-por-allanamiento-en-san-pedro/7214676760",
+      "title": "Localizan sin vida a hombre en situación de calle en Monterrey",
+      "url": "https://info7.mx/nuevoleon/localizan-sin-vida-a-hombre-en-situacion-de-calle-en-monterrey/7558107938",
       "published": "",
       "source": "INFO7",
       "zona": "Monterrey"
     },
     {
-      "title": "“Sin ella no me podría mover”: La discapacidad de Yolanda no la detiene para dar un ejemplo de independencia a su nieta",
-      "url": "https://www.tvazteca.com/aztecanoticias/discapacidad-no-detiene-a-yolanda-su-destreza-en-la-motocicleta-la-hace-recorrer-calles-juarez-nuevo-leon/",
-      "published": "",
-      "source": "TV Azteca (Nuevo León)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Rechaza Comisión de Trabajo vetos de gobernador",
-      "url": "https://elporvenir.mx/local/rechaza-comision-de-trabajo-vetos-de-gobernador/1035176",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Extraditan a EUA a tres mexicanos ligados al Cártel de Sinaloa",
-      "url": "https://www.elhorizonte.mx/internacional/extraditan-a-eua-a-tres-mexicanos-ligados-al-cartel-de-sinaloa/8690558141",
+      "title": "Muestra Río Bravo potencial agropecuario en Feria Tamaulipas",
+      "url": "https://www.elhorizonte.mx/tamaulipas/muestra-rio-bravo-potencial-agropecuario-en-feria-tamaulipas/v7314564868",
       "published": "",
       "source": "El Horizonte",
       "zona": "Monterrey"
     },
     {
-      "title": "Gilberto Mora le agradece a Messi que lo sume a 'Messi +10'El jugador presumió en redes los botines personalizados que usará en la cancha como parte de la alianza entre la figura...",
-      "url": "https://info7.mx/deportes/gilberto-mora-le-agradece-a-messi-que-lo-sume-a-messi-10/7838929290",
+      "title": "Shulamit Graber presenta âNada cambia si nada cambiaâ",
+      "url": "https://www.telediario.mx/cultura/shulamit-graber-presenta-libro-nada-cambia-si-nada-cambia",
       "published": "",
-      "source": "INFO7",
+      "source": "Telediario Monterrey",
       "zona": "Monterrey"
     },
     {
-      "title": "David Toscana presenta \"El Ejército Ciego\"",
-      "url": "https://www.milenio.com/cultura/david-toscana-presenta-ejercito-ciego-fil-monterrey-premio-alfaguara",
-      "published": "",
-      "source": "Milenio Monterrey",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "FOTOS: Capturan a sicarios del Cártel del Noreste con arsenal y fusil para derribar aeronaves",
-      "url": "https://www.tvazteca.com/aztecanoticias/fotos-cae-en-hidalgo-nuevo-leon-sicarios-del-cdn-arsenal-del-ejercito-y-fusil",
-      "published": "",
-      "source": "TV Azteca (Nuevo León)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Proponen incluir candidatos con discapacidad en lista de regidurías",
-      "url": "https://elporvenir.mx/local/proponen-incluir-candidatos-con-discapacidad-en-lista-de-regidurias/1035174",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Ecuador busca a 14 pescadores tras naufragio en el Pacífico",
-      "url": "https://www.elhorizonte.mx/internacional/ecuador-busca-a-14-pescadores-tras-naufragio-en-el-pacifico/6482889356",
+      "title": "De prisión a museo: convierten penal en un espacio interactivo",
+      "url": "https://www.elhorizonte.mx/tamaulipas/de-prision-a-museo-convierten-penal-en-un-espacio-interactivo/8633395369",
       "published": "",
       "source": "El Horizonte",
       "zona": "Monterrey"
     },
     {
-      "title": "Barcelona golea al Real Betis y mantiene su paso perfectoEl cuadro azulgrana goleó 5-2 al Betis, que fue con todo a ganar el partido, pero una expulsión le quitó las posibilidad...",
-      "url": "https://info7.mx/deportes/barcelona-golea-al-real-betis-y-mantiene-su-paso-perfecto/1202911363",
+      "title": "Vencen Rayadas a Cruz Azul 1-0 y amarran boleto a la LiguillaCon gol tempranero de Lucía García y un penal atajado en la segunda mitad, el cuadro albiazul aseguró su pase a la fase final.",
+      "url": "https://info7.mx/deportes/vencen-rayadas-a-cruz-azul-1-0-y-amarran-boleto-a-la-liguilla/5328001265",
       "published": "",
       "source": "INFO7",
       "zona": "Monterrey"
-    },
-    {
-      "title": "Programa de ética, integridad y cumplimiento",
-      "url": "https://tvazteca.brightspotcdn.com/87/22/c05982f54e6989600c5eda460e47/webpeic-taz-2024-compressed.pdf",
-      "published": "",
-      "source": "TV Azteca (Nuevo León)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Retiran más de 10 mil toneladas de residuos en Las Sabinitas",
-      "url": "https://elporvenir.mx/local/retiran-mas-de-10-mil-toneladas-de-residuos-en-las-sabinitas/1035173",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Detienen a César Jáuregui, exfiscal de Chihuahua, por caso CIA",
-      "url": "https://www.elhorizonte.mx/nacional/detienen-a-cesar-jauregui-exfiscal-de-chihuahua-por-caso-cia/1883321132",
-      "published": "",
-      "source": "El Horizonte",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Jaguars rompería la racha en 2028 de jugar en LondresA pocas horas de disputar su partido número 16 en suelo londinense, el presidente de los Jaguars reveló que apunta a man...",
-      "url": "https://info7.mx/deportes/jaguars-romperia-la-racha-en-2028-de-jugar-en-londres/1458084955",
-      "published": "",
-      "source": "INFO7",
-      "zona": "Monterrey"
-    },
-    {
-      "title": "Defensor de Audiencias y Código de Ética de Televisión Azteca III",
-      "url": "https://www.tvazteca.com/aztecanoticias/defensoraudienciatvazteca.html",
-      "published": "",
-      "source": "TV Azteca (Nuevo León)",
-      "zona": "Nuevo León"
-    },
-    {
-      "title": "Obtiene NL primer lugar nacional en atención a DH dentro de Penales",
-      "url": "https://elporvenir.mx/local/obtiene-nl-primer-lugar-nacional-en-atencion-a-dh-dentro-de-penales/1034889",
-      "published": "",
-      "source": "El Porvenir (local)",
-      "zona": "Nuevo León"
     }
   ]
 }
