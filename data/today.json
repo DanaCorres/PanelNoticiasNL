@@ -1,248 +1,72 @@
 {
-  "date": "2026-10-18",
-  "run_count": 3,
+  "date": "2026-10-19",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Arrestan sujeto acusado de secuestro y tortura",
-        "summary": "Capturan a persona imputada por delitos de secuestro y tortura en Nuevo León.",
+        "title": "Detienen a tres con más de 100 dosis en Hualahuises",
+        "summary": "Operativo policial en Hualahuises aseguró a tres personas con presuntos narcóticos en cantidad de distribución.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/caen-tres-personas-mas-100-dosis-droga-operativo-hualahuises-nl",
+        "_added_at": "2026-10-19T00:36:47.104324-06:00"
+      },
+      {
+        "title": "Vinculan a proceso a dos mujeres en Monterrey",
+        "summary": "Tribunal vincula a proceso a dos mujeres por un caso de violencia contra un hombre en la capital regia.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/vinculan-proceso-mujeres-golpearon-hombre-monterrey",
+        "_added_at": "2026-10-19T00:36:47.104324-06:00"
+      },
+      {
+        "title": "Detienen a mujer investigada por extorsión",
+        "summary": "Autoridades capturan a una mujer investigada por extorsión junto con dos acompañantes en operativo.",
         "zona": "Nuevo León",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/arrestan-a-sujeto-acusado-de-secuestro-y-tortura/1035689",
-        "_added_at": "2026-10-18T16:43:10.214252-06:00"
-      },
-      {
-        "title": "Detienen al asesino de motociclista en plaza comercial",
-        "summary": "Autoridades capturan a presunto responsable del homicidio de motociclista en plaza comercial.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/detienen-a-asesino-de-motociclista-en-plaza-comercial/1035682",
-        "_added_at": "2026-10-18T16:43:10.214252-06:00"
-      },
-      {
-        "title": "Vinculan a proceso a dos mujeres por asalto violento",
-        "summary": "Juez vincula a proceso a dos mujeres acusadas de golpear y robar a un hombre.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/vinculan-a-proceso-a-dos-mujeres-por-golpear-y-asaltar-a-hombre/1035815",
-        "_added_at": "2026-10-18T16:43:10.214252-06:00"
-      },
-      {
-        "title": "Puente peatonal colapsa sobre vehículo en Monterrey",
-        "summary": "Estructura se desmorona en Avenida Constitución causando daños a automóvil. Autoridades investigan causas del colapso.",
-        "zona": "Monterrey",
-        "source": "TV Azteca (Nuevo León)",
-        "url": "https://www.tvazteca.com/aztecanoticias/monterrey-se-desploma-puente-peatonal-un-automovil-en-avenida-constitucion/",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Influencer capturada con armas y drogas en Monterrey",
-        "summary": "Detienen a \"La Barbie de la Alianza\" con vinculación a grupo delictivo. Aseguran armamento y sustancias ilícitas.",
-        "zona": "Monterrey",
-        "source": "TV Azteca (Nuevo León)",
-        "url": "https://www.tvazteca.com/aztecanoticias/influencer-la-barbie-la-alianza-fue-detenida-en-monterrey-armas-drogas-y-vinculos-grupo-delictivo/",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Operativo busca hombre arrastrado por canalón en Monterrey",
-        "summary": "Autoridades despliegan binomio K9 para localizar persona desaparecida tras ser arrastrada por corriente de agua.",
-        "zona": "Monterrey",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/buscan-a-hombre-arrastrado-por-corriente-en-monterrey-proteccion-civil-despliega-operativo-k9/vl2268104",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Arrestan sujeto acusado de secuestro y tortura",
-        "summary": "Capturan individuo vinculado a delitos graves. Caso sigue investigación de autoridades judiciales.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/arrestan-a-sujeto-acusado-de-secuestrar-y-tortura/1035689",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Mujeres vinculadas a proceso por asalto",
-        "summary": "Dos mujeres enfrentan cargos tras asaltar a hombre. Autoridades avanzan en investigación del delito.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/mujeres-asaltan-a-hombre",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Detienen generador de violencia con 46 dosis de droga",
-        "summary": "Capturan presunto distribuidor de narcóticos en Monterrey. Operativo asegura dosis de estupefacientes.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/monterrey-detienen-a-presunto-generador-de-violencia-con-droga",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Catean domicilio en Monterrey por caso de desaparecido",
-        "summary": "Autoridades realizaron cateo en vivienda de Valle de Infonavit relacionada con investigación de persona desaparecida en la ciudad.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/catean-casa-en-valle-de-infonavit-por-desaparecido-en-monterrey/9382229120",
-        "_added_at": "2026-10-18T00:25:05.306689-06:00"
+        "url": "https://elporvenir.mx/justicia/detienen-a-mujer-investigada-por-extorsion-y-a-dos-acompanantes/1035893",
+        "_added_at": "2026-10-19T00:36:47.104324-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Samuel García asegura victoria de MC en gubernatura 2027",
-        "summary": "Gobernador afirma que Movimiento Ciudadano \"arrasará\" en próximas elecciones estatales.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/samuel-garcia-afirma-mc-ganara-gubernatura-nuevo-leon-2027",
-        "_added_at": "2026-10-18T16:43:10.214252-06:00"
-      },
-      {
-        "title": "Perla Villarreal rechaza firmar cheques en blanco",
-        "summary": "Legisladora se opone a compromisos sin claridad de gastos. Debate sobre control presupuestario en congreso.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/no-firmaremos-cheques-en-blanco-perla-villarreal/1035766",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Lorena de la Garza denuncia al gobernador",
-        "summary": "Funcionaria presenta querella contra gobernador. Enjuiciamiento por presunta irregularidad en administración.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/denuncia-lorena-de-la-garza-a-gobernador/1035764",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Asamblea inicia entrega de nombramientos",
-        "summary": "Legislatura comienza procesos de designación de funcionarios. Avance en conformación de instituciones estatales.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/inicia-an-entrega-de-nombramientos/1035765",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Crítica al gobierno por falta de proyectos concluidos",
-        "summary": "Señalan que administración ha dejado solo primeras piedras sin terminar obras. Cuestionamiento sobre gestión pública.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/este-ha-sido-el-gobierno-de-las-primeras-piedras/1035733",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
+        "title": "Manuel Guerra se registra para coordinar en García",
+        "summary": "Candidato se registra para coordinar los Comités de la Transformación en el municipio de García.",
+        "zona": "Área metropolitana",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/manuel-guerra-se-registra-para-coordinar-los-comites-de-la-transformacion-en-garcia-/v-vl2268167",
+        "_added_at": "2026-10-19T00:36:47.104324-06:00"
       }
     ],
     "economia": [],
     "eventos": [
       {
-        "title": "San Nicolás celebra jornada contra cáncer de mama",
-        "summary": "Municipio organiza evento de concientización y actividades relacionadas con salud de la mujer.",
+        "title": "Llevarán brigada de salud a Santa Catarina",
+        "summary": "Autoridades municipal anuncian traslado de brigada de atención médica al municipio de Santa Catarina.",
         "zona": "Área metropolitana",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/san-nicolas-cancer-de-mama",
-        "_added_at": "2026-10-18T16:43:10.214252-06:00"
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/llevara-felix-arratia-brigada-de-salud-a-santa-catarina/3888760490",
+        "_added_at": "2026-10-19T00:36:47.104324-06:00"
       },
       {
-        "title": "Guadalupe inicia vacunación invernal en DIF",
-        "summary": "Municipio aplica vacunas gratuitas contra COVID, influenza y neumococo.",
+        "title": "Refuerzan bacheo en Santa Catarina tras lluvias",
+        "summary": "Municipio despliega cuadrillas para reparar carpeta asfáltica y evitar accidentes viales.",
         "zona": "Área metropolitana",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/aplicaran-vacunas-gratuitas-contra-covid-e-influenza-en-el-dif-tierra-propia-de-guadalupe/vl2268205",
-        "_added_at": "2026-10-18T16:43:10.214252-06:00"
-      },
-      {
-        "title": "Capacitación sobre regularización de vehículos foráneos",
-        "summary": "Autoridades ofrecen trámite en línea para normalización de autos extranjeros. Proceso simplificado para residentes.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/capacitaran-sobre-regularizacion-en-linea-de-vehiculos-foraneos/1035734",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Sobrevivientes de cáncer participan en Lady Señorial Rosa",
-        "summary": "Mujeres recuperadas de cáncer de mama integran concurso de belleza. Evento de conciencia y empoderamiento.",
-        "zona": "Monterrey",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/sobrevivientes-de-cancer-de-mama-participan-en-lady-senorial-rosa-2026",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Lady Señorial Rosa 2026 visibiliza lucha contra cáncer",
-        "summary": "Certamen reúne sobrevivientes de cáncer de mama para sensibilizar sobre la enfermedad en Monterrey.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/certamen-lady-senorial-rosa-visibilza-lucha-contra-cancer-monterrey",
-        "_added_at": "2026-10-18T00:25:05.306689-06:00"
-      },
-      {
-        "title": "Julieta Venegas presenta memoir Norteña en FIL Monterrey",
-        "summary": "Cantautora lanza su primer libro de memorias en la Feria Internacional del Libro de Monterrey.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/espectaculos/presenta-julieta-venegas-su-primer-libro-fil-monterrey",
-        "_added_at": "2026-10-18T00:25:05.306689-06:00"
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/refuerzan-bacheo-en-calles-de-santa-catarina-tras-lluvias/5049350733",
+        "_added_at": "2026-10-19T00:36:47.104324-06:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Colapsa puente peatonal sobre vehículo en Monterrey",
-        "summary": "Estructura se desmorona en avenida Constitución cayendo sobre automóvil.",
+        "title": "Continúa búsqueda de hombre arrastrado en río",
+        "summary": "Autoridades prosiguen operativo de rescate de un hombre arrastrado por corriente en el río Topo Chico.",
         "zona": "Monterrey",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/monterrey-se-desploma-puente-peatonal-un-automovil-en-avenida-constitucion/",
-        "_added_at": "2026-10-18T16:43:10.214252-06:00"
-      },
-      {
-        "title": "Nuevo León reduce tasa de mortalidad estatal",
-        "summary": "Estadísticas muestran descenso en indicadores de muertes. Mejora en salud pública a nivel regional.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/reduce-nuevo-leon-tasa-de-mortalidad/1035763",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Trabajador fallece al caer en empacadora",
-        "summary": "Accidente laboral causa muerte de empleado en instalación industrial. Investigación sobre seguridad en planta.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/muere-trabajador-al-caer-en-empacadora/1035679",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Pareja es rescatada tras volcar Jeep en lago de Cadereyta",
-        "summary": "Autoridades salvan a dos personas cuyo vehículo cayó en cuerpo de agua. Operativo exitoso de emergencia.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/salvan-a-pareja-que-volco-su-jeep-en-un-lago-de-cadereyta/1035705",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Nuevo León supera tasa nacional en mortalidad por cáncer de mama",
-        "summary": "Entidad registra índices superiores al promedio nacional. Alarma en salud pública sobre prevalencia de enfermedad.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/nuevo-leon-supera-tasa-nacional-de-mortalidad-por-cancer-de-mama/1919726541",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Habilitan refugios temporales en García",
-        "summary": "Autoridades abren espacios de protección ante contingencias. Medida de seguridad civil para población.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/habilitan-en-garcia-dos-refugios-temporales/1035466",
-        "_added_at": "2026-10-18T11:43:59.135250-06:00"
-      },
-      {
-        "title": "Presa La Boca supera capacidad máxima por lluvias",
-        "summary": "Embalse en Nuevo León alcanza 100% de capacidad tras recientes precipitaciones del frente frío.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/supera-la-presa-la-boca-al-100-de-su-capacidad-por-lluvias/5224443142",
-        "_added_at": "2026-10-18T00:25:05.306689-06:00"
-      },
-      {
-        "title": "Tren embiste a tráiler en Escobedo tras intentar ganarle paso",
-        "summary": "Accidente vial en Escobedo cuando unidad intenta cruzar las vías ante paso de composición ferroviaria.",
-        "zona": "Área metropolitana",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/estados/tren-embiste-trailer-tras-intentar-ganarle-paso-escobedo-nl",
-        "_added_at": "2026-10-18T00:25:05.306689-06:00"
+        "url": "https://www.milenio.com/estados/con-helicoptero-y-drones-sigue-busqueda-de-hombre-en-nuevo-leon",
+        "_added_at": "2026-10-19T00:36:47.104324-06:00"
       }
     ]
   },
-  "last_updated": "2026-10-18T16:43:10.214252-06:00"
+  "last_updated": "2026-10-19T00:36:47.104324-06:00"
 }
