@@ -1,337 +1,137 @@
 {
-  "date": "2026-10-19",
-  "run_count": 3,
+  "date": "2026-10-20",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Arrestan a exfiscal de Chihuahua por operativo con CIA",
-        "summary": "Sheinbaum confirma detención de exfiscal acusado de 'traición a la patria' tras operativo coordinado con agencia estadounidense.",
+        "title": "Fiscalía lanza sitio para localizar personas fallecidas identificadas",
+        "summary": "Autoridades estatal crean plataforma digital para buscar y restituir restos de personas fallecidas no identificadas.",
         "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/19/sheinbaum-confirma-arresto-de-exfiscal-de-chihuahua-por-traicion-a-la-patria-tras-operativo-con-la-cia/",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/fiscalia-leon-lanza-micrositio-identificar-fallecidos",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       },
       {
-        "title": "Operativo en Apodaca detiene a 87 presuntos delincuentes",
-        "summary": "Autoridades sacan de circulación a 87 personas buscadas en la zona de Apodaca.",
-        "zona": "Área metropolitana",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/delincuentes-apodaca",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
-      },
-      {
-        "title": "Asesinan a comerciante en colonia Hidalgo de Monterrey",
-        "summary": "Hombre muere baleado frente a su domicilio en la colonia Hidalgo.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/asesinan-a-comerciante-frente-a-su-domicilio-en-la-colonia-hidalgo/1036172",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
-      },
-      {
-        "title": "Investigan muerte de bebé presuntamente golpeado en García",
-        "summary": "Menor de 23 meses fallece tras investigación de presunta agresión en vivienda.",
-        "zona": "Área metropolitana",
-        "source": "Telediario",
-        "url": "https://www.telediario.mx/policia/garcia-investigan-muerte-nino-presuntos-violencia",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
-      },
-      {
-        "title": "Muere bebé tras golpiza en García; se abre investigación",
-        "summary": "Menor de edad falleció tras recibir agresión física en municipio de García. Autoridades investigan las circunstancias del caso.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/muere-bebe-luego-de-ser-golpeado-en-garcia/1036163",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Orden de aprehensión contra Rocha Cantú por lavado de dinero",
-        "summary": "Exfuncionario enfrenta investigación por delitos de lavado de dinero. Autoridades emiten orden de captura.",
-        "zona": "Nuevo León",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/orden-de-aprehension-contra-rocha-cantu-pone-foco-en-lavado/",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Joven asesinado a balazos en colonia Nogales de la Sierra",
-        "summary": "Disparos dejan un fallecido en zona de Monterrey. Investigación en curso por autoridades.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/balean-y-matan-a-joven-en-la-colonia-nogales-de-la-sierra/1035807",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Hombre muere tras embestida de vehículo en Monterrey",
-        "summary": "Persona fallece al ser impactada por automóvil. Autoridades investigan circunstancias del incidente.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/pierde-la-vida-tras-embestida-de-un-carro/1035886",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Detienen a tres con más de 100 dosis en Hualahuises",
-        "summary": "Operativo policial en Hualahuises aseguró a tres personas con presuntos narcóticos en cantidad de distribución.",
+        "title": "Desaparece joven mujer en El Carmen",
+        "summary": "Se reporta desaparición de Isela Guadalupe Montoya Ortiz en municipio de El Carmen, Nuevo León.",
         "zona": "Nuevo León",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/caen-tres-personas-mas-100-dosis-droga-operativo-hualahuises-nl",
-        "_added_at": "2026-10-19T00:36:47.104324-06:00"
+        "url": "https://www.milenio.com/estados/desaparece-joven-mujer-en-el-carmen-nuevo-leon",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       },
       {
-        "title": "Vinculan a proceso a dos mujeres en Monterrey",
-        "summary": "Tribunal vincula a proceso a dos mujeres por un caso de violencia contra un hombre en la capital regia.",
+        "title": "Asesinan a balazos a hombre en colonia Hidalgo",
+        "summary": "Ejecutan a individuo afuera de su domicilio en zona residencial de Monterrey.",
         "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/vinculan-proceso-mujeres-golpearon-hombre-monterrey",
-        "_added_at": "2026-10-19T00:36:47.104324-06:00"
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/colonia-hidalgo-monterrey-asesinan-hombre-afuera-casa",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       },
       {
-        "title": "Detienen a mujer investigada por extorsión",
-        "summary": "Autoridades capturan a una mujer investigada por extorsión junto con dos acompañantes en operativo.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/detienen-a-mujer-investigada-por-extorsion-y-a-dos-acompanantes/1035893",
-        "_added_at": "2026-10-19T00:36:47.104324-06:00"
+        "title": "Fiscalía retorna camionetas robadas a propietario",
+        "summary": "Autoridades recuperan vehículos hurtados y los devuelven a su dueño en San Nicolás.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/san-nicolas-fiscalia-de-nuevo-leon-regresa-vehiculos-robados",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       }
     ],
     "politica": [
       {
-        "title": "Congreso llevará a glosa el Quinto Informe de Samuel García",
-        "summary": "Legislatura anunciará sesión de glosa para cuestionar resultados del gobernador.",
-        "zona": "Monterrey",
-        "source": "Milenio",
-        "url": "https://www.milenio.com/politica/congreso-de-nl-tendra-glosa-del-quinto-informe",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
-      },
-      {
-        "title": "Maru Campos responde a Sheinbaum: nadie está por encima de la ley",
-        "summary": "Gobernadora reacciona públicamente al caso Jáuregui diferenciándose de postura federal.",
+        "title": "Samuel García presenta Quinto Informe de Gobierno en noviembre",
+        "summary": "Gobernador de Nuevo León rendirá cuentas de su administración en acto oficial programado.",
         "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/19/video-maru-campos-responde-a-sheinbaum-por-caso-cesar-jauregui-nadie-esta-por-encima-de-la-ley/",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/presentara-samuel-su-quinto-informe-de-gobierno-en-noviembre/6429798955",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       },
       {
-        "title": "PAN propone convertir Secretaría de Movilidad en órgano autónomo",
-        "summary": "Partido busca cambio estructural en gestión de transporte del estado.",
+        "title": "Fernando Turner aspira a gubernatura de Nuevo León",
+        "summary": "Candidato potencial critica la clase política estatal y levanta candidatura para próximas elecciones.",
         "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-pan-busca-suplir-la-secretaria-de-movilidad-por-organo-autonomo-de-transporte-5197/",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/fernando-turner-critica-politica-nuevo-leon-fosa-septica",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       },
       {
-        "title": "San Pedro abre expedientes contra seis exfuncionarios por omisiones",
-        "summary": "Municipio inicia investigaciones por falta de declaración patrimonial en administración anterior.",
-        "zona": "Área metropolitana",
-        "source": "Telediario",
-        "url": "https://www.telediario.mx/politica/san-pedro-abre-seis-expedientes-contra-ex-funcionarios",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
-      },
-      {
-        "title": "Vecinos de Cumbres piden concretar cambio de García a Monterrey",
-        "summary": "Residentes presionan a Congreso para completar reintegración territorial de colonias.",
-        "zona": "Área metropolitana",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/vecinos-de-cumbres-piden-concretar-cambio-territorial-de-garcia-a-monterrey-8487/",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
-      },
-      {
-        "title": "Monreal advierte margen mínimo en Presupuesto 2027 de NL",
-        "summary": "Titular de Finanzas plantea limitaciones fiscales para próximo año estatal.",
-        "zona": "Nuevo León",
-        "source": "EIT Media",
-        "url": "https://eitmedia.tech/2026/10/19/no-hay-dinero-para-repartir-monreal-advierte-margen-minimo-en-presupuesto-2027/",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
-      },
-      {
-        "title": "Bronco sondea candidatura de García por Partido Verde",
-        "summary": "Exgobernador indaga posibilidad de que candidato se registre por Ecologistas. Negociaciones entre fuerzas políticas.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/durante-los-registros-de-morena-el-bronco-sondea-la-candidatura-de-garcia-por-el-verde-194/",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Partido Verde rechaza que Clara Luz encabece proyecto 4T",
-        "summary": "Dirigencia verde cuestiona candidatura de Clara Luz Flores para 2027. Conflicto dentro de coalición.",
+        "title": "Nazario Marroquín busca candidatura de Morena en Santiago",
+        "summary": "Registra candidatura interna de Morena para contender por la presidencia municipal de Santiago.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/partido-verde-pone-duda-candidatura-clara-luz-2027-nl",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
+        "url": "https://www.telediario.mx/politica/nazario-marroquin-busca-candidatura-de-morena-a-alcaldia-de-santiago",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       },
       {
-        "title": "San Pedro abre expedientes a seis exfuncionarios",
-        "summary": "Cabildo inicia procedimientos contra funcionarios anteriores por omisiones en declaración patrimonial.",
-        "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/san-pedro-expedientes-ex-funcionarios-declaracion-patrimonial",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Samuel asegura que Movimiento Ciudadano arrasará en 2027",
-        "summary": "Gobernador confía en victoria electoral de su partido en próximas elecciones estatales.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/afirma-samuel-que-mc-arrasara-en-el-2027/1035910",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "PAN propone quitar Secretaría de Movilidad al Gobierno",
-        "summary": "Partido planteó en legislatura transferencia de competencias de movilidad al municipio.",
+        "title": "Congreso fija calendario de mesas para presupuesto 2027",
+        "summary": "Legislatura estatal agenda sesiones de trabajo para discusión y aprobación del presupuesto.",
         "zona": "Nuevo León",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/plantea-pan-quitar-secretaria-de-movilidad-a-gobierno-nuevo-leon",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
+        "url": "https://www.milenio.com/politica/congreso-nl-calendario-mesas-trabajo-presupuesto-2027",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       },
       {
-        "title": "Felipe de Jesús no descarta candidatura a Monterrey",
-        "summary": "Político mantiene abierta la posibilidad de participar en encuesta para candidatura a presidencia municipal.",
-        "zona": "Monterrey",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/felipe-de-jesus-ahora-no-descarta-anotarse-a-la-encuesta-por-monterrey-5581/",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Poderes alistan reuniones para revisar Presupuesto 2027",
-        "summary": "Gobierno y Congreso convocan para discusión del paquete fiscal del próximo ejercicio.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/gobierno-congreso-nuevo-leon-reuniones-paquete-fiscal-2027",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Manuel Guerra se registra para coordinar en García",
-        "summary": "Candidato se registra para coordinar los Comités de la Transformación en el municipio de García.",
+        "title": "Liz Galicia refuerza presencia en Santa Catarina",
+        "summary": "Personaje cercano a la Cuarta Transformación realiza recorridos para fortalecer vínculos políticos.",
         "zona": "Área metropolitana",
         "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/manuel-guerra-se-registra-para-coordinar-los-comites-de-la-transformacion-en-garcia-/v-vl2268167",
-        "_added_at": "2026-10-19T00:36:47.104324-06:00"
+        "url": "https://www.posta.com.mx/nuevo-leon/recorridos-de-liz-galicia-en-santa-catarina-para-la-4t/vl2268680",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       }
     ],
     "economia": [
       {
-        "title": "Nuevo León destaca como líder nacional en gestión del agua",
-        "summary": "Estado posiciona políticas hídricas como modelo a nivel país.",
+        "title": "Nuevo León encabeza proyecciones de inversión en México",
+        "summary": "Estado se posiciona como líder nacional en atracción de capitales e inversión privada.",
         "zona": "Nuevo León",
         "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/destaca-nuevo-leon-como-lider-nacional-en-gestion-del-agua/9239218669",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+        "url": "https://www.elhorizonte.mx/nuevoleon/nuevo-leon-encabeza-las-proyecciones-de-inversion-en-mexico/8965883563",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       },
       {
-        "title": "AyD incorporará 450 litros diarios de agua tratada para industria",
-        "summary": "Empresa proyecta suma de agua reutilizada para usos industriales en el estado.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/ayd-proyecta-sumar-450-litros-segundo-agua-tratada-nuevo-leon",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Nuevo León alcanza 99.6% de cobertura de agua potable",
-        "summary": "Gobierno estatal reporta liderazgo nacional en acceso a agua potable. Cifra récord de cobertura.",
-        "zona": "Nuevo León",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/cobertura-de-agua-potable-en-nuevo-leon-alcanza-el-996/vl2268491",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Demanda energética de NL crece al doble del promedio nacional",
-        "summary": "Crecimiento acelerado del consumo de energía en el estado plantea desafíos de abastecimiento.",
+        "title": "Nuevo León apuesta por proveeduría local y ciberseguridad",
+        "summary": "Entidad impulsa estrategias de desarrollo de cadena de suministro y protección digital en Pymes.",
         "zona": "Nuevo León",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/nuevo-leon-enfrenta-presion-aumento-demanda-energia",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
+        "url": "https://www.telediario.mx/economia/nuevo-leon-apuesta-proveeduria-local-y-ciberseguridad-pymes",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       }
     ],
     "eventos": [
       {
-        "title": "Concurso fotográfico busca retrato auténtico de Monterrey",
-        "summary": "Convocatoria invita a capturar diversidad y realidad contemporánea de la ciudad.",
-        "zona": "Monterrey",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/concurso-fotografia-monterrey",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
-      },
-      {
-        "title": "Feria Internacional del Libro rompe récord de asistencia",
-        "summary": "Evento literario en el estado registra participación histórica de visitantes.",
+        "title": "Samuel García entrega cancha deportiva 651 en escuelas",
+        "summary": "Gobernador inaugura infraestructura deportiva como parte de programa de equipamiento educativo.",
         "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/rompe-record-de-asistencia-feria-internacional-del-libro/1035912",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Carrera Familiar de Grupo GP reúne más de tres mil personas",
-        "summary": "Evento deportivo en Parque Fundidora convoca a miles de participantes.",
-        "zona": "Monterrey",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/carrera-familiar-gp-2026-en-parque-fundidora-monterrey/v-vl2268412",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Llevarán brigada de salud a Santa Catarina",
-        "summary": "Autoridades municipal anuncian traslado de brigada de atención médica al municipio de Santa Catarina.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/llevara-felix-arratia-brigada-de-salud-a-santa-catarina/3888760490",
-        "_added_at": "2026-10-19T00:36:47.104324-06:00"
-      },
-      {
-        "title": "Refuerzan bacheo en Santa Catarina tras lluvias",
-        "summary": "Municipio despliega cuadrillas para reparar carpeta asfáltica y evitar accidentes viales.",
-        "zona": "Área metropolitana",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/refuerzan-bacheo-en-calles-de-santa-catarina-tras-lluvias/5049350733",
-        "_added_at": "2026-10-19T00:36:47.104324-06:00"
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/samuel-garcia-entrega-cancha-deportiva-numero-651-en-escuelas-de-nl-3405/",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Estado descarta problema hídrico para NL a corto o mediano plazo",
-        "summary": "Autoridad proyecta disponibilidad de agua sin crisis inmediata para la región.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/descarta-estado-problema-hidrico-para-nl-a-corto-o-mediano-plazo/1035909",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
-      },
-      {
-        "title": "Medio Ambiente de NL afirma reducción de 20% en contaminación",
-        "summary": "Dependencia reporta avance en indicadores ambientales del estado.",
+        "title": "Menor se intoxica en secundaria y termina intubada",
+        "summary": "Estudiante ingiere bebida tóxica en escuela y requiere atención hospitalaria de emergencia.",
         "zona": "Nuevo León",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/afirma-medio-ambiente-de-nl-bajar-en-20-la-contaminacion/v1026310540",
-        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+        "url": "https://info7.mx/nuevoleon/se-intoxica-menor-con-bebida-en-secundaria-termina-intubada/9560953882",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       },
       {
-        "title": "Revelan causa de colapso de puente peatonal en Monterrey",
-        "summary": "Autoridad estatal explica factores que ocasionaron caída de estructura que aplastó automóvil.",
-        "zona": "Monterrey",
-        "source": "TV Azteca",
-        "url": "https://www.tvazteca.com/aztecanoticias/caida-puente-peatonal-en-monterrey-nuevo-leon-gobernador-samuel-garcia-revela-causa-responsables/",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Advierten sobre impacto de expansión urbana en Nuevo León",
-        "summary": "Expertos piden inventario de predios ante crecimiento desordenado de desarrollo inmobiliario.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/crecimiento-urbano-nuevo-leon-exige-inventario-predios",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
-      },
-      {
-        "title": "Nuevas líneas del Metro de NL operarán en septiembre de 2027",
-        "summary": "Proyecto de expansión del transporte masivo en el estado inicia operaciones en fecha confirmada.",
+        "title": "Zanja inconclusa por obras de drenaje afecta a vecinos",
+        "summary": "Proyectos de infraestructura incompletos generan acumulación de agua y riesgos sanitarios.",
         "zona": "Nuevo León",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/operaran-nuevas-lineas-del-metro-de-nl-en-septiembre-de-2027/v5669328712",
-        "_added_at": "2026-10-19T14:19:57.194726-06:00"
+        "url": "https://info7.mx/nuevoleon/zanja-inconclusa-por-obras-de-drenaje-afecta-a-vecinos/5117508507",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       },
       {
-        "title": "Continúa búsqueda de hombre arrastrado en río",
-        "summary": "Autoridades prosiguen operativo de rescate de un hombre arrastrado por corriente en el río Topo Chico.",
+        "title": "Aderlin Rodríguez jugará con Sultanes de Monterrey",
+        "summary": "Beisbolista dominicano se integra al equipo para la temporada 2027 de Liga Mexicana.",
         "zona": "Monterrey",
         "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/estados/con-helicoptero-y-drones-sigue-busqueda-de-hombre-en-nuevo-leon",
-        "_added_at": "2026-10-19T00:36:47.104324-06:00"
+        "url": "https://www.milenio.com/beisbol/sultanes/aderlin-rodriguez-jugara-con-sultanes-para-temporada-2027-de-lmb",
+        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       }
     ]
   },
-  "last_updated": "2026-10-19T18:04:36.481714-06:00"
+  "last_updated": "2026-10-20T00:22:46.279732-06:00"
 }
