@@ -1,8 +1,40 @@
 {
   "date": "2026-10-19",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Arrestan a exfiscal de Chihuahua por operativo con CIA",
+        "summary": "Sheinbaum confirma detención de exfiscal acusado de 'traición a la patria' tras operativo coordinado con agencia estadounidense.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/19/sheinbaum-confirma-arresto-de-exfiscal-de-chihuahua-por-traicion-a-la-patria-tras-operativo-con-la-cia/",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
+      {
+        "title": "Operativo en Apodaca detiene a 87 presuntos delincuentes",
+        "summary": "Autoridades sacan de circulación a 87 personas buscadas en la zona de Apodaca.",
+        "zona": "Área metropolitana",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/delincuentes-apodaca",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
+      {
+        "title": "Asesinan a comerciante en colonia Hidalgo de Monterrey",
+        "summary": "Hombre muere baleado frente a su domicilio en la colonia Hidalgo.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/asesinan-a-comerciante-frente-a-su-domicilio-en-la-colonia-hidalgo/1036172",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
+      {
+        "title": "Investigan muerte de bebé presuntamente golpeado en García",
+        "summary": "Menor de 23 meses fallece tras investigación de presunta agresión en vivienda.",
+        "zona": "Área metropolitana",
+        "source": "Telediario",
+        "url": "https://www.telediario.mx/policia/garcia-investigan-muerte-nino-presuntos-violencia",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
       {
         "title": "Muere bebé tras golpiza en García; se abre investigación",
         "summary": "Menor de edad falleció tras recibir agresión física en municipio de García. Autoridades investigan las circunstancias del caso.",
@@ -61,6 +93,54 @@
       }
     ],
     "politica": [
+      {
+        "title": "Congreso llevará a glosa el Quinto Informe de Samuel García",
+        "summary": "Legislatura anunciará sesión de glosa para cuestionar resultados del gobernador.",
+        "zona": "Monterrey",
+        "source": "Milenio",
+        "url": "https://www.milenio.com/politica/congreso-de-nl-tendra-glosa-del-quinto-informe",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
+      {
+        "title": "Maru Campos responde a Sheinbaum: nadie está por encima de la ley",
+        "summary": "Gobernadora reacciona públicamente al caso Jáuregui diferenciándose de postura federal.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/19/video-maru-campos-responde-a-sheinbaum-por-caso-cesar-jauregui-nadie-esta-por-encima-de-la-ley/",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
+      {
+        "title": "PAN propone convertir Secretaría de Movilidad en órgano autónomo",
+        "summary": "Partido busca cambio estructural en gestión de transporte del estado.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-pan-busca-suplir-la-secretaria-de-movilidad-por-organo-autonomo-de-transporte-5197/",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
+      {
+        "title": "San Pedro abre expedientes contra seis exfuncionarios por omisiones",
+        "summary": "Municipio inicia investigaciones por falta de declaración patrimonial en administración anterior.",
+        "zona": "Área metropolitana",
+        "source": "Telediario",
+        "url": "https://www.telediario.mx/politica/san-pedro-abre-seis-expedientes-contra-ex-funcionarios",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
+      {
+        "title": "Vecinos de Cumbres piden concretar cambio de García a Monterrey",
+        "summary": "Residentes presionan a Congreso para completar reintegración territorial de colonias.",
+        "zona": "Área metropolitana",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/vecinos-de-cumbres-piden-concretar-cambio-territorial-de-garcia-a-monterrey-8487/",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
+      {
+        "title": "Monreal advierte margen mínimo en Presupuesto 2027 de NL",
+        "summary": "Titular de Finanzas plantea limitaciones fiscales para próximo año estatal.",
+        "zona": "Nuevo León",
+        "source": "EIT Media",
+        "url": "https://eitmedia.tech/2026/10/19/no-hay-dinero-para-repartir-monreal-advierte-margen-minimo-en-presupuesto-2027/",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
       {
         "title": "Bronco sondea candidatura de García por Partido Verde",
         "summary": "Exgobernador indaga posibilidad de que candidato se registre por Ecologistas. Negociaciones entre fuerzas políticas.",
@@ -128,6 +208,14 @@
     ],
     "economia": [
       {
+        "title": "Nuevo León destaca como líder nacional en gestión del agua",
+        "summary": "Estado posiciona políticas hídricas como modelo a nivel país.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/destaca-nuevo-leon-como-lider-nacional-en-gestion-del-agua/9239218669",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
+      {
         "title": "AyD incorporará 450 litros diarios de agua tratada para industria",
         "summary": "Empresa proyecta suma de agua reutilizada para usos industriales en el estado.",
         "zona": "Nuevo León",
@@ -153,6 +241,14 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Concurso fotográfico busca retrato auténtico de Monterrey",
+        "summary": "Convocatoria invita a capturar diversidad y realidad contemporánea de la ciudad.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/concurso-fotografia-monterrey",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
       {
         "title": "Feria Internacional del Libro rompe récord de asistencia",
         "summary": "Evento literario en el estado registra participación histórica de visitantes.",
@@ -188,6 +284,22 @@
     ],
     "sociedad": [
       {
+        "title": "Estado descarta problema hídrico para NL a corto o mediano plazo",
+        "summary": "Autoridad proyecta disponibilidad de agua sin crisis inmediata para la región.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/descarta-estado-problema-hidrico-para-nl-a-corto-o-mediano-plazo/1035909",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
+      {
+        "title": "Medio Ambiente de NL afirma reducción de 20% en contaminación",
+        "summary": "Dependencia reporta avance en indicadores ambientales del estado.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/afirma-medio-ambiente-de-nl-bajar-en-20-la-contaminacion/v1026310540",
+        "_added_at": "2026-10-19T18:04:36.481714-06:00"
+      },
+      {
         "title": "Revelan causa de colapso de puente peatonal en Monterrey",
         "summary": "Autoridad estatal explica factores que ocasionaron caída de estructura que aplastó automóvil.",
         "zona": "Monterrey",
@@ -221,5 +333,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-19T14:19:57.194726-06:00"
+  "last_updated": "2026-10-19T18:04:36.481714-06:00"
 }
