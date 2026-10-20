@@ -1,8 +1,48 @@
 {
   "date": "2026-10-20",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Crean consejo de seguridad universitaria en la UANL",
+        "summary": "La universidad establece un Consejo Nacional de Seguridad Universitaria y Escolar para fortalecer protección en planteles.",
+        "zona": "Monterrey",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/crean-en-la-uanl-el-consejo-nacional-de-seguridad-universitaria-y-escolar/",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "Muere interno tras golpiza en anexo de Guadalupe",
+        "summary": "Hombre fallece en centro de rehabilitación tras presunta agresión; seis personas detenidas por investigación.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/muere-hombre-tras-golpiza-en-anexo-de-guadalupe-detienen-a-seis/6576240552",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "Debilitan dos grupos criminales en Cadereyta",
+        "summary": "Operativo de autoridades desartícula células delictivas en municipio de Cadereyta.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/debilitan-dos-grupos-criminales-en-cadereyta/1036286",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "Aprueban derogar delito de extorsión en NL",
+        "summary": "Congreso estatal elimina tipo penal local de extorsión para alinearse con competencia federal.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/aprueban-nl-derogar-extorsion-competencia-federal",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "Detienen a sujeto por fingir ser diputado federal",
+        "summary": "Hombre capturado en Santiago al hacerse pasar por legislador federal para cometer fraude.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/detienen-a-hombre-por-fingir-ser-diputado-federal-en-santiago-nuevo-leon/",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
       {
         "title": "Nueve presuntos criminales detenidos en Cadereyta",
         "summary": "Autoridades capturan a nueve presuntos integrantes de grupos criminales en operativo en Cadereyta, debilitando dos organizaciones delictivas.",
@@ -82,17 +122,49 @@
         "source": "Telediario Monterrey",
         "url": "https://www.telediario.mx/policia/colonia-hidalgo-monterrey-asesinan-hombre-afuera-casa",
         "_added_at": "2026-10-20T00:22:46.279732-06:00"
-      },
-      {
-        "title": "Fiscalía retorna camionetas robadas a propietario",
-        "summary": "Autoridades recuperan vehículos hurtados y los devuelven a su dueño en San Nicolás.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/san-nicolas-fiscalia-de-nuevo-leon-regresa-vehiculos-robados",
-        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       }
     ],
     "politica": [
+      {
+        "title": "División de la 4T beneficia al PAN en Santa Catarina",
+        "summary": "Fracturas internas en Morena abren oportunidad para que oposición gane terreno en municipio.",
+        "zona": "Área metropolitana",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/la-division-de-la-4t-trastoca-a-los-municipios-y-el-pan-se-beneficia-en-santa-catarina-9596/",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "Congreso sesionará jueves por glosa de Quinto Informe",
+        "summary": "Legisladores amplían sesiones plenarias los jueves para debatir y votar cuestionamientos al informe gubernamental.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/congreso-nuevo-leon-sesionara-los-jueves-por-glosa-quinto-informe",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "Samuel completó viaducto de líneas 4 y 6 del Metro",
+        "summary": "Gobernador anuncia conclusión de obra elevada; proyecta próxima reapertura de avenidas.",
+        "zona": "Monterrey",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/samuel-informo-la-conclusion-del-viaducto-elevado-de-lineas-4-y-6-5464/",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "Acusan a Gerardo Escamilla de desacato",
+        "summary": "Legislador enfrenta acusación por no comparecer ante Congreso en sesión de glosa.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/acusan-desacato-gerardo-escamilla-no-comparecer-ante-congreso-nl",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "MC propone sancionar violencia vial en NL",
+        "summary": "Movimiento Ciudadano presenta iniciativa para endurecer penas contra infracciones graves de tránsito.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/mc-propone-sancionar-violencia-vial-nuevo-leon",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
       {
         "title": "Samuel convoca a reunión para destrabar presupuesto 2027",
         "summary": "Gobernador Samuel García reúne a municipios para definir asignación de recursos en próximo ejercicio fiscal.",
@@ -172,14 +244,6 @@
         "source": "Milenio Monterrey",
         "url": "https://www.milenio.com/politica/congreso-nl-calendario-mesas-trabajo-presupuesto-2027",
         "_added_at": "2026-10-20T00:22:46.279732-06:00"
-      },
-      {
-        "title": "Liz Galicia refuerza presencia en Santa Catarina",
-        "summary": "Personaje cercano a la Cuarta Transformación realiza recorridos para fortalecer vínculos políticos.",
-        "zona": "Área metropolitana",
-        "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/recorridos-de-liz-galicia-en-santa-catarina-para-la-4t/vl2268680",
-        "_added_at": "2026-10-20T00:22:46.279732-06:00"
       }
     ],
     "economia": [
@@ -218,6 +282,22 @@
     ],
     "eventos": [
       {
+        "title": "Confirman cartelera artística para Feria de Reynosa 2026",
+        "summary": "Grupo Frontera, Luis Fonsi y Los Ángeles Azules encabezarán programación de evento fronterizo.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/reynosa/feria-de-reynosa-2026-cartelera",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "Samuel revela mapa de estaciones del nuevo Metro",
+        "summary": "Gobernador presenta identidad visual de líneas 4 y 6 con nombres definitivos de paradas.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/nombres-de-estaciones-lineas-4-y-6-del-metro-monterrey-mapa-de-red",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
         "title": "José Luis Trueba presenta nueva perspectiva sobre Carlota en FIL",
         "summary": "Autor presenta libro que reimagina la historia de la emperatriz Carlota en Feria Internacional del Libro Monterrey.",
         "zona": "Monterrey",
@@ -251,6 +331,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Especialistas debaten sobre crisis hídrica en NL",
+        "summary": "Expertos analizan uso y cuidado del agua frente a escasez crítica que afecta la región.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/especialistas-debaten-cuidados-y-uso-de-agua-ante-crisis-hidrica-en-nl",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "Monterrey promueve salud de mujeres contra cáncer",
+        "summary": "Ciudad organiza feria de servicios por Día Mundial de Lucha contra el Cáncer de Mama.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/dia-mundial-cancer-de-mama-monterrey-promueve-salud-de-mujeres/vl2269006",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "Estiman 60 mil visitantes a panteones regiomontanos",
+        "summary": "Autoridades prevén flujo masivo de personas en cementerios durante festividades de Día de Muertos.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/estiman-60-mil-visitantes-a-panteones-regiomontanos/1036344",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
+      {
+        "title": "Samuel entrega cancha deportiva número 651 en escuelas",
+        "summary": "Gobernador continúa programa de infraestructura deportiva con nueva instalación en plantel educativo.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com.mx/mexico/nuevoleon-mx/samuel-garcia-entrega-cancha-deportiva-numero-651-en-escuelas-de-nl-3405/",
+        "_added_at": "2026-10-20T17:35:40.927455-06:00"
+      },
       {
         "title": "Terminan instalación de viaducto del Metro; liberarán carriles",
         "summary": "Proyecto de infraestructura del Metro de Monterrey concluye instalación de estructura elevada y comienza liberación de vías.",
@@ -317,5 +429,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-20T12:52:27.833936-06:00"
+  "last_updated": "2026-10-20T17:35:40.927455-06:00"
 }
