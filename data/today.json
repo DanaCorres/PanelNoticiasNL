@@ -1,8 +1,64 @@
 {
   "date": "2026-10-20",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Nueve presuntos criminales detenidos en Cadereyta",
+        "summary": "Autoridades capturan a nueve presuntos integrantes de grupos criminales en operativo en Cadereyta, debilitando dos organizaciones delictivas.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/capturan-presuntos-integrantes-grupos-criminales-cadereyta-nuevo-leon",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Investigan intoxicación de estudiantes en secundaria de Santa Catarina",
+        "summary": "Dos alumnas de secundaria sufrieron intoxicación tras consumir bebida de té; autoridades investigan si contenía sustancias ilícitas.",
+        "zona": "Área metropolitana",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/intoxicacion-alumnas-secundaria-santa-catarina-nuevo-leon/",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Fallece trabajadora dentro de tienda en Monterrey",
+        "summary": "Mujer pierde la vida mientras laboraba en un comercio; autoridades investigan las causas del deceso.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/pierde-la-vida-trabajadora-dentro-de-una-tienda/1036196",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Hombre vinculado a tentativa de feminicidio en Linares",
+        "summary": "Autoridades vinculan a sujeto por intento de feminicidio en Linares; caso en investigación de la FGJE.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/vinculan-a-hombre-por-tentativa-de-feminicidio-en-linares/9187374058",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Investigan desaparición de tres internos en centro de rehabilitación",
+        "summary": "Tres personas desaparecen de un centro de rehabilitación; autoridades abren investigación por posible fuga.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/indagan-desaparicion-de-tres-internos-en-centro-de-rehabilitacion/1036283",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Muere bebé de un año por golpes; FGJE investiga",
+        "summary": "Lactante fallece por traumatismo; Fiscalía abre carpeta de investigación por posible abuso infantil.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/muere-bebe-de-apenas-un-ano-por-golpes-fgje-investiga/1036163",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Hombre fallece tras ser baleado en Monterrey",
+        "summary": "Sujeto recibe impactos de arma de fuego y muere en la Cruz Roja; casos de violencia continúan en la ciudad.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/fallece-en-la-cruz-roja-tras-ser-baleado-en-monterrey/1036172",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
       {
         "title": "Fiscalía lanza sitio para localizar personas fallecidas identificadas",
         "summary": "Autoridades estatal crean plataforma digital para buscar y restituir restos de personas fallecidas no identificadas.",
@@ -37,6 +93,54 @@
       }
     ],
     "politica": [
+      {
+        "title": "Samuel convoca a reunión para destrabar presupuesto 2027",
+        "summary": "Gobernador Samuel García reúne a municipios para definir asignación de recursos en próximo ejercicio fiscal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/convoca-samuel-a-reunion-para-destrabar-presupuesto-del-2027/1036329",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "San Pedro audita obras de Miguel Treviño",
+        "summary": "Municipio contrata despacho legal para revisar y auditar obra pública de administración anterior.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/san-pedro-auditara-obra-publica-administracion-miguel-trevino",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Ariadna prepara gira en Nuevo León por candidatura",
+        "summary": "Ariadna Montiel organiza recorrido estatal para buscar unidad en Morena e insiste en Clara Luz como candidata.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/en-medio-de-tensiones-en-morena-nl-ariadna-prepara-gira-por-el-estado-4896/",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Nazario Marroquín busca coordinación de Morena en Santiago",
+        "summary": "Precandidato aspira a la coordinación de Morena en municipio de Santiago para fortalecer su proyecto político.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/nazario-marroquin-busca-la-coordinacion-de-morena-en-santiago-92/",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Clara Luz defiende método de selección de Morena",
+        "summary": "Candidata de Morena respalda proceso de designación del partido ante cuestionamientos de militantes.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/defiende-clara-luz-metodo-de-seleccion-de-morena/1036343",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Samuel García rendirá informe el 21 de noviembre",
+        "summary": "Gobernador presentará segundo informe de gobierno próxima semana ante Congreso del estado.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/rendira-gobernador-su-informe-el-proximo-21-de-noviembre/1036338",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
       {
         "title": "Samuel García presenta Quinto Informe de Gobierno en noviembre",
         "summary": "Gobernador de Nuevo León rendirá cuentas de su administración en acto oficial programado.",
@@ -80,6 +184,22 @@
     ],
     "economia": [
       {
+        "title": "Nuevo León lidera inversión extranjera y empleo manufacturero",
+        "summary": "Estado mantiene primer lugar nacional en inversión extranjera y empleo generado en sector manufacturero.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/nuevo-leon-lidera-la-inversion-extranjera-y-el-empleo-manufacturero-en-mexico-/v-vl2268599",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Más de 180 mil personas se mudan a Nuevo León por trabajo",
+        "summary": "Migrantes internos buscan oportunidades laborales en estado, posicionando a Nuevo León en segundo lugar nacional.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/nuevo-leon-segundo-lugar-en-movilidad-residencial-por-motivo-laboral",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
         "title": "Nuevo León encabeza proyecciones de inversión en México",
         "summary": "Estado se posiciona como líder nacional en atracción de capitales e inversión privada.",
         "zona": "Nuevo León",
@@ -98,6 +218,30 @@
     ],
     "eventos": [
       {
+        "title": "José Luis Trueba presenta nueva perspectiva sobre Carlota en FIL",
+        "summary": "Autor presenta libro que reimagina la historia de la emperatriz Carlota en Feria Internacional del Libro Monterrey.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/cultura/jose-luis-trueba-reimagina-historia-emperatriz-carlota",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Desfile de Calaveras 2026 en Monterrey con nueva ruta",
+        "summary": "Anuncian fecha, recorrido y horario de tradicional Desfile de Calaveras que se realizará en la ciudad.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/desfile-de-calaveras-2026-en-monterrey-fecha-recorrido-y-horario",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Estiman 60 mil visitantes a panteones regiomontanos",
+        "summary": "Autoridades esperan flujo importante de visitantes en cementerios de Monterrey durante festividades de Día de Muertos.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/estiman-60-mil-visitantes-a-panteones-regiomontanos/1036344",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
         "title": "Samuel García entrega cancha deportiva 651 en escuelas",
         "summary": "Gobernador inaugura infraestructura deportiva como parte de programa de equipamiento educativo.",
         "zona": "Nuevo León",
@@ -107,6 +251,46 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Terminan instalación de viaducto del Metro; liberarán carriles",
+        "summary": "Proyecto de infraestructura del Metro de Monterrey concluye instalación de estructura elevada y comienza liberación de vías.",
+        "zona": "Monterrey",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/terminan-instalacion-de-viaducto-del-metro-liberaran-carriles/9483351070",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Habilitan micrositio para identificar fallecidos en SEMEFO",
+        "summary": "Dependencia pone en línea plataforma que permite a familiares consultar información de cuerpos en su resguardo.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/habilitan-micrositio-para-identificar-a-fallecidos-en-semefo/1036336",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Nivel actual de presas en Nuevo León",
+        "summary": "Reporte actualizado sobre capacidad de abastecimiento de agua en principales embalses del estado.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/nivel-de-presas-en-nuevo-leon-hoy-20-de-octubre-2026",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Alerta a padres por intoxicación con fármacos para la tos",
+        "summary": "Autoridades de salud emiten recomendación a familias sobre riesgos del consumo de medicamentos sin supervisión.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/alerta-a-padres-de-familia-intoxicacion-con-farmacos-para-la-tos/v1864999273",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
+      {
+        "title": "Samuel García entrega cancha deportiva 651 en escuelas",
+        "summary": "Gobernador continúa programa de instalación de infraestructura deportiva en planteles educativos del estado.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/samuel-garcia-entrega-cancha-deportiva-numero-651-en-escuelas-de-nl-3405/",
+        "_added_at": "2026-10-20T12:52:27.833936-06:00"
+      },
       {
         "title": "Menor se intoxica en secundaria y termina intubada",
         "summary": "Estudiante ingiere bebida tóxica en escuela y requiere atención hospitalaria de emergencia.",
@@ -133,5 +317,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-20T00:22:46.279732-06:00"
+  "last_updated": "2026-10-20T12:52:27.833936-06:00"
 }
