@@ -1,8 +1,56 @@
 {
   "date": "2026-10-21",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Huachitúnel descubierto a 20 metros de ductos de Pemex en Apodaca",
+        "summary": "Autoridades localizaron un túnel ilegal muy cerca de infraestructura crítica de Pemex en Apodaca, Nuevo León.",
+        "zona": "Área metropolitana",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/hallan-huachitunel-cerca-ductos-pemex-en-apodaca-nuevo-leon/",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Sheinbaum señala a NL como mayor zona de huachicol fiscal en México",
+        "summary": "La presidenta identifica a Nuevo León como la entidad con mayor presencia de huachicol fiscal a nivel nacional.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/nuevo-leon-zona-mayor-huachicol-fiscal-mexico-afirma-sheinbaum",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Aseguran 220 kilos de marihuana en colonia Independencia",
+        "summary": "Fiscalía de NL realiza cateo y decomisa importante cantidad de droga en Monterrey.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/aseguran-marihuana-colonia-independencia",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Detienen a sujeto con credencial falsa de diputado federal",
+        "summary": "Capturan en Santiago a individuo que portaba documentos fraudulentos y realizaba amenazas.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/nuevo-leon-detienen-a-supuesto-diputado-federal-presento-charolas-y-emitio-amenazas/",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Localizan camioneta usada en asesinato de exoficiales policiales",
+        "summary": "Autoridades hallan vehículo vinculado a homicidio de dos exagentes en zona metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/monterrey-hallan-camioneta-usada-en-asesinato-de-2-expolicias",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Buscan a joven desaparecido en San Nicolás tras salir de vehículo",
+        "summary": "Ciudadanía alerta sobre desaparición de persona en municipio del área metropolitana.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/roberto-alejandro-rodriguez-desaparece-en-san-nicolas-nl",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
       {
         "title": "Nuevo León suma mil 4 denuncias por extorsión en nueve meses",
         "summary": "El estado posiciona como tercero a nivel nacional en delitos de extorsión, registrando más de mil denuncias en el período.",
@@ -53,6 +101,46 @@
       }
     ],
     "politica": [
+      {
+        "title": "Adrián de la Garza anuncia obras por 16.6 millones en sur de Monterrey",
+        "summary": "Gobernador impulsa inversión en infraestructura y parques en zona sur de la capital.",
+        "zona": "Monterrey",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/adrian-de-la-garza-impulsa-obras-por-mas-de-16-6-millones-al-sur-de-monterrey-72/",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Adrián responde a críticas de García e invita a recorrer colonias",
+        "summary": "Gobernador reacciona a señalamientos del exgobernador y propone verificación de obras en terreno.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/adrian-de-la-garza-responde-samuel-garcia-criticas-obras-monterrey",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Verde y PT negocian alianza pero dudan de candidatura de Waldo",
+        "summary": "Partidos Ecologista y del Trabajo buscan acuerdo para 2027 con incertidumbre sobre selección de candidatos.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-verde-y-el-pt-negocian-una-alianza-en-nl-pero-hay-dudas-por-la-candidatura-de-waldo-1356/",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Morena preocupada por falta de candidatos competitivos en NL",
+        "summary": "Dirigencia estatal de Morena expresa inquietud sobre distanciamiento con Clara Luz Flores.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/en-morena-nl-preocupa-la-falta-de-candidatos-competitivos-por-el-distanciamiento-con-clara-1356/",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Simeprode busca acuerdo para liquidar adeudo de 49 millones a Monterrey",
+        "summary": "Empresa inmobiliaria gestiona negociación para saldar deuda con municipio.",
+        "zona": "Monterrey",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/simeprode-busca-acuerdo",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
       {
         "title": "Dirigencia nacional mantiene designación de Clara Luz",
         "summary": "Morena a nivel nacional confirma su apoyo a la designación de Clara Luz Flores como coordinadora en Nuevo León.",
@@ -136,6 +224,38 @@
     ],
     "economia": [
       {
+        "title": "CFE identifica 10 colonias con dificultades para regular servicio",
+        "summary": "Comisión Federal de Electricidad reporta zonas de alto riesgo con problemas en distribución.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/cfe-reporta-alto-riesgo-en-colonias-de-monterrey",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Suprema Corte niega amparo a Préstamo Feliz",
+        "summary": "SCJN rechaza demanda de empresa financiera, deja pendiente fondo del litigio.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/scjn-rechaza-amparo-prestamo-feliz-pendiente-cuentas-bienes",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Transporte público gratuito para mujeres se extiende en Nuevo León",
+        "summary": "Autoridades amplían programa de subsidio de pasajes con nuevos requisitos de elegibilidad.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/nuevo-leon-extiende-el-transporte-publico-gratis-para-mujeres-estos-son-los-requisitos/",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Feria de universidades estadounidenses en Monterrey ofrece becas para posgrados",
+        "summary": "Se realizará evento con 19 instituciones de educación superior de Estados Unidos.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/monterrey-feria-de-universidades-de-estados-unidos-ofrecera-becas",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
         "title": "Mercado industrial de Monterrey muestra recuperación",
         "summary": "Sector industrial regio exhibe signos de recuperación con crecimiento en nuevos desarrollos inmobiliarios.",
         "zona": "Monterrey",
@@ -178,6 +298,30 @@
     ],
     "eventos": [
       {
+        "title": "Monterrey alista operativo para peregrinaciones",
+        "summary": "Autoridades preparan medidas de seguridad y vialidad para celebraciones religiosas.",
+        "zona": "Monterrey",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/monterrey-alista-operativo-para-peregrinaciones/",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Luztopía comienza a tomar forma en Paseo Santa Lucía",
+        "summary": "Se instalan figuras navideñas en popular atracción turística de Monterrey.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/luztopia-comienza-a-tomar-forma-en-paseo-santa-lucia-instalan-figuras-para-la-navidad-/v-vl2269517",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Eventos imprescindibles en Monterrey próximamente",
+        "summary": "Se anuncia programación cultural y artística durante Festival Santa Lucía.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/cultura/cuando-inicia-festival-santa-lucia-2026-monterrey-eventos-gratis",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
         "title": "Festival Santa Lucía abre con homenaje a Juan Gabriel",
         "summary": "Arranca festival internacional con evento dedicado al Divo de Juárez, ofreciendo múltiples actividades gratuitas.",
         "zona": "Monterrey",
@@ -211,6 +355,62 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Confirman nombres de nuevas estaciones de Líneas 4 y 6 del Metro",
+        "summary": "Se publica mapa actualizado de red del transporte masivo con designaciones oficiales.",
+        "zona": "Monterrey",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/nuevas-estaciones-de-lineas-4-y-6-del-metro-monterrey-asi-quedo-mapa-red/",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Investigan muerte de niña de 5 años en hospital",
+        "summary": "Fiscalía abre indagatoria por fallecimiento de menor en institución sanitaria.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/investigan-muerte-de-nina-de-5-anos-en-un-hospital/1036564",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Alumna se intoxica tras ingerir té con cristal en secundaria de Santa Catarina",
+        "summary": "Fiscalía investiga caso de estudiante que resultó intoxicada en escuela local.",
+        "zona": "Área metropolitana",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/investigan-caso-alumna-intoxicada-cristal-secundaria-santa-catarina",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Nuevo León reporta 99.6% de cobertura en agua potable",
+        "summary": "Estado da a conocer indicadores sobre acceso a servicio de abastecimiento.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/reporta-nl-un-996-por-ciento-de-cobertura-en-agua-potable/1036352",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "UANL impulsa detección temprana de enfermedades pulmonares intersticiales",
+        "summary": "Universidad realiza campaña de sensibilización sobre diagnóstico de patologías respiratorias.",
+        "zona": "Monterrey",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/uanl-impulsa-deteccion-temprana-de-enfermedades-pulmonares-intersticiales/",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Escobedo entrega rehabilitación de 1,157 metros de pavimento",
+        "summary": "Municipio completa obras de infraestructura vial en localidad.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/entrega-escobedo-rehabilitacion-de-mil-157-metros-de-pavimento/1036763",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
+      {
+        "title": "Agua y Drenaje prevé aprovechar agua de presa León",
+        "summary": "Empresa de servicios planea iniciar explotación de nueva fuente de abastecimiento.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/preve-agua-y-drenaje-comenzar-a-aprovechar-agua-de-presa-leon/1036350",
+        "_added_at": "2026-10-21T17:52:42.322196-06:00"
+      },
       {
         "title": "Claudia Sheinbaum promete modernizar salud pública",
         "summary": "Presidenta anuncia planes de digitalización y modernización de servicios sanitarios del país.",
@@ -277,5 +477,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-21T13:04:56.243375-06:00"
+  "last_updated": "2026-10-21T17:52:42.322196-06:00"
 }
