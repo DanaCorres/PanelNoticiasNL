@@ -1,8 +1,32 @@
 {
   "date": "2026-10-21",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Nuevo León suma mil 4 denuncias por extorsión en nueve meses",
+        "summary": "El estado posiciona como tercero a nivel nacional en delitos de extorsión, registrando más de mil denuncias en el período.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/nuevo-leon-suma-mil-4-denuncias-extorsion-nueve-meses",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Congreso aprueba investigar extorsión en ámbito federal",
+        "summary": "Diputados locales aprueban reforma para investigar y sancionar extorsión a nivel federal en la entidad.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/aprueban-investigar-y-castigar-extorsion-en-el-ambito-federal/1036739",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Operativo de FGR en colonia Bosques del Nogalar",
+        "summary": "Fiscalía General de la República despliega elementos de seguridad en sector de San Nicolás como parte de operativo.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/realiza-fgr-operativo-en-la-colonia-bosques-del-nogalar/5779593154",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
       {
         "title": "Congreso NL deroga extorsión, traslada a fuero federal",
         "summary": "El delito de extorsión se transfiere del Código Penal estatal a competencia federal en Nuevo León.",
@@ -30,6 +54,62 @@
     ],
     "politica": [
       {
+        "title": "Dirigencia nacional mantiene designación de Clara Luz",
+        "summary": "Morena a nivel nacional confirma su apoyo a la designación de Clara Luz Flores como coordinadora en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/mantendra-dirigencia-nacional-de-morena-designacion-de-clara-luz/1036754",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Tatiana Clouthier critica a Clara Luz dentro de Morena",
+        "summary": "Clouthier utiliza escritos de AMLO para cuestionar las decisiones de Clara Luz Flores en la coordinación estatal de Morena.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/tatiana-clouthier-usa-libro-amlo-para-criticar-a-clara-luz-flores-y-morena-en-nuevo/",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Adrián de la Garza habla de posible alianza PRI-PAN",
+        "summary": "Gobernador analiza opciones de alianzas político-electorales entre partidos para elecciones 2027.",
+        "zona": "Nuevo León",
+        "source": "TV Azteca",
+        "url": "https://www.tvazteca.com/aztecanoticias/adrian-la-garza-habla-una-posible-alianza-pri-pan-por-nuevo-leon-en-2027/",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Movimiento Ciudadano denuncia actos anticipados de campaña",
+        "summary": "MC presenta denuncia contra Adrián por supuestos actos de campaña anticipada rumbo a 2027.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/denunciara-mc-a-adrian-por-actos-anticipados-de-campana/1036744",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Fernando Margáin considera candidatura del PAN",
+        "summary": "Expone interés en competir por candidatura del PAN para alcaldía de Monterrey en elecciones 2027.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/politica/fernando-margain-buena-opcion-representar-pan-elecciones-nuevo-leon",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Congreso sesionará jueves para reducir rezago legislativo",
+        "summary": "Diputados acuerdan ampliar sesiones a día jueves para despachar iniciativas y decretos pendientes.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/sesionaran-los-jueves-para-sacar-rezago-legislativo/1036741",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Congreso reforma Ley de Justicia Cívica",
+        "summary": "Legisladores aprueban modificaciones a la ley de justicia cívica local tras análisis en comisiones.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/aprueba-congreso-reforma-a-la-ley-de-justicia-civica/1036349",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
         "title": "Morena NL preocupada por falta de candidatos competitivos",
         "summary": "Dirigencia de Morena en Nuevo León expresan inquietud sobre candidatos débiles por distancia con Clara Luz.",
         "zona": "Nuevo León",
@@ -56,6 +136,38 @@
     ],
     "economia": [
       {
+        "title": "Mercado industrial de Monterrey muestra recuperación",
+        "summary": "Sector industrial regio exhibe signos de recuperación con crecimiento en nuevos desarrollos inmobiliarios.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/monterrey-mercado-industrial-se-recupera-y-crecen-desarrollos",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Naves industriales esperan cierre favorable en 2026",
+        "summary": "Proyecciones positivas para el mercado de naves industriales en la región para cierre de año.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/esperan-cierre-favorable-naves-industriales-monterrey-2026",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "United Airlines consolida a Monterrey como hub importante",
+        "summary": "Aerolínea internacional refuerza operaciones en Monterrey como punto clave para negocios y turismo.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/united-airlines-monterrey-hub-aereo-importante-negocios-turismo",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Nuevo León reporta 99.6% de cobertura en agua potable",
+        "summary": "Autoridades de servicios básicos informan de alcance casi total en dotación de agua potable estatal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/reporta-nl-un-996-por-ciento-de-cobertura-en-agua-potable/1036352",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
         "title": "Nuevas estaciones del Metro Monterrey en Líneas 4 y 6",
         "summary": "Confirmados los nombres de las nuevas estaciones en las Líneas 4 y 6 de la red metropolitana.",
         "zona": "Monterrey",
@@ -66,6 +178,30 @@
     ],
     "eventos": [
       {
+        "title": "Festival Santa Lucía abre con homenaje a Juan Gabriel",
+        "summary": "Arranca festival internacional con evento dedicado al Divo de Juárez, ofreciendo múltiples actividades gratuitas.",
+        "zona": "Monterrey",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/el-divo-de-juarez-vive-con-un-magno-homenaje-a-juan-gabriel-arranca-este-jueves-el-festival-internacional-santa-lucia/vl2269334",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Ballet Monterrey presenta La Bella Durmiente en festival",
+        "summary": "Compañía de danza ofrece función gratuita de clásico durante Festival Santa Lucía.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/cultura/ballet-monterrey-bella-durmiente-festival-santa-lucia-fecha-donde-ver",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Películas de Spielberg en exhibición gratuita",
+        "summary": "Festival Santa Lucía programa películas de Steven Spielberg con acceso sin costo para público.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/cultura/peliculas-steven-spielberg-festival-santa-lucia-gratis-fecha-funciones",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
         "title": "Monterrey promueve prevención del cáncer de mama",
         "summary": "La ciudad impulsa campañas de detección oportuna del cáncer de mama con actividades informativas.",
         "zona": "Monterrey",
@@ -75,6 +211,54 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Claudia Sheinbaum promete modernizar salud pública",
+        "summary": "Presidenta anuncia planes de digitalización y modernización de servicios sanitarios del país.",
+        "zona": "Nuevo León",
+        "source": "Informe Regio",
+        "url": "https://informeregio.com/claudia-sheinbaum-promete-digitalizar-y-modernizar-la-salud-publica/",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "IMSS propone aumento salarial del 8% para trabajadores",
+        "summary": "Instituto presenta a empleados aumento de 4% al salario y 4% adicional para renta de vivienda.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/mexico/zoe-robledo-anuncia-aumento-salarial-del-8-para-trabajadores-del-imss/vl2269290",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "CFE identifica colonias con riesgo de fallas eléctricas",
+        "summary": "Comisión Federal detecta más de diez sectores de Monterrey con problemas para regular servicio de electricidad.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/cfe-colonias-riesgo-monterrey-fallas-electricidad-listado-completo",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Líneas 4 y 6 del Metro concluyen construcción de viaducto",
+        "summary": "Se completa construcción de estructura elevada de nuevas líneas de transporte masivo en Monterrey.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/concluye-construccion-del-viaducto-elevado-de-l4-y-l6/1036752",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Seguridad pública anuncia aumento salarial para policías",
+        "summary": "Secretaría de Seguridad informa incremento de remuneraciones para personal de corporación estatal.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/anuncia-sn-aumento-salarial-para-sus-policias/1036762",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
+      {
+        "title": "Monterrey alista operativo para peregrinaciones",
+        "summary": "Autoridades preparan dispositivo de seguridad y tránsito para eventos de peregrinación religiosa.",
+        "zona": "Monterrey",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/monterrey-alista-operativo-para-peregrinaciones/",
+        "_added_at": "2026-10-21T13:04:56.243375-06:00"
+      },
       {
         "title": "Extienden transporte público gratuito a mujeres en NL",
         "summary": "Nuevo León amplía programa de transporte gratis para mujeres que cumplan con ciertos requisitos.",
@@ -93,5 +277,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-21T00:23:00.701844-06:00"
+  "last_updated": "2026-10-21T13:04:56.243375-06:00"
 }
