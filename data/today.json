@@ -1,8 +1,64 @@
 {
   "date": "2026-10-23",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Influencer detenida con armas y drogas en Monterrey",
+        "summary": "Capturan a \"La Barbie de la Alianza\" con armas y sustancias ilícitas; presuntamente vinculada a grupo delictivo.",
+        "zona": "Monterrey",
+        "source": "TV Azteca (Nuevo León)",
+        "url": "https://www.tvazteca.com/aztecanoticias/influencer-la-barbie-la-alianza-fue-detenida-en-monterrey-armas-drogas-y-vinculos-grupo-delictivo/",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "FGR obtiene tres sentencias por narcóticos y armas",
+        "summary": "Tribunal condena a tres personas en procedimientos federales por posesión de drogas y armamento en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/sentencias-condenatorias-fgr-nuevo-leon",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Baja percepción de inseguridad en mayoría de municipios NL",
+        "summary": "Encuesta muestra disminución en sentimiento de inseguridad en la mayoría de municipios de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/percepcion-inseguridad-nuevo-leon-municipios-donde-bajo-y-subio-2026",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Fuerza Civil instala paraderos seguros en carreteras",
+        "summary": "Corporación establece cinco estaciones de seguridad en cuatro carreteras del estado para proteger a viajeros.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/instala-fuerza-civil-paraderos-seguros-carreteras-nl-donde-ubican",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Asalto a familia en Santa Catarina; roban joyas",
+        "summary": "Delincuente ingresa a domicilio en Residencial El Castillo y sustrae piezas de oro por más de cien mil pesos.",
+        "zona": "Área metropolitana",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/asaltan-a-familia-en-santa-catarina-se-llevan-100-mil-en-joyas/1539057119",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Nuevo León lidera percepción de seguridad en país",
+        "summary": "Estado destaca a nivel nacional en confianza ciudadana respecto a seguridad pública y orden.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/nuevo-leon-lidera-percepcion-de-seguridad-en-mexico/1351501368",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Operativo en Monterrey por festejos de San Judas Tadeo",
+        "summary": "Autoridades anuncian estrategia de seguridad reforzada durante celebraciones religiosas en la capital estatal.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/anuncia-monterrey-operativo-por-festejos-de-san-judas-tadeo/1037444",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
       {
         "title": "Engañan a trabajadores y extorsionan familias en Cadereyta",
         "summary": "Reportan estafa y extorsión contra empleados y sus familias en Cadereyta, Nuevo León.",
@@ -54,6 +110,46 @@
     ],
     "politica": [
       {
+        "title": "Fernando Margáin confirma candidatura a alcaldía de Monterrey",
+        "summary": "Político del PAN anuncia intención de competir por presidencia municipal; adelanta encuesta ciudadana para seleccionar candidato.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/confirma-fernando-margain-que-ira-por-la-alcaldia-regia/1037446",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Diputados analizarán solicitud de deuda estatal",
+        "summary": "Legisladores adviertes que revisarán a fondo petición de aumento de endeudamiento del gobierno de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/advierten-diputados-que-analizaran-a-fondo-solicitud-de-deuda-estata/1037450",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Estado compartirá proyecto presupuestal con sectores",
+        "summary": "Gobierno de Nuevo León presenta esquema de consulta con empresarios y organizaciones antes de definir presupuesto.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/compartira-nl-proyecto-presupuestal-con-sectores-productivos/1037448",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Mijes rechazará presupuesto si Estado no cubre deudas",
+        "summary": "Magisterio condiciona aprobación de asignaciones fiscales al pago de adeudos pendientes con maestros.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/rechazara-mijes-presupuesto-hasta-que-estado-les-cubra-lo-pendiente/1037449",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Heriberto Treviño propone capacitación obligatoria en TI",
+        "summary": "Funcionario sugiere que policías reciban instrucción en herramientas digitales y programación a partir de 2026.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/heriberto-trevino-capacitacion",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
         "title": "Congreso espera entrega del Presupuesto 2027 de Nuevo León",
         "summary": "Legislativo de NL aguarda presentación del presupuesto estatal para el próximo año.",
         "zona": "Nuevo León",
@@ -78,8 +174,49 @@
         "_added_at": "2026-10-23T00:21:26.381945-06:00"
       }
     ],
-    "economia": [],
+    "economia": [
+      {
+        "title": "Demoras logísticas cuestan 44.4 millones diarios",
+        "summary": "Análisis revela impacto económico de retrasos en cadena de suministro y transporte en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/demoras-logisticas-cuestan-44-4-millones-diarios/",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Industria manufacturera muestra recuperación pero enfrenta retos",
+        "summary": "Sector presenta signos de crecimiento aunque inseguridad sigue frenando inversión y expansión en el estado.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/inseguridad-sigue-entre-los-factores-que-frenan-a-la-industria-de-nl",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "IP y Coparmex impulsan red contra corrupción",
+        "summary": "Iniciativa Privada y cámara empresarial presentan plataforma colaborativa para combatir prácticas ilícitas.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/hagamoslo-coparmex-nl-presentan-red-corrupcion",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      }
+    ],
     "eventos": [
+      {
+        "title": "Montan gigantesco altar dedicado a Rufino Tamayo",
+        "summary": "Instalan ofrenda monumental en honor al artista plástico como parte de conmemoración de Día de Muertos.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/montan-gigantesco-altar-dedicado-a-rufino-tamayo/8046192269",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Construcción de Cruz de la Misericordia avanza en Loma Larga",
+        "summary": "Proyecto de monumentalidad religiosa en Monterrey continúa su ejecución en zona de altura.",
+        "zona": "Monterrey",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/monterrey-nl-construccion-de-cruz-de-la-misericordia-loma-larga",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
       {
         "title": "Festival Santa Lucía arranca con homenaje a Juan Gabriel",
         "summary": "Monterrey inaugura Festival Santa Lucía en Macroplaza con tributo al Divo de Juárez.",
@@ -99,6 +236,38 @@
     ],
     "sociedad": [
       {
+        "title": "Detienen a padre de bebé que murió en García",
+        "summary": "Capturan a progenitor por muerte de infante en municipio del área metropolitana; investigan las circunstancias.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/garcia-nuevo-leon-detienen-padre-bebe-murio",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Cae padrastro de niño que murió por golpes",
+        "summary": "Autoridades capturan a pareja de madre tras muerte de menor por lesiones traumáticas en Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/cae-padrastro-de-nino-que-murio-por-golpes/1037498",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Escobedo habilita Visor Urbano y Geoportal",
+        "summary": "Municipio implementa herramientas digitales de georeferenciación para acceso público a información territorial.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/habilita-escobedo-el-visor-urbano-y-geoportal/1037443",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
+        "title": "Reanudan búsqueda de hombre arrastrado por corriente",
+        "summary": "Operativo continúa una semana después de desaparición de persona en corriente de agua en Monterrey.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/busqueda-hombre-arrastrado-corriente-monterrey-una-semana",
+        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+      },
+      {
         "title": "Trabajadores del IMSS bloquean avenida Miguel Alemán en Apodaca",
         "summary": "Personal del IMSS realiza bloqueo vial en Apodaca como protesta.",
         "zona": "Área metropolitana",
@@ -108,5 +277,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-23T00:21:26.381945-06:00"
+  "last_updated": "2026-10-23T12:50:29.020619-06:00"
 }
