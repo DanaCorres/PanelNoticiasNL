@@ -1,8 +1,40 @@
 {
   "date": "2026-10-23",
-  "run_count": 2,
+  "run_count": 3,
   "notes": {
     "seguridad": [
+      {
+        "title": "Fuerza Civil instala paraderos seguros en carreteras de NL",
+        "summary": "Autoridades implementan cinco puntos de seguridad en vías estatales para proteger a conductores y pasajeros en rutas de alto riesgo.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/fuerza-civil-instala-paraderos-seguros-carreteras",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
+        "title": "Detienen a 172 personas en operativos de seguridad en NL",
+        "summary": "Autoridades realizan redadas coordinadas en el estado capturando a más de cien individuos en acciones de control territorial.",
+        "zona": "Nuevo León",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/detienen-a-172-personas-en-operativos-de-seguridad-en-nuevo-leon/7747110423",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
+        "title": "Intentan secuestrar a joven en Escobedo",
+        "summary": "Delincuentes abordan a persona cuando se dirigía al trabajo; logra escapar en colonia Nueva Esperanza.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/escobedo-intentan-secuestrar-a-joven-en-colonia-nueva-esperanza",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
+        "title": "Aseguran más de 600 prendas falsificadas en NL",
+        "summary": "Operativos locales decomisan ropa y accesorios con marcas falsas en el estado.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/policia/decomisan-606-prendas-falsificadas-operativos-locales-nuevo-leon",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
       {
         "title": "Influencer detenida con armas y drogas en Monterrey",
         "summary": "Capturan a \"La Barbie de la Alianza\" con armas y sustancias ilícitas; presuntamente vinculada a grupo delictivo.",
@@ -90,25 +122,41 @@
         "source": "Milenio Monterrey",
         "url": "https://www.milenio.com/policia/caen-dos-asalto-casa-prestamos-colonia-la-playa-guadalupe-nl",
         "_added_at": "2026-10-23T00:21:26.381945-06:00"
-      },
-      {
-        "title": "Detienen a dos con motocicleta robada en Santiago",
-        "summary": "Capturan a dos hombres trasladando una moto robada en Santiago.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/santiago-detienen-a-dos-hombres-al-ser-vistos-con-una-moto-robada",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
-      },
-      {
-        "title": "Operativo de seguridad por festividades a San Judas Tadeo",
-        "summary": "Monterrey despliega operativo de vigilancia para festejos a San Judas Tadeo.",
-        "zona": "Monterrey",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/monterrey-implementara-operativo-por-festejos-a-san-judas-tadeo/2059480316",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
       }
     ],
     "politica": [
+      {
+        "title": "Samuel García veta reforma sobre gratuidad de casetas",
+        "summary": "Gobernador rechaza iniciativa que permitiría gratis en cuotas durante obras en vías del estado.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/politica/nuevo-leon-samuel-garcia-veta-reforma-para-casetas-gratis",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
+        "title": "Congreso NL: PRI-PAN investigado por viaje a España",
+        "summary": "Bloques legislativos denuncian uso de recursos institucionales para desplazamiento de diputados a Europa.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/nuevo-frente-en-congreso-nl-el-pri-pan-es-senalado-por-viajar-a-espana-con-recurso-institucional-255/",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
+        "title": "Verde y PT avanzan en reuniones; dudas sobre acuerdos en NL",
+        "summary": "Partidos políticos negocian alianzas electorales pero existen incertidumbres sobre coordinación estatal.",
+        "zona": "Nuevo León",
+        "source": "La Política Online",
+        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-verde-y-el-pt-avanzan-con-reuniones-pero-todavia-hay-dudas-por-eventuales-acuerdos-en-nl-975/",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
+        "title": "PAN fortalece estructura territorial ante proceso electoral",
+        "summary": "Partido blanquiazul organiza su infraestructura local en preparación para elecciones próximas.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/reynosa/pan-estructura-territorial",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
       {
         "title": "Fernando Margáin confirma candidatura a alcaldía de Monterrey",
         "summary": "Político del PAN anuncia intención de competir por presidencia municipal; adelanta encuesta ciudadana para seleccionar candidato.",
@@ -176,6 +224,22 @@
     ],
     "economia": [
       {
+        "title": "Fibra Mty amplía plazo para certificados de Macquarie",
+        "summary": "Fondo de inversión en propiedades retrasa obtención de documentación de inversión extranjera.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/fibra-mty-amplia-tiempo-segunda-oferta-obtener-certificados-macquarie",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
+        "title": "NL compartirá proyecto presupuestal con sectores productivos",
+        "summary": "Gobierno estatal abre diálogo con empresas e industria para diseño colaborativo del presupuesto.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/compartira-nl-proyecto-presupuestal-con-sectores-productivos/1037448",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
         "title": "Demoras logísticas cuestan 44.4 millones diarios",
         "summary": "Análisis revela impacto económico de retrasos en cadena de suministro y transporte en Nuevo León.",
         "zona": "Nuevo León",
@@ -201,6 +265,22 @@
       }
     ],
     "eventos": [
+      {
+        "title": "Monterrey anuncia operativo por festejos de San Judas Tadeo",
+        "summary": "Autoridades preparan disposiciones de seguridad y vialidad para celebraciones religiosas en la capital.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/anuncia-monterrey-operativo-por-festejos-de-san-judas-tadeo/1037444",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
+        "title": "Guadalupe reafirma lazos culturales con Bustamante",
+        "summary": "Municipios intercambian experiencias y celebran conexión histórica y turística.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/guadalupe-bustamante",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
       {
         "title": "Montan gigantesco altar dedicado a Rufino Tamayo",
         "summary": "Instalan ofrenda monumental en honor al artista plástico como parte de conmemoración de Día de Muertos.",
@@ -235,6 +315,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "Localizan con vida a menor desaparecido en CDMX",
+        "summary": "Adolescente de 13 años reportado desaparecido en Monterrey fue hallado en la Ciudad de México.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/estados/menor-13-anos-localizado-con-vida-cdmx-tras-desaparecer-nuevo-leon",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
+        "title": "Piden capacitar a policías en tareas de Protección Civil",
+        "summary": "Legisladores proponen reformas para adiestrar elementos en atención de desastres naturales.",
+        "zona": "Nuevo León",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/buscan-capacitar-a-policias-en-tareas-de-proteccion-civil/6839126499",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
+        "title": "Empresa privada operará Centro Acuático de NL",
+        "summary": "Directora del INDE confirma modelo de concesión para administración de instalación deportiva.",
+        "zona": "Nuevo León",
+        "source": "Hora Cero",
+        "url": "https://horacero.com.mx/nuevo-leon/inde-empresa-centro-acuatico",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
+      {
+        "title": "Sancionarán a dueños de lotes baldíos en NL",
+        "summary": "Autoridades estatales impondrán multas a propietarios que mantengan terrenos abandonados.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/sancionaran-a-duenos-de-lotes-baldios/1037447",
+        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+      },
       {
         "title": "Detienen a padre de bebé que murió en García",
         "summary": "Capturan a progenitor por muerte de infante en municipio del área metropolitana; investigan las circunstancias.",
@@ -277,5 +389,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-23T12:50:29.020619-06:00"
+  "last_updated": "2026-10-23T17:43:42.668497-06:00"
 }
