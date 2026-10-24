@@ -1,8 +1,64 @@
 {
   "date": "2026-10-24",
-  "run_count": 1,
+  "run_count": 2,
   "notes": {
     "seguridad": [
+      {
+        "title": "Transportistas se irán a paro por robos y extorsiones en carreteras",
+        "summary": "Canacar convoca a transportistas de Nuevo León a paro nacional el lunes para protestar contra inseguridad y extorsiones en carreteras del estado.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/paro-transportistas-canacar-nuevo-leon-lunes-inseguridad-2026",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Detienen a segundo al mando de Proyectos 9 por fraude en San Pedro",
+        "summary": "Autoridades capturan a Manuel 'N', socio de Proyectos 9, investigado por presunto fraude inmobiliario en San Pedro Garza García.",
+        "zona": "Área metropolitana",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/policia/proyectos-9-detienen-a-segundo-al-mando-por-presunto-fraude",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Policía de Guadalupe entre las mejores del país según INEGI",
+        "summary": "Encuesta del INEGI ubica a la policía de Guadalupe entre las 20 mejores corporaciones del país en confianza y desempeño.",
+        "zona": "Área metropolitana",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/policia-de-guadalupe-se-ubica-entre-las-20-mejores-del-pais-segun-encuesta-del-inegi/vl2270658",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Siete de cada diez regios aprueban a la Policía de Monterrey",
+        "summary": "Encuesta revela que 70 por ciento de la población regia aprueba el desempeño de la Policía de Monterrey en seguridad.",
+        "zona": "Monterrey",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/siete-de-cada-10-regios-aprueban-a-la-policia-de-monterrey/1911274779",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Fuerza Civil mantiene altas calificaciones de confianza ciudadana",
+        "summary": "Corporación estatal consolida su posicionamiento favorable entre la población de Nuevo León en encuestas de confianza.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/mantiene-fuerza-civil-altas-calificaciones-en-confianza/1037725",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Desciende la percepción de inseguridad en Monterrey",
+        "summary": "Indicadores muestran disminución en la percepción de inseguridad entre la población de la capital regia.",
+        "zona": "Monterrey",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/desciende-percepcion-de-inseguridad-en-monterrey/1037726",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Caen seis personas tras cateos por robo de vehículos",
+        "summary": "Operativos de autoridades resultan en detención de seis individuos investigados por robo de automóviles en el estado.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/justicia/caen-seis-personas-tras-cateos-por-robo-de-vehiculos/1037749",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
       {
         "title": "Capturan a Manuel 'N' por fraude en Proyecto 9",
         "summary": "La Fiscalía General de Justicia de Nuevo León ejecutó orden de aprehensión en San Pedro contra Manuel Enrique 'N', relacionado con denuncias de estafas en Proyecto 9.",
@@ -36,8 +92,73 @@
         "_added_at": "2026-10-24T00:16:48.476692-06:00"
       }
     ],
-    "politica": [],
+    "politica": [
+      {
+        "title": "Diputados buscan superar veto a eliminación de cobro de peaje",
+        "summary": "Congreso local intenta revertir veto gubernamental a decreto que eliminaría cobro en autopistas por obras estatales.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/buscaran-diputados-superar-veto-de-eliminar-cobro-de-peaje/1037723",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Buscan 'candados' a nueva deuda estatal para evitar gastos",
+        "summary": "Legisladores analizan medidas para controlar y limitar endeudamiento público del estado de Nuevo León.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/pondrian-candados-a-nueva-deuda-estatal-evitarian-gastos/1037722",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Gobernador veta decreto sobre autopistas gratuitas por obras",
+        "summary": "Samuel García rechaza decreto legislativo que permitiría dar gratis autopistas durante ejecución de obras estatales.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/veta-samuel-decreto-para-dar-gratis-autopistas-por-obras-estatales/1037724",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Contraloría apunta a Nuevo León más transparente e incorruptible",
+        "summary": "Dependencia estatal refuerza acciones contra corrupción y por mayor transparencia en el gobierno de la entidad.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/va-contraloria-por-un-nuevo-leon-mas-transparente-e-incorruptible/1037727",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Inician Nuevo León y Federación homologación de trámites",
+        "summary": "Gobierno estatal y federal avanzan en proceso para estandarizar y simplificar gestión administrativa entre instancias.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/inician-nuevo-leon-y-federacion-la-homologacion-de-tramites/1037400",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      }
+    ],
     "economia": [
+      {
+        "title": "CAINTRA impulsa competitividad digital de PyMEs de Nuevo León",
+        "summary": "Cámara de Industria promueve transformación digital entre pequeñas y medianas empresas del estado.",
+        "zona": "Nuevo León",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/caintra-impulsa-la-competitividad-digital-de-las-pymes/",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Nuevo León apuesta por integrar empresas en cadenas globales con IA",
+        "summary": "Gobierno estatal busca insertar PyMEs en cadenas de suministro internacionales utilizando inteligencia artificial.",
+        "zona": "Nuevo León",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/negocios/leon-proyecta-integrar-pymes-suministro-cadenas-globales-ia",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Nuevo León impulsa inteligencia artificial para empresas locales",
+        "summary": "Estado desarrolla iniciativas para adopción de tecnología IA como herramienta de competitividad empresarial.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/economia/nuevo-leon-impulsa-inteligencia-artificial-y-empresas-locales",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
       {
         "title": "Centrito Valle enfrenta crisis con locales vacíos",
         "summary": "La zona comercial del Centrito Valle se hunde con altos niveles de desocupación y rentas al alza que afectan a comerciantes.",
@@ -57,6 +178,22 @@
     ],
     "eventos": [
       {
+        "title": "Habrá cierres viales por festejos de San Judas Tadeo",
+        "summary": "Autoridades de Monterrey anuncian restricciones de tránsito en rutas debido a celebraciones religiosas en la ciudad.",
+        "zona": "Monterrey",
+        "source": "Milenio Monterrey",
+        "url": "https://www.milenio.com/comunidad/monterrey-tendra-cierres-viales-festejos-san-judas-tadeo-fechas-rutas",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Congreso realiza primer Parlamento Verde de Nuevo León",
+        "summary": "Legislatura local organiza sesión especial enfocada en temas ambientales y sustentabilidad del estado.",
+        "zona": "Nuevo León",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/realiza-congreso-local-el-primer-parlamento-verde/1037395",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
         "title": "Cierres viales por festejos de San Judas Tadeo",
         "summary": "Monterrey tendrá cierres viales del 24 al 28 de octubre por las festividades de San Judas Tadeo.",
         "zona": "Monterrey",
@@ -74,6 +211,38 @@
       }
     ],
     "sociedad": [
+      {
+        "title": "UANL impulsa detección temprana de enfermedades pulmonares intersticiales",
+        "summary": "Universidad desarrolla programa de diagnóstico precoz para enfermedades pulmonares intersticiales en población regia.",
+        "zona": "Monterrey",
+        "source": "Código Magenta",
+        "url": "https://codigomagenta.com.mx/uanl-impulsa-deteccion-temprana-de-enfermedades-pulmonares-intersticiales/",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Nuevo León tendrá 19 estaciones de monitoreo ambiental",
+        "summary": "Secretaría de Medio Ambiente suma nuevas estaciones para vigilancia de calidad del aire en el estado.",
+        "zona": "Nuevo León",
+        "source": "Telediario Monterrey",
+        "url": "https://www.telediario.mx/comunidad/nuevo-leon-tendra-19-estaciones-de-monitoreo-ambiental",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Limpian canal en Monterrey para prevenir inundaciones",
+        "summary": "Autoridades ejecutan labores de mantenimiento en infraestructura de drenaje de la capital antes de temporada de lluvias.",
+        "zona": "Monterrey",
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/limpian-canal-en-monterrey-para-prevenir-inundaciones/9440440178",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
+      {
+        "title": "Avanza regularización de viviendas en Guadalupe",
+        "summary": "Municipio del área metropolitana continúa proceso de legalización de propiedades para residentes.",
+        "zona": "Área metropolitana",
+        "source": "El Porvenir",
+        "url": "https://elporvenir.mx/local/avanza-regularizacion-de-viviendas-en-guadalupe/1037019",
+        "_added_at": "2026-10-24T11:46:10.943475-06:00"
+      },
       {
         "title": "Guadalupe ofrece mastografías gratuitas para detectar cáncer",
         "summary": "El municipio de Guadalupe realiza jornada de mastografías sin costo para promover detección oportuna del cáncer de mama.",
@@ -100,5 +269,5 @@
       }
     ]
   },
-  "last_updated": "2026-10-24T00:16:48.476692-06:00"
+  "last_updated": "2026-10-24T11:46:10.943475-06:00"
 }
