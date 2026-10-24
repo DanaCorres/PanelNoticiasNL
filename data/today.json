@@ -1,393 +1,104 @@
 {
-  "date": "2026-10-23",
-  "run_count": 3,
+  "date": "2026-10-24",
+  "run_count": 1,
   "notes": {
     "seguridad": [
       {
-        "title": "Fuerza Civil instala paraderos seguros en carreteras de NL",
-        "summary": "Autoridades implementan cinco puntos de seguridad en vías estatales para proteger a conductores y pasajeros en rutas de alto riesgo.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/fuerza-civil-instala-paraderos-seguros-carreteras",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Detienen a 172 personas en operativos de seguridad en NL",
-        "summary": "Autoridades realizan redadas coordinadas en el estado capturando a más de cien individuos en acciones de control territorial.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/detienen-a-172-personas-en-operativos-de-seguridad-en-nuevo-leon/7747110423",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Intentan secuestrar a joven en Escobedo",
-        "summary": "Delincuentes abordan a persona cuando se dirigía al trabajo; logra escapar en colonia Nueva Esperanza.",
-        "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/escobedo-intentan-secuestrar-a-joven-en-colonia-nueva-esperanza",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Aseguran más de 600 prendas falsificadas en NL",
-        "summary": "Operativos locales decomisan ropa y accesorios con marcas falsas en el estado.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/decomisan-606-prendas-falsificadas-operativos-locales-nuevo-leon",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Influencer detenida con armas y drogas en Monterrey",
-        "summary": "Capturan a \"La Barbie de la Alianza\" con armas y sustancias ilícitas; presuntamente vinculada a grupo delictivo.",
-        "zona": "Monterrey",
-        "source": "TV Azteca (Nuevo León)",
-        "url": "https://www.tvazteca.com/aztecanoticias/influencer-la-barbie-la-alianza-fue-detenida-en-monterrey-armas-drogas-y-vinculos-grupo-delictivo/",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "FGR obtiene tres sentencias por narcóticos y armas",
-        "summary": "Tribunal condena a tres personas en procedimientos federales por posesión de drogas y armamento en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/sentencias-condenatorias-fgr-nuevo-leon",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Baja percepción de inseguridad en mayoría de municipios NL",
-        "summary": "Encuesta muestra disminución en sentimiento de inseguridad en la mayoría de municipios de Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/percepcion-inseguridad-nuevo-leon-municipios-donde-bajo-y-subio-2026",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Fuerza Civil instala paraderos seguros en carreteras",
-        "summary": "Corporación establece cinco estaciones de seguridad en cuatro carreteras del estado para proteger a viajeros.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/instala-fuerza-civil-paraderos-seguros-carreteras-nl-donde-ubican",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Asalto a familia en Santa Catarina; roban joyas",
-        "summary": "Delincuente ingresa a domicilio en Residencial El Castillo y sustrae piezas de oro por más de cien mil pesos.",
+        "title": "Capturan a Manuel 'N' por fraude en Proyecto 9",
+        "summary": "La Fiscalía General de Justicia de Nuevo León ejecutó orden de aprehensión en San Pedro contra Manuel Enrique 'N', relacionado con denuncias de estafas en Proyecto 9.",
         "zona": "Área metropolitana",
         "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/asaltan-a-familia-en-santa-catarina-se-llevan-100-mil-en-joyas/1539057119",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+        "url": "https://info7.mx/nuevoleon/detienen-a-manuel-enrique-n-por-fraude-en-proyecto-9/1717377873",
+        "_added_at": "2026-10-24T00:16:48.476692-06:00"
       },
       {
-        "title": "Nuevo León lidera percepción de seguridad en país",
-        "summary": "Estado destaca a nivel nacional en confianza ciudadana respecto a seguridad pública y orden.",
-        "zona": "Nuevo León",
-        "source": "El Horizonte",
-        "url": "https://www.elhorizonte.mx/nuevoleon/nuevo-leon-lidera-percepcion-de-seguridad-en-mexico/1351501368",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Operativo en Monterrey por festejos de San Judas Tadeo",
-        "summary": "Autoridades anuncian estrategia de seguridad reforzada durante celebraciones religiosas en la capital estatal.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/anuncia-monterrey-operativo-por-festejos-de-san-judas-tadeo/1037444",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Engañan a trabajadores y extorsionan familias en Cadereyta",
-        "summary": "Reportan estafa y extorsión contra empleados y sus familias en Cadereyta, Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/enganan-a-trabajadores-y-extorsionan-a-sus-familias-en-cadereyta/v2193790852",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
-      },
-      {
-        "title": "Vinculan a proceso a sujeto por robo millonario en Santa Catarina",
-        "summary": "Hombre es ligado a proceso por robo de gran cantidad de dinero en vivienda de Santa Catarina.",
-        "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/hombre-vinculado-proceso-presunto-robo-millonario-casa-santa-catarina",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
-      },
-      {
-        "title": "Detienen a dos por asalto a casa de préstamos en Guadalupe",
-        "summary": "Capturan a presuntos asaltantes tras robo de 150 mil pesos en negocio de Guadalupe.",
+        "title": "Detienen a dos por robos violentos y homicidio",
+        "summary": "Autoridades capturan a dos jóvenes en Guadalupe vinculados a robos con violencia y un homicidio.",
         "zona": "Área metropolitana",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/guadalupe-nl-detienen-a-asaltantes-de-casa-de-prestamos",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
+        "url": "https://www.telediario.mx/policia/guadalupe-nl-detienen-a-dos-jovenes-vinculados-a-robos-y-homicidio",
+        "_added_at": "2026-10-24T00:16:48.476692-06:00"
       },
       {
-        "title": "Caen dos por asalto a casa de préstamos en Guadalupe",
-        "summary": "Aseguran a dos individuos tras robo en casa de préstamos, colonia La Playa.",
-        "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/policia/caen-dos-asalto-casa-prestamos-colonia-la-playa-guadalupe-nl",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
+        "title": "Aseguran 600 prendas en operativo de Fiscalía Federal",
+        "summary": "La Fiscalía Federal realiza cateos en negocios de la zona metropolitana y asegura 600 prendas en investigación de robo de vehículos.",
+        "zona": "Monterrey",
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/asegura-fiscalia-federal-600-prendas-en-negocios-de-la-metropoli/5738197705",
+        "_added_at": "2026-10-24T00:16:48.476692-06:00"
+      },
+      {
+        "title": "Paro nacional de transportistas por robos y extorsiones",
+        "summary": "Transportistas anuncian paro el 26 de octubre para exigir mayor seguridad ante incremento de robos y extorsiones a nivel nacional.",
+        "zona": "Nuevo León",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/mexico/paralisis-en-mexico-transportistas-anuncian-paro-nacional-indefinido-por-crisis-de-seguridad/vl2270483",
+        "_added_at": "2026-10-24T00:16:48.476692-06:00"
       }
     ],
-    "politica": [
-      {
-        "title": "Samuel García veta reforma sobre gratuidad de casetas",
-        "summary": "Gobernador rechaza iniciativa que permitiría gratis en cuotas durante obras en vías del estado.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/politica/nuevo-leon-samuel-garcia-veta-reforma-para-casetas-gratis",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Congreso NL: PRI-PAN investigado por viaje a España",
-        "summary": "Bloques legislativos denuncian uso de recursos institucionales para desplazamiento de diputados a Europa.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/nuevo-frente-en-congreso-nl-el-pri-pan-es-senalado-por-viajar-a-espana-con-recurso-institucional-255/",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Verde y PT avanzan en reuniones; dudas sobre acuerdos en NL",
-        "summary": "Partidos políticos negocian alianzas electorales pero existen incertidumbres sobre coordinación estatal.",
-        "zona": "Nuevo León",
-        "source": "La Política Online",
-        "url": "https://www.lapoliticaonline.com/mexico/nuevoleon-mx/el-verde-y-el-pt-avanzan-con-reuniones-pero-todavia-hay-dudas-por-eventuales-acuerdos-en-nl-975/",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "PAN fortalece estructura territorial ante proceso electoral",
-        "summary": "Partido blanquiazul organiza su infraestructura local en preparación para elecciones próximas.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/reynosa/pan-estructura-territorial",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Fernando Margáin confirma candidatura a alcaldía de Monterrey",
-        "summary": "Político del PAN anuncia intención de competir por presidencia municipal; adelanta encuesta ciudadana para seleccionar candidato.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/confirma-fernando-margain-que-ira-por-la-alcaldia-regia/1037446",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Diputados analizarán solicitud de deuda estatal",
-        "summary": "Legisladores adviertes que revisarán a fondo petición de aumento de endeudamiento del gobierno de Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/advierten-diputados-que-analizaran-a-fondo-solicitud-de-deuda-estata/1037450",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Estado compartirá proyecto presupuestal con sectores",
-        "summary": "Gobierno de Nuevo León presenta esquema de consulta con empresarios y organizaciones antes de definir presupuesto.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/compartira-nl-proyecto-presupuestal-con-sectores-productivos/1037448",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Mijes rechazará presupuesto si Estado no cubre deudas",
-        "summary": "Magisterio condiciona aprobación de asignaciones fiscales al pago de adeudos pendientes con maestros.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/rechazara-mijes-presupuesto-hasta-que-estado-les-cubra-lo-pendiente/1037449",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Heriberto Treviño propone capacitación obligatoria en TI",
-        "summary": "Funcionario sugiere que policías reciban instrucción en herramientas digitales y programación a partir de 2026.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/heriberto-trevino-capacitacion",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Congreso espera entrega del Presupuesto 2027 de Nuevo León",
-        "summary": "Legislativo de NL aguarda presentación del presupuesto estatal para el próximo año.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/congreso-nuevo-leon-esperara-entrega-presupuesto-2027",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
-      },
-      {
-        "title": "Aprueban aumento de multas por abandono de predios a 100 mil pesos",
-        "summary": "Autoridades aumentan sanciones para propiedades abandonadas en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/politica/aprueban-aumentar-multas-abandono-predios-nuevo-leon",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
-      },
-      {
-        "title": "Adrián de la Garza entrega 2 mil tarjetas de apoyo a mujeres",
-        "summary": "Gobernador de NL distribuye tarjetas de ayuda dirigidas a mujeres del estado.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/entrega-adrian-de-la-garza-2-mil-tarjetas-en-apoyo-a-mujeres/9072697038",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
-      }
-    ],
+    "politica": [],
     "economia": [
       {
-        "title": "Fibra Mty amplía plazo para certificados de Macquarie",
-        "summary": "Fondo de inversión en propiedades retrasa obtención de documentación de inversión extranjera.",
+        "title": "Centrito Valle enfrenta crisis con locales vacíos",
+        "summary": "La zona comercial del Centrito Valle se hunde con altos niveles de desocupación y rentas al alza que afectan a comerciantes.",
         "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/negocios/fibra-mty-amplia-tiempo-segunda-oferta-obtener-certificados-macquarie",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+        "source": "INFO7",
+        "url": "https://info7.mx/nuevoleon/se-hunde-el-centrito-valle-entre-locales-vacios-y-rentas-al-alza/v7870296097",
+        "_added_at": "2026-10-24T00:16:48.476692-06:00"
       },
       {
-        "title": "NL compartirá proyecto presupuestal con sectores productivos",
-        "summary": "Gobierno estatal abre diálogo con empresas e industria para diseño colaborativo del presupuesto.",
+        "title": "Biosoluciones: nuevo motor de crecimiento económico",
+        "summary": "El sector de biosoluciones se posiciona como motor de crecimiento con potencial de generar empleos para 2035 en México.",
         "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/compartira-nl-proyecto-presupuestal-con-sectores-productivos/1037448",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Demoras logísticas cuestan 44.4 millones diarios",
-        "summary": "Análisis revela impacto económico de retrasos en cadena de suministro y transporte en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "Código Magenta",
-        "url": "https://codigomagenta.com.mx/demoras-logisticas-cuestan-44-4-millones-diarios/",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Industria manufacturera muestra recuperación pero enfrenta retos",
-        "summary": "Sector presenta signos de crecimiento aunque inseguridad sigue frenando inversión y expansión en el estado.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/economia/inseguridad-sigue-entre-los-factores-que-frenan-a-la-industria-de-nl",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "IP y Coparmex impulsan red contra corrupción",
-        "summary": "Iniciativa Privada y cámara empresarial presentan plataforma colaborativa para combatir prácticas ilícitas.",
-        "zona": "Nuevo León",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/economia/hagamoslo-coparmex-nl-presentan-red-corrupcion",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+        "source": "Milenio",
+        "url": "https://www.milenio.com/negocios/biosoluciones-en-mexico-crecimiento-y-empleos-para-2035",
+        "_added_at": "2026-10-24T00:16:48.476692-06:00"
       }
     ],
     "eventos": [
       {
-        "title": "Monterrey anuncia operativo por festejos de San Judas Tadeo",
-        "summary": "Autoridades preparan disposiciones de seguridad y vialidad para celebraciones religiosas en la capital.",
-        "zona": "Monterrey",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/anuncia-monterrey-operativo-por-festejos-de-san-judas-tadeo/1037444",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Guadalupe reafirma lazos culturales con Bustamante",
-        "summary": "Municipios intercambian experiencias y celebran conexión histórica y turística.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/guadalupe-bustamante",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Montan gigantesco altar dedicado a Rufino Tamayo",
-        "summary": "Instalan ofrenda monumental en honor al artista plástico como parte de conmemoración de Día de Muertos.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/montan-gigantesco-altar-dedicado-a-rufino-tamayo/8046192269",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Construcción de Cruz de la Misericordia avanza en Loma Larga",
-        "summary": "Proyecto de monumentalidad religiosa en Monterrey continúa su ejecución en zona de altura.",
+        "title": "Cierres viales por festejos de San Judas Tadeo",
+        "summary": "Monterrey tendrá cierres viales del 24 al 28 de octubre por las festividades de San Judas Tadeo.",
         "zona": "Monterrey",
         "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/comunidad/monterrey-nl-construccion-de-cruz-de-la-misericordia-loma-larga",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
+        "url": "https://www.telediario.mx/comunidad/monterrey-cierres-viales-por-san-judas-tadeo-del-24-al-28-de-octubre",
+        "_added_at": "2026-10-24T00:16:48.476692-06:00"
       },
       {
-        "title": "Festival Santa Lucía arranca con homenaje a Juan Gabriel",
-        "summary": "Monterrey inaugura Festival Santa Lucía en Macroplaza con tributo al Divo de Juárez.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/cultura/arranca-festival-santa-lucia-monterrey-homenaje-juan-gabriel",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
-      },
-      {
-        "title": "Día Amarillo reúne música y talento en la UDEM",
-        "summary": "Evento de la Universidad de Monterrey presenta conciertos de Matisse y 3BallMTY.",
-        "zona": "Monterrey",
+        "title": "Casa del Terror en Escobedo abre gratis hace 18 años",
+        "summary": "Una casa embrujada en Escobedo ofrece acceso gratuito durante Halloween, tradición que se mantiene desde hace casi dos décadas.",
+        "zona": "Área metropolitana",
         "source": "Posta",
-        "url": "https://www.posta.com.mx/nuevo-leon/dia-amarillo-llena-de-musica-y-talento-la-udem-con-matisse-y-3ballmty-/v-vl2270124",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
+        "url": "https://www.posta.com.mx/nuevo-leon/de-pelicula-la-casa-del-terror-en-escobedo-que-abre-sus-puertas-gratis-desde-hace-18-anos-/v-vl2270595",
+        "_added_at": "2026-10-24T00:16:48.476692-06:00"
       }
     ],
     "sociedad": [
       {
-        "title": "Localizan con vida a menor desaparecido en CDMX",
-        "summary": "Adolescente de 13 años reportado desaparecido en Monterrey fue hallado en la Ciudad de México.",
+        "title": "Guadalupe ofrece mastografías gratuitas para detectar cáncer",
+        "summary": "El municipio de Guadalupe realiza jornada de mastografías sin costo para promover detección oportuna del cáncer de mama.",
+        "zona": "Área metropolitana",
+        "source": "Posta",
+        "url": "https://www.posta.com.mx/nuevo-leon/deteccion-de-cancer-de-mama-mastografias-gratuitas-en-guadalupe/vl2270594",
+        "_added_at": "2026-10-24T00:16:48.476692-06:00"
+      },
+      {
+        "title": "Muere trabajador tras derrumbe de tierra en Monterrey",
+        "summary": "Un trabajador fallece al quedar sepultado durante un derrumbe de zanja en Monterrey.",
         "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/estados/menor-13-anos-localizado-con-vida-cdmx-tras-desaparecer-nuevo-leon",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Piden capacitar a policías en tareas de Protección Civil",
-        "summary": "Legisladores proponen reformas para adiestrar elementos en atención de desastres naturales.",
-        "zona": "Nuevo León",
-        "source": "INFO7",
-        "url": "https://info7.mx/nuevoleon/buscan-capacitar-a-policias-en-tareas-de-proteccion-civil/6839126499",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Empresa privada operará Centro Acuático de NL",
-        "summary": "Directora del INDE confirma modelo de concesión para administración de instalación deportiva.",
-        "zona": "Nuevo León",
-        "source": "Hora Cero",
-        "url": "https://horacero.com.mx/nuevo-leon/inde-empresa-centro-acuatico",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
-      },
-      {
-        "title": "Sancionarán a dueños de lotes baldíos en NL",
-        "summary": "Autoridades estatales impondrán multas a propietarios que mantengan terrenos abandonados.",
-        "zona": "Nuevo León",
         "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/sancionaran-a-duenos-de-lotes-baldios/1037447",
-        "_added_at": "2026-10-23T17:43:42.668497-06:00"
+        "url": "https://elporvenir.mx/justicia/muere-trabajador-tras-derrumbe-de-tierra-en-monterrey/1037568",
+        "_added_at": "2026-10-24T00:16:48.476692-06:00"
       },
       {
-        "title": "Detienen a padre de bebé que murió en García",
-        "summary": "Capturan a progenitor por muerte de infante en municipio del área metropolitana; investigan las circunstancias.",
+        "title": "Supervisan avances en obras del nuevo Metro",
+        "summary": "Se llevan a cabo supervisiones en las obras de construcción del nuevo Metro en la zona metropolitana de Monterrey.",
         "zona": "Área metropolitana",
-        "source": "Telediario Monterrey",
-        "url": "https://www.telediario.mx/policia/garcia-nuevo-leon-detienen-padre-bebe-murio",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Cae padrastro de niño que murió por golpes",
-        "summary": "Autoridades capturan a pareja de madre tras muerte de menor por lesiones traumáticas en Nuevo León.",
-        "zona": "Nuevo León",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/justicia/cae-padrastro-de-nino-que-murio-por-golpes/1037498",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Escobedo habilita Visor Urbano y Geoportal",
-        "summary": "Municipio implementa herramientas digitales de georeferenciación para acceso público a información territorial.",
-        "zona": "Área metropolitana",
-        "source": "El Porvenir",
-        "url": "https://elporvenir.mx/local/habilita-escobedo-el-visor-urbano-y-geoportal/1037443",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Reanudan búsqueda de hombre arrastrado por corriente",
-        "summary": "Operativo continúa una semana después de desaparición de persona en corriente de agua en Monterrey.",
-        "zona": "Monterrey",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/busqueda-hombre-arrastrado-corriente-monterrey-una-semana",
-        "_added_at": "2026-10-23T12:50:29.020619-06:00"
-      },
-      {
-        "title": "Trabajadores del IMSS bloquean avenida Miguel Alemán en Apodaca",
-        "summary": "Personal del IMSS realiza bloqueo vial en Apodaca como protesta.",
-        "zona": "Área metropolitana",
-        "source": "Milenio Monterrey",
-        "url": "https://www.milenio.com/comunidad/trabajadores-imss-bloquean-avenida-miguel-aleman-apodaca",
-        "_added_at": "2026-10-23T00:21:26.381945-06:00"
+        "source": "El Horizonte",
+        "url": "https://www.elhorizonte.mx/nuevoleon/supervisan-obras-de-nuevo-metro-en-la-zona-metropolitana/6589159353",
+        "_added_at": "2026-10-24T00:16:48.476692-06:00"
       }
     ]
   },
-  "last_updated": "2026-10-23T17:43:42.668497-06:00"
+  "last_updated": "2026-10-24T00:16:48.476692-06:00"
 }
